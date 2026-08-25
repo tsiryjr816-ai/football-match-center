@@ -1,5 +1,5 @@
 import requests
-from bs4 import BeautifulSoup
+import re
 
 URL = "https://www.eurosport.fr/football/score-center.shtml"
 
@@ -22,46 +22,83 @@ response = requests.get(
 print("HTTP status:", response.status_code)
 print("Page size:", len(response.text))
 
-soup = BeautifulSoup(response.text, "html.parser")
+html = response.text
 
-links = soup.find_all("a", href=True)
-
-print("Total links:", len(links))
-
-print("\n--- FOOTBALL RELATED LINKS ---")
-
-count = 0
-
-keywords = [
-    "football",
-    "premier",
-    "liga",
-    "league",
-    "champions",
-    "match",
-    "score",
-    "arsenal",
-    "chelsea",
-    "liverpool"
+# Search for common football-team / match indicators
+patterns = [
+    r'"homeTeam"',
+    r'"awayTeam"',
+    r'"home_team"',
+    r'"away_team"',
+    r'"home"',
+    r'"away"',
+    r'"startDate"',
+    r'"startTime"',
+    r'"match"',
+    r'"fixture"',
+    r'"event"',
+    r'"competition"',
 ]
 
-for link in links:
+print("\n--- DATA INDICATORS ---")
 
-    text = " ".join(link.stripped_strings)
-    href = link.get("href", "")
+for pattern in patterns:
 
-    combined = (text + " " + href).lower()
+    found = len(
+        re.findall(
+            pattern,
+            html,
+            flags=re.IGNORECASE
+        )
+    )
 
-    if any(word in combined for word in keywords):
+    print(pattern, "=>", found)
 
-        print("TEXT:", text[:200])
-        print("URL :", href[:300])
-        print("---")
+# Search for JSON-like structures containing team names
+print("\n--- POSSIBLE TEAM DATA ---")
 
-        count += 1
+keywords = [
+    "Arsenal",
+    "Chelsea",
+    "Liverpool",
+    "Manchester",
+    "Real Madrid",
+    "Barcelona",
+    "Bayern",
+    "Juventus"
+]
 
-        if count >= 50:
-            break
+for keyword in keywords:
 
-print("\nRelated links displayed:", count)
-print("TEST FINISHED")
+    positions = [
+        m.start()
+        for m in re.finditer(
+            re.escape(keyword),
+            html,
+            flags=re.IGNORECASE
+        )
+    ]
+
+    print(
+        keyword,
+        "=>",
+        len(positions),
+        "occurrences"
+    )
+
+    # Print one small context around the first occurrence
+    if positions:
+
+        pos = positions[0]
+
+        start = max(0, pos - 300)
+        end = min(len(html), pos + 500)
+
+        print(
+            html[start:end]
+            .replace("\n", " ")[:800]
+        )
+
+        print("\n---")
+
+print("\nTEST FINISHED")
