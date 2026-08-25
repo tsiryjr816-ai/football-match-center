@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
@@ -6,166 +7,206 @@
 <title>Football Match Center</title>
 
 <style>
-*{
-    box-sizing:border-box;
-    margin:0;
-    padding:0;
-}
+*{box-sizing:border-box;margin:0;padding:0}
 
 body{
-    font-family:Arial,Helvetica,sans-serif;
-    background:#f3f5f8;
+    font-family:Inter,Arial,sans-serif;
+    background:#f1f4f8;
     color:#172033;
 }
 
 header{
-    background:linear-gradient(135deg,#071d35,#0d3b66);
-    color:white;
-    padding:18px 14px;
+    background:linear-gradient(135deg,#06182d,#0b4f87);
+    color:#fff;
+    padding:16px 12px 12px;
     position:sticky;
     top:0;
-    z-index:20;
-    box-shadow:0 3px 12px rgba(0,0,0,.18);
+    z-index:50;
+    box-shadow:0 3px 15px rgba(0,0,0,.18);
 }
 
-.header-inner{
-    max-width:900px;
+.header{
+    max-width:850px;
     margin:auto;
 }
 
-.logo-title{
+.brand{
     display:flex;
     align-items:center;
     gap:10px;
 }
 
-.logo-ball{
+.ball{
     width:42px;
     height:42px;
     border-radius:50%;
-    background:white;
+    background:#fff;
     display:flex;
     align-items:center;
     justify-content:center;
-    font-size:24px;
+    font-size:23px;
 }
 
-h1{
-    font-size:20px;
+.brand h1{
+    font-size:19px;
 }
 
-.subtitle{
-    font-size:12px;
-    opacity:.75;
+.brand p{
+    font-size:11px;
+    opacity:.72;
     margin-top:3px;
 }
 
 .tabs{
-    max-width:900px;
-    margin:12px auto 0;
     display:flex;
     gap:7px;
     overflow-x:auto;
+    margin-top:14px;
+    scrollbar-width:none;
 }
+
+.tabs::-webkit-scrollbar{display:none}
 
 .tab{
     border:0;
-    padding:9px 15px;
-    border-radius:20px;
+    border-radius:22px;
+    padding:9px 14px;
     background:rgba(255,255,255,.12);
-    color:white;
+    color:#fff;
     white-space:nowrap;
-    cursor:pointer;
-    font-size:13px;
+    font-size:12px;
+    font-weight:600;
 }
 
 .tab.active{
-    background:white;
-    color:#0d3b66;
-    font-weight:bold;
+    background:#fff;
+    color:#0b4f87;
 }
 
-.container{
-    max-width:900px;
+main{
+    max-width:850px;
     margin:auto;
-    padding:12px 10px 50px;
+    padding:10px 8px 50px;
 }
 
-.status{
-    background:white;
-    border-radius:12px;
+.summary{
+    background:#fff;
+    border-radius:13px;
     padding:12px;
-    margin-bottom:12px;
-    box-shadow:0 2px 8px rgba(0,0,0,.06);
+    margin-bottom:10px;
+    box-shadow:0 2px 9px rgba(0,0,0,.06);
+    font-size:12px;
+}
+
+.summary-row{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    gap:8px;
+}
+
+.counts{
+    display:flex;
+    gap:7px;
+    flex-wrap:wrap;
+    margin-top:8px;
+}
+
+.count{
+    padding:5px 8px;
+    border-radius:7px;
+    background:#f1f5f9;
+    font-size:11px;
+}
+
+.count.live{
+    color:#dc163d;
+    background:#fff0f2;
+}
+
+.count.upcoming{
+    color:#087f5b;
+    background:#eafbf4;
+}
+
+.count.finished{
+    color:#64748b;
+}
+
+.refresh{
+    border:0;
+    background:#0b4f87;
+    color:#fff;
+    padding:7px 10px;
+    border-radius:8px;
+    font-size:11px;
+}
+
+.day{
+    margin:16px 2px 8px;
     font-size:13px;
-}
-
-.loading{
-    text-align:center;
-    padding:30px;
-}
-
-.error{
-    background:#ffe7e7;
-    color:#a30000;
-    padding:14px;
-    border-radius:10px;
-    margin:10px 0;
-}
-
-.day-title{
-    font-size:14px;
-    font-weight:bold;
-    margin:18px 3px 8px;
+    font-weight:800;
     color:#334155;
+    text-transform:capitalize;
 }
 
 .league{
-    background:white;
-    border-radius:13px;
+    background:#fff;
+    border-radius:14px;
+    margin-bottom:11px;
     overflow:hidden;
-    margin-bottom:12px;
-    box-shadow:0 2px 9px rgba(0,0,0,.07);
+    box-shadow:0 2px 9px rgba(0,0,0,.06);
 }
 
-.league-header{
+.league-head{
+    padding:10px 12px;
     background:#f8fafc;
-    padding:11px 13px;
     border-bottom:1px solid #e8edf2;
     display:flex;
     align-items:center;
     justify-content:space-between;
 }
 
-.league-name{
+.league-title{
     display:flex;
     align-items:center;
-    gap:8px;
-    font-weight:bold;
-    font-size:14px;
+    gap:9px;
+    min-width:0;
 }
 
-.league-country{
-    color:#7b8794;
-    font-size:11px;
-    margin-top:2px;
-}
-
-.league-badge{
-    width:30px;
-    height:30px;
+.league-icon{
+    width:31px;
+    height:31px;
     border-radius:8px;
-    background:#e8eef5;
+    background:#e9eff6;
     display:flex;
     align-items:center;
     justify-content:center;
-    font-size:16px;
+    flex:none;
+}
+
+.league-name{
+    font-size:13px;
+    font-weight:800;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+
+.country{
+    color:#8a96a5;
+    font-size:10px;
+    margin-top:2px;
+}
+
+.league-games{
+    color:#8a96a5;
+    font-size:10px;
 }
 
 .match{
-    padding:12px;
-    border-bottom:1px solid #edf0f3;
-    position:relative;
+    padding:12px 10px;
+    border-bottom:1px solid #edf1f5;
 }
 
 .match:last-child{
@@ -181,60 +222,64 @@ h1{
 
 .time{
     font-size:12px;
-    font-weight:bold;
+    font-weight:800;
     color:#475569;
 }
 
-.live{
-    color:#e11d48;
-    font-weight:bold;
+.badge{
+    font-size:10px;
+    font-weight:800;
 }
 
-.finished{
+.badge.live{
+    color:#e11d48;
+}
+
+.badge.finished{
     color:#64748b;
 }
 
-.upcoming{
-    color:#0f766e;
+.badge.upcoming{
+    color:#087f5b;
 }
 
 .minute{
-    font-size:11px;
+    margin-left:4px;
     color:#e11d48;
-    font-weight:bold;
 }
 
 .teams{
     display:grid;
-    grid-template-columns:1fr 52px 1fr;
+    grid-template-columns:minmax(0,1fr) 55px minmax(0,1fr);
     align-items:center;
-    gap:8px;
+    gap:7px;
 }
 
 .team{
     display:flex;
     align-items:center;
-    gap:8px;
+    gap:7px;
     min-width:0;
 }
 
-.team.home{
+.home{
     justify-content:flex-end;
     text-align:right;
 }
 
-.team.away{
+.away{
     justify-content:flex-start;
     text-align:left;
 }
 
 .team-name{
-    font-size:13px;
-    font-weight:600;
+    font-size:12px;
+    font-weight:700;
     line-height:1.2;
+    word-break:break-word;
 }
 
-.team-logo{
+.logo{
     width:38px;
     height:38px;
     object-fit:contain;
@@ -245,258 +290,234 @@ h1{
     width:38px;
     height:38px;
     border-radius:50%;
-    background:#e8edf3;
+    background:#edf1f5;
     display:flex;
     align-items:center;
     justify-content:center;
-    font-size:16px;
-    color:#64748b;
+    font-size:17px;
     flex:none;
 }
 
-.score{
+.center{
     text-align:center;
+}
+
+.score{
     font-size:19px;
-    font-weight:800;
+    font-weight:900;
+    white-space:nowrap;
 }
 
 .vs{
     color:#94a3b8;
-    font-size:13px;
-    font-weight:bold;
+    font-size:12px;
+    font-weight:900;
 }
 
-.match-info{
-    margin-top:8px;
+.match-meta{
     text-align:center;
+    margin-top:8px;
     color:#94a3b8;
-    font-size:10px;
+    font-size:9px;
+}
+
+.live-card{
+    background:linear-gradient(180deg,#fff,#fff8f9);
+}
+
+.live-dot{
+    display:inline-block;
+    width:6px;
+    height:6px;
+    background:#e11d48;
+    border-radius:50%;
+    margin-right:4px;
 }
 
 .empty{
-    background:white;
-    padding:30px 15px;
-    border-radius:12px;
+    background:#fff;
+    border-radius:13px;
+    padding:35px 15px;
     text-align:center;
+    color:#64748b;
+    font-size:13px;
+}
+
+.loading{
+    text-align:center;
+    padding:40px 10px;
     color:#64748b;
 }
 
-.refresh{
-    border:0;
-    background:#0d3b66;
-    color:white;
-    padding:8px 12px;
-    border-radius:8px;
-    margin-top:8px;
-    cursor:pointer;
+.error{
+    background:#fff0f0;
+    color:#a40000;
+    padding:14px;
+    border-radius:12px;
+    font-size:12px;
 }
 
-@media(max-width:500px){
+@media(max-width:480px){
 
     header{
-        padding:14px 10px;
+        padding:13px 9px 10px;
     }
 
-    h1{
-        font-size:18px;
+    .brand h1{
+        font-size:17px;
     }
 
-    .container{
-        padding:8px 7px 40px;
+    main{
+        padding:8px 6px 40px;
     }
 
     .teams{
-        grid-template-columns:1fr 45px 1fr;
+        grid-template-columns:minmax(0,1fr) 48px minmax(0,1fr);
     }
 
     .team-name{
-        font-size:12px;
+        font-size:11px;
     }
 
-    .team-logo,
+    .logo,
     .logo-fallback{
         width:34px;
         height:34px;
     }
 
     .score{
-        font-size:18px;
+        font-size:17px;
     }
 }
 </style>
+
 </head>
 
 <body>
 
 <header>
+<div class="header">
 
-<div class="header-inner">
-
-<div class="logo-title">
-<div class="logo-ball">⚽</div>
-
-<div>
-<h1>Football Match Center</h1>
-<div class="subtitle">
-Résultats • Live • Matchs à venir
-</div>
-</div>
+```
+<div class="brand">
+    <div class="ball">⚽</div>
+    <div>
+        <h1>Football Match Center</h1>
+        <p>Live • Résultats • Matchs à venir</p>
+    </div>
 </div>
 
 <div class="tabs">
-
-<button class="tab active" data-filter="all">
-Tous
-</button>
-
-<button class="tab" data-filter="live">
-🔴 Live
-</button>
-
-<button class="tab" data-filter="upcoming">
-🕐 À venir
-</button>
-
-<button class="tab" data-filter="finished">
-✓ Terminés
-</button>
+    <button class="tab active" data-filter="all">Tous</button>
+    <button class="tab" data-filter="live">🔴 Live</button>
+    <button class="tab" data-filter="upcoming">🕐 À venir</button>
+    <button class="tab" data-filter="finished">✓ Terminés</button>
+</div>
+```
 
 </div>
-
-</div>
-
 </header>
 
+<main>
 
-<main class="container">
-
-<div id="status" class="status">
-Chargement des matchs...
+<div id="summary" class="summary">
+    <div class="loading">Chargement des matchs...</div>
 </div>
 
 <div id="matches">
-<div class="loading">
-⏳ Chargement...
-</div>
+    <div class="loading">⏳ Chargement...</div>
 </div>
 
 </main>
 
-
 <script>
 
-const MATCHES_URL = "./matches.json";
-const TEAMS_URL = "./teams.json";
-const LEAGUES_URL = "./leagues.json";
+const MATCHES_URL="./matches.json";
+const TEAMS_URL="./teams.json";
+const LEAGUES_URL="./leagues.json";
 
-let matches = [];
-let teams = {};
-let leagues = {};
+let matches=[];
+let teams={};
+let leagues={};
+let currentFilter="all";
 
-let currentFilter = "all";
+const TZ="Indian/Antananarivo";
 
-
-/* =========================
-   LOAD JSON
-========================= */
 
 async function loadJSON(url){
 
-    const response = await fetch(
-        url + "?v=" + Date.now(),
-        {
-            cache:"no-store"
-        }
-    );
+    const r=await fetch(url+"?v="+Date.now(),{
+        cache:"no-store"
+    });
 
-    if(!response.ok){
-        throw new Error(
-            url + " HTTP " + response.status
-        );
+    if(!r.ok){
+        throw new Error(url+" HTTP "+r.status);
     }
 
-    return await response.json();
+    return await r.json();
 }
 
 
 /* =========================
-   INIT
+   LOAD DATA
 ========================= */
 
 async function init(){
 
     try{
 
-        const [matchData,teamData,leagueData] =
-            await Promise.all([
-                loadJSON(MATCHES_URL),
-                loadJSON(TEAMS_URL),
-                loadJSON(LEAGUES_URL)
-            ]);
+        const matchData=await loadJSON(MATCHES_URL);
 
-
-        /*
-         * MATCHES
-         */
-
-        matches =
-            Array.isArray(matchData)
+        matches=Array.isArray(matchData)
             ? matchData
-            : (matchData.matches || []);
+            : (matchData.matches||[]);
 
 
-        /*
-         * TEAMS
-         */
+        /* Teams */
 
-        const teamResults =
-            Array.isArray(teamData)
-            ? teamData
-            : (teamData.results || []);
+        try{
 
+            const teamData=await loadJSON(TEAMS_URL);
 
-        teamResults.forEach(team=>{
-            teams[String(team.id)] = team;
-        });
+            const list=Array.isArray(teamData)
+                ? teamData
+                : (teamData.results||[]);
 
+            list.forEach(t=>{
+                teams[String(t.id)]=t;
+            });
 
-        /*
-         * LEAGUES
-         */
-
-        const leagueResults =
-            Array.isArray(leagueData)
-            ? leagueData
-            : (leagueData.results || []);
+        }catch(e){
+            console.warn("Teams:",e);
+        }
 
 
-        leagueResults.forEach(league=>{
-            leagues[String(league.id)] = league;
-        });
+        /* Leagues */
 
+        try{
 
-        /*
-         * SORT MATCHES
-         */
+            const leagueData=await loadJSON(LEAGUES_URL);
+
+            const list=Array.isArray(leagueData)
+                ? leagueData
+                : (leagueData.results||[]);
+
+            list.forEach(l=>{
+                leagues[String(l.id)]=l;
+            });
+
+        }catch(e){
+            console.warn("Leagues:",e);
+        }
+
 
         matches.sort((a,b)=>{
 
-            const da =
-                new Date(
-                    a.event_date || a.start_date || 0
-                );
-
-            const db =
-                new Date(
-                    b.event_date || b.start_date || 0
-                );
-
-            return da-db;
+            return new Date(a.event_date||0)
+                -new Date(b.event_date||0);
 
         });
 
-
-        updateStatus();
 
         render();
 
@@ -504,12 +525,13 @@ async function init(){
 
         console.error(error);
 
-        document.getElementById("status").innerHTML =
-            "❌ Impossible de charger les données.<br><small>"
-            + error.message +
-            "</small>";
+        document.getElementById("summary").innerHTML=
+            `<div class="error">
+                ❌ Impossible de charger les matchs.<br>
+                <small>${escapeHTML(error.message)}</small>
+            </div>`;
 
-        document.getElementById("matches").innerHTML = "";
+        document.getElementById("matches").innerHTML="";
 
     }
 
@@ -517,77 +539,90 @@ async function init(){
 
 
 /* =========================
-   MATCH STATUS
+   STATUS ENGINE
 ========================= */
 
-function getMatchStatus(match){
+function getStatus(m){
 
-    const status =
-        String(match.status || "").toLowerCase();
+    const raw=String(m.status||"").toLowerCase().trim();
 
+    const start=new Date(m.event_date);
+
+    const now=Date.now();
+
+    const scoreExists=
+        m.home_score!==null &&
+        m.home_score!==undefined &&
+        m.away_score!==null &&
+        m.away_score!==undefined;
+
+    const minute=
+        m.current_minute!==null &&
+        m.current_minute!==undefined &&
+        m.current_minute!=="";
+
+
+    /* Explicit live */
 
     if(
-        status.includes("live") ||
-        status.includes("progress") ||
-        status.includes("playing") ||
-        status.includes("inplay")
+        raw.includes("live")||
+        raw.includes("progress")||
+        raw.includes("playing")||
+        raw.includes("inplay")||
+        raw.includes("1st")||
+        raw.includes("2nd")||
+        raw==="ht"
     ){
         return "live";
     }
 
 
+    /* Explicit finished */
+
     if(
-        status.includes("finished") ||
-        status.includes("complete") ||
-        status.includes("ended") ||
-        status.includes("final")
+        raw.includes("finished")||
+        raw.includes("complete")||
+        raw.includes("ended")||
+        raw.includes("final")||
+        raw==="ft"
     ){
         return "finished";
     }
 
 
-    /*
-     * Score + status unknown
-     */
+    /* Current minute = live */
 
-    if(
-        match.home_score !== null &&
-        match.home_score !== undefined &&
-        match.away_score !== null &&
-        match.away_score !== undefined
-    ){
-
-        /*
-         * Raha manana minute/current period
-         * dia azo heverina ho live
-         */
-
-        if(
-            match.current_minute !== null &&
-            match.current_minute !== undefined
-        ){
-            return "live";
-        }
-
+    if(minute){
+        return "live";
     }
 
 
     /*
-     * DATE CHECK
+     * IMPORTANT:
+     * notstarted + future = upcoming
+     * notstarted + past = finished
      */
 
-    const date =
-        new Date(match.event_date);
+    if(!isNaN(start.getTime())){
 
+        if(start.getTime()>now){
 
-    if(
-        !isNaN(date.getTime()) &&
-        date.getTime() < Date.now()
-    ){
+            return "upcoming";
+
+        }
 
         /*
-         * Match efa lasa tsy tokony hiditra
-         * ao amin'ny A VENIR
+         * If started in the past and score exists,
+         * keep as finished rather than upcoming.
+         */
+
+        if(scoreExists){
+            return "finished";
+        }
+
+        /*
+         * Unknown old match:
+         * don't put it in upcoming.
          */
 
         return "finished";
@@ -596,211 +631,108 @@ function getMatchStatus(match){
 
 
     return "upcoming";
-
 }
 
 
 /* =========================
-   TIME
+   DATE / TIME
 ========================= */
 
-function formatDate(date){
+function dateKey(date){
 
-    return new Intl.DateTimeFormat(
-        "fr-FR",
-        {
-            timeZone:"Indian/Antananarivo",
-            weekday:"long",
-            day:"2-digit",
-            month:"long",
-            year:"numeric"
-        }
-    ).format(date);
+    return new Intl.DateTimeFormat("en-CA",{
+        timeZone:TZ,
+        year:"numeric",
+        month:"2-digit",
+        day:"2-digit"
+    }).format(date);
+
+}
+
+
+function formatDay(date){
+
+    return new Intl.DateTimeFormat("fr-FR",{
+        timeZone:TZ,
+        weekday:"long",
+        day:"2-digit",
+        month:"long",
+        year:"numeric"
+    }).format(date);
 
 }
 
 
 function formatTime(date){
 
-    return new Intl.DateTimeFormat(
-        "fr-FR",
-        {
-            timeZone:"Indian/Antananarivo",
-            hour:"2-digit",
-            minute:"2-digit",
-            hour12:false
-        }
-    ).format(date);
+    return new Intl.DateTimeFormat("fr-FR",{
+        timeZone:TZ,
+        hour:"2-digit",
+        minute:"2-digit",
+        hour12:false
+    }).format(date);
 
 }
 
 
 /* =========================
-   LOGO
+   LOGOS
 ========================= */
 
-function teamLogo(team){
+function getLogo(team){
 
-    if(!team) return null;
+    if(!team)return null;
 
-    /*
-     * Raha misy logo amin'ny API amin'ny ho avy
-     * dia ho raisina automatique
-     */
-
-    const possible =
-        team.logo ||
-        team.logo_url ||
-        team.image ||
-        team.image_url ||
-        team.crest ||
-        team.crest_url ||
-        team.badge ||
-        team.badge_url;
-
-
-    if(possible){
-        return possible;
-    }
-
-
-    /*
-     * Raha tsy misy logo ao amin'ny API,
-     * mampiasa service logo mifototra amin'ny
-     * anaran'ny équipe.
-     */
-
-    const name =
-        encodeURIComponent(
-            team.name || ""
-        );
-
-
-    if(name){
-
-        return "https://ui-avatars.com/api/?name="
-            + name
-            + "&background=e8edf3&color=334155&bold=true&size=128";
-
-    }
-
-
-    return null;
+    return (
+        team.logo_url||
+        team.logo||
+        team.crest_url||
+        team.crest||
+        team.badge_url||
+        team.badge||
+        team.image_url||
+        team.image||
+        null
+    );
 
 }
 
 
-/* =========================
-   LOGO HTML
-========================= */
+function logoHTML(team,name){
 
-function renderLogo(team){
-
-    const logo =
-        teamLogo(team);
-
+    const logo=getLogo(team);
 
     if(logo){
 
         return `
-            <img
-                class="team-logo"
-                src="${logo}"
-                alt=""
-                loading="lazy"
-                onerror="this.style.display='none';this.nextElementSibling.style.display='flex';"
-            >
-            <div class="logo-fallback" style="display:none">
-                ⚽
-            </div>
-        `;
+        <img
+            class="logo"
+            src="${escapeAttr(logo)}"
+            alt=""
+            loading="lazy"
+            onerror="this.outerHTML='<div class=&quot;logo-fallback&quot;>⚽</div>'"
+        >`;
 
     }
 
-
-    return `
-        <div class="logo-fallback">
-            ⚽
-        </div>
-    `;
+    return `<div class="logo-fallback">⚽</div>`;
 
 }
 
 
 /* =========================
-   STATUS LABEL
+   MATCH FILTER
 ========================= */
 
-function statusLabel(match,status){
+function filteredMatches(){
 
-    if(status==="live"){
+    return matches.filter(m=>{
 
-        let minute =
-            match.current_minute;
+        const s=getStatus(m);
 
-        if(
-            minute !== null &&
-            minute !== undefined &&
-            minute !== ""
-        ){
+        if(currentFilter==="all")return true;
 
-            return `
-                <span class="live">
-                    🔴 LIVE
-                </span>
-                <span class="minute">
-                    ${minute}'
-                </span>
-            `;
-
-        }
-
-        return `
-            <span class="live">
-                🔴 LIVE
-            </span>
-        `;
-
-    }
-
-
-    if(status==="finished"){
-
-        return `
-            <span class="finished">
-                ✓ Terminé
-            </span>
-        `;
-
-    }
-
-
-    return `
-        <span class="upcoming">
-            🕐 À venir
-        </span>
-    `;
-
-}
-
-
-/* =========================
-   FILTER
-========================= */
-
-function filterMatches(){
-
-    return matches.filter(match=>{
-
-        const status =
-            getMatchStatus(match);
-
-
-        if(currentFilter==="all")
-            return true;
-
-
-        return status===currentFilter;
+        return s===currentFilter;
 
     });
 
@@ -813,58 +745,36 @@ function filterMatches(){
 
 function render(){
 
-    const container =
-        document.getElementById("matches");
+    const list=filteredMatches();
 
+    updateSummary();
 
-    const filtered =
-        filterMatches();
+    if(!list.length){
 
-
-    if(filtered.length===0){
-
-        container.innerHTML = `
-            <div class="empty">
-                Aucun match disponible.
-            </div>
-        `;
+        document.getElementById("matches").innerHTML=
+            `<div class="empty">
+                Aucun match dans cette catégorie.
+            </div>`;
 
         return;
 
     }
 
 
-    /*
-     * GROUP BY DAY
-     */
-
-    const days = {};
+    const days={};
 
 
-    filtered.forEach(match=>{
+    list.forEach(m=>{
 
-        const date =
-            new Date(match.event_date);
+        const d=new Date(m.event_date);
 
+        if(isNaN(d.getTime()))return;
 
-        if(isNaN(date.getTime()))
-            return;
+        const key=dateKey(d);
 
+        if(!days[key])days[key]=[];
 
-        const dayKey =
-            date.toLocaleDateString(
-                "en-CA",
-                {
-                    timeZone:"Indian/Antananarivo"
-                }
-            );
-
-
-        if(!days[dayKey])
-            days[dayKey]=[];
-
-
-        days[dayKey].push(match);
+        days[key].push(m);
 
     });
 
@@ -872,123 +782,91 @@ function render(){
     let html="";
 
 
-    Object.keys(days)
-        .sort()
-        .forEach(dayKey=>{
+    Object.keys(days).sort().forEach(day=>{
 
-            const dayMatches =
-                days[dayKey];
-
-
-            const dayDate =
-                new Date(
-                    dayMatches[0].event_date
-                );
+        html+=`
+        <div class="day">
+            ${formatDay(new Date(days[day][0].event_date))}
+        </div>`;
 
 
-            html += `
-                <div class="day-title">
-                    ${formatDate(dayDate)}
-                </div>
-            `;
+        const groups={};
 
 
-            /*
-             * GROUP BY LEAGUE
-             */
+        days[day].forEach(m=>{
 
-            const leagueGroups={};
+            const id=String(m.league_id??"unknown");
 
+            if(!groups[id])groups[id]=[];
 
-            dayMatches.forEach(match=>{
-
-                const id =
-                    String(
-                        match.league_id ?? "unknown"
-                    );
-
-
-                if(!leagueGroups[id])
-                    leagueGroups[id]=[];
-
-
-                leagueGroups[id].push(match);
-
-            });
-
-
-            Object.keys(leagueGroups)
-                .forEach(leagueId=>{
-
-                    const league =
-                        leagues[leagueId];
-
-
-                    const leagueName =
-                        league?.name ||
-                        matchLeagueName(
-                            leagueGroups[leagueId][0]
-                        );
-
-
-                    const country =
-                        league?.country || "";
-
-
-                    html += `
-                        <section class="league">
-
-                            <div class="league-header">
-
-                                <div class="league-name">
-
-                                    <div class="league-badge">
-                                        🏆
-                                    </div>
-
-                                    <div>
-                                        <div>
-                                            ${escapeHTML(leagueName)}
-                                        </div>
-
-                                        ${
-                                            country
-                                            ? `<div class="league-country">
-                                                ${escapeHTML(country)}
-                                              </div>`
-                                            : ""
-                                        }
-
-                                    </div>
-
-                                </div>
-
-                                <div>
-                                    ⚽
-                                </div>
-
-                            </div>
-                    `;
-
-
-                    leagueGroups[leagueId]
-                        .forEach(match=>{
-
-                            html += renderMatch(match);
-
-                        });
-
-
-                    html += `
-                        </section>
-                    `;
-
-                });
+            groups[id].push(m);
 
         });
 
 
-    container.innerHTML=html;
+        Object.keys(groups).forEach(id=>{
+
+            const group=groups[id];
+
+            const league=leagues[id];
+
+            const name=
+                league?.name||
+                group[0].league_name||
+                group[0].competition||
+                "Football";
+
+
+            const country=league?.country||"";
+
+
+            html+=`
+            <section class="league">
+
+                <div class="league-head">
+
+                    <div class="league-title">
+
+                        <div class="league-icon">🏆</div>
+
+                        <div>
+                            <div class="league-name">
+                                ${escapeHTML(name)}
+                            </div>
+
+                            ${
+                                country
+                                ? `<div class="country">
+                                    ${escapeHTML(country)}
+                                  </div>`
+                                :""
+                            }
+
+                        </div>
+
+                    </div>
+
+                    <div class="league-games">
+                        ${group.length} match${group.length>1?"s":""}
+                    </div>
+
+                </div>
+            `;
+
+
+            group.forEach(m=>{
+                html+=matchHTML(m);
+            });
+
+
+            html+=`</section>`;
+
+        });
+
+    });
+
+
+    document.getElementById("matches").innerHTML=html;
 
 }
 
@@ -997,161 +875,198 @@ function render(){
    MATCH CARD
 ========================= */
 
-function renderMatch(match){
+function matchHTML(m){
 
-    const status =
-        getMatchStatus(match);
+    const status=getStatus(m);
 
+    const date=new Date(m.event_date);
 
-    const date =
-        new Date(match.event_date);
-
-
-    const home =
-        teams[String(match.home_team_id)] ||
+    const home=
+        teams[String(m.home_team_id)]||
         {
-            id:match.home_team_id,
-            name:match.home_team || "Home"
+            id:m.home_team_id,
+            name:m.home_team
         };
 
 
-    const away =
-        teams[String(match.away_team_id)] ||
+    const away=
+        teams[String(m.away_team_id)]||
         {
-            id:match.away_team_id,
-            name:match.away_team || "Away"
+            id:m.away_team_id,
+            name:m.away_team
         };
 
 
-    const homeName =
-        home.name ||
-        match.home_team ||
+    const homeName=
+        home.name||
+        m.home_team||
         "Home";
 
 
-    const awayName =
-        away.name ||
-        match.away_team ||
+    const awayName=
+        away.name||
+        m.away_team||
         "Away";
 
 
-    let center;
+    let center="";
 
 
-    if(
-        status==="upcoming"
-    ){
+    if(status==="upcoming"){
 
-        center=`
-            <div class="score vs">
-                VS
-            </div>
-        `;
+        center=`<div class="score vs">VS</div>`;
 
     }else{
 
-        const hs =
-            match.home_score ??
-            "-";
-
-
-        const as =
-            match.away_score ??
-            "-";
-
-
         center=`
-            <div class="score">
-                ${hs} - ${as}
-            </div>
-        `;
+        <div class="score">
+            ${safeScore(m.home_score)}
+            -
+            ${safeScore(m.away_score)}
+        </div>`;
+
+    }
+
+
+    let badge="";
+
+
+    if(status==="live"){
+
+        const minute=m.current_minute;
+
+        badge=`
+            <span class="badge live">
+                <span class="live-dot"></span>LIVE
+                ${minute!==null&&minute!==undefined&&minute!==""
+                    ?`<span class="minute">${escapeHTML(minute)}'</span>`
+                    :""
+                }
+            </span>`;
+
+    }else if(status==="finished"){
+
+        badge=`<span class="badge finished">✓ Terminé</span>`;
+
+    }else{
+
+        badge=`<span class="badge upcoming">🕐 À venir</span>`;
 
     }
 
 
     return `
-        <article class="match">
+    <article class="match ${status==="live"?"live-card":""}">
 
-            <div class="match-top">
+        <div class="match-top">
 
-                <div class="time">
-                    ${formatTime(date)}
+            <div class="time">
+                ${formatTime(date)}
+            </div>
+
+            <div>
+                ${badge}
+            </div>
+
+        </div>
+
+
+        <div class="teams">
+
+            <div class="team home">
+
+                <div class="team-name">
+                    ${escapeHTML(homeName)}
                 </div>
 
-                <div>
-                    ${statusLabel(match,status)}
-                </div>
+                ${logoHTML(home,homeName)}
 
             </div>
 
 
-            <div class="teams">
-
-                <div class="team home">
-
-                    <div class="team-name">
-                        ${escapeHTML(homeName)}
-                    </div>
-
-                    ${renderLogo(home)}
-
-                </div>
-
-
+            <div class="center">
                 ${center}
+            </div>
 
 
-                <div class="team away">
+            <div class="team away">
 
-                    ${renderLogo(away)}
+                ${logoHTML(away,awayName)}
 
-                    <div class="team-name">
-                        ${escapeHTML(awayName)}
-                    </div>
-
+                <div class="team-name">
+                    ${escapeHTML(awayName)}
                 </div>
 
             </div>
 
+        </div>
 
-            <div class="match-info">
 
-                ${
-                    match.round_name
-                    ? escapeHTML(match.round_name)
-                    : ""
-                }
+        ${
+            m.round_name
+            ?`<div class="match-meta">
+                ${escapeHTML(m.round_name)}
+              </div>`
+            :""
+        }
 
-            </div>
+    </article>`;
+}
 
-        </article>
+
+/* =========================
+   SUMMARY
+========================= */
+
+function updateSummary(){
+
+    const live=matches.filter(m=>getStatus(m)==="live").length;
+    const upcoming=matches.filter(m=>getStatus(m)==="upcoming").length;
+    const finished=matches.filter(m=>getStatus(m)==="finished").length;
+
+
+    document.getElementById("summary").innerHTML=`
+
+        <div class="summary-row">
+
+            <strong>
+                ${matches.length} matchs
+            </strong>
+
+            <button class="refresh" onclick="init()">
+                🔄 Actualiser
+            </button>
+
+        </div>
+
+        <div class="counts">
+
+            <span class="count live">
+                🔴 ${live} Live
+            </span>
+
+            <span class="count upcoming">
+                🕐 ${upcoming} À venir
+            </span>
+
+            <span class="count finished">
+                ✓ ${finished} Terminés
+            </span>
+
+        </div>
+
     `;
 
 }
 
 
 /* =========================
-   LEAGUE FALLBACK
-========================= */
-
-function matchLeagueName(match){
-
-    return (
-        match.league_name ||
-        match.competition ||
-        "Football"
-    );
-
-}
-
-
-/* =========================
-   ESCAPE HTML
+   SECURITY
 ========================= */
 
 function escapeHTML(value){
 
-    return String(value ?? "")
+    return String(value??"")
         .replace(/&/g,"&amp;")
         .replace(/</g,"&lt;")
         .replace(/>/g,"&gt;")
@@ -1161,44 +1076,20 @@ function escapeHTML(value){
 }
 
 
-/* =========================
-   STATUS
-========================= */
+function escapeAttr(value){
 
-function updateStatus(){
+    return escapeHTML(value);
 
-    const live =
-        matches.filter(
-            m=>getMatchStatus(m)==="live"
-        ).length;
+}
 
 
-    const upcoming =
-        matches.filter(
-            m=>getMatchStatus(m)==="upcoming"
-        ).length;
+function safeScore(value){
 
-
-    const finished =
-        matches.filter(
-            m=>getMatchStatus(m)==="finished"
-        ).length;
-
-
-    document.getElementById("status").innerHTML = `
-        <b>${matches.length}</b> matchs disponibles
-        · 🔴 ${live} Live
-        · 🕐 ${upcoming} À venir
-        · ✓ ${finished} Terminés
-        <br>
-
-        <button
-            class="refresh"
-            onclick="location.reload()"
-        >
-            🔄 Actualiser
-        </button>
-    `;
+    return value===null||
+           value===undefined||
+           value===""
+        ?"-"
+        :escapeHTML(value);
 
 }
 
@@ -1207,31 +1098,20 @@ function updateStatus(){
    TABS
 ========================= */
 
-document.querySelectorAll(".tab")
-.forEach(button=>{
+document.querySelectorAll(".tab").forEach(btn=>{
 
-    button.addEventListener(
-        "click",
-        ()=>{
+    btn.addEventListener("click",()=>{
 
-            document
-                .querySelectorAll(".tab")
-                .forEach(
-                    b=>b.classList.remove("active")
-                );
+        document.querySelectorAll(".tab")
+            .forEach(b=>b.classList.remove("active"));
 
+        btn.classList.add("active");
 
-            button.classList.add("active");
+        currentFilter=btn.dataset.filter;
 
+        render();
 
-            currentFilter =
-                button.dataset.filter;
-
-
-            render();
-
-        }
-    );
+    });
 
 });
 
@@ -1243,16 +1123,14 @@ document.querySelectorAll(".tab")
 init();
 
 
-/*
- * Auto refresh every 5 minutes
- */
+/* Auto refresh 5 minutes */
 
-setInterval(
-    ()=>location.reload(),
-    5 * 60 * 1000
-);
+setInterval(()=>{
+    init();
+},300000);
 
 </script>
 
 </body>
-</html>
+    </html>
+    
