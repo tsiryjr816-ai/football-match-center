@@ -1,0 +1,38 @@
+name: Update football matches
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Run collector
+        run: |
+          python collector.py
+
+      - name: Save updated data
+        run: |
+          git config user.name "football-match-bot"
+          git config user.email "football-match-bot@users.noreply.github.com"
+          git add matches.json
+          git diff --cached --quiet || git commit -m "Update football matches"
+          git push
