@@ -1,0 +1,357 @@
+{
+  "count": 8140,
+  "next": "https://sports.bzzoiro.com/api/v2/teams/?limit=50&offset=50",
+  "previous": null,
+  "results": [
+    {
+      "id": 511,
+      "name": "1A",
+      "short_name": "",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 523,
+      "name": "1B",
+      "short_name": "1B",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 501,
+      "name": "1C",
+      "short_name": "",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 517,
+      "name": "1D",
+      "short_name": "",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 503,
+      "name": "1E",
+      "short_name": "",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 505,
+      "name": "1F",
+      "short_name": "",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 2846,
+      "name": "1. FC Bocholt",
+      "short_name": "FCB",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 7874,
+      "name": "1. FC Slovácko B",
+      "short_name": "SLO",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 3976,
+      "name": "1. FC Tatran Prešov U19",
+      "short_name": "TPR",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 509,
+      "name": "1I",
+      "short_name": "",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 527,
+      "name": "1J",
+      "short_name": "",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 529,
+      "name": "1K",
+      "short_name": "",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 513,
+      "name": "1L",
+      "short_name": "",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 499,
+      "name": "2A",
+      "short_name": "",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 500,
+      "name": "2B",
+      "short_name": "",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 506,
+      "name": "2C",
+      "short_name": "",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 525,
+      "name": "2D",
+      "short_name": "",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 507,
+      "name": "2E",
+      "short_name": "",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 502,
+      "name": "2F",
+      "short_name": "",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 508,
+      "name": "2I",
+      "short_name": "",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 520,
+      "name": "2J",
+      "short_name": "",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 521,
+      "name": "2K",
+      "short_name": "",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 522,
+      "name": "2L",
+      "short_name": "",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 504,
+      "name": "3A/3B/3C/3D/3F",
+      "short_name": "",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 516,
+      "name": "3A/3E/3H/3I/3J",
+      "short_name": "",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 518,
+      "name": "3B/3E/3F/3I/3J",
+      "short_name": "",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 510,
+      "name": "3C/3D/3F/3G/3H",
+      "short_name": "",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 512,
+      "name": "3C/3E/3F/3H/3I",
+      "short_name": "",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 530,
+      "name": "3D/3E/3I/3J/3L",
+      "short_name": "",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 524,
+      "name": "3E/3F/3G/3I/3J",
+      "short_name": "",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 514,
+      "name": "3E/3H/3I/3J/3K",
+      "short_name": "",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 7954,
+      "name": "AaB U19",
+      "short_name": "AAB",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 8021,
+      "name": "Aalesund FK II",
+      "short_name": "AA2",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 2504,
+      "name": "A'ali",
+      "short_name": "AAL",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 3309,
+      "name": "Abahani Limited Dhaka",
+      "short_name": "ALD",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 3172,
+      "name": "ABM Galaxy FC",
+      "short_name": "ABM",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 2419,
+      "name": "Abu Muslim",
+      "short_name": "AMU",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 2651,
+      "name": "Abu Salim SC",
+      "short_name": "ABU",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 2979,
+      "name": "Academia Quintana",
+      "short_name": "AQU",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 3164,
+      "name": "Academy Eagles",
+      "short_name": "AEA",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 4005,
+      "name": "AC Alta Anaunia",
+      "short_name": "",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 3791,
+      "name": "AC Barracuda",
+      "short_name": "ABA",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 7930,
+      "name": "Accra Great Olympics",
+      "short_name": "AGO",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 4700,
+      "name": "ACD Pinzolo Valrendena",
+      "short_name": "Pinzolo Valrendena",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 3586,
+      "name": "Acireale",
+      "short_name": "ACI",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 2510,
+      "name": "AC Port Of Spain",
+      "short_name": "POR",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 2695,
+      "name": "AC Sant'Angelo 1907",
+      "short_name": "ASD",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 2631,
+      "name": "AC Taipei",
+      "short_name": "ACA",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 3739,
+      "name": "AD Alcorcón B",
+      "short_name": "ALC",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 2742,
+      "name": "Adama City",
+      "short_name": "ADA",
+      "country": "",
+      "venue_id": null
+    }
+  ]
+}
