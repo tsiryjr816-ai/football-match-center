@@ -1,35 +1,1245 @@
-function getScore(match) {
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  const status =
-    String(match.status || "").toLowerCase();
+<title>Football Match Center</title>
 
-  // Match mbola tsy nanomboka
-  if (
-    status === "notstarted" ||
-    status === "scheduled" ||
-    status === "upcoming"
-  ) {
-    return "vs";
-  }
+<style>
 
-  const home =
-    match.home_score ??
-    match.home_goals ??
-    match.home_team_score;
-
-  const away =
-    match.away_score ??
-    match.away_goals ??
-    match.away_team_score;
-
-  if (
-    home !== null &&
-    home !== undefined &&
-    away !== null &&
-    away !== undefined
-  ) {
-    return `${home} - ${away}`;
-  }
-
-  return "vs";
+* {
+    box-sizing: border-box;
 }
+
+body {
+    margin: 0;
+    background: #07111f;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    background: linear-gradient(135deg, #0d2b4d, #071525);
+    padding: 20px 15px;
+    text-align: center;
+    border-bottom: 1px solid #1b3b5c;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.subtitle {
+    margin-top: 5px;
+    color: #8da7c0;
+    font-size: 13px;
+}
+
+.date-bar {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 12px;
+
+    background: #091a2c;
+    border-bottom: 1px solid #183650;
+}
+
+.date-button {
+    width: 45px;
+    height: 45px;
+
+    border: none;
+    border-radius: 12px;
+
+    background: #153653;
+    color: white;
+
+    font-size: 25px;
+}
+
+.date-button:active {
+    transform: scale(0.95);
+}
+
+.date-center {
+    text-align: center;
+    flex: 1;
+}
+
+.date-title {
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.date-full {
+    margin-top: 4px;
+    color: #8ca6bd;
+    font-size: 12px;
+}
+
+.stats {
+    display: flex;
+    gap: 8px;
+    padding: 12px;
+
+    overflow-x: auto;
+}
+
+.stat {
+    flex: 1;
+    min-width: 100px;
+
+    padding: 12px;
+
+    background: #0c2035;
+
+    border: 1px solid #183b5b;
+    border-radius: 12px;
+
+    text-align: center;
+}
+
+.stat-number {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.stat-label {
+    margin-top: 3px;
+    color: #8ca6bd;
+    font-size: 10px;
+}
+
+.container {
+    padding: 0 12px 30px;
+}
+
+.league {
+    margin-top: 15px;
+
+    overflow: hidden;
+
+    border-radius: 10px;
+    border: 1px solid #17334e;
+}
+
+.league-title {
+    padding: 12px;
+
+    background: #102b46;
+
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.match {
+    display: grid;
+
+    grid-template-columns: 55px 1fr 60px;
+
+    align-items: center;
+
+    gap: 8px;
+
+    padding: 14px 10px;
+
+    background: #0a1b2c;
+
+    border-top: 1px solid #153149;
+}
+
+.time {
+    color: #82a0b9;
+    font-size: 12px;
+    text-align: center;
+}
+
+.teams {
+    text-align: center;
+}
+
+.team {
+    margin: 5px 0;
+
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.vs {
+    color: #5e7892;
+    font-size: 10px;
+}
+
+.score {
+    text-align: center;
+
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.status {
+    display: inline-block;
+
+    margin-top: 5px;
+
+    padding: 3px 7px;
+
+    border-radius: 8px;
+
+    background: #183a54;
+    color: #9fb9ce;
+
+    font-size: 9px;
+    font-weight: bold;
+}
+
+.status.live {
+    background: #751e29;
+    color: #ffb6bf;
+}
+
+.status.finished {
+    background: #1b5638;
+    color: #a7e3bc;
+}
+
+.empty {
+    padding: 60px 20px;
+
+    text-align: center;
+
+    color: #7892aa;
+}
+
+.loading {
+    padding: 60px 20px;
+
+    text-align: center;
+
+    color: #91a9be;
+}
+
+.footer {
+    padding: 20px;
+
+    text-align: center;
+
+    color: #617b92;
+
+    font-size: 11px;
+}
+
+</style>
+</head>
+
+<body>
+
+<header class="header">
+
+    <div class="logo">
+        ⚽ Football Match Center
+    </div>
+
+    <div class="subtitle">
+        Fixtures & résultats automatiques
+    </div>
+
+</header>
+
+
+<div class="date-bar">
+
+    <button
+        class="date-button"
+        onclick="changeDay(-1)"
+    >
+        ←
+    </button>
+
+
+    <div class="date-center">
+
+        <div
+            id="dateTitle"
+            class="date-title"
+        >
+            Chargement...
+        </div>
+
+        <div
+            id="dateFull"
+            class="date-full"
+        >
+        </div>
+
+    </div>
+
+
+    <button
+        class="date-button"
+        onclick="changeDay(1)"
+    >
+        →
+    </button>
+
+</div>
+
+
+<div class="stats">
+
+    <div class="stat">
+
+        <div
+            id="totalMatches"
+            class="stat-number"
+        >
+            0
+        </div>
+
+        <div class="stat-label">
+            MATCHS
+        </div>
+
+    </div>
+
+
+    <div class="stat">
+
+        <div
+            id="liveMatches"
+            class="stat-number"
+        >
+            0
+        </div>
+
+        <div class="stat-label">
+            LIVE
+        </div>
+
+    </div>
+
+
+    <div class="stat">
+
+        <div
+            id="finishedMatches"
+            class="stat-number"
+        >
+            0
+        </div>
+
+        <div class="stat-label">
+            TERMINÉS
+        </div>
+
+    </div>
+
+</div>
+
+
+<main class="container">
+
+    <div id="matches">
+
+        <div class="loading">
+            Chargement des matchs...
+        </div>
+
+    </div>
+
+</main>
+
+
+<div class="footer">
+
+    Données mises à jour automatiquement
+
+</div>
+
+
+<script>
+
+/* =====================================================
+   VARIABLES
+===================================================== */
+
+let allMatches = [];
+
+let currentDate = new Date();
+
+const MADAGASCAR_TIMEZONE =
+    "Indian/Antananarivo";
+
+
+/* =====================================================
+   MOIS
+===================================================== */
+
+const MONTHS = [
+
+    "janvier",
+    "février",
+    "mars",
+    "avril",
+    "mai",
+    "juin",
+    "juillet",
+    "août",
+    "septembre",
+    "octobre",
+    "novembre",
+    "décembre"
+
+];
+
+
+/* =====================================================
+   DATE MADAGASCAR
+===================================================== */
+
+function getMadagascarDate(dateString) {
+
+    const date =
+        new Date(dateString);
+
+    return new Intl.DateTimeFormat(
+        "en-CA",
+        {
+            timeZone: MADAGASCAR_TIMEZONE,
+
+            year: "numeric",
+
+            month: "2-digit",
+
+            day: "2-digit"
+        }
+    ).format(date);
+
+}
+
+
+/* =====================================================
+   HEURE MADAGASCAR
+===================================================== */
+
+function getMadagascarTime(dateString) {
+
+    const date =
+        new Date(dateString);
+
+    return new Intl.DateTimeFormat(
+        "fr-FR",
+        {
+            timeZone: MADAGASCAR_TIMEZONE,
+
+            hour: "2-digit",
+
+            minute: "2-digit",
+
+            hour12: false
+        }
+    ).format(date);
+
+}
+
+
+/* =====================================================
+   DATE SELECTIONNEE
+===================================================== */
+
+function getSelectedDate() {
+
+    return new Intl.DateTimeFormat(
+        "en-CA",
+        {
+            timeZone: MADAGASCAR_TIMEZONE,
+
+            year: "numeric",
+
+            month: "2-digit",
+
+            day: "2-digit"
+        }
+    ).format(currentDate);
+
+}
+
+
+/* =====================================================
+   FORMAT DATE
+===================================================== */
+
+function formatDate(date) {
+
+    const day =
+        date.getDate();
+
+    const month =
+        MONTHS[date.getMonth()];
+
+    const year =
+        date.getFullYear();
+
+    return `${day} ${month} ${year}`;
+
+}
+
+
+/* =====================================================
+   STATUS
+===================================================== */
+
+function normalizeStatus(status) {
+
+    return String(status || "")
+        .toLowerCase()
+        .replace(/[\s_-]/g, "");
+
+}
+
+
+function getMatchStatus(match) {
+
+    const status =
+        normalizeStatus(match.status);
+
+
+    /*
+       MATCH PAS ENCORE COMMENCE
+    */
+
+    if (
+
+        status === "notstarted" ||
+
+        status === "scheduled" ||
+
+        status === "upcoming" ||
+
+        status === "created"
+
+    ) {
+
+        return {
+
+            text: "À VENIR",
+
+            className: ""
+
+        };
+
+    }
+
+
+    /*
+       MATCH LIVE
+    */
+
+    if (
+
+        status === "live" ||
+
+        status === "inprogress" ||
+
+        status === "playing" ||
+
+        status === "halftime"
+
+    ) {
+
+        return {
+
+            text: "LIVE",
+
+            className: "live"
+
+        };
+
+    }
+
+
+    /*
+       MATCH TERMINE
+    */
+
+    if (
+
+        status === "finished" ||
+
+        status === "finish" ||
+
+        status === "completed" ||
+
+        status === "complete"
+
+    ) {
+
+        return {
+
+            text: "TERMINÉ",
+
+            className: "finished"
+
+        };
+
+    }
+
+
+    /*
+       AUTRE STATUS
+    */
+
+    return {
+
+        text: "À VENIR",
+
+        className: ""
+
+    };
+
+}
+
+
+/* =====================================================
+   SCORE
+===================================================== */
+
+function getMatchScore(match) {
+
+    const status =
+        normalizeStatus(match.status);
+
+
+    /*
+       SI MATCH PAS ENCORE COMMENCE
+       ON CACHE COMPLETEMENT LE SCORE
+    */
+
+    if (
+
+        status === "notstarted" ||
+
+        status === "scheduled" ||
+
+        status === "upcoming" ||
+
+        status === "created"
+
+    ) {
+
+        return "vs";
+
+    }
+
+
+    const homeScore =
+        match.home_score ??
+        match.home_goals ??
+        match.home_team_score ??
+        match.score_home ??
+        null;
+
+
+    const awayScore =
+        match.away_score ??
+        match.away_goals ??
+        match.away_team_score ??
+        match.score_away ??
+        null;
+
+
+    if (
+
+        homeScore !== null &&
+
+        homeScore !== undefined &&
+
+        awayScore !== null &&
+
+        awayScore !== undefined
+
+    ) {
+
+        return `${homeScore} - ${awayScore}`;
+
+    }
+
+
+    return "vs";
+
+}
+
+
+/* =====================================================
+   SECURITE HTML
+===================================================== */
+
+function escapeHtml(value) {
+
+    return String(value || "")
+
+        .replaceAll(
+            "&",
+            "&amp;"
+        )
+
+        .replaceAll(
+            "<",
+            "&lt;"
+        )
+
+        .replaceAll(
+            ">",
+            "&gt;"
+        )
+
+        .replaceAll(
+            '"',
+            "&quot;"
+        )
+
+        .replaceAll(
+            "'",
+            "&#039;"
+        );
+
+}
+
+
+/* =====================================================
+   CHANGER DE JOUR
+===================================================== */
+
+function changeDay(number) {
+
+    currentDate.setDate(
+        currentDate.getDate() + number
+    );
+
+    renderMatches();
+
+}
+
+
+/* =====================================================
+   AFFICHAGE
+===================================================== */
+
+function renderMatches() {
+
+    const selectedDate =
+        getSelectedDate();
+
+
+    /*
+       TITRE DATE
+    */
+
+    document
+        .getElementById("dateTitle")
+        .textContent =
+
+        currentDate.toLocaleDateString(
+            "fr-FR",
+            {
+                weekday: "long"
+            }
+        );
+
+
+    document
+        .getElementById("dateFull")
+        .textContent =
+
+        formatDate(currentDate);
+
+
+    /*
+       FILTRER MATCHS
+    */
+
+    const matches =
+        allMatches.filter(
+            function(match) {
+
+                if (!match.event_date) {
+
+                    return false;
+
+                }
+
+
+                return (
+
+                    getMadagascarDate(
+                        match.event_date
+                    )
+
+                    ===
+
+                    selectedDate
+
+                );
+
+            }
+        );
+
+
+    /*
+       TOTAL
+    */
+
+    document
+        .getElementById("totalMatches")
+        .textContent =
+
+        matches.length;
+
+
+    /*
+       LIVE
+    */
+
+    let liveCount = 0;
+
+
+    /*
+       TERMINE
+    */
+
+    let finishedCount = 0;
+
+
+    matches.forEach(
+        function(match) {
+
+            const status =
+                normalizeStatus(
+                    match.status
+                );
+
+
+            if (
+
+                status === "live" ||
+
+                status === "inprogress" ||
+
+                status === "playing" ||
+
+                status === "halftime"
+
+            ) {
+
+                liveCount++;
+
+            }
+
+
+            if (
+
+                status === "finished" ||
+
+                status === "finish" ||
+
+                status === "completed" ||
+
+                status === "complete"
+
+            ) {
+
+                finishedCount++;
+
+            }
+
+        }
+    );
+
+
+    document
+        .getElementById("liveMatches")
+        .textContent = liveCount;
+
+
+    document
+        .getElementById("finishedMatches")
+        .textContent = finishedCount;
+
+
+    const container =
+        document.getElementById(
+            "matches"
+        );
+
+
+    /*
+       AUCUN MATCH
+    */
+
+    if (!matches.length) {
+
+        container.innerHTML = `
+
+            <div class="empty">
+
+                ⚽
+
+                <br><br>
+
+                Aucun match trouvé pour cette date.
+
+            </div>
+
+        `;
+
+        return;
+
+    }
+
+
+    /*
+       TRIER PAR HEURE
+    */
+
+    matches.sort(
+        function(a, b) {
+
+            return (
+
+                new Date(a.event_date)
+
+                -
+
+                new Date(b.event_date)
+
+            );
+
+        }
+    );
+
+
+    /*
+       GROUPER PAR COMPETITION
+    */
+
+    const groups = {};
+
+
+    matches.forEach(
+        function(match) {
+
+            const league =
+
+                match.league_name ||
+
+                match.competition_name ||
+
+                (
+                    "Compétition #" +
+
+                    (
+                        match.league_id ||
+                        "?"
+                    )
+                );
+
+
+            if (!groups[league]) {
+
+                groups[league] = [];
+
+            }
+
+
+            groups[league].push(
+                match
+            );
+
+        }
+    );
+
+
+    /*
+       CONSTRUIRE HTML
+    */
+
+    let html = "";
+
+
+    Object.keys(groups)
+        .sort()
+        .forEach(
+            function(league) {
+
+                html += `
+
+                    <section class="league">
+
+                        <div class="league-title">
+
+                            🏆
+
+                            ${escapeHtml(
+                                league
+                            )}
+
+                        </div>
+
+                `;
+
+
+                groups[league].forEach(
+                    function(match) {
+
+                        const status =
+                            getMatchStatus(
+                                match
+                            );
+
+
+                        const score =
+                            getMatchScore(
+                                match
+                            );
+
+
+                        const time =
+                            getMadagascarTime(
+                                match.event_date
+                            );
+
+
+                        const home =
+                            match.home_team ||
+                            "Équipe inconnue";
+
+
+                        const away =
+                            match.away_team ||
+                            "Équipe inconnue";
+
+
+                        html += `
+
+                            <div class="match">
+
+                                <div class="time">
+
+                                    ${time}
+
+                                </div>
+
+
+                                <div class="teams">
+
+                                    <div class="team">
+
+                                        ${escapeHtml(
+                                            home
+                                        )}
+
+                                    </div>
+
+
+                                    <div class="vs">
+
+                                        VS
+
+                                    </div>
+
+
+                                    <div class="team">
+
+                                        ${escapeHtml(
+                                            away
+                                        )}
+
+                                    </div>
+
+
+                                    <span
+                                        class="status ${status.className}"
+                                    >
+
+                                        ${status.text}
+
+                                    </span>
+
+                                </div>
+
+
+                                <div class="score">
+
+                                    ${score}
+
+                                </div>
+
+                            </div>
+
+                        `;
+
+                    }
+                );
+
+
+                html += `
+
+                    </section>
+
+                `;
+
+            }
+        );
+
+
+    container.innerHTML =
+        html;
+
+}
+
+
+/* =====================================================
+   CHARGER MATCHES.JSON
+===================================================== */
+
+async function loadMatches() {
+
+    const container =
+        document.getElementById(
+            "matches"
+        );
+
+
+    container.innerHTML = `
+
+        <div class="loading">
+
+            ⚽
+
+            <br><br>
+
+            Chargement des matchs...
+
+        </div>
+
+    `;
+
+
+    try {
+
+        const response =
+
+            await fetch(
+                "matches.json?cache=" +
+                Date.now()
+            );
+
+
+        if (!response.ok) {
+
+            throw new Error(
+                "HTTP " +
+                response.status
+            );
+
+        }
+
+
+        const data =
+            await response.json();
+
+
+        allMatches =
+            Array.isArray(
+                data.matches
+            )
+
+            ? data.matches
+
+            : [];
+
+
+        /*
+           REVENIR A AUJOURD'HUI
+        */
+
+        currentDate =
+            new Date();
+
+
+        renderMatches();
+
+
+        console.log(
+            "Football Match Center:",
+            allMatches.length,
+            "matches loaded"
+        );
+
+
+    }
+
+    catch(error) {
+
+        console.error(error);
+
+
+        container.innerHTML = `
+
+            <div class="empty">
+
+                ❌
+
+                <br><br>
+
+                Impossible de charger les matchs.
+
+                <br><br>
+
+                ${escapeHtml(
+                    error.message
+                )}
+
+            </div>
+
+        `;
+
+    }
+
+}
+
+
+/* =====================================================
+   ACTUALISATION AUTOMATIQUE
+===================================================== */
+
+setInterval(
+    function() {
+
+        loadMatches();
+
+    },
+
+    5 * 60 * 1000
+);
+
+
+/* =====================================================
+   DEMARRAGE
+===================================================== */
+
+loadMatches();
+
+</script>
+
+</body>
+</html>
