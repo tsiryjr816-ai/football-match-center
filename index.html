@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Football Match Center</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      background: #06111f;
+      color: white;
+    }
+
+    .app {
+      max-width: 650px;
+      min-height: 100vh;
+      margin: auto;
+      padding-bottom: 85px;
+    }
+
+    header {
+      padding: 22px 18px;
+      background: #0b192b;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid #172b43;
+    }
+
+    .logo {
+      font-size: 20px;
+      font-weight: 800;
+    }
+
+    .subtitle {
+      color: #8092a8;
+      font-size: 12px;
+      margin-top: 5px;
+    }
+
+    .sync {
+      width: 42px;
+      height: 42px;
+      border: 0;
+      border-radius: 50%;
+      background: #12263d;
+      color: #39e58c;
+      font-size: 24px;
+    }
+
+    .date-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 20px 18px;
+    }
+
+    .arrow {
+      width: 48px;
+      height: 48px;
+      border: 0;
+      border-radius: 15px;
+      background: #12263d;
+      color: white;
+      font-size: 32px;
+    }
+
+    .date {
+      text-align: center;
+    }
+
+    .day {
+      color: #39e58c;
+      font-size: 12px;
+      font-weight: bold;
+      letter-spacing: 1px;
+    }
+
+    .date-value {
+      margin-top: 5px;
+      font-size: 18px;
+      font-weight: bold;
+    }
+
+    .quick {
+      display: flex;
+      gap: 8px;
+      padding: 0 18px 18px;
+    }
+
+    .quick button {
+      flex: 1;
+      padding: 11px;
+      border: 0;
+      border-radius: 12px;
+      background: #0d1e32;
+      color: #9aabc0;
+    }
+
+    .quick .active {
+      background: #145c43;
+      color: white;
+    }
+
+    .competition {
+      margin: 8px 16px 10px;
+      color: #8fa2b8;
+      font-size: 12px;
+      font-weight: bold;
+      text-transform: uppercase;
+    }
+
+    .match {
+      margin: 0 16px 12px;
+      padding: 18px;
+      background: #0d1c2e;
+      border: 1px solid #192f48;
+      border-radius: 18px;
+    }
+
+    .time {
+      text-align: center;
+      font-size: 20px;
+      font-weight: bold;
+      margin-bottom: 18px;
+    }
+
+    .teams {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      text-align: center;
+    }
+
+    .team {
+      width: 40%;
+      font-size: 14px;
+      font-weight: bold;
+    }
+
+    .vs {
+      color: #39e58c;
+      font-size: 12px;
+      font-weight: bold;
+    }
+
+    .status {
+      text-align: center;
+      color: #71859d;
+      font-size: 10px;
+      margin-top: 15px;
+    }
+
+    .empty {
+      text-align: center;
+      color: #71859d;
+      padding: 70px 20px;
+    }
+
+    .empty-icon {
+      font-size: 45px;
+      margin-bottom: 12px;
+    }
+
+    .bottom {
+      position: fixed;
+      bottom: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 100%;
+      max-width: 650px;
+      height: 72px;
+      background: #091727;
+      border-top: 1px solid #172b43;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+    }
+
+    .nav {
+      background: none;
+      border: 0;
+      color: #71859d;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .nav span {
+      font-size: 21px;
+    }
+
+    .nav small {
+      font-size: 10px;
+    }
+
+    .nav.active {
+      color: #39e58c;
+    }
+  </style>
+</head>
+
+<body>
+
+<div class="app">
+
+  <header>
+    <div>
+      <div class="logo">⚽ MATCH CENTER</div>
+      <div class="subtitle">Football Fixtures</div>
+    </div>
+
+    <button class="sync">↻</button>
+  </header>
+
+  <div class="date-bar">
+
+    <button class="arrow" onclick="changeDay(-1)">‹</button>
+
+    <div class="date">
+      <div class="day" id="day">TODAY</div>
+      <div class="date-value" id="date"></div>
+    </div>
+
+    <button class="arrow" onclick="changeDay(1)">›</button>
+
+  </div>
+
+  <div class="quick">
+
+    <button class="active" onclick="setDay(0)">
+      TODAY
+    </button>
+
+    <button onclick="setDay(1)">
+      TOMORROW
+    </button>
+
+    <button onclick="setDay(7)">
+      7 DAYS
+    </button>
+
+  </div>
+
+  <main id="matches"></main>
+
+  <div class="bottom">
+
+    <button class="nav active">
+      <span>🏠</span>
+      <small>Home</small>
+    </button>
+
+    <button class="nav">
+      <span>⚽</span>
+      <small>Matches</small>
+    </button>
+
+    <button class="nav">
+      <span>🤖</span>
+      <small>AI</small>
+    </button>
+
+    <button class="nav">
+      <span>⚙️</span>
+      <small>Settings</small>
+    </button>
+
+  </div>
+
+</div>
+
+<script>
+
+let selectedDay = 0;
+
+const demoMatches = [
+
+  {
+    day: 0,
+    competition: "Premier League",
+    time: "18:45",
+    home: "Arsenal",
+    away: "Chelsea"
+  },
+
+  {
+    day: 0,
+    competition: "Premier League",
+    time: "21:00",
+    home: "Liverpool",
+    away: "Manchester City"
+  },
+
+  {
+    day: 1,
+    competition: "Champions League",
+    time: "18:45",
+    home: "Real Madrid",
+    away: "Inter Milan"
+  },
+
+  {
+    day: 1,
+    competition: "La Liga",
+    time: "21:00",
+    home: "Barcelona",
+    away: "Valencia"
+  }
+
+];
+
+function getDate(dayOffset) {
+
+  const d = new Date();
+
+  d.setDate(d.getDate() + dayOffset);
+
+  return d;
+
+}
+
+function updateDate() {
+
+  const d = getDate(selectedDay);
+
+  document.getElementById("date").textContent =
+    d.toLocaleDateString("fr-FR", {
+      day: "2-digit",
+      month: "short",
+      year: "numeric"
+    });
+
+  if (selectedDay === 0) {
+    document.getElementById("day").textContent = "TODAY";
+  }
+
+  else if (selectedDay === 1) {
+    document.getElementById("day").textContent = "TOMORROW";
+  }
+
+  else if (selectedDay === -1) {
+    document.getElementById("day").textContent = "YESTERDAY";
+  }
+
+  else if (selectedDay < 0) {
+    document.getElementById("day").textContent =
+      Math.abs(selectedDay) + " DAYS AGO";
+  }
+
+  else {
+    document.getElementById("day").textContent =
+      "IN " + selectedDay + " DAYS";
+  }
+
+}
+
+function renderMatches() {
+
+  const container = document.getElementById("matches");
+
+  const matches =
+    demoMatches.filter(m => m.day === selectedDay);
+
+  container.innerHTML = "";
+
+  if (matches.length === 0) {
+
+    container.innerHTML = `
+      <div class="empty">
+        <div class="empty-icon">⚽</div>
+        <h3>No matches</h3>
+        <p>No football matches available.</p>
+      </div>
+    `;
+
+    return;
+  }
+
+  let currentCompetition = "";
+
+  matches.forEach(match => {
+
+    if (currentCompetition !== match.competition) {
+
+      currentCompetition = match.competition;
+
+      container.innerHTML += `
+        <div class="competition">
+          ${match.competition}
+        </div>
+      `;
+
+    }
+
+    container.innerHTML += `
+      <div class="match">
+
+        <div class="time">
+          ${match.time}
+        </div>
+
+        <div class="teams">
+
+          <div class="team">
+            ${match.home}
+          </div>
+
+          <div class="vs">
+            VS
+          </div>
+
+          <div class="team">
+            ${match.away}
+          </div>
+
+        </div>
+
+        <div class="status">
+          UPCOMING
+        </div>
+
+      </div>
+    `;
+
+  });
+
+}
+
+function changeDay(amount) {
+
+  selectedDay += amount;
+
+  updateDate();
+  renderMatches();
+
+}
+
+function setDay(day) {
+
+  selectedDay = day;
+
+  updateDate();
+  renderMatches();
+
+}
+
+updateDate();
+renderMatches();
+
+</script>
+
+</body>
+</html>
