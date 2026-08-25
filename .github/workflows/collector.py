@@ -1,159 +1,67 @@
-import json
-import re
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime, timezone
 
 URL = "https://www.eurosport.fr/football/score-center.shtml"
 
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Linux; Android 10) "
-        "AppleWebKit/537.36 Chrome/151.0 Mobile Safari/537.36"
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/151.0 Mobile Safari/537.36"
     )
 }
 
-def clean(text):
-    return re.sub(r"\s+", " ", text).strip()
+print("Downloading Eurosport...")
 
+response = requests.get(
+    URL,
+    headers=HEADERS,
+    timeout=30
+)
 
-def get_page():
-    response = requests.get(
-        URL,
-        headers=HEADERS,
-        timeout=30
-    )
+print("HTTP status:", response.status_code)
+print("Page size:", len(response.text))
 
-    response.raise_for_status()
+soup = BeautifulSoup(response.text, "html.parser")
 
-    return response.text
+links = soup.find_all("a", href=True)
 
+print("Total links:", len(links))
 
-def extract_matches(html):
+print("\n--- FOOTBALL RELATED LINKS ---")
 
-    soup = BeautifulSoup(html, "html.parser")
+count = 0
 
-    matches = []
+keywords = [
+    "football",
+    "premier",
+    "liga",
+    "league",
+    "champions",
+    "match",
+    "score",
+    "arsenal",
+    "chelsea",
+    "liverpool"
+]
 
-    # Look through links representing football match pages.
-    for link in soup.find_all("a", href=True):
+for link in links:
 
-        href = link.get("href", "")
+    text = " ".join(link.stripped_strings)
+    href = link.get("href", "")
 
-        # Eurosport match links normally contain live-matches or match data.
-        if "live-matches" not in href:
-            continue
+    combined = (text + " " + href).lower()
 
-        text = clean(link.get_text(" ", strip=True))
+    if any(word in combined for word in keywords):
 
-        if not text:
-            continue
+        print("TEXT:", text[:200])
+        print("URL :", href[:300])
+        print("---")
 
-        # Remove obvious non-match links.
-        if len(text) < 5:
-            continue
+        count += 1
 
-        # Try to identify the two teams and kickoff time.
-        time_match = re.search(
-            r"\b([01]?\d|2[0-3]):[0-5]\d\b",
-            text
-        )
+        if count >= 50:
+            break
 
-        if not time_match:
-            continue
-
-        time_value = time_match.group(0)
-
-        before = clean(text[:time_match.start()])
-        after = clean(text[time_match.end():])
-
-        # The visible match pages commonly contain:
-        # Home Team + time + Away Team
-        if not before or not after:
-            continue
-
-        # Remove score/live-minute information if present.
-        after = re.sub(
-            r"\b\d+\s*-\s*\d+\b.*$",
-            "",
-            after
-        ).strip()
-
-        if not after:
-            continue
-
-        match = {
-            "date": datetime.now().strftime("%Y-%m-%d"),
-            "time": time_value,
-            "home_team": before,
-            "away_team": after
-        }
-
-        matches.append(match)
-
-    # Remove duplicates
-    unique = {}
-
-    for match in matches:
-
-        key = (
-            match["date"],
-            match["time"],
-            match["home_team"].lower(),
-            match["away_team"].lower()
-        )
-
-        unique[key] = match
-
-    return list(unique.values())
-
-
-def save(matches):
-
-    data = {
-        "updated_at": datetime.now(timezone.utc).isoformat(),
-        "matches": matches
-    }
-
-    with open(
-        "matches.json",
-        "w",
-        encoding="utf-8"
-    ) as file:
-
-        json.dump(
-            data,
-            file,
-            ensure_ascii=False,
-            indent=2
-        )
-
-
-def main():
-
-    print("Downloading Eurosport Score Center...")
-
-    html = get_page()
-
-    print("Page downloaded.")
-
-    matches = extract_matches(html)
-
-    print("Matches detected:", len(matches))
-
-    for match in matches:
-        print(
-            match["date"],
-            match["time"],
-            match["home_team"],
-            "vs",
-            match["away_team"]
-        )
-
-    save(matches)
-
-    print("matches.json updated successfully.")
-
-
-if __name__ == "__main__":
-    main()
+print("\nRelated links displayed:", count)
+print("TEST FINISHED")
