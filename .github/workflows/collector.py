@@ -1,104 +1,37 @@
+import json
 import requests
-import re
+from datetime import datetime, timezone
 
-URL = "https://www.eurosport.fr/football/score-center.shtml"
+URL = "https://sporting-events.org/data/football/"
 
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Linux; Android 10) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/151.0 Mobile Safari/537.36"
-    )
-}
-
-print("Downloading Eurosport...")
+print("Downloading Sporting Events...")
 
 response = requests.get(
     URL,
-    headers=HEADERS,
-    timeout=30
+    timeout=30,
+    headers={
+        "User-Agent": "Mozilla/5.0"
+    }
 )
 
 print("HTTP status:", response.status_code)
 print("Page size:", len(response.text))
 
-html = response.text
+if response.status_code != 200:
+    raise Exception("Sporting Events download failed")
 
-# Search for common football-team / match indicators
-patterns = [
-    r'"homeTeam"',
-    r'"awayTeam"',
-    r'"home_team"',
-    r'"away_team"',
-    r'"home"',
-    r'"away"',
-    r'"startDate"',
-    r'"startTime"',
-    r'"match"',
-    r'"fixture"',
-    r'"event"',
-    r'"competition"',
-]
+print("Source downloaded successfully.")
 
-print("\n--- DATA INDICATORS ---")
+print("Now checking available football data...")
 
-for pattern in patterns:
+# Temporary test
+data = {
+    "updated_at": datetime.now(timezone.utc).isoformat(),
+    "source": "Sporting Events",
+    "matches": []
+}
 
-    found = len(
-        re.findall(
-            pattern,
-            html,
-            flags=re.IGNORECASE
-        )
-    )
+with open("matches.json", "w", encoding="utf-8") as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)
 
-    print(pattern, "=>", found)
-
-# Search for JSON-like structures containing team names
-print("\n--- POSSIBLE TEAM DATA ---")
-
-keywords = [
-    "Arsenal",
-    "Chelsea",
-    "Liverpool",
-    "Manchester",
-    "Real Madrid",
-    "Barcelona",
-    "Bayern",
-    "Juventus"
-]
-
-for keyword in keywords:
-
-    positions = [
-        m.start()
-        for m in re.finditer(
-            re.escape(keyword),
-            html,
-            flags=re.IGNORECASE
-        )
-    ]
-
-    print(
-        keyword,
-        "=>",
-        len(positions),
-        "occurrences"
-    )
-
-    # Print one small context around the first occurrence
-    if positions:
-
-        pos = positions[0]
-
-        start = max(0, pos - 300)
-        end = min(len(html), pos + 500)
-
-        print(
-            html[start:end]
-            .replace("\n", " ")[:800]
-        )
-
-        print("\n---")
-
-print("\nTEST FINISHED")
+print("matches.json updated.")
