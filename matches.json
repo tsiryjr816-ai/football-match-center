@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T21:27:33.364972+00:00",
+  "updated_at": "2026-08-25T22:14:43.916788+00:00",
   "source": "BSD Football API",
   "date_from": "2026-08-25",
   "date_to": "2026-09-01",
@@ -65147,13 +65147,13 @@
       "referee_id": 1855,
       "venue_id": 856,
       "event_date": "2026-08-25T19:00:00+00:00",
-      "status": "extratime",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 636,
       "round_name": "Playoff round",
       "group_name": null,
-      "period": "ETHT",
-      "current_minute": 114,
+      "period": "AET",
+      "current_minute": 120,
       "home_score": 5,
       "away_score": 1,
       "home_score_ht": 1,
@@ -65164,12 +65164,12 @@
       "is_neutral_ground": false,
       "travel_distance_km": null,
       "weather": {
-        "code": 3,
-        "description": "rain",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 6.2,
         "temperature_c": 21
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
@@ -67298,7 +67298,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Cardiff 1 - 2 Norwich — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=qpLw8eL7GHw",
+          "thumbnail": "https://i.ytimg.com/vi/qpLw8eL7GHw/hqdefault.jpg",
+          "published_at": "2026-08-25T21:39:28+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 2,
         "home_wins": 1,
