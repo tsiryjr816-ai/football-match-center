@@ -9,9 +9,6 @@ jobs:
   update:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -23,16 +20,25 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4
+          python -m pip install --upgrade pip
+          pip install requests
 
       - name: Run collector
+        env:
+          BSD_API_KEY: ${{ secrets.BSD_API_KEY }}
         run: |
           python .github/workflows/collector.py
 
-      - name: Save updated data
+      - name: Commit updated matches
         run: |
-          git config user.name "football-match-bot"
-          git config user.email "football-match-bot@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add matches.json
-          git diff --cached --quiet || git commit -m "Update football matches"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update football matches"
+            git push
+          fi
