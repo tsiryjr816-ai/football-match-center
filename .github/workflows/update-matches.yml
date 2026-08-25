@@ -27,7 +27,7 @@ jobs:
 
       - name: Run collector
         run: |
-          python collector.py
+          python .github/workflows/collector.py
 
       - name: Save updated data
         run: |
