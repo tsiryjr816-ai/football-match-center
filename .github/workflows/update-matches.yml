@@ -1,4 +1,4 @@
-name: Update football matches
+name: Update Football Matches
 
 on:
   workflow_dispatch:
@@ -14,47 +14,115 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-
-      - name: Checkout
+      # ==============================
+      # 1. DOWNLOAD REPOSITORY
+      # ==============================
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Python
+      # ==============================
+      # 2. INSTALL PYTHON
+      # ==============================
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Install requests
+      # ==============================
+      # 3. INSTALL REQUESTS
+      # ==============================
+      - name: Install dependencies
         run: |
-          python -m pip install requests
+          python -m pip install --upgrade pip
+          pip install requests
 
-      - name: Collect football data
+      # ==============================
+      # 4. RUN COLLECTOR
+      # ==============================
+      - name: Run collector
         env:
           BSD_API_KEY: ${{ secrets.BSD_API_KEY }}
         run: |
           python .github/workflows/collector.py
 
-      - name: Verify JSON files
+      # ==============================
+      # 5. CHECK GENERATED FILES
+      # ==============================
+      - name: Check generated files
         run: |
-          echo "FILES:"
+          echo "======================================"
+          echo "GENERATED FILES"
+          echo "======================================"
+
           ls -lh matches.json
-          ls -lh teams.json
-          ls -lh leagues.json
           ls -lh team_list.json
           ls -lh league_list.json
+          ls -lh teams.json
+          ls -lh leagues.json
 
-      - name: Commit and push
+          echo ""
+          echo "======================================"
+          echo "MATCH COUNT"
+          echo "======================================"
+
+          python - <<'PY'
+          import json
+
+          with open("matches.json", "r", encoding="utf-8") as f:
+              data = json.load(f)
+
+          matches = data.get("matches", [])
+
+          print("TOTAL MATCHES:", len(matches))
+
+          statuses = {}
+
+          for match in matches:
+              status = match.get("status", "unknown")
+              statuses[status] = statuses.get(status, 0) + 1
+
+          print("STATUSES:")
+
+          for status, count in sorted(statuses.items()):
+              print(f"  {status}: {count}")
+          PY
+
+      # ==============================
+      # 6. CONFIGURE GIT
+      # ==============================
+      - name: Configure Git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+      # ==============================
+      # 7. ADD FILES
+      # ==============================
+      - name: Add generated files
+        run: |
           git add matches.json
-          git add teams.json
-          git add leagues.json
           git add team_list.json
           git add league_list.json
+          git add teams.json
+          git add leagues.json
 
-          git diff --cached --quiet || git commit -m "Update football data"
+      # ==============================
+      # 8. COMMIT IF CHANGED
+      # ==============================
+      - name: Commit changes
+        run: |
+          if git diff --cached --quiet; then
+            echo "No changes detected."
+          else
+            git commit -m "Update football matches and data"
+          fi
 
-          git push origin main
+      # ==============================
+      # 9. PUSH TO MAIN
+      # ==============================
+      - name: Push changes
+        run: |
+          git push origin HEAD:main
