@@ -969,8 +969,8 @@ function render(){
 
 
 /* =========================
-   SAFE PREDICTION ENGINE
-   Version légère et sécurisée
+   DEEP PREDICTION ENGINE V2
+   Prudence + forme + home/away + buts
 ========================= */
 
 let predictionCache = new Map();
@@ -979,7 +979,6 @@ function predictionFinishedMatches(){
     return matches.filter(m=>{
         const hs=Number(m.home_score);
         const as=Number(m.away_score);
-
         return getStatus(m)==="finished" &&
                Number.isFinite(hs) &&
                Number.isFinite(as);
@@ -1010,19 +1009,17 @@ function predictionTeamStats(teamId){
 
     const games=predictionTeamHistory(teamId,10);
 
-    let scored=0;
-    let conceded=0;
-    let wins=0;
-    let draws=0;
-    let losses=0;
+    let scored=0, conceded=0;
+    let wins=0, draws=0, losses=0;
+    let over15=0, over25=0, btts=0;
+    let homeGames=0, homeGoals=0, homeConceded=0;
+    let awayGames=0, awayGoals=0, awayConceded=0;
 
     games.forEach(m=>{
 
         const hs=Number(m.home_score);
         const as=Number(m.away_score);
-
-        const isHome=
-            String(m.home_team_id)===key;
+        const isHome=String(m.home_team_id)===key;
 
         const gf=isHome?hs:as;
         const ga=isHome?as:hs;
@@ -1033,29 +1030,56 @@ function predictionTeamStats(teamId){
         if(gf>ga) wins++;
         else if(gf===ga) draws++;
         else losses++;
+
+        if(hs+as>=2) over15++;
+        if(hs+as>=3) over25++;
+        if(hs>=1 && as>=1) btts++;
+
+        if(isHome){
+            homeGames++;
+            homeGoals+=gf;
+            homeConceded+=ga;
+        }else{
+            awayGames++;
+            awayGoals+=gf;
+            awayConceded+=ga;
+        }
     });
 
+    const n=games.length;
+
     const result={
-        games:games.length,
+        games:n,
         scored,
         conceded,
         wins,
         draws,
         losses,
-        avgScored:games.length ? scored/games.length : 0,
-        avgConceded:games.length ? conceded/games.length : 0
+
+        avgScored:n?scored/n:0,
+        avgConceded:n?conceded/n:0,
+
+        over15Rate:n?over15/n:0,
+        over25Rate:n?over25/n:0,
+        bttsRate:n?btts/n:0,
+
+        homeGames,
+        awayGames,
+
+        homeAvgScored:homeGames?homeGoals/homeGames:0,
+        homeAvgConceded:homeGames?homeConceded/homeGames:0,
+
+        awayAvgScored:awayGames?awayGoals/awayGames:0,
+        awayAvgConceded:awayGames?awayConceded/awayGames:0
     };
 
     predictionCache.set(key,result);
-
     return result;
 }
 
 function predictionPoisson(k,lambda){
 
-    if(!Number.isFinite(lambda) || lambda<=0){
-        return 0;
-    }
+    if(!Number.isFinite(lambda) || lambda<=0) return 0;
 
     let factorial=1;
 
@@ -1068,51 +1092,118 @@ function predictionPoisson(k,lambda){
            factorial;
 }
 
+function predictionH2H(homeId,awayId){
+
+    const hid=String(homeId);
+    const aid=String(awayId);
+
+    return predictionFinishedMatches()
+        .filter(m=>{
+            const h=String(m.home_team_id);
+            const a=String(m.away_team_id);
+
+            return (h===hid && a===aid) ||
+                   (h===aid && a===hid);
+        })
+        .sort((a,b)=>
+            new Date(b.event_date)-new Date(a.event_date)
+        )
+        .slice(0,5);
+}
+
 function predictionEngine(match){
 
     const H=predictionTeamStats(match.home_team_id);
     const A=predictionTeamStats(match.away_team_id);
+    const h2h=predictionH2H(
+        match.home_team_id,
+        match.away_team_id
+    );
 
+    /*
+     * Tsy manome SAFE raha tsy misy historique
+     * ampy amin'ny ekipa roa.
+     */
     if(H.games<3 || A.games<3){
 
         return {
             level:"NO BET",
             confidence:0,
             pick:"Données insuffisantes",
-            home:33,
-            draw:34,
-            away:33,
-            over15:0,
-            over25:0,
-            btts:0,
+            home:33, draw:34, away:33,
+            over15:0, over25:0, btts:0,
             score:"-",
-            reason:"Historique insuffisant pour une analyse prudente."
+            reason:
+                `Historique: ${H.games} match(s) Home, `+
+                `${A.games} match(s) Away. `+
+                `Minimum 3 requis.`
         };
     }
 
     /*
-     * Modèle volontairement prudent:
-     * attaque + défense + léger avantage domicile.
+     * Attaque/défense récente.
+     * On privilégie la forme récente sans ignorer
+     * la tendance globale.
      */
+    const homeAttack=
+        (H.avgScored*0.55)+
+        (H.homeAvgScored*0.45 || H.avgScored);
+
+    const homeDefense=
+        (H.avgConceded*0.55)+
+        (H.homeAvgConceded*0.45 || H.avgConceded);
+
+    const awayAttack=
+        (A.avgScored*0.55)+
+        (A.awayAvgScored*0.45 || A.avgScored);
+
+    const awayDefense=
+        (A.avgConceded*0.55)+
+        (A.awayAvgConceded*0.45 || A.avgConceded);
+
     let homeLambda=
-        (H.avgScored*0.60)+
-        (A.avgConceded*0.40);
+        (homeAttack*0.62)+
+        (awayDefense*0.38);
 
     let awayLambda=
-        (A.avgScored*0.60)+
-        (H.avgConceded*0.40);
+        (awayAttack*0.62)+
+        (homeDefense*0.38);
 
+    /* Avantage domicile modéré. */
     homeLambda*=1.08;
 
-    homeLambda=Math.max(
-        0.15,
-        Math.min(homeLambda,4)
-    );
+    /*
+     * Si H2H existe, petite correction seulement.
+     * H2H ne doit jamais dominer la forme récente.
+     */
+    if(h2h.length>=3){
 
-    awayLambda=Math.max(
-        0.15,
-        Math.min(awayLambda,4)
-    );
+        let h2hHomeGoals=0;
+        let h2hAwayGoals=0;
+
+        h2h.forEach(m=>{
+
+            const hs=Number(m.home_score);
+            const as=Number(m.away_score);
+
+            if(String(m.home_team_id)===String(match.home_team_id)){
+                h2hHomeGoals+=hs;
+                h2hAwayGoals+=as;
+            }else{
+                h2hHomeGoals+=as;
+                h2hAwayGoals+=hs;
+            }
+        });
+
+        h2hHomeGoals/=h2h.length;
+        h2hAwayGoals/=h2h.length;
+
+        homeLambda=(homeLambda*0.85)+(h2hHomeGoals*0.15);
+        awayLambda=(awayLambda*0.85)+(h2hAwayGoals*0.15);
+    }
+
+    homeLambda=Math.max(0.15,Math.min(homeLambda,4));
+    awayLambda=Math.max(0.15,Math.min(awayLambda,4));
 
     let homeWin=0;
     let draw=0;
@@ -1147,34 +1238,87 @@ function predictionEngine(match){
         }
     }
 
+    /*
+     * Tendances statistiques du dataset.
+     * Mélange léger avec le modèle probabiliste.
+     */
+    const trendOver15=
+        (H.over15Rate+A.over15Rate)/2;
+
+    const trendOver25=
+        (H.over25Rate+A.over25Rate)/2;
+
+    const trendBTTS=
+        (H.bttsRate+A.bttsRate)/2;
+
+    over15=(over15*0.75)+(trendOver15*0.25);
+    over25=(over25*0.75)+(trendOver25*0.25);
+    btts=(btts*0.75)+(trendBTTS*0.25);
+
     const candidates=[
-        {name:"1X",probability:homeWin+draw},
-        {name:"X2",probability:draw+awayWin},
-        {name:"Over 1.5",probability:over15},
-        {name:"Over 2.5",probability:over25},
-        {name:"BTTS",probability:btts},
-        {name:"Home",probability:homeWin},
-        {name:"Draw",probability:draw},
-        {name:"Away",probability:awayWin}
-    ].sort((a,b)=>b.probability-a.probability);
+        {
+            name:"1X",
+            probability:homeWin+draw
+        },
+        {
+            name:"X2",
+            probability:draw+awayWin
+        },
+        {
+            name:"Over 1.5",
+            probability:over15
+        },
+        {
+            name:"Over 2.5",
+            probability:over25
+        },
+        {
+            name:"BTTS",
+            probability:btts
+        }
+    ];
+
+    candidates.sort((a,b)=>
+        b.probability-a.probability
+    );
 
     const best=candidates[0];
     const second=candidates[1];
 
-    let confidence=Math.round(best.probability*100);
+    let confidence=Math.round(
+        best.probability*100
+    );
+
     let level="NO BET";
 
-    if(confidence>=75) level="SAFE";
-    else if(confidence>=62) level="MEDIUM";
+    if(confidence>=78) level="SAFE";
+    else if(confidence>=64) level="MEDIUM";
     else if(confidence>=52) level="RISK";
 
-    /* Ne jamais afficher SAFE si deux choix sont trop proches. */
+    /*
+     * SAFE uniquement avec marge suffisante
+     * entre le meilleur choix et le second.
+     */
     if(
+        level==="SAFE" &&
         second &&
-        Math.abs(best.probability-second.probability)<0.025 &&
-        level==="SAFE"
+        (best.probability-second.probability)<0.04
     ){
         level="MEDIUM";
+    }
+
+    /*
+     * Très peu de données => plafond de confiance.
+     */
+    if(H.games<5 || A.games<5){
+
+        if(confidence>70){
+            confidence=70;
+        }
+
+        if(level==="SAFE"){
+            level="MEDIUM";
+        }
     }
 
     return {
@@ -1193,9 +1337,11 @@ function predictionEngine(match){
         score:bestScore,
 
         reason:
-            `${H.games} derniers matchs analysés • `+
-            `Home: ${H.wins}V ${H.draws}N ${H.losses}D • `+
-            `Away: ${A.wins}V ${A.draws}N ${A.losses}D`
+            `${H.games} matchs Home • `+
+            `${A.games} matchs Away`+
+            (h2h.length>=3
+                ? ` • ${h2h.length} H2H`
+                : "")
     };
 }
 
@@ -1215,21 +1361,11 @@ function predictionHTML(match){
             p.level==="RISK" ? "🔴" :
             "⚪";
 
-        const pickHTML=
-            p.level==="SAFE"
-                ? `<div class="prediction-pick">
-                    🎯 SAFE PICK:
-                    <strong>${escapeHTML(p.pick)}</strong>
-                  </div>`
-                : `<div class="prediction-pick">
-                    ⚠️ ${escapeHTML(p.pick)}
-                  </div>`;
-
         return `
             <div class="prediction-box">
 
                 <div class="prediction-title">
-                    🤖 ANALYSE & PRÉDICTION
+                    🤖 ANALYSE PROFONDE
                 </div>
 
                 <div class="prediction-level">
@@ -1242,7 +1378,12 @@ function predictionHTML(match){
                     </span>
                 </div>
 
-                ${pickHTML}
+                <div class="prediction-pick">
+                    🎯
+                    <strong>
+                        ${escapeHTML(p.pick)}
+                    </strong>
+                </div>
 
                 <div class="prediction-grid">
 
@@ -1288,7 +1429,7 @@ function predictionHTML(match){
                 </div>
 
                 <div class="prediction-note">
-                    ⚠️ Analyse statistique uniquement. Aucune prédiction n'est garantie.
+                    ⚠️ Analyse statistique. Aucune prédiction n'est garantie.
                 </div>
 
             </div>
@@ -1296,13 +1437,7 @@ function predictionHTML(match){
 
     }catch(error){
 
-        /*
-         * Raha misy bug prediction,
-         * tsy tokony hampijanona ny chargement
-         * na ny affichage des matchs.
-         */
         console.warn("Prediction skipped:",error);
-
         return "";
     }
 }
