@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
@@ -1000,6 +999,46 @@ function predictionTeamHistory(teamId, limit=10){
         .slice(0,limit);
 }
 
+/*
+ * Salan'isa ankapobeny (baseline) alaina amin'ny match
+ * "Terminés" rehetra ao amin'ny dataset. Ampiasaina raha
+ * tsy ampy ny historique manokan'ny ekipa iray, mba tsy
+ * hisian'ny "NO BET" foana rehefa vao mamoaka ny app.
+ */
+function predictionLeagueBaseline(){
+
+    if(predictionCache.has("__baseline__")){
+        return predictionCache.get("__baseline__");
+    }
+
+    const finished=predictionFinishedMatches();
+
+    let goals=0;
+    let sides=0;
+
+    finished.forEach(m=>{
+
+        const hs=Number(m.home_score);
+        const as=Number(m.away_score);
+
+        goals+=hs+as;
+        sides+=2;
+
+    });
+
+    const avg=sides ? goals/sides : 1.2;
+
+    const baseline={
+        avgScored:avg,
+        avgConceded:avg
+    };
+
+    predictionCache.set("__baseline__",baseline);
+
+    return baseline;
+
+}
+
 function predictionTeamStats(teamId){
 
     const key=String(teamId);
@@ -1035,6 +1074,27 @@ function predictionTeamStats(teamId){
         else losses++;
     });
 
+    const baseline=predictionLeagueBaseline();
+
+    /*
+     * Rehefa vitsy ny match manokan'ny ekipa (0-2), ampidirina
+     * tsikelikely ny baseline mba hisian'ny valeur azo ampiasaina,
+     * fa tsy 0 tsotra izay mamono ny prédiction rehetra.
+     * Rehefa 3+ ny match, dia ny data manokany ihany no ampiasaina.
+     */
+    const rawAvgScored=games.length ? scored/games.length : baseline.avgScored;
+    const rawAvgConceded=games.length ? conceded/games.length : baseline.avgConceded;
+
+    const weight=Math.min(games.length,3)/3;
+
+    const avgScored=
+        (rawAvgScored*weight)+
+        (baseline.avgScored*(1-weight));
+
+    const avgConceded=
+        (rawAvgConceded*weight)+
+        (baseline.avgConceded*(1-weight));
+
     const result={
         games:games.length,
         scored,
@@ -1042,8 +1102,8 @@ function predictionTeamStats(teamId){
         wins,
         draws,
         losses,
-        avgScored:games.length ? scored/games.length : 0,
-        avgConceded:games.length ? conceded/games.length : 0
+        avgScored,
+        avgConceded
     };
 
     predictionCache.set(key,result);
@@ -1073,7 +1133,14 @@ function predictionEngine(match){
     const H=predictionTeamStats(match.home_team_id);
     const A=predictionTeamStats(match.away_team_id);
 
-    if(H.games<3 || A.games<3){
+    /*
+     * NO BET tokoa raha tena tsy manana historique mihitsy
+     * ny ekipa roa tonta (0 match Terminés voarakitra).
+     * Raha manana kely (1-2 match) izy ireo, dia mbola
+     * andrasana ny prédiction fa ampidirina "data-quality
+     * discount" ny confidence (jereo etsy ambany).
+     */
+    if(H.games===0 && A.games===0){
 
         return {
             level:"NO BET",
@@ -1086,7 +1153,7 @@ function predictionEngine(match){
             over25:0,
             btts:0,
             score:"-",
-            reason:"Historique insuffisant pour une analyse prudente."
+            reason:"Aucun historique disponible pour ces deux équipes."
         };
     }
 
@@ -1095,480 +1162,4 @@ function predictionEngine(match){
      * attaque + défense + léger avantage domicile.
      */
     let homeLambda=
-        (H.avgScored*0.60)+
-        (A.avgConceded*0.40);
-
-    let awayLambda=
-        (A.avgScored*0.60)+
-        (H.avgConceded*0.40);
-
-    homeLambda*=1.08;
-
-    homeLambda=Math.max(
-        0.15,
-        Math.min(homeLambda,4)
-    );
-
-    awayLambda=Math.max(
-        0.15,
-        Math.min(awayLambda,4)
-    );
-
-    let homeWin=0;
-    let draw=0;
-    let awayWin=0;
-    let over15=0;
-    let over25=0;
-    let btts=0;
-
-    let bestScore="0-0";
-    let bestScoreProb=0;
-
-    for(let h=0;h<=6;h++){
-
-        for(let a=0;a<=6;a++){
-
-            const p=
-                predictionPoisson(h,homeLambda)*
-                predictionPoisson(a,awayLambda);
-
-            if(h>a) homeWin+=p;
-            else if(h===a) draw+=p;
-            else awayWin+=p;
-
-            if(h+a>=2) over15+=p;
-            if(h+a>=3) over25+=p;
-            if(h>=1 && a>=1) btts+=p;
-
-            if(p>bestScoreProb){
-                bestScoreProb=p;
-                bestScore=`${h}-${a}`;
-            }
-        }
-    }
-
-    const candidates=[
-        {name:"1X",probability:homeWin+draw},
-        {name:"X2",probability:draw+awayWin},
-        {name:"Over 1.5",probability:over15},
-        {name:"Over 2.5",probability:over25},
-        {name:"BTTS",probability:btts},
-        {name:"Home",probability:homeWin},
-        {name:"Draw",probability:draw},
-        {name:"Away",probability:awayWin}
-    ].sort((a,b)=>b.probability-a.probability);
-
-    const best=candidates[0];
-    const second=candidates[1];
-
-    let confidence=Math.round(best.probability*100);
-    let level="NO BET";
-
-    if(confidence>=75) level="SAFE";
-    else if(confidence>=62) level="MEDIUM";
-    else if(confidence>=52) level="RISK";
-
-    /* Ne jamais afficher SAFE si deux choix sont trop proches. */
-    if(
-        second &&
-        Math.abs(best.probability-second.probability)<0.025 &&
-        level==="SAFE"
-    ){
-        level="MEDIUM";
-    }
-
-    return {
-        level,
-        confidence,
-        pick:best.name,
-
-        home:Math.round(homeWin*100),
-        draw:Math.round(draw*100),
-        away:Math.round(awayWin*100),
-
-        over15:Math.round(over15*100),
-        over25:Math.round(over25*100),
-        btts:Math.round(btts*100),
-
-        score:bestScore,
-
-        reason:
-            `${H.games} derniers matchs analysés • `+
-            `Home: ${H.wins}V ${H.draws}N ${H.losses}D • `+
-            `Away: ${A.wins}V ${A.draws}N ${A.losses}D`
-    };
-}
-
-function predictionHTML(match){
-
-    if(getStatus(match)!=="upcoming"){
-        return "";
-    }
-
-    try{
-
-        const p=predictionEngine(match);
-
-        const icon=
-            p.level==="SAFE" ? "🟢" :
-            p.level==="MEDIUM" ? "🟡" :
-            p.level==="RISK" ? "🔴" :
-            "⚪";
-
-        const pickHTML=
-            p.level==="SAFE"
-                ? `<div class="prediction-pick">
-                    🎯 SAFE PICK:
-                    <strong>${escapeHTML(p.pick)}</strong>
-                  </div>`
-                : `<div class="prediction-pick">
-                    ⚠️ ${escapeHTML(p.pick)}
-                  </div>`;
-
-        return `
-            <div class="prediction-box">
-
-                <div class="prediction-title">
-                    🤖 ANALYSE & PRÉDICTION
-                </div>
-
-                <div class="prediction-level">
-                    <strong>
-                        ${icon} ${escapeHTML(p.level)}
-                    </strong>
-
-                    <span>
-                        ${p.confidence}% confiance
-                    </span>
-                </div>
-
-                ${pickHTML}
-
-                <div class="prediction-grid">
-
-                    <div>
-                        <small>1</small>
-                        <strong>${p.home}%</strong>
-                    </div>
-
-                    <div>
-                        <small>X</small>
-                        <strong>${p.draw}%</strong>
-                    </div>
-
-                    <div>
-                        <small>2</small>
-                        <strong>${p.away}%</strong>
-                    </div>
-
-                    <div>
-                        <small>O1.5</small>
-                        <strong>${p.over15}%</strong>
-                    </div>
-
-                    <div>
-                        <small>O2.5</small>
-                        <strong>${p.over25}%</strong>
-                    </div>
-
-                    <div>
-                        <small>BTTS</small>
-                        <strong>${p.btts}%</strong>
-                    </div>
-
-                </div>
-
-                <div class="prediction-score">
-                    ⚽ Score probable:
-                    <strong>${escapeHTML(p.score)}</strong>
-                </div>
-
-                <div class="prediction-reason">
-                    ${escapeHTML(p.reason)}
-                </div>
-
-                <div class="prediction-note">
-                    ⚠️ Analyse statistique uniquement. Aucune prédiction n'est garantie.
-                </div>
-
-            </div>
-        `;
-
-    }catch(error){
-
-        /*
-         * Raha misy bug prediction,
-         * tsy tokony hampijanona ny chargement
-         * na ny affichage des matchs.
-         */
-        console.warn("Prediction skipped:",error);
-
-        return "";
-    }
-}
-
-/* =========================
-   MATCH CARD
-========================= */
-
-function matchHTML(m){
-
-    const status=getStatus(m);
-
-    const prediction=predictionHTML(m);
-
-    const date=new Date(m.event_date);
-
-    const home=
-        teams[String(m.home_team_id)]||
-        {
-            id:m.home_team_id,
-            name:m.home_team
-        };
-
-
-    const away=
-        teams[String(m.away_team_id)]||
-        {
-            id:m.away_team_id,
-            name:m.away_team
-        };
-
-
-    const homeName=
-        home.name||
-        m.home_team||
-        "Home";
-
-
-    const awayName=
-        away.name||
-        m.away_team||
-        "Away";
-
-
-    let center="";
-
-
-    if(status==="upcoming"){
-
-        center=`<div class="score vs">VS</div>`;
-
-    }else{
-
-        center=`
-        <div class="score">
-            ${safeScore(m.home_score)}
-            -
-            ${safeScore(m.away_score)}
-        </div>`;
-
-    }
-
-
-    let badge="";
-
-
-    if(status==="live"){
-
-        const minute=m.current_minute;
-
-        badge=`
-            <span class="badge live">
-                <span class="live-dot"></span>LIVE
-                ${minute!==null&&minute!==undefined&&minute!==""
-                    ?`<span class="minute">${escapeHTML(minute)}'</span>`
-                    :""
-                }
-            </span>`;
-
-    }else if(status==="finished"){
-
-        badge=`<span class="badge finished">✓ Terminé</span>`;
-
-    }else{
-
-        badge=`<span class="badge upcoming">🕐 À venir</span>`;
-
-    }
-
-
-    return `
-    <article class="match ${status==="live"?"live-card":""}">
-
-        <div class="match-top">
-
-            <div class="time">
-                ${formatTime(date)}
-            </div>
-
-            <div>
-                ${badge}
-            </div>
-
-        </div>
-
-
-        <div class="teams">
-
-            <div class="team home">
-
-                <div class="team-name">
-                    ${escapeHTML(homeName)}
-                </div>
-
-                ${logoHTML(home,homeName)}
-
-            </div>
-
-
-            <div class="center">
-                ${center}
-            </div>
-
-
-            <div class="team away">
-
-                ${logoHTML(away,awayName)}
-
-                <div class="team-name">
-                    ${escapeHTML(awayName)}
-                </div>
-
-            </div>
-
-        </div>
-
-        ${prediction}
-
-        ${
-            m.round_name
-            ?`<div class="match-meta">
-                ${escapeHTML(m.round_name)}
-              </div>`
-            :""
-        }
-
-    </article>`;
-}
-
-
-/* =========================
-   SUMMARY
-========================= */
-
-function updateSummary(){
-
-    const live=matches.filter(m=>getStatus(m)==="live").length;
-    const upcoming=matches.filter(m=>getStatus(m)==="upcoming").length;
-    const finished=matches.filter(m=>getStatus(m)==="finished").length;
-
-
-    document.getElementById("summary").innerHTML=`
-
-        <div class="summary-row">
-
-            <strong>
-                ${matches.length} matchs
-            </strong>
-
-            <button class="refresh" onclick="init()">
-                🔄 Actualiser
-            </button>
-
-        </div>
-
-        <div class="counts">
-
-            <span class="count live">
-                🔴 ${live} Live
-            </span>
-
-            <span class="count upcoming">
-                🕐 ${upcoming} À venir
-            </span>
-
-            <span class="count finished">
-                ✓ ${finished} Terminés
-            </span>
-
-        </div>
-
-    `;
-
-}
-
-
-/* =========================
-   SECURITY
-========================= */
-
-function escapeHTML(value){
-
-    return String(value??"")
-        .replace(/&/g,"&amp;")
-        .replace(/</g,"&lt;")
-        .replace(/>/g,"&gt;")
-        .replace(/"/g,"&quot;")
-        .replace(/'/g,"&#039;");
-
-}
-
-
-function escapeAttr(value){
-
-    return escapeHTML(value);
-
-}
-
-
-function safeScore(value){
-
-    return value===null||
-           value===undefined||
-           value===""
-        ?"-"
-        :escapeHTML(value);
-
-}
-
-
-/* =========================
-   TABS
-========================= */
-
-document.querySelectorAll(".tab").forEach(btn=>{
-
-    btn.addEventListener("click",()=>{
-
-        document.querySelectorAll(".tab")
-            .forEach(b=>b.classList.remove("active"));
-
-        btn.classList.add("active");
-
-        currentFilter=btn.dataset.filter;
-
-        render();
-
-    });
-
-});
-
-
-/* =========================
-   START
-========================= */
-
-init();
-
-
-/* Auto refresh 5 minutes */
-
-setInterval(()=>{
-    init();
-},300000);
-
-</script>
-
-</body>
-</html>
+        (H.avgScored*0
