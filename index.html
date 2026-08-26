@@ -1,1315 +1,1135 @@
 <!DOCTYPE html>
+
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 <title>Football Match Center</title>
 
 <style>
-/* =========================================================
-   RESET
-========================================================= */
-
-*{
-    box-sizing:border-box;
-}
-
-html{
-    scroll-behavior:smooth;
-}
+*{box-sizing:border-box;margin:0;padding:0}
 
 body{
-    margin:0;
-    background:#f4f6f9;
-    color:#17243b;
-    font-family:
-        Inter,
-        -apple-system,
-        BlinkMacSystemFont,
-        "Segoe UI",
-        Arial,
-        Helvetica,
-        sans-serif;
+    font-family:Inter,Arial,sans-serif;
+    background:#f1f4f8;
+    color:#172033;
 }
 
-/* =========================================================
-   VARIABLES
-========================================================= */
-
-:root{
-    --primary:#123d72;
-    --primary-dark:#0d2f5b;
-    --text:#17243b;
-    --muted:#718096;
-    --light:#f7f9fc;
-    --border:#e3e8ef;
-    --white:#ffffff;
-    --live:#e53935;
-    --live-bg:#fff1f1;
-    --finished:#159765;
-    --finished-bg:#edf9f3;
-    --upcoming:#66758a;
-    --upcoming-bg:#f1f4f8;
-    --shadow:0 4px 18px rgba(19,45,76,.07);
+header{
+    background:linear-gradient(135deg,#06182d,#0b4f87);
+    color:#fff;
+    padding:16px 12px 12px;
+    position:sticky;
+    top:0;
+    z-index:50;
+    box-shadow:0 3px 15px rgba(0,0,0,.18);
 }
-
-/* =========================================================
-   HEADER
-========================================================= */
 
 .header{
-    background:#ffffff;
-    padding:20px 16px 18px;
-    border-bottom:1px solid var(--border);
-    box-shadow:0 2px 12px rgba(15,35,65,.05);
-}
-
-.header-inner{
-    max-width:760px;
+    max-width:850px;
     margin:auto;
 }
 
-.logo{
+.brand{
     display:flex;
     align-items:center;
-    gap:11px;
-
-    color:var(--primary);
-
-    font-size:24px;
-    font-weight:800;
-    letter-spacing:-.5px;
+    gap:10px;
 }
 
-.logo-icon{
-    width:43px;
-    height:43px;
-
+.ball{
+    width:42px;
+    height:42px;
+    border-radius:50%;
+    background:#fff;
     display:flex;
     align-items:center;
     justify-content:center;
-
-    border-radius:12px;
-
-    background:#edf3fa;
-
-    font-size:24px;
+    font-size:23px;
 }
 
-.subtitle{
-    margin-top:5px;
-    margin-left:54px;
-
-    color:var(--muted);
-
-    font-size:13px;
+.brand h1{
+    font-size:19px;
 }
 
-/* =========================================================
-   DATE BAR
-========================================================= */
-
-.date-bar{
-    position:sticky;
-    top:0;
-    z-index:30;
-
-    display:flex;
-    align-items:center;
-    justify-content:space-between;
-
-    max-width:760px;
-    margin:0 auto;
-
-    padding:10px 12px;
-
-    background:rgba(255,255,255,.96);
-
-    border-bottom:1px solid var(--border);
-
-    box-shadow:0 2px 10px rgba(15,35,65,.05);
-
-    backdrop-filter:blur(10px);
-}
-
-.date-button{
-    width:44px;
-    height:44px;
-
-    border:1px solid #dbe2ea;
-    border-radius:12px;
-
-    background:#ffffff;
-    color:var(--primary);
-
-    font-size:22px;
-    font-weight:700;
-
-    cursor:pointer;
-
-    box-shadow:0 2px 6px rgba(15,35,65,.04);
-
-    transition:.15s ease;
-}
-
-.date-button:hover{
-    background:#f5f8fc;
-}
-
-.date-button:active{
-    transform:scale(.94);
-}
-
-.date-center{
-    flex:1;
-    text-align:center;
-}
-
-.date-title{
-    color:var(--primary);
-
-    font-size:18px;
-    font-weight:800;
-
-    text-transform:capitalize;
-}
-
-.date-full{
+.brand p{
+    font-size:11px;
+    opacity:.72;
     margin-top:3px;
+}
 
-    color:var(--muted);
+.tabs{
+    display:flex;
+    gap:7px;
+    overflow-x:auto;
+    margin-top:14px;
+    scrollbar-width:none;
+}
 
+.tabs::-webkit-scrollbar{display:none}
+
+.tab{
+    border:0;
+    border-radius:22px;
+    padding:9px 14px;
+    background:rgba(255,255,255,.12);
+    color:#fff;
+    white-space:nowrap;
+    font-size:12px;
+    font-weight:600;
+}
+
+.tab.active{
+    background:#fff;
+    color:#0b4f87;
+}
+
+main{
+    max-width:850px;
+    margin:auto;
+    padding:10px 8px 50px;
+}
+
+.summary{
+    background:#fff;
+    border-radius:13px;
+    padding:12px;
+    margin-bottom:10px;
+    box-shadow:0 2px 9px rgba(0,0,0,.06);
     font-size:12px;
 }
 
-/* =========================================================
-   STATS
-========================================================= */
-
-.stats{
+.summary-row{
     display:flex;
-    gap:10px;
-
-    max-width:760px;
-    margin:0 auto;
-
-    padding:12px;
-
-    overflow-x:auto;
+    justify-content:space-between;
+    align-items:center;
+    gap:8px;
 }
 
-.stat{
-    flex:1;
-    min-width:100px;
-
-    padding:13px 10px;
-
-    background:#ffffff;
-
-    border:1px solid var(--border);
-    border-radius:13px;
-
-    text-align:center;
-
-    box-shadow:var(--shadow);
+.counts{
+    display:flex;
+    gap:7px;
+    flex-wrap:wrap;
+    margin-top:8px;
 }
 
-.stat-number{
-    color:var(--primary);
+.count{
+    padding:5px 8px;
+    border-radius:7px;
+    background:#f1f5f9;
+    font-size:11px;
+}
 
-    font-size:21px;
+.count.live{
+    color:#dc163d;
+    background:#fff0f2;
+}
+
+.count.upcoming{
+    color:#087f5b;
+    background:#eafbf4;
+}
+
+.count.finished{
+    color:#64748b;
+}
+
+.refresh{
+    border:0;
+    background:#0b4f87;
+    color:#fff;
+    padding:7px 10px;
+    border-radius:8px;
+    font-size:11px;
+}
+
+.day{
+    margin:16px 2px 8px;
+    font-size:13px;
     font-weight:800;
+    color:#334155;
+    text-transform:capitalize;
 }
-
-.stat-label{
-    margin-top:4px;
-
-    color:#8995a6;
-
-    font-size:10px;
-    font-weight:700;
-
-    letter-spacing:.5px;
-}
-
-/* =========================================================
-   MAIN
-========================================================= */
-
-.container{
-    max-width:760px;
-    margin:0 auto;
-
-    padding:0 12px 35px;
-}
-
-/* =========================================================
-   LEAGUE
-========================================================= */
 
 .league{
-    margin-top:15px;
-
+    background:#fff;
+    border-radius:14px;
+    margin-bottom:11px;
     overflow:hidden;
+    box-shadow:0 2px 9px rgba(0,0,0,.06);
+}
 
-    background:#ffffff;
-
-    border:1px solid var(--border);
-    border-radius:15px;
-
-    box-shadow:var(--shadow);
+.league-head{
+    padding:10px 12px;
+    background:#f8fafc;
+    border-bottom:1px solid #e8edf2;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
 }
 
 .league-title{
     display:flex;
     align-items:center;
-    gap:8px;
-
-    padding:13px 15px;
-
-    background:#ffffff;
-
-    color:var(--primary);
-
-    font-size:14px;
-    font-weight:800;
-
-    border-bottom:1px solid var(--border);
+    gap:9px;
+    min-width:0;
 }
 
 .league-icon{
-    width:28px;
-    height:28px;
-
+    width:31px;
+    height:31px;
+    border-radius:8px;
+    background:#e9eff6;
     display:flex;
     align-items:center;
     justify-content:center;
-
-    border-radius:8px;
-
-    background:#eef4fb;
-
-    font-size:14px;
+    flex:none;
 }
 
-/* =========================================================
-   MATCH
-========================================================= */
+.league-name{
+    font-size:13px;
+    font-weight:800;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+
+.country{
+    color:#8a96a5;
+    font-size:10px;
+    margin-top:2px;
+}
+
+.league-games{
+    color:#8a96a5;
+    font-size:10px;
+}
 
 .match{
-    display:grid;
+    padding:12px 10px;
+    border-bottom:1px solid #edf1f5;
+}
 
-    grid-template-columns:62px 1fr 70px;
+.match:last-child{
+    border-bottom:0;
+}
 
+.match-top{
+    display:flex;
+    justify-content:space-between;
     align-items:center;
-
-    gap:8px;
-
-    min-height:108px;
-
-    padding:14px 12px;
-
-    background:#ffffff;
-
-    border-top:1px solid #edf0f4;
-
-    transition:.15s ease;
+    margin-bottom:10px;
 }
-
-.match:first-of-type{
-    border-top:0;
-}
-
-.match:hover{
-    background:#fbfcfe;
-}
-
-/* =========================================================
-   TIME
-========================================================= */
 
 .time{
-    display:flex;
-    flex-direction:column;
-    align-items:center;
-    justify-content:center;
-
-    color:#506078;
-
     font-size:12px;
-    font-weight:700;
-
-    text-align:center;
+    font-weight:800;
+    color:#475569;
 }
 
-.time-icon{
-    margin-bottom:4px;
-
-    color:#a0aaba;
-
-    font-size:11px;
+.badge{
+    font-size:10px;
+    font-weight:800;
 }
 
-/* =========================================================
-   TEAMS
-========================================================= */
+.badge.live{
+    color:#e11d48;
+}
+
+.badge.finished{
+    color:#64748b;
+}
+
+.badge.upcoming{
+    color:#087f5b;
+}
+
+.minute{
+    margin-left:4px;
+    color:#e11d48;
+}
 
 .teams{
-    display:flex;
-    flex-direction:column;
+    display:grid;
+    grid-template-columns:minmax(0,1fr) 55px minmax(0,1fr);
     align-items:center;
-    justify-content:center;
-
-    min-width:0;
-
-    text-align:center;
+    gap:7px;
 }
 
 .team{
-    max-width:100%;
+    display:flex;
+    align-items:center;
+    gap:7px;
+    min-width:0;
+}
 
-    margin:3px 0;
+.home{
+    justify-content:flex-end;
+    text-align:right;
+}
 
-    overflow:hidden;
+.away{
+    justify-content:flex-start;
+    text-align:left;
+}
 
-    color:#17243b;
-
-    font-size:15px;
+.team-name{
+    font-size:12px;
     font-weight:700;
+    line-height:1.2;
+    word-break:break-word;
+}
 
-    line-height:1.25;
+.logo{
+    width:38px;
+    height:38px;
+    object-fit:contain;
+    flex:none;
+}
 
-    text-overflow:ellipsis;
+.logo-fallback{
+    width:38px;
+    height:38px;
+    border-radius:50%;
+    background:#edf1f5;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:17px;
+    flex:none;
+}
+
+.center{
+    text-align:center;
+}
+
+.score{
+    font-size:19px;
+    font-weight:900;
     white-space:nowrap;
 }
 
 .vs{
-    margin:1px 0;
+    color:#94a3b8;
+    font-size:12px;
+    font-weight:900;
+}
 
-    color:#a0aaba;
-
+.match-meta{
+    text-align:center;
+    margin-top:8px;
+    color:#94a3b8;
     font-size:9px;
-    font-weight:700;
-
-    letter-spacing:.5px;
 }
 
-/* =========================================================
-   STATUS
-========================================================= */
-
-.status{
-    display:inline-flex;
-    align-items:center;
-    justify-content:center;
-
-    margin-top:5px;
-
-    padding:4px 9px;
-
-    border-radius:20px;
-
-    background:var(--upcoming-bg);
-    color:var(--upcoming);
-
-    border:1px solid #e2e7ee;
-
-    font-size:9px;
-    font-weight:800;
-
-    letter-spacing:.3px;
+.live-card{
+    background:linear-gradient(180deg,#fff,#fff8f9);
 }
 
-.status.live{
-    background:var(--live-bg);
-    color:var(--live);
-
-    border-color:#ffd5d5;
-}
-
-.status.live::before{
-    content:"";
-
+.live-dot{
+    display:inline-block;
     width:6px;
     height:6px;
-
-    margin-right:5px;
-
+    background:#e11d48;
     border-radius:50%;
-
-    background:var(--live);
-
-    animation:pulse 1.3s infinite;
-}
-
-.status.finished{
-    background:var(--finished-bg);
-    color:var(--finished);
-
-    border-color:#cceedd;
-}
-
-.status.finished::before{
-    content:"✓";
-
     margin-right:4px;
 }
 
-@keyframes pulse{
-
-    0%{
-        opacity:1;
-        transform:scale(1);
-    }
-
-    50%{
-        opacity:.45;
-        transform:scale(.75);
-    }
-
-    100%{
-        opacity:1;
-        transform:scale(1);
-    }
-
-}
-
-/* =========================================================
-   SCORE
-========================================================= */
-
-.score{
-    display:flex;
-    align-items:center;
-    justify-content:center;
-
-    min-height:60px;
-
-    color:var(--primary);
-
-    font-size:18px;
-    font-weight:900;
-
+.empty{
+    background:#fff;
+    border-radius:13px;
+    padding:35px 15px;
     text-align:center;
+    color:#64748b;
+    font-size:13px;
 }
 
-/* =========================================================
-   EMPTY / LOADING
-========================================================= */
-
-.empty,
 .loading{
-    margin-top:15px;
-
-    padding:55px 20px;
-
-    background:#ffffff;
-
-    border:1px solid var(--border);
-    border-radius:15px;
-
-    color:#7d8999;
-
     text-align:center;
-
-    box-shadow:var(--shadow);
+    padding:40px 10px;
+    color:#64748b;
 }
 
-.empty-icon,
-.loading-icon{
-    display:block;
-
-    margin-bottom:12px;
-
-    font-size:34px;
+.error{
+    background:#fff0f0;
+    color:#a40000;
+    padding:14px;
+    border-radius:12px;
+    font-size:12px;
 }
 
-/* =========================================================
-   FOOTER
-========================================================= */
+@media(max-width:480px){
 
-.footer{
-    max-width:760px;
-    margin:0 auto;
-
-    padding:5px 20px 28px;
-
-    color:#8b96a5;
-
-    font-size:11px;
-
-    text-align:center;
-}
-
-/* =========================================================
-   MOBILE
-========================================================= */
-
-@media(max-width:600px){
-
-    .header{
-        padding:17px 14px 16px;
+    header{
+        padding:13px 9px 10px;
     }
 
-    .logo{
-        font-size:21px;
+    .brand h1{
+        font-size:17px;
     }
 
-    .logo-icon{
-        width:40px;
-        height:40px;
-
-        font-size:22px;
+    main{
+        padding:8px 6px 40px;
     }
 
-    .subtitle{
-        margin-left:51px;
-        font-size:12px;
+    .teams{
+        grid-template-columns:minmax(0,1fr) 48px minmax(0,1fr);
     }
 
-    .date-bar{
-        padding:9px 10px;
-    }
-
-    .date-button{
-        width:42px;
-        height:42px;
-
-        font-size:20px;
-    }
-
-    .date-title{
-        font-size:16px;
-    }
-
-    .date-full{
+    .team-name{
         font-size:11px;
     }
 
-    .stats{
-        gap:7px;
-        padding:10px 9px;
-    }
-
-    .stat{
-        min-width:88px;
-        padding:11px 8px;
-    }
-
-    .stat-number{
-        font-size:19px;
-    }
-
-    .stat-label{
-        font-size:9px;
-    }
-
-    .container{
-        padding:0 9px 30px;
-    }
-
-    .league{
-        border-radius:13px;
-    }
-
-    .league-title{
-        padding:12px 13px;
-        font-size:13px;
-    }
-
-    .match{
-        grid-template-columns:55px 1fr 62px;
-
-        min-height:103px;
-
-        padding:13px 8px;
-
-        gap:5px;
-    }
-
-    .time{
-        font-size:11px;
-    }
-
-    .team{
-        font-size:14px;
+    .logo,
+    .logo-fallback{
+        width:34px;
+        height:34px;
     }
 
     .score{
         font-size:17px;
     }
-
-    .status{
-        padding:3px 7px;
-        font-size:8px;
-    }
-}
-
-/* =========================================================
-   SMALL PHONES
-========================================================= */
-
-@media(max-width:380px){
-
-    .match{
-        grid-template-columns:51px 1fr 57px;
-
-        padding-left:6px;
-        padding-right:6px;
-    }
-
-    .team{
-        font-size:13px;
-    }
-
-    .time{
-        font-size:10px;
-    }
-
-    .score{
-        font-size:16px;
-    }
-
-    .status{
-        padding:3px 6px;
-        font-size:7px;
-    }
-
 }
 </style>
+
 </head>
 
 <body>
 
-<!-- =====================================================
-     HEADER
-===================================================== -->
+<header>
+<div class="header">
 
-<header class="header">
-
-    <div class="header-inner">
-
-        <div class="logo">
-
-            <div class="logo-icon">
-                ⚽
-            </div>
-
-            <div>
-                Football Match Center
-            </div>
-
-        </div>
-
-        <div class="subtitle">
-            Fixtures & résultats automatiques
-        </div>
-
+```
+<div class="brand">
+    <div class="ball">⚽</div>
+    <div>
+        <h1>Football Match Center</h1>
+        <p>Live • Résultats • Matchs à venir</p>
     </div>
+</div>
 
+<div class="tabs">
+    <button class="tab active" data-filter="all">Tous</button>
+    <button class="tab" data-filter="live">🔴 Live</button>
+    <button class="tab" data-filter="upcoming">🕐 À venir</button>
+    <button class="tab" data-filter="finished">✓ Terminés</button>
+</div>
+```
+
+</div>
 </header>
 
+<main>
 
-<!-- =====================================================
-     DATE NAVIGATION
-===================================================== -->
-
-<div class="date-bar">
-
-    <button
-        class="date-button"
-        onclick="changeDay(-1)"
-        aria-label="Jour précédent"
-    >
-        ←
-    </button>
-
-
-    <div class="date-center">
-
-        <div
-            id="dateTitle"
-            class="date-title"
-        >
-            Chargement...
-        </div>
-
-        <div
-            id="dateFull"
-            class="date-full"
-        >
-        </div>
-
-    </div>
-
-
-    <button
-        class="date-button"
-        onclick="changeDay(1)"
-        aria-label="Jour suivant"
-    >
-        →
-    </button>
-
+<div id="summary" class="summary">
+    <div class="loading">Chargement des matchs...</div>
 </div>
 
-
-<!-- =====================================================
-     STATISTICS
-===================================================== -->
-
-<div class="stats">
-
-    <div class="stat">
-
-        <div
-            id="totalMatches"
-            class="stat-number"
-        >
-            0
-        </div>
-
-        <div class="stat-label">
-            MATCHS
-        </div>
-
-    </div>
-
-
-    <div class="stat">
-
-        <div
-            id="liveMatches"
-            class="stat-number"
-        >
-            0
-        </div>
-
-        <div class="stat-label">
-            LIVE
-        </div>
-
-    </div>
-
-
-    <div class="stat">
-
-        <div
-            id="finishedMatches"
-            class="stat-number"
-        >
-            0
-        </div>
-
-        <div class="stat-label">
-            TERMINÉS
-        </div>
-
-    </div>
-
+<div id="matches">
+    <div class="loading">⏳ Chargement...</div>
 </div>
-
-
-<!-- =====================================================
-     MATCHES
-===================================================== -->
-
-<main class="container">
-
-    <div id="matches">
-
-        <div class="loading">
-
-            <span class="loading-icon">
-                ⚽
-            </span>
-
-            Chargement des matchs...
-
-        </div>
-
-    </div>
 
 </main>
 
-
-<!-- =====================================================
-     FOOTER
-===================================================== -->
-
-<div class="footer">
-
-    Données mises à jour automatiquement
-
-</div>
-
-
 <script>
 
-/* =====================================================
-   VARIABLES
-===================================================== */
+const MATCHES_URL="./matches.json";
+const TEAMS_URL="./teams.json";
+const LEAGUES_URL="./leagues.json";
 
-let allMatches = [];
+let matches=[];
+let teams={};
+let leagues={};
+let currentFilter="all";
 
-let currentDate = new Date();
-
-const MADAGASCAR_TIMEZONE =
-    "Indian/Antananarivo";
-
-
-/* =====================================================
-   MOIS
-===================================================== */
-
-const MONTHS = [
-
-    "janvier",
-    "février",
-    "mars",
-    "avril",
-    "mai",
-    "juin",
-    "juillet",
-    "août",
-    "septembre",
-    "octobre",
-    "novembre",
-    "décembre"
-
-];
+const TZ="Indian/Antananarivo";
 
 
-/* =====================================================
-   DATE MADAGASCAR
-===================================================== */
+async function loadJSON(url){
 
-function getMadagascarDate(dateString){
+    const r=await fetch(url+"?v="+Date.now(),{
+        cache:"no-store"
+    });
 
-    const date =
-        new Date(dateString);
+    if(!r.ok){
+        throw new Error(url+" HTTP "+r.status);
+    }
 
-    return new Intl.DateTimeFormat(
+    return await r.json();
+}
 
-        "en-CA",
 
-        {
-            timeZone: MADAGASCAR_TIMEZONE,
+/* =========================
+   LOAD DATA
+========================= */
 
-            year: "numeric",
-            month: "2-digit",
-            day: "2-digit"
+async function init(){
+
+    try{
+
+        const matchData=await loadJSON(MATCHES_URL);
+
+        matches=Array.isArray(matchData)
+            ? matchData
+            : (matchData.matches||[]);
+
+
+        /* Teams */
+
+        try{
+
+            const teamData=await loadJSON(TEAMS_URL);
+
+            const list=Array.isArray(teamData)
+                ? teamData
+                : (teamData.results||[]);
+
+            list.forEach(t=>{
+                teams[String(t.id)]=t;
+            });
+
+        }catch(e){
+            console.warn("Teams:",e);
         }
 
-    ).format(date);
 
-}
+        /* Leagues */
 
+        try{
 
-/* =====================================================
-   HEURE MADAGASCAR
-===================================================== */
+            const leagueData=await loadJSON(LEAGUES_URL);
 
-function getMadagascarTime(dateString){
+            const list=Array.isArray(leagueData)
+                ? leagueData
+                : (leagueData.results||[]);
 
-    const date =
-        new Date(dateString);
+            list.forEach(l=>{
+                leagues[String(l.id)]=l;
+            });
 
-    return new Intl.DateTimeFormat(
-
-        "fr-FR",
-
-        {
-            timeZone: MADAGASCAR_TIMEZONE,
-
-            hour: "2-digit",
-            minute: "2-digit",
-
-            hour12: false
+        }catch(e){
+            console.warn("Leagues:",e);
         }
 
-    ).format(date);
 
-}
+        matches.sort((a,b)=>{
 
+            return new Date(a.event_date||0)
+                -new Date(b.event_date||0);
 
-/* =====================================================
-   DATE SELECTIONNEE
-===================================================== */
-
-function getSelectedDate(){
-
-    return new Intl.DateTimeFormat(
-
-        "en-CA",
-
-        {
-            timeZone: MADAGASCAR_TIMEZONE,
-
-            year: "numeric",
-            month: "2-digit",
-            day: "2-digit"
-        }
-
-    ).format(currentDate);
-
-}
+        });
 
 
-/* =====================================================
-   FORMAT DATE
-===================================================== */
+        render();
 
-function formatDate(date){
+    }catch(error){
 
-    const day =
-        date.getDate();
+        console.error(error);
 
-    const month =
-        MONTHS[date.getMonth()];
+        document.getElementById("summary").innerHTML=
+            `<div class="error">
+                ❌ Impossible de charger les matchs.<br>
+                <small>${escapeHTML(error.message)}</small>
+            </div>`;
 
-    const year =
-        date.getFullYear();
-
-    return `${day} ${month} ${year}`;
-
-}
-
-
-/* =====================================================
-   STATUS NORMALIZATION
-===================================================== */
-
-function normalizeStatus(status){
-
-    return String(status || "")
-
-        .toLowerCase()
-
-        .replace(/[\s_-]/g, "");
-
-}
-
-
-/* =====================================================
-   STATUS MATCH
-===================================================== */
-
-function getMatchStatus(match){
-
-    const status =
-        normalizeStatus(match.status);
-
-
-    /* MATCH A VENIR */
-
-    if(
-
-        status === "notstarted" ||
-        status === "scheduled" ||
-        status === "upcoming" ||
-        status === "created"
-
-    ){
-
-        return {
-
-            text:"À VENIR",
-
-            className:""
-
-        };
+        document.getElementById("matches").innerHTML="";
 
     }
 
-
-    /* MATCH LIVE */
-
-    if(
-
-        status === "live" ||
-        status === "inprogress" ||
-        status === "playing" ||
-        status === "halftime"
-
-    ){
-
-        return {
-
-            text:"LIVE",
-
-            className:"live"
-
-        };
-
-    }
-
-
-    /* MATCH TERMINE */
-
-    if(
-
-        status === "finished" ||
-        status === "finish" ||
-        status === "completed" ||
-        status === "complete"
-
-    ){
-
-        return {
-
-            text:"TERMINÉ",
-
-            className:"finished"
-
-        };
-
-    }
-
-
-    /* AUTRE */
-
-    return {
-
-        text:"À VENIR",
-
-        className:""
-
-    };
-
 }
 
 
-/* =====================================================
-   SCORE
-===================================================== */
+/* =========================
+   STATUS ENGINE
+========================= */
 
-function getMatchScore(match){
+function getStatus(m){
 
-    const status =
-        normalizeStatus(match.status);
+    const raw=String(m.status||"").toLowerCase().trim();
+
+    const start=new Date(m.event_date);
+
+    const now=Date.now();
+
+    const scoreExists=
+        m.home_score!==null &&
+        m.home_score!==undefined &&
+        m.away_score!==null &&
+        m.away_score!==undefined;
+
+    const minute=
+        m.current_minute!==null &&
+        m.current_minute!==undefined &&
+        m.current_minute!=="";
+
+
+    /* Explicit live */
+
+    if(
+        raw.includes("live")||
+        raw.includes("progress")||
+        raw.includes("playing")||
+        raw.includes("inplay")||
+        raw.includes("1st")||
+        raw.includes("2nd")||
+        raw==="ht"
+    ){
+        return "live";
+    }
+
+
+    /* Explicit finished */
+
+    if(
+        raw.includes("finished")||
+        raw.includes("complete")||
+        raw.includes("ended")||
+        raw.includes("final")||
+        raw==="ft"
+    ){
+        return "finished";
+    }
+
+
+    /* Current minute = live */
+
+    if(minute){
+        return "live";
+    }
 
 
     /*
-       MATCH PAS ENCORE COMMENCE
-    */
+     * IMPORTANT:
+     * notstarted + future = upcoming
+     * notstarted + past = finished
+     */
 
-    if(
+    if(!isNaN(start.getTime())){
 
-        status === "notstarted" ||
-        status === "scheduled" ||
-        status === "upcoming" ||
-        status === "created"
+        if(start.getTime()>now){
 
-    ){
-
-        return "VS";
-
-    }
-
-
-    const homeScore =
-        match.home_score ??
-        match.home_goals ??
-        match.home_team_score ??
-        match.score_home ??
-        null;
-
-
-    const awayScore =
-        match.away_score ??
-        match.away_goals ??
-        match.away_team_score ??
-        match.score_away ??
-        null;
-
-
-    if(
-
-        homeScore !== null &&
-        homeScore !== undefined &&
-        awayScore !== null &&
-        awayScore !== undefined
-
-    ){
-
-        return `${homeScore} - ${awayScore}`;
-
-    }
-
-
-    return "VS";
-
-}
-
-
-/* =====================================================
-   SECURITE HTML
-===================================================== */
-
-function escapeHtml(value){
-
-    return String(value || "")
-
-        .replaceAll("&","&amp;")
-
-        .replaceAll("<","&lt;")
-
-        .replaceAll(">","&gt;")
-
-        .replaceAll('"',"&quot;")
-
-        .replaceAll("'","&#039;");
-
-}
-
-
-/* =====================================================
-   CHANGER DE JOUR
-===================================================== */
-
-function changeDay(number){
-
-    currentDate.setDate(
-
-        currentDate.getDate() + number
-
-    );
-
-    renderMatches();
-
-}
-
-
-/* =====================================================
-   AFFICHAGE
-===================================================== */
-
-function renderMatches(){
-
-    const selectedDate =
-        getSelectedDate();
-
-
-    /* DATE */
-
-    document
-        .getElementById("dateTitle")
-        .textContent =
-
-        currentDate.toLocaleDateString(
-
-            "fr-FR",
-
-            {
-                weekday:"long"
-            }
-
-        );
-
-
-    document
-        .getElementById("dateFull")
-        .textContent =
-
-        formatDate(currentDate);
-
-
-    /* FILTRAGE */
-
-    const matches =
-
-        allMatches.filter(
-
-            function(match){
-
-                if(!match.event_date){
-
-                    return false;
-
-                }
-
-
-                return (
-
-                    getMadagascarDate(
-                        match.event_date
-                    )
-
-                    ===
-
-                    selectedDate
-
-                );
-
-            }
-
-        );
-
-
-    /* TOTAL */
-
-    document
-        .getElementById("totalMatches")
-        .textContent = matches.length;
-
-
-    /* COMPTEURS */
-
-    let liveCount = 0;
-
-    let finishedCount = 0;
-
-
-    matches.forEach(
-
-        function(match){
-
-            const status =
-
-                normalizeStatus(
-                    match.status
-                );
-
-
-            if(
-
-                status === "live" ||
-                status === "inprogress" ||
-                status === "playing" ||
-                status === "halftime"
-
-            ){
-
-                liveCount++;
-
-            }
-
-
-            if(
-
-                status === "finished" ||
-                status === "finish" ||
-                status === "completed" ||
-                status === "complete"
-
-            ){
-
-                finishedCount++;
-
-            }
+            return "upcoming";
 
         }
 
+        /*
+         * If started in the past and score exists,
+         * keep as finished rather than upcoming.
+         */
+
+        if(scoreExists){
+            return "finished";
+        }
+
+        /*
+         * Unknown old match:
+         * don't put it in upcoming.
+         */
+
+        return "finished";
+
+    }
+
+
+    return "upcoming";
+}
+
+
+/* =========================
+   DATE / TIME
+========================= */
+
+function dateKey(date){
+
+    return new Intl.DateTimeFormat("en-CA",{
+        timeZone:TZ,
+        year:"numeric",
+        month:"2-digit",
+        day:"2-digit"
+    }).format(date);
+
+}
+
+
+function formatDay(date){
+
+    return new Intl.DateTimeFormat("fr-FR",{
+        timeZone:TZ,
+        weekday:"long",
+        day:"2-digit",
+        month:"long",
+        year:"numeric"
+    }).format(date);
+
+}
+
+
+function formatTime(date){
+
+    return new Intl.DateTimeFormat("fr-FR",{
+        timeZone:TZ,
+        hour:"2-digit",
+        minute:"2-digit",
+        hour12:false
+    }).format(date);
+
+}
+
+
+/* =========================
+   LOGOS
+========================= */
+
+function getLogo(team){
+
+    if(!team)return null;
+
+    return (
+        team.logo_url||
+        team.logo||
+        team.crest_url||
+        team.crest||
+        team.badge_url||
+        team.badge||
+        team.image_url||
+        team.image||
+        null
     );
 
-
-    document
-        .getElementById("liveMatches")
-        .textContent = liveCount;
+}
 
 
-    document
-        .getElementById("finishedMatches")
-        .textContent =
+function logoHTML(team,name){
+
+    const logo=getLogo(team);
+
+    if(logo){
+
+        return `
+        <img
+            class="logo"
+            src="${escapeAttr(logo)}"
+            alt=""
+            loading="lazy"
+            onerror="this.outerHTML='<div class=&quot;logo-fallback&quot;>⚽</div>'"
+        >`;
+
+    }
+
+    return `<div class="logo-fallback">⚽</div>`;
+
+}
+
+
+/* =========================
+   MATCH FILTER
+========================= */
+
+function filteredMatches(){
+
+    return matches.filter(m=>{
+
+        const s=getStatus(m);
+
+        if(currentFilter==="all")return true;
+
+        return s===currentFilter;
+
+    });
+
+}
+
+
+/* =========================
+   RENDER
+========================= */
+
+function render(){
+
+    const list=filteredMatches();
+
+    updateSummary();
+
+    if(!list.length){
+
+        document.getElementById("matches").innerHTML=
+            `<div class="empty">
+                Aucun match dans cette catégorie.
+            </div>`;
+
+        return;
+
+    }
+
+
+    const days={};
+
+
+    list.forEach(m=>{
+
+        const d=new Date(m.event_date);
+
+        if(isNaN(d.getTime()))return;
+
+        const key=dateKey(d);
+
+        if(!days[key])days[key]=[];
+
+        days[key].push(m);
+
+    });
+
+
+    let html="";
+
+
+    Object.keys(days).sort().forEach(day=>{
+
+        html+=`
+        <div class="day">
+            ${formatDay(new Date(days[day][0].event_date))}
+        </div>`;
+
+
+        const groups={};
+
+
+        days[day].forEach(m=>{
+
+            const id=String(m.league_id??"unknown");
+
+            if(!groups[id])groups[id]=[];
+
+            groups[id].push(m);
+
+        });
+
+
+        Object.keys(groups).forEach(id=>{
+
+            const group=groups[id];
+
+            const league=leagues[id];
+
+            const name=
+                league?.name||
+                group[0].league_name||
+                group[0].competition||
+                "Football";
+
+
+            const country=league?.country||"";
+
+
+            html+=`
+            <section class="league">
+
+                <div class="league-head">
+
+                    <div class="league-title">
+
+                        <div class="league-icon">🏆</div>
+
+                        <div>
+                            <div class="league-name">
+                                ${escapeHTML(name)}
+                            </div>
+
+                            ${
+                                country
+                                ? `<div class="country">
+                                    ${escapeHTML(country)}
+                                  </div>`
+                                :""
+                            }
+
+                        </div>
+
+                    </div>
+
+                    <div class="league-games">
+                        ${group.length} match${group.length>1?"s":""}
+                    </div>
+
+                </div>
+            `;
+
+
+            group.forEach(m=>{
+                html+=matchHTML(m);
+            });
+
+
+            html+=`</section>`;
+
+        });
+
+    });
+
+
+    document.getElementById("matches").innerHTML=html;
+
+}
+
+
+/* =========================
+   MATCH CARD
+========================= */
+
+function matchHTML(m){
+
+    const status=getStatus(m);
+
+    const date=new Date(m.event_date);
+
+    const home=
+        teams[String(m.home_team_id)]||
+        {
+            id:m.home_team_id,
+            name:m.home_team
+        };
+
+
+    const away=
+        teams[String(m.away_team_id)]||
+        {
+            id:m.away_team_id,
+            name:m.away_team
+        };
+
+
+    const homeName=
+        home.name||
+        m.home_team||
+        "Home";
+
+
+    const awayName=
+        away.name||
+        m.away_team||
+        "Away";
+
+
+    let center="";
+
+
+    if(status==="upcoming"){
+
+        center=`<div class="score vs">VS</div>`;
+
+    }else{
+
+        center=`
+        <div class="score">
+            ${safeScore(m.home_score)}
+            -
+            ${safeScore(m.away_score)}
+        </div>`;
+
+    }
+
+
+    let badge="";
+
+
+    if(status==="live"){
+
+        const minute=m.current_minute;
+
+        badge=`
+            <span class="badge live">
+                <span class="live-dot"></span>LIVE
+                ${minute!==null&&minute!==undefined&&minute!==""
+                    ?`<span class="minute">${escapeHTML(minute)}'</span>`
+                    :""
+                }
+            </span>`;
+
+    }else if(status==="finished"){
+
+        badge=`<span class="badge finished">✓ Terminé</span>`;
+
+    }else{
+
+        badge=`<span class="badge upcoming">🕐 À venir</span>`;
+
+    }
+
+
+    return `
+    <article class="match ${status==="live"?"live-card":""}">
+
+        <div class="match-top">
+
+            <div class="time">
+                ${formatTime(date)}
+            </div>
+
+            <div>
+                ${badge}
+            </div>
+
+        </div>
+
+
+        <div class="teams">
+
+            <div class="team home">
+
+                <div class="team-name">
+                    ${escapeHTML(homeName)}
+                </div>
+
+                ${logoHTML(home,homeName)}
+
+            </div>
+
+
+            <div class="center">
+                ${center}
+            </div>
+
+
+            <div class="team away">
+
+                ${logoHTML(away,awayName)}
+
+                <div class="team-name">
+                    ${escapeHTML(awayName)}
+                </div>
+
+            </div>
+
+        </div>
+
+
+        ${
+            m.round_name
+            ?`<div class="match-meta">
+                ${escapeHTML(m.round_name)}
+              </div>`
+            :""
+        }
+
+    </article>`;
+}
+
+
+/* =========================
+   SUMMARY
+========================= */
+
+function updateSummary(){
+
+    const live=matches.filter(m=>getStatus(m)==="live").length;
+    const upcoming=matches.filter(m=>getStatus(m)==="upcoming").length;
+    const finished=matches.filter(m=>getStatus(m)==="finished").length;
+
+
+    document.getElementById("summary").innerHTML=`
+
+        <div class="summary-row">
+
+            <strong>
+                ${matches.length} matchs
+            </strong>
+
+            <button class="refresh" onclick="init()">
+                🔄 Actualiser
+            </button>
+
+        </div>
+
+        <div class="counts">
+
+            <span class="count live">
+                🔴 ${live} Live
+            </span>
+
+            <span class="count upcoming">
+                🕐 ${upcoming} À venir
+            </span>
+
+            <span class="count finished">
+                ✓ ${finished} Terminés
+            </span>
+
+        </div>
+
+    `;
+
+}
+
+
+/* =========================
+   SECURITY
+========================= */
+
+function escapeHTML(value){
+
+    return String(value??"")
+        .replace(/&/g,"&amp;")
+        .replace(/</g,"&lt;")
+        .replace(/>/g,"&gt;")
+        .replace(/"/g,"&quot;")
+        .replace(/'/g,"&#039;");
+
+}
+
+
+function escapeAttr(value){
+
+    return escapeHTML(value);
+
+}
+
+
+function safeScore(value){
+
+    return value===null||
+           value===undefined||
+           value===""
+        ?"-"
+        :escapeHTML(value);
+
+}
+
+
+/* =========================
+   TABS
+========================= */
+
+document.querySelectorAll(".tab").forEach(btn=>{
+
+    btn.addEventListener("click",()=>{
+
+        document.querySelectorAll(".tab")
+            .forEach(b=>b.classList.remove("active"));
+
+        btn.classList.add("active");
+
+        currentFilter=btn.dataset.filter;
+
+        render();
+
+    });
+
+});
+
+
+/* =========================
+   START
+========================= */
+
+init();
+
+
+/* Auto refresh 5 minutes */
+
+setInterval(()=>{
+    init();
+},300000);
+
+</script>
+
+</body>
+</html>
