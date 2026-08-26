@@ -7,874 +7,1309 @@
 <title>Football Match Center</title>
 
 <style>
+/* =========================================================
+   RESET
+========================================================= */
+
 *{
     box-sizing:border-box;
-    margin:0;
-    padding:0;
+}
+
+html{
+    scroll-behavior:smooth;
 }
 
 body{
-    font-family:Arial,Helvetica,sans-serif;
-    background:#f7f8fa;
-    color:#07194f;
-    min-height:100vh;
+    margin:0;
+    background:#f4f6f9;
+    color:#17243b;
+    font-family:
+        Inter,
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        Arial,
+        Helvetica,
+        sans-serif;
 }
 
-/* ================= HEADER ================= */
+/* =========================================================
+   VARIABLES
+========================================================= */
+
+:root{
+    --primary:#123d72;
+    --primary-dark:#0d2f5b;
+    --text:#17243b;
+    --muted:#718096;
+    --light:#f7f9fc;
+    --border:#e3e8ef;
+    --white:#ffffff;
+    --live:#e53935;
+    --live-bg:#fff1f1;
+    --finished:#159765;
+    --finished-bg:#edf9f3;
+    --upcoming:#66758a;
+    --upcoming-bg:#f1f4f8;
+    --shadow:0 4px 18px rgba(19,45,76,.07);
+}
+
+/* =========================================================
+   HEADER
+========================================================= */
 
 .header{
-    background:#07194f;
-    color:white;
-    padding:18px 16px 16px;
-    text-align:center;
-    box-shadow:0 2px 10px rgba(0,0,0,.12);
+    background:#ffffff;
+    padding:20px 16px 18px;
+    border-bottom:1px solid var(--border);
+    box-shadow:0 2px 12px rgba(15,35,65,.05);
 }
 
-.header h1{
-    font-size:24px;
-    font-weight:800;
-}
-
-.header p{
-    margin-top:5px;
-    font-size:13px;
-    opacity:.85;
-}
-
-/* ================= FILTERS ================= */
-
-.filters{
-    display:flex;
-    gap:8px;
-    padding:14px 12px;
-    background:white;
-    overflow-x:auto;
-    position:sticky;
-    top:0;
-    z-index:20;
-    box-shadow:0 2px 8px rgba(0,0,0,.07);
-}
-
-.filter{
-    border:none;
-    padding:10px 15px;
-    border-radius:22px;
-    background:#eef0f5;
-    color:#07194f;
-    font-size:14px;
-    font-weight:700;
-    white-space:nowrap;
-    cursor:pointer;
-}
-
-.filter.active{
-    background:#07194f;
-    color:white;
-}
-
-/* ================= MATCH LIST ================= */
-
-.matches{
-    max-width:720px;
+.header-inner{
+    max-width:760px;
     margin:auto;
-    padding:14px 10px 35px;
-}
-
-/* ================= MATCH CARD ================= */
-
-.match-card{
-    position:relative;
-    background:white;
-    border:2px solid #e2e5eb;
-    border-radius:13px;
-    margin-bottom:18px;
-    overflow:hidden;
-    box-shadow:0 2px 5px rgba(0,0,0,.03);
-}
-
-/* HOT */
-
-.hot{
-    position:absolute;
-    top:14px;
-    right:-1px;
-    background:#ff280b;
-    color:white;
-    font-size:18px;
-    font-weight:800;
-    padding:9px 12px 9px 10px;
-    border-radius:14px 0 0 14px;
-    z-index:3;
-    box-shadow:0 3px 7px rgba(0,0,0,.16);
-}
-
-.hot:after{
-    content:"";
-    position:absolute;
-    right:0;
-    bottom:-9px;
-    border-top:9px solid #b81708;
-    border-left:9px solid transparent;
-}
-
-/* DATE */
-
-.match-info{
-    text-align:center;
-    padding:28px 70px 7px;
-}
-
-.match-date{
-    font-size:20px;
-    font-weight:700;
-    margin-bottom:7px;
-}
-
-.competition{
-    font-size:16px;
-    color:#17265e;
-}
-
-/* TEAMS */
-
-.teams{
-    display:flex;
-    align-items:center;
-    justify-content:center;
-    gap:17px;
-    padding:18px 14px 14px;
-}
-
-.team{
-    display:flex;
-    align-items:center;
-    gap:9px;
-    font-size:21px;
-    font-weight:700;
-    min-width:0;
-}
-
-.team.home{
-    justify-content:flex-end;
-}
-
-.team.away{
-    justify-content:flex-start;
-}
-
-.team-name{
-    white-space:nowrap;
 }
 
 .logo{
-    width:48px;
-    height:48px;
-    object-fit:contain;
+    display:flex;
+    align-items:center;
+    gap:11px;
+
+    color:var(--primary);
+
+    font-size:24px;
+    font-weight:800;
+    letter-spacing:-.5px;
 }
 
-.vs{
-    font-size:19px;
-    font-weight:500;
-    color:#222;
+.logo-icon{
+    width:43px;
+    height:43px;
+
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+    border-radius:12px;
+
+    background:#edf3fa;
+
+    font-size:24px;
 }
 
-/* ================= PREDICTION ================= */
+.subtitle{
+    margin-top:5px;
+    margin-left:54px;
 
-.prediction{
-    margin:4px 18px 0;
-    background:#f0f1f4;
-    border-radius:10px;
-    min-height:128px;
-    padding:12px;
+    color:var(--muted);
+
+    font-size:13px;
+}
+
+/* =========================================================
+   DATE BAR
+========================================================= */
+
+.date-bar{
+    position:sticky;
+    top:0;
+    z-index:30;
+
     display:flex;
     align-items:center;
     justify-content:space-between;
-    gap:12px;
+
+    max-width:760px;
+    margin:0 auto;
+
+    padding:10px 12px;
+
+    background:rgba(255,255,255,.96);
+
+    border-bottom:1px solid var(--border);
+
+    box-shadow:0 2px 10px rgba(15,35,65,.05);
+
+    backdrop-filter:blur(10px);
 }
 
-.prediction-text{
-    flex:1;
-}
+.date-button{
+    width:44px;
+    height:44px;
 
-.prediction-label{
-    font-size:17px;
-    margin-bottom:3px;
-}
+    border:1px solid #dbe2ea;
+    border-radius:12px;
 
-.prediction-value{
+    background:#ffffff;
+    color:var(--primary);
+
     font-size:22px;
-    line-height:1.2;
+    font-weight:700;
+
+    cursor:pointer;
+
+    box-shadow:0 2px 6px rgba(15,35,65,.04);
+
+    transition:.15s ease;
+}
+
+.date-button:hover{
+    background:#f5f8fc;
+}
+
+.date-button:active{
+    transform:scale(.94);
+}
+
+.date-center{
+    flex:1;
+    text-align:center;
+}
+
+.date-title{
+    color:var(--primary);
+
+    font-size:18px;
+    font-weight:800;
+
+    text-transform:capitalize;
+}
+
+.date-full{
+    margin-top:3px;
+
+    color:var(--muted);
+
+    font-size:12px;
+}
+
+/* =========================================================
+   STATS
+========================================================= */
+
+.stats{
+    display:flex;
+    gap:10px;
+
+    max-width:760px;
+    margin:0 auto;
+
+    padding:12px;
+
+    overflow-x:auto;
+}
+
+.stat{
+    flex:1;
+    min-width:100px;
+
+    padding:13px 10px;
+
+    background:#ffffff;
+
+    border:1px solid var(--border);
+    border-radius:13px;
+
+    text-align:center;
+
+    box-shadow:var(--shadow);
+}
+
+.stat-number{
+    color:var(--primary);
+
+    font-size:21px;
     font-weight:800;
 }
 
-.details{
-    display:inline-flex;
+.stat-label{
+    margin-top:4px;
+
+    color:#8995a6;
+
+    font-size:10px;
+    font-weight:700;
+
+    letter-spacing:.5px;
+}
+
+/* =========================================================
+   MAIN
+========================================================= */
+
+.container{
+    max-width:760px;
+    margin:0 auto;
+
+    padding:0 12px 35px;
+}
+
+/* =========================================================
+   LEAGUE
+========================================================= */
+
+.league{
+    margin-top:15px;
+
+    overflow:hidden;
+
+    background:#ffffff;
+
+    border:1px solid var(--border);
+    border-radius:15px;
+
+    box-shadow:var(--shadow);
+}
+
+.league-title{
+    display:flex;
     align-items:center;
-    gap:7px;
-    margin-top:17px;
-    color:#07194f;
-    font-size:17px;
-    text-decoration:underline;
-    cursor:pointer;
+    gap:8px;
+
+    padding:13px 15px;
+
+    background:#ffffff;
+
+    color:var(--primary);
+
+    font-size:14px;
+    font-weight:800;
+
+    border-bottom:1px solid var(--border);
 }
 
-.arrow{
-    font-size:25px;
-    text-decoration:none;
+.league-icon{
+    width:28px;
+    height:28px;
+
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+    border-radius:8px;
+
+    background:#eef4fb;
+
+    font-size:14px;
 }
 
-/* COTE */
+/* =========================================================
+   MATCH
+========================================================= */
 
-.odds{
-    width:155px;
-    min-height:72px;
-    background:white;
-    border-radius:10px;
+.match{
+    display:grid;
+
+    grid-template-columns:62px 1fr 70px;
+
+    align-items:center;
+
+    gap:8px;
+
+    min-height:108px;
+
+    padding:14px 12px;
+
+    background:#ffffff;
+
+    border-top:1px solid #edf0f4;
+
+    transition:.15s ease;
+}
+
+.match:first-of-type{
+    border-top:0;
+}
+
+.match:hover{
+    background:#fbfcfe;
+}
+
+/* =========================================================
+   TIME
+========================================================= */
+
+.time{
     display:flex;
     flex-direction:column;
     align-items:center;
     justify-content:center;
-    flex-shrink:0;
+
+    color:#506078;
+
+    font-size:12px;
+    font-weight:700;
+
+    text-align:center;
 }
 
-.odds-label{
-    font-size:17px;
+.time-icon{
     margin-bottom:4px;
+
+    color:#a0aaba;
+
+    font-size:11px;
 }
 
-.odds-value{
-    font-size:25px;
-    font-weight:800;
-}
+/* =========================================================
+   TEAMS
+========================================================= */
 
-/* ================= FOOTER / BONUS ================= */
-
-.bottom{
+.teams{
     display:flex;
+    flex-direction:column;
     align-items:center;
-    justify-content:space-between;
-    gap:15px;
-    padding:25px 24px 20px;
+    justify-content:center;
+
+    min-width:0;
+
+    text-align:center;
 }
 
-.bonus{
-    display:flex;
-    align-items:center;
-    gap:10px;
-    font-size:18px;
-}
+.team{
+    max-width:100%;
 
-.bonus-label{
-    line-height:1.35;
-}
+    margin:3px 0;
 
-.bonus-value{
-    color:#ff9900;
-    font-size:26px;
-    font-weight:800;
-}
+    overflow:hidden;
 
-.separator{
-    width:3px;
-    height:50px;
-    background:#e4e6ea;
-}
+    color:#17243b;
 
-.bet-button{
-    border:none;
-    background:#ffa900;
-    color:white;
-    border-radius:35px;
-    padding:8px 14px 8px 20px;
-    font-size:17px;
-    font-weight:800;
-    display:flex;
-    align-items:center;
-    gap:9px;
-    cursor:pointer;
+    font-size:15px;
+    font-weight:700;
+
+    line-height:1.25;
+
+    text-overflow:ellipsis;
     white-space:nowrap;
 }
 
-.unibet{
-    background:white;
-    color:#111;
-    border-radius:8px;
-    padding:5px 8px;
-    font-size:21px;
-    font-weight:900;
-    letter-spacing:-1px;
+.vs{
+    margin:1px 0;
+
+    color:#a0aaba;
+
+    font-size:9px;
+    font-weight:700;
+
+    letter-spacing:.5px;
 }
 
-/* ================= MODAL ================= */
+/* =========================================================
+   STATUS
+========================================================= */
 
-.modal{
-    display:none;
-    position:fixed;
-    inset:0;
-    background:rgba(0,0,0,.55);
-    z-index:100;
+.status{
+    display:inline-flex;
     align-items:center;
     justify-content:center;
-    padding:20px;
-}
 
-.modal.show{
-    display:flex;
-}
+    margin-top:5px;
 
-.modal-box{
-    width:100%;
-    max-width:430px;
-    background:white;
-    border-radius:18px;
-    padding:22px;
-    box-shadow:0 15px 40px rgba(0,0,0,.25);
-}
+    padding:4px 9px;
 
-.modal-title{
-    font-size:22px;
+    border-radius:20px;
+
+    background:var(--upcoming-bg);
+    color:var(--upcoming);
+
+    border:1px solid #e2e7ee;
+
+    font-size:9px;
     font-weight:800;
-    margin-bottom:18px;
+
+    letter-spacing:.3px;
 }
 
-.detail-row{
+.status.live{
+    background:var(--live-bg);
+    color:var(--live);
+
+    border-color:#ffd5d5;
+}
+
+.status.live::before{
+    content:"";
+
+    width:6px;
+    height:6px;
+
+    margin-right:5px;
+
+    border-radius:50%;
+
+    background:var(--live);
+
+    animation:pulse 1.3s infinite;
+}
+
+.status.finished{
+    background:var(--finished-bg);
+    color:var(--finished);
+
+    border-color:#cceedd;
+}
+
+.status.finished::before{
+    content:"✓";
+
+    margin-right:4px;
+}
+
+@keyframes pulse{
+
+    0%{
+        opacity:1;
+        transform:scale(1);
+    }
+
+    50%{
+        opacity:.45;
+        transform:scale(.75);
+    }
+
+    100%{
+        opacity:1;
+        transform:scale(1);
+    }
+
+}
+
+/* =========================================================
+   SCORE
+========================================================= */
+
+.score{
     display:flex;
-    justify-content:space-between;
-    padding:13px 0;
-    border-bottom:1px solid #e6e6e6;
-    font-size:16px;
+    align-items:center;
+    justify-content:center;
+
+    min-height:60px;
+
+    color:var(--primary);
+
+    font-size:18px;
+    font-weight:900;
+
+    text-align:center;
 }
 
-.close{
-    width:100%;
-    margin-top:20px;
-    border:none;
-    background:#07194f;
-    color:white;
-    padding:13px;
-    border-radius:10px;
-    font-size:16px;
-    font-weight:700;
+/* =========================================================
+   EMPTY / LOADING
+========================================================= */
+
+.empty,
+.loading{
+    margin-top:15px;
+
+    padding:55px 20px;
+
+    background:#ffffff;
+
+    border:1px solid var(--border);
+    border-radius:15px;
+
+    color:#7d8999;
+
+    text-align:center;
+
+    box-shadow:var(--shadow);
 }
 
-/* ================= RESPONSIVE ================= */
+.empty-icon,
+.loading-icon{
+    display:block;
+
+    margin-bottom:12px;
+
+    font-size:34px;
+}
+
+/* =========================================================
+   FOOTER
+========================================================= */
+
+.footer{
+    max-width:760px;
+    margin:0 auto;
+
+    padding:5px 20px 28px;
+
+    color:#8b96a5;
+
+    font-size:11px;
+
+    text-align:center;
+}
+
+/* =========================================================
+   MOBILE
+========================================================= */
 
 @media(max-width:600px){
 
-    .header h1{
+    .header{
+        padding:17px 14px 16px;
+    }
+
+    .logo{
         font-size:21px;
     }
 
-    .matches{
-        padding:10px 9px 30px;
-    }
+    .logo-icon{
+        width:40px;
+        height:40px;
 
-    .match-info{
-        padding:28px 65px 5px;
-    }
-
-    .match-date{
-        font-size:18px;
-    }
-
-    .competition{
-        font-size:15px;
-    }
-
-    .teams{
-        gap:10px;
-        padding-top:17px;
-    }
-
-    .team{
-        font-size:18px;
-        gap:6px;
-    }
-
-    .logo{
-        width:42px;
-        height:42px;
-    }
-
-    .prediction{
-        margin:5px 10px 0;
-        padding:10px;
-    }
-
-    .prediction-label{
-        font-size:15px;
-    }
-
-    .prediction-value{
-        font-size:19px;
-    }
-
-    .odds{
-        width:100px;
-        min-height:67px;
-    }
-
-    .odds-label{
-        font-size:15px;
-    }
-
-    .odds-value{
         font-size:22px;
     }
 
-    .bottom{
-        padding:21px 13px 17px;
-        gap:8px;
+    .subtitle{
+        margin-left:51px;
+        font-size:12px;
     }
 
-    .bonus{
-        font-size:15px;
+    .date-bar{
+        padding:9px 10px;
     }
 
-    .bonus-value{
-        font-size:23px;
+    .date-button{
+        width:42px;
+        height:42px;
+
+        font-size:20px;
     }
 
-    .bet-button{
-        font-size:13px;
-        padding:7px 8px 7px 12px;
+    .date-title{
+        font-size:16px;
     }
 
-    .unibet{
-        font-size:17px;
-    }
-}
-
-@media(max-width:390px){
-
-    .team{
-        font-size:15px;
-    }
-
-    .logo{
-        width:37px;
-        height:37px;
-    }
-
-    .prediction-value{
-        font-size:17px;
-    }
-
-    .odds{
-        width:88px;
-    }
-
-    .bet-button{
+    .date-full{
         font-size:11px;
     }
 
-    .unibet{
-        font-size:15px;
+    .stats{
+        gap:7px;
+        padding:10px 9px;
     }
+
+    .stat{
+        min-width:88px;
+        padding:11px 8px;
+    }
+
+    .stat-number{
+        font-size:19px;
+    }
+
+    .stat-label{
+        font-size:9px;
+    }
+
+    .container{
+        padding:0 9px 30px;
+    }
+
+    .league{
+        border-radius:13px;
+    }
+
+    .league-title{
+        padding:12px 13px;
+        font-size:13px;
+    }
+
+    .match{
+        grid-template-columns:55px 1fr 62px;
+
+        min-height:103px;
+
+        padding:13px 8px;
+
+        gap:5px;
+    }
+
+    .time{
+        font-size:11px;
+    }
+
+    .team{
+        font-size:14px;
+    }
+
+    .score{
+        font-size:17px;
+    }
+
+    .status{
+        padding:3px 7px;
+        font-size:8px;
+    }
+}
+
+/* =========================================================
+   SMALL PHONES
+========================================================= */
+
+@media(max-width:380px){
+
+    .match{
+        grid-template-columns:51px 1fr 57px;
+
+        padding-left:6px;
+        padding-right:6px;
+    }
+
+    .team{
+        font-size:13px;
+    }
+
+    .time{
+        font-size:10px;
+    }
+
+    .score{
+        font-size:16px;
+    }
+
+    .status{
+        padding:3px 6px;
+        font-size:7px;
+    }
+
 }
 </style>
 </head>
 
 <body>
 
-<!-- HEADER -->
+<!-- =====================================================
+     HEADER
+===================================================== -->
 
 <header class="header">
-    <h1>⚽ Football Match Center</h1>
-    <p>Live • Résultats • Matchs à venir</p>
+
+    <div class="header-inner">
+
+        <div class="logo">
+
+            <div class="logo-icon">
+                ⚽
+            </div>
+
+            <div>
+                Football Match Center
+            </div>
+
+        </div>
+
+        <div class="subtitle">
+            Fixtures & résultats automatiques
+        </div>
+
+    </div>
+
 </header>
 
-<!-- FILTER -->
 
-<nav class="filters">
+<!-- =====================================================
+     DATE NAVIGATION
+===================================================== -->
 
-    <button class="filter active" onclick="filterMatches('all',this)">
-        Tous
+<div class="date-bar">
+
+    <button
+        class="date-button"
+        onclick="changeDay(-1)"
+        aria-label="Jour précédent"
+    >
+        ←
     </button>
 
-    <button class="filter" onclick="filterMatches('live',this)">
-        🔴 Live
+
+    <div class="date-center">
+
+        <div
+            id="dateTitle"
+            class="date-title"
+        >
+            Chargement...
+        </div>
+
+        <div
+            id="dateFull"
+            class="date-full"
+        >
+        </div>
+
+    </div>
+
+
+    <button
+        class="date-button"
+        onclick="changeDay(1)"
+        aria-label="Jour suivant"
+    >
+        →
     </button>
 
-    <button class="filter" onclick="filterMatches('upcoming',this)">
-        🕐 À venir
-    </button>
+</div>
 
-    <button class="filter" onclick="filterMatches('finished',this)">
-        ✓ Terminés
-    </button>
 
-</nav>
+<!-- =====================================================
+     STATISTICS
+===================================================== -->
 
-<!-- MATCHES -->
+<div class="stats">
 
-<main class="matches">
+    <div class="stat">
 
-    <!-- MATCH 1 -->
-
-    <article class="match-card" data-status="upcoming">
-
-        <div class="hot">
-            HOT 🔥
+        <div
+            id="totalMatches"
+            class="stat-number"
+        >
+            0
         </div>
 
-        <div class="match-info">
-
-            <div class="match-date">
-                26 août 2026, 22:00
-            </div>
-
-            <div class="competition">
-                Europe - Ligue Des Champions
-            </div>
-
+        <div class="stat-label">
+            MATCHS
         </div>
 
-        <div class="teams">
+    </div>
 
-            <div class="team home">
 
-                <span class="team-name">
-                    Lyon
-                </span>
+    <div class="stat">
 
-                <img
-                    class="logo"
-                    src="https://media.api-sports.io/football/teams/80.png"
-                    alt="Lyon">
-
-            </div>
-
-            <div class="vs">
-                -
-            </div>
-
-            <div class="team away">
-
-                <img
-                    class="logo"
-                    src="https://media.api-sports.io/football/teams/611.png"
-                    alt="Fenerbahce">
-
-                <span class="team-name">
-                    Fenerbahce
-                </span>
-
-            </div>
-
+        <div
+            id="liveMatches"
+            class="stat-number"
+        >
+            0
         </div>
 
-        <div class="prediction">
-
-            <div class="prediction-text">
-
-                <div class="prediction-label">
-                    Pronostic Lyon Fenerbahce
-                </div>
-
-                <div class="prediction-value">
-                    L'OL se qualifie
-                </div>
-
-                <div
-                    class="details"
-                    onclick="openDetails(
-                    'Lyon',
-                    'Fenerbahce',
-                    'L\\'OL se qualifie',
-                    '1.43'
-                    )">
-
-                    En détails
-                    <span class="arrow">›</span>
-
-                </div>
-
-            </div>
-
-            <div class="odds">
-
-                <div class="odds-label">
-                    Cote
-                </div>
-
-                <div class="odds-value">
-                    1.43
-                </div>
-
-            </div>
-
+        <div class="stat-label">
+            LIVE
         </div>
 
-        <div class="bottom">
+    </div>
 
-            <div class="bonus">
 
-                <div class="bonus-label">
-                    Bonus :
-                    <br>
-                    <span class="bonus-value">110€</span>
-                </div>
+    <div class="stat">
 
-                <div class="separator"></div>
-
-            </div>
-
-            <button class="bet-button">
-                PARIEZ MAINTENANT !
-                <span class="unibet">
-                    UNIBET
-                </span>
-            </button>
-
+        <div
+            id="finishedMatches"
+            class="stat-number"
+        >
+            0
         </div>
 
-    </article>
-
-
-    <!-- MATCH 2 -->
-
-    <article class="match-card" data-status="upcoming">
-
-        <div class="hot">
-            HOT 🔥
+        <div class="stat-label">
+            TERMINÉS
         </div>
-
-        <div class="match-info">
-
-            <div class="match-date">
-                26 août 2026, 22:00
-            </div>
-
-            <div class="competition">
-                Espagne - Liga
-            </div>
-
-        </div>
-
-        <div class="teams">
-
-            <div class="team home">
-
-                <span class="team-name">
-                    Real Madrid
-                </span>
-
-                <img
-                    class="logo"
-                    src="https://media.api-sports.io/football/teams/541.png"
-                    alt="Real Madrid">
-
-            </div>
-
-            <div class="vs">
-                -
-            </div>
-
-            <div class="team away">
-
-                <img
-                    class="logo"
-                    src="https://media.api-sports.io/football/teams/548.png"
-                    alt="Real Sociedad">
-
-                <span class="team-name">
-                    Real Sociedad
-                </span>
-
-            </div>
-
-        </div>
-
-        <div class="prediction">
-
-            <div class="prediction-text">
-
-                <div class="prediction-label">
-                    Pronostic Real Madrid Real Sociedad
-                </div>
-
-                <div class="prediction-value">
-                    Victoire du Real Madrid &
-                    moins de 4,5 buts dans le match
-                </div>
-
-                <div
-                    class="details"
-                    onclick="openDetails(
-                    'Real Madrid',
-                    'Real Sociedad',
-                    'Victoire du Real Madrid & moins de 4,5 buts',
-                    '1.66'
-                    )">
-
-                    En détails
-                    <span class="arrow">›</span>
-
-                </div>
-
-            </div>
-
-            <div class="odds">
-
-                <div class="odds-label">
-                    Cote
-                </div>
-
-                <div class="odds-value">
-                    1.66
-                </div>
-
-            </div>
-
-        </div>
-
-        <div class="bottom">
-
-            <div class="bonus">
-
-                <div class="bonus-label">
-                    Bonus :
-                    <br>
-                    <span class="bonus-value">110€</span>
-                </div>
-
-                <div class="separator"></div>
-
-            </div>
-
-            <button class="bet-button">
-                PARIEZ MAINTENANT !
-                <span class="unibet">
-                    UNIBET
-                </span>
-            </button>
-
-        </div>
-
-    </article>
-
-</main>
-
-
-<!-- DETAILS MODAL -->
-
-<div class="modal" id="detailsModal">
-
-    <div class="modal-box">
-
-        <div class="modal-title">
-            ⚽ Détails du match
-        </div>
-
-        <div class="detail-row">
-            <span>Match</span>
-            <strong id="modalMatch"></strong>
-        </div>
-
-        <div class="detail-row">
-            <span>Pronostic</span>
-            <strong id="modalPrediction"></strong>
-        </div>
-
-        <div class="detail-row">
-            <span>Cote</span>
-            <strong id="modalOdds"></strong>
-        </div>
-
-        <div class="detail-row">
-            <span>Statut</span>
-            <strong>À venir</strong>
-        </div>
-
-        <button
-            class="close"
-            onclick="closeDetails()">
-
-            Fermer
-
-        </button>
 
     </div>
 
 </div>
 
 
+<!-- =====================================================
+     MATCHES
+===================================================== -->
+
+<main class="container">
+
+    <div id="matches">
+
+        <div class="loading">
+
+            <span class="loading-icon">
+                ⚽
+            </span>
+
+            Chargement des matchs...
+
+        </div>
+
+    </div>
+
+</main>
+
+
+<!-- =====================================================
+     FOOTER
+===================================================== -->
+
+<div class="footer">
+
+    Données mises à jour automatiquement
+
+</div>
+
+
 <script>
 
-/* ================= FILTER ================= */
+/* =====================================================
+   VARIABLES
+===================================================== */
 
-function filterMatches(status,button){
+let allMatches = [];
 
-    document.querySelectorAll('.filter')
-    .forEach(btn=>{
-        btn.classList.remove('active');
-    });
+let currentDate = new Date();
 
-    button.classList.add('active');
+const MADAGASCAR_TIMEZONE =
+    "Indian/Antananarivo";
 
-    document.querySelectorAll('.match-card')
-    .forEach(card=>{
 
-        if(status === 'all'){
-            card.style.display = 'block';
+/* =====================================================
+   MOIS
+===================================================== */
+
+const MONTHS = [
+
+    "janvier",
+    "février",
+    "mars",
+    "avril",
+    "mai",
+    "juin",
+    "juillet",
+    "août",
+    "septembre",
+    "octobre",
+    "novembre",
+    "décembre"
+
+];
+
+
+/* =====================================================
+   DATE MADAGASCAR
+===================================================== */
+
+function getMadagascarDate(dateString){
+
+    const date =
+        new Date(dateString);
+
+    return new Intl.DateTimeFormat(
+
+        "en-CA",
+
+        {
+            timeZone: MADAGASCAR_TIMEZONE,
+
+            year: "numeric",
+            month: "2-digit",
+            day: "2-digit"
         }
 
-        else if(card.dataset.status === status){
-            card.style.display = 'block';
-        }
-
-        else{
-            card.style.display = 'none';
-        }
-
-    });
+    ).format(date);
 
 }
 
 
-/* ================= DETAILS ================= */
+/* =====================================================
+   HEURE MADAGASCAR
+===================================================== */
 
-function openDetails(home,away,prediction,odds){
+function getMadagascarTime(dateString){
 
-    document.getElementById('modalMatch')
-    .textContent = home + ' - ' + away;
+    const date =
+        new Date(dateString);
 
-    document.getElementById('modalPrediction')
-    .textContent = prediction;
+    return new Intl.DateTimeFormat(
 
-    document.getElementById('modalOdds')
-    .textContent = odds;
+        "fr-FR",
 
-    document
-    .getElementById('detailsModal')
-    .classList.add('show');
+        {
+            timeZone: MADAGASCAR_TIMEZONE,
 
-}
+            hour: "2-digit",
+            minute: "2-digit",
 
+            hour12: false
+        }
 
-function closeDetails(){
-
-    document
-    .getElementById('detailsModal')
-    .classList.remove('show');
+    ).format(date);
 
 }
 
 
-/* fermer en cliquant dehors */
+/* =====================================================
+   DATE SELECTIONNEE
+===================================================== */
 
-document
-.getElementById('detailsModal')
-.addEventListener('click',function(e){
+function getSelectedDate(){
 
-    if(e.target === this){
-        closeDetails();
+    return new Intl.DateTimeFormat(
+
+        "en-CA",
+
+        {
+            timeZone: MADAGASCAR_TIMEZONE,
+
+            year: "numeric",
+            month: "2-digit",
+            day: "2-digit"
+        }
+
+    ).format(currentDate);
+
+}
+
+
+/* =====================================================
+   FORMAT DATE
+===================================================== */
+
+function formatDate(date){
+
+    const day =
+        date.getDate();
+
+    const month =
+        MONTHS[date.getMonth()];
+
+    const year =
+        date.getFullYear();
+
+    return `${day} ${month} ${year}`;
+
+}
+
+
+/* =====================================================
+   STATUS NORMALIZATION
+===================================================== */
+
+function normalizeStatus(status){
+
+    return String(status || "")
+
+        .toLowerCase()
+
+        .replace(/[\s_-]/g, "");
+
+}
+
+
+/* =====================================================
+   STATUS MATCH
+===================================================== */
+
+function getMatchStatus(match){
+
+    const status =
+        normalizeStatus(match.status);
+
+
+    /* MATCH A VENIR */
+
+    if(
+
+        status === "notstarted" ||
+        status === "scheduled" ||
+        status === "upcoming" ||
+        status === "created"
+
+    ){
+
+        return {
+
+            text:"À VENIR",
+
+            className:""
+
+        };
+
     }
 
-});
 
-</script>
+    /* MATCH LIVE */
 
-</body>
-    </html>
+    if(
+
+        status === "live" ||
+        status === "inprogress" ||
+        status === "playing" ||
+        status === "halftime"
+
+    ){
+
+        return {
+
+            text:"LIVE",
+
+            className:"live"
+
+        };
+
+    }
+
+
+    /* MATCH TERMINE */
+
+    if(
+
+        status === "finished" ||
+        status === "finish" ||
+        status === "completed" ||
+        status === "complete"
+
+    ){
+
+        return {
+
+            text:"TERMINÉ",
+
+            className:"finished"
+
+        };
+
+    }
+
+
+    /* AUTRE */
+
+    return {
+
+        text:"À VENIR",
+
+        className:""
+
+    };
+
+}
+
+
+/* =====================================================
+   SCORE
+===================================================== */
+
+function getMatchScore(match){
+
+    const status =
+        normalizeStatus(match.status);
+
+
+    /*
+       MATCH PAS ENCORE COMMENCE
+    */
+
+    if(
+
+        status === "notstarted" ||
+        status === "scheduled" ||
+        status === "upcoming" ||
+        status === "created"
+
+    ){
+
+        return "VS";
+
+    }
+
+
+    const homeScore =
+        match.home_score ??
+        match.home_goals ??
+        match.home_team_score ??
+        match.score_home ??
+        null;
+
+
+    const awayScore =
+        match.away_score ??
+        match.away_goals ??
+        match.away_team_score ??
+        match.score_away ??
+        null;
+
+
+    if(
+
+        homeScore !== null &&
+        homeScore !== undefined &&
+        awayScore !== null &&
+        awayScore !== undefined
+
+    ){
+
+        return `${homeScore} - ${awayScore}`;
+
+    }
+
+
+    return "VS";
+
+}
+
+
+/* =====================================================
+   SECURITE HTML
+===================================================== */
+
+function escapeHtml(value){
+
+    return String(value || "")
+
+        .replaceAll("&","&amp;")
+
+        .replaceAll("<","&lt;")
+
+        .replaceAll(">","&gt;")
+
+        .replaceAll('"',"&quot;")
+
+        .replaceAll("'","&#039;");
+
+}
+
+
+/* =====================================================
+   CHANGER DE JOUR
+===================================================== */
+
+function changeDay(number){
+
+    currentDate.setDate(
+
+        currentDate.getDate() + number
+
+    );
+
+    renderMatches();
+
+}
+
+
+/* =====================================================
+   AFFICHAGE
+===================================================== */
+
+function renderMatches(){
+
+    const selectedDate =
+        getSelectedDate();
+
+
+    /* DATE */
+
+    document
+        .getElementById("dateTitle")
+        .textContent =
+
+        currentDate.toLocaleDateString(
+
+            "fr-FR",
+
+            {
+                weekday:"long"
+            }
+
+        );
+
+
+    document
+        .getElementById("dateFull")
+        .textContent =
+
+        formatDate(currentDate);
+
+
+    /* FILTRAGE */
+
+    const matches =
+
+        allMatches.filter(
+
+            function(match){
+
+                if(!match.event_date){
+
+                    return false;
+
+                }
+
+
+                return (
+
+                    getMadagascarDate(
+                        match.event_date
+                    )
+
+                    ===
+
+                    selectedDate
+
+                );
+
+            }
+
+        );
+
+
+    /* TOTAL */
+
+    document
+        .getElementById("totalMatches")
+        .textContent = matches.length;
+
+
+    /* COMPTEURS */
+
+    let liveCount = 0;
+
+    let finishedCount = 0;
+
+
+    matches.forEach(
+
+        function(match){
+
+            const status =
+
+                normalizeStatus(
+                    match.status
+                );
+
+
+            if(
+
+                status === "live" ||
+                status === "inprogress" ||
+                status === "playing" ||
+                status === "halftime"
+
+            ){
+
+                liveCount++;
+
+            }
+
+
+            if(
+
+                status === "finished" ||
+                status === "finish" ||
+                status === "completed" ||
+                status === "complete"
+
+            ){
+
+                finishedCount++;
+
+            }
+
+        }
+
+    );
+
+
+    document
+        .getElementById("liveMatches")
+        .textContent = liveCount;
+
+
+    document
+        .getElementById("finishedMatches")
+        .textContent =
