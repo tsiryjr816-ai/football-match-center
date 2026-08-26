@@ -1183,14 +1183,6 @@
     "id": 3937,
     "name": "Houston Dash"
   },
-  "2221": {
-    "id": 2221,
-    "name": "Lexington SC"
-  },
-  "2234": {
-    "id": 2234,
-    "name": "Colorado Springs Switchbacks FC"
-  },
   "274": {
     "id": 274,
     "name": "St.Louis City"
@@ -2335,6 +2327,14 @@
     "id": 309,
     "name": "Querétaro FC"
   },
+  "2221": {
+    "id": 2221,
+    "name": "Lexington SC"
+  },
+  "2234": {
+    "id": 2234,
+    "name": "Colorado Springs Switchbacks FC"
+  },
   "2229": {
     "id": 2229,
     "name": "Birmingham Legion FC"
@@ -3446,6 +3446,14 @@
   "3379": {
     "id": 3379,
     "name": "Hapoel Tel Aviv"
+  },
+  "1456": {
+    "id": 1456,
+    "name": "CD Ebro"
+  },
+  "3438": {
+    "id": 3438,
+    "name": "S.S. Reyes"
   },
   "398": {
     "id": 398,
