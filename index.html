@@ -5,8 +5,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Football Match Center</title>
-    <link rel="manifest" href="manifest.json">
-<meta name="theme-color" content="#0b4f87">
 
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
@@ -391,6 +389,102 @@ main{
         font-size:17px;
     }
 }
+
+/* =========================
+   PREDICTION UI
+========================= */
+
+.prediction-box{
+    margin-top:10px;
+    padding:11px;
+    border-radius:12px;
+    background:#f8fafc;
+    border:1px solid #dbe4ee;
+    box-shadow:0 2px 8px rgba(15,23,42,.05);
+}
+
+.prediction-title{
+    font-size:11px;
+    font-weight:900;
+    letter-spacing:.3px;
+    margin-bottom:7px;
+}
+
+.prediction-level{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:8px;
+    font-size:11px;
+}
+
+.prediction-level span{
+    color:#64748b;
+    font-weight:700;
+}
+
+.prediction-pick{
+    margin-top:7px;
+    padding:8px;
+    border-radius:8px;
+    background:#eef6ff;
+    color:#0b4f87;
+    font-size:11px;
+}
+
+.prediction-grid{
+    display:grid;
+    grid-template-columns:repeat(6,1fr);
+    gap:5px;
+    margin-top:8px;
+}
+
+.prediction-grid>div{
+    padding:6px 2px;
+    text-align:center;
+    background:#fff;
+    border:1px solid #e5e7eb;
+    border-radius:7px;
+}
+
+.prediction-grid small{
+    display:block;
+    font-size:8px;
+    color:#64748b;
+    font-weight:800;
+}
+
+.prediction-grid strong{
+    display:block;
+    margin-top:2px;
+    font-size:10px;
+}
+
+.prediction-score{
+    margin-top:8px;
+    font-size:10px;
+}
+
+.prediction-reason{
+    margin-top:6px;
+    font-size:9px;
+    color:#64748b;
+    line-height:1.4;
+}
+
+.prediction-note{
+    margin-top:6px;
+    font-size:8px;
+    color:#94a3b8;
+    line-height:1.35;
+}
+
+@media(max-width:520px){
+    .prediction-grid{
+        grid-template-columns:repeat(3,1fr);
+    }
+}
+
 </style>
 
 </head>
@@ -873,265 +967,203 @@ function render(){
 }
 
 
-/* =========================
-   MATCH CARD
-========================= */
-
-function matchHTML(m){
-
-    const status=getStatus(m);
-
-    const date=new Date(m.event_date);
-
-    const home=
-        teams[String(m.home_team_id)]||
-        {
-            id:m.home_team_id,
-            name:m.home_team
-        };
-
-
-    const away=
-        teams[String(m.away_team_id)]||
-        {
-            id:m.away_team_id,
-            name:m.away_team
-        };
-
-
-    const homeName=
-        home.name||
-        m.home_team||
-        "Home";
-
-
-    const awayName=
-        away.name||
-        m.away_team||
-        "Away";
-
-
-    let center="";
-
-
-    if(status==="upcoming"){
-
-        center=`<div class="score vs">VS</div>`;
-
-    }else{
-
-        center=`
-        <div class="score">
-            ${safeScore(m.home_score)}
-            -
-            ${safeScore(m.away_score)}
-        </div>`;
-
-    }
-
-
-    let badge="";
-
-
-    if(status==="live"){
-
-        const minute=m.current_minute;
-
-        badge=`
-            <span class="badge live">
-                <span class="live-dot"></span>LIVE
-                ${minute!==null&&minute!==undefined&&minute!==""
-                    ?`<span class="minute">${escapeHTML(minute)}'</span>`
-                    :""
-                }
-            </span>`;
-
-    }else if(status==="finished"){
-
-        badge=`<span class="badge finished">✓ Terminé</span>`;
-
-    }else{
-
-        badge=`<span class="badge upcoming">🕐 À venir</span>`;
-
-    }
-
-
-    return `
-    <article class="match ${status==="live"?"live-card":""}">
-
-        <div class="match-top">
-
-            <div class="time">
-                ${formatTime(date)}
-            </div>
-
-            <div>
-                ${badge}
-            </div>
-
-        </div>
-
-
-        <div class="teams">
-
-            <div class="team home">
-
-                <div class="team-name">
-                    ${escapeHTML(homeName)}
-                </div>
-
-                ${logoHTML(home,homeName)}
-
-            </div>
-
-
-            <div class="center">
-                ${center}
-            </div>
-
-
-            <div class="team away">
-
-                ${logoHTML(away,awayName)}
-
-                <div class="team-name">
-                    ${escapeHTML(awayName)}
-                </div>
-
-            </div>
-
-        </div>
-
-
-        ${
-            m.round_name
-            ?`<div class="match-meta">
-                ${escapeHTML(m.round_name)}
-              </div>`
-            :""
-        }
-
-    </article>`;
-}
-
 
 /* =========================
-   SUMMARY
+   PREDICTION ENGINE
+   Safe / Medium / No Bet
 ========================= */
 
-function updateSummary(){
+function predictionFinishedMatches(){
+    return matches.filter(m=>{
+        const hs=Number(m.home_score);
+        const as=Number(m.away_score);
 
-    const live=matches.filter(m=>getStatus(m)==="live").length;
-    const upcoming=matches.filter(m=>getStatus(m)==="upcoming").length;
-    const finished=matches.filter(m=>getStatus(m)==="finished").length;
-
-
-    document.getElementById("summary").innerHTML=`
-
-        <div class="summary-row">
-
-            <strong>
-                ${matches.length} matchs
-            </strong>
-
-            <button class="refresh" onclick="init()">
-                🔄 Actualiser
-            </button>
-
-        </div>
-
-        <div class="counts">
-
-            <span class="count live">
-                🔴 ${live} Live
-            </span>
-
-            <span class="count upcoming">
-                🕐 ${upcoming} À venir
-            </span>
-
-            <span class="count finished">
-                ✓ ${finished} Terminés
-            </span>
-
-        </div>
-
-    `;
-
+        return getStatus(m)==="finished" &&
+               Number.isFinite(hs) &&
+               Number.isFinite(as);
+    });
 }
 
+function predictionTeamHistory(teamId, limit=10){
+    const id=String(teamId);
 
-/* =========================
-   SECURITY
-========================= */
-
-function escapeHTML(value){
-
-    return String(value??"")
-        .replace(/&/g,"&amp;")
-        .replace(/</g,"&lt;")
-        .replace(/>/g,"&gt;")
-        .replace(/"/g,"&quot;")
-        .replace(/'/g,"&#039;");
-
+    return predictionFinishedMatches()
+        .filter(m=>
+            String(m.home_team_id)===id ||
+            String(m.away_team_id)===id
+        )
+        .sort((a,b)=>
+            new Date(b.event_date)-new Date(a.event_date)
+        )
+        .slice(0,limit);
 }
 
+function predictionTeamStats(teamId){
+    const games=predictionTeamHistory(teamId,10);
 
-function escapeAttr(value){
+    let scored=0;
+    let conceded=0;
+    let wins=0;
+    let draws=0;
+    let losses=0;
 
-    return escapeHTML(value);
+    games.forEach(m=>{
+        const hs=Number(m.home_score);
+        const as=Number(m.away_score);
 
-}
+        const isHome=String(m.home_team_id)===String(teamId);
 
+        const gf=isHome?hs:as;
+        const ga=isHome?as:hs;
 
-function safeScore(value){
+        scored+=gf;
+        conceded+=ga;
 
-    return value===null||
-           value===undefined||
-           value===""
-        ?"-"
-        :escapeHTML(value);
-
-}
-
-
-/* =========================
-   TABS
-========================= */
-
-document.querySelectorAll(".tab").forEach(btn=>{
-
-    btn.addEventListener("click",()=>{
-
-        document.querySelectorAll(".tab")
-            .forEach(b=>b.classList.remove("active"));
-
-        btn.classList.add("active");
-
-        currentFilter=btn.dataset.filter;
-
-        render();
-
+        if(gf>ga) wins++;
+        else if(gf===ga) draws++;
+        else losses++;
     });
 
-});
+    return {
+        games:games.length,
+        scored,
+        conceded,
+        avgScored:games.length ? scored/games.length : 0,
+        avgConceded:games.length ? conceded/games.length : 0,
+        wins,
+        draws,
+        losses
+    };
+}
 
+function predictionPoisson(k,lambda){
+    if(lambda<=0) return 0;
 
-/* =========================
-   START
-========================= */
+    let factorial=1;
 
-init();
+    for(let i=2;i<=k;i++){
+        factorial*=i;
+    }
 
+    return Math.exp(-lambda)*
+           Math.pow(lambda,k)/
+           factorial;
+}
 
-/* Auto refresh 5 minutes */
+function predictionEngine(match){
 
-setInterval(()=>{
-    init();
-},300000);
-    
-</script>
+    const H=predictionTeamStats(match.home_team_id);
+    const A=predictionTeamStats(match.away_team_id);
 
-</body>
-</html>
+    /*
+     * Tsy maminavina raha tsy ampy
+     * ny historique.
+     */
+    if(H.games<3 || A.games<3){
+
+        return {
+            level:"NO BET",
+            confidence:0,
+            pick:"Données insuffisantes",
+            home:33,
+            draw:34,
+            away:33,
+            over15:0,
+            over25:0,
+            btts:0,
+            score:"-",
+            reason:"Historique insuffisant pour une analyse fiable."
+        };
+    }
+
+    /*
+     * Modèle simple basé amin'ny:
+     * attaque + défense + avantage domicile.
+     */
+    let homeLambda=
+        (H.avgScored*0.60)+
+        (A.avgConceded*0.40);
+
+    let awayLambda=
+        (A.avgScored*0.60)+
+        (H.avgConceded*0.40);
+
+    homeLambda*=1.08;
+
+    homeLambda=Math.max(0.15,Math.min(homeLambda,4));
+    awayLambda=Math.max(0.15,Math.min(awayLambda,4));
+
+    let homeWin=0;
+    let draw=0;
+    let awayWin=0;
+    let over15=0;
+    let over25=0;
+    let btts=0;
+
+    let bestScore="0-0";
+    let bestScoreProb=0;
+
+    for(let h=0;h<=6;h++){
+
+        for(let a=0;a<=6;a++){
+
+            const p=
+                predictionPoisson(h,homeLambda)*
+                predictionPoisson(a,awayLambda);
+
+            if(h>a) homeWin+=p;
+            else if(h===a) draw+=p;
+            else awayWin+=p;
+
+            if(h+a>=2) over15+=p;
+            if(h+a>=3) over25+=p;
+            if(h>=1 && a>=1) btts+=p;
+
+            if(p>bestScoreProb){
+                bestScoreProb=p;
+                bestScore=`${h}-${a}`;
+            }
+        }
+    }
+
+    const candidates=[
+        {name:"1X",probability:homeWin+draw},
+        {name:"X2",probability:draw+awayWin},
+        {name:"Over 1.5",probability:over15},
+        {name:"Over 2.5",probability:over25},
+        {name:"BTTS",probability:btts},
+        {name:"Home",probability:homeWin},
+        {name:"Draw",probability:draw},
+        {name:"Away",probability:awayWin}
+    ].sort((a,b)=>b.probability-a.probability);
+
+    const best=candidates[0];
+    const second=candidates[1];
+
+    let confidence=Math.round(best.probability*100);
+
+    let level="NO BET";
+
+    if(confidence>=75) level="SAFE";
+    else if(confidence>=62) level="MEDIUM";
+    else if(confidence>=52) level="RISK";
+
+    /*
+     * Raha tsy misy elanelana mazava
+     * amin'ny safidy roa voalohany,
+     * dia tsy antsoina hoe SAFE.
+     */
+    if(
+        second &&
+        Math.abs(best.probability-second.probability)<0.025 &&
+        level==="SAFE"
+    ){
+        level="MEDIUM";
+    }
+
+    return {
+        level,
+        confidence,
+        pick:best.name,
+
+        home:Math.round(homeWin*10
