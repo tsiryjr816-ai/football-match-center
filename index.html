@@ -5,6 +5,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Football Match Center</title>
+    <link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#0b4f87">
 
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
@@ -1128,6 +1130,12 @@ init();
 setInterval(()=>{
     init();
 },300000);
+    <script>
+if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register("./service-worker.js")
+        .then(() => console.log("PWA Ready"))
+        .catch(error => console.error("PWA Error:", error));
+}
 
 </script>
 
