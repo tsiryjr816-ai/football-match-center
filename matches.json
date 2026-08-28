@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T23:03:15.232404+00:00",
+  "updated_at": "2026-08-28T23:18:21.920013+00:00",
   "source": "BSD Football API",
   "date_from": "2026-08-28",
   "date_to": "2026-09-04",
@@ -70697,7 +70697,7 @@
       "round_name": "",
       "group_name": null,
       "period": "1T",
-      "current_minute": 31,
+      "current_minute": 46,
       "home_score": 1,
       "away_score": 0,
       "home_score_ht": 1,
@@ -70764,8 +70764,8 @@
       "round_name": "",
       "group_name": null,
       "period": "2T",
-      "current_minute": 45,
-      "home_score": 1,
+      "current_minute": 61,
+      "home_score": 2,
       "away_score": 0,
       "home_score_ht": 1,
       "away_score_ht": 0,
@@ -71423,7 +71423,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Wrexham 1-2 Birmingham City — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=7G_Js5NyhZ4",
+          "thumbnail": "https://i.ytimg.com/vi/7G_Js5NyhZ4/maxresdefault.jpg",
+          "published_at": "2026-08-28T23:00:11+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 4,
         "home_wins": 0,
@@ -71523,7 +71531,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Crystal Palace 1-4 Manchester City — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=knzpiTFfcQw",
+          "thumbnail": "https://i.ytimg.com/vi/knzpiTFfcQw/maxresdefault.jpg",
+          "published_at": "2026-08-28T23:00:24+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 36,
         "home_wins": 5,
