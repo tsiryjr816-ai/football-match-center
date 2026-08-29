@@ -159,14 +159,6 @@
     "id": 819,
     "name": "Atlético Goianiense"
   },
-  "919": {
-    "id": 919,
-    "name": "RCD Espanyol de Barcelona"
-  },
-  "916": {
-    "id": 916,
-    "name": "FC Badalona"
-  },
   "1403": {
     "id": 1403,
     "name": "CD Eldense"
@@ -1414,6 +1406,14 @@
   "923": {
     "id": 923,
     "name": "Madrid CFF"
+  },
+  "919": {
+    "id": 919,
+    "name": "RCD Espanyol de Barcelona"
+  },
+  "916": {
+    "id": 916,
+    "name": "FC Badalona"
   },
   "1940": {
     "id": 1940,
@@ -2911,6 +2911,14 @@
     "id": 1259,
     "name": "Málaga CF"
   },
+  "2084": {
+    "id": 2084,
+    "name": "Vålerenga IF"
+  },
+  "2077": {
+    "id": 2077,
+    "name": "Molde FK"
+  },
   "2086": {
     "id": 2086,
     "name": "Tromsø IL"
@@ -3394,14 +3402,6 @@
   "20": {
     "id": 20,
     "name": "Everton"
-  },
-  "2084": {
-    "id": 2084,
-    "name": "Vålerenga IF"
-  },
-  "2077": {
-    "id": 2077,
-    "name": "Molde FK"
   },
   "93": {
     "id": 93,
