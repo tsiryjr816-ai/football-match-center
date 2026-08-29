@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T21:33:32.460873+00:00",
+  "updated_at": "2026-08-29T21:48:19.286566+00:00",
   "source": "BSD Football API",
   "date_from": "2026-08-29",
   "date_to": "2026-09-05",
@@ -75587,7 +75587,7 @@
       "round_name": "",
       "group_name": null,
       "period": "1T",
-      "current_minute": 3,
+      "current_minute": 17,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -75720,7 +75720,7 @@
       "round_name": "",
       "group_name": null,
       "period": "1T",
-      "current_minute": 2,
+      "current_minute": 16,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -75886,7 +75886,7 @@
       "round_name": "",
       "group_name": null,
       "period": "1T",
-      "current_minute": 7,
+      "current_minute": 21,
       "home_score": 1,
       "away_score": 0,
       "home_score_ht": 1,
@@ -76052,7 +76052,7 @@
       "round_name": "",
       "group_name": null,
       "period": "1T",
-      "current_minute": 26,
+      "current_minute": 40,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -76212,14 +76212,14 @@
       "referee_id": 1771,
       "venue_id": 290,
       "event_date": "2026-08-29T20:30:00+00:00",
-      "status": "halftime",
+      "status": "2nd_half",
       "replaced_by": null,
       "round_number": null,
       "round_name": "",
       "group_name": null,
-      "period": "HT",
-      "current_minute": 45,
-      "home_score": 1,
+      "period": "2T",
+      "current_minute": 47,
+      "home_score": 2,
       "away_score": 1,
       "home_score_ht": 1,
       "away_score_ht": 1,
@@ -76384,9 +76384,9 @@
       "round_name": "",
       "group_name": "Group B",
       "period": "2T",
-      "current_minute": 73,
-      "home_score": 0,
-      "away_score": 1,
+      "current_minute": 88,
+      "home_score": 1,
+      "away_score": 2,
       "home_score_ht": 0,
       "away_score_ht": 0,
       "penalty_shootout": null,
@@ -76836,7 +76836,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "clip",
+          "title": "Sevilla - Atlético Madrid — Watchalong stream",
+          "url": "https://www.youtube.com/watch?v=sfFX9zxNd6w",
+          "thumbnail": "https://i.ytimg.com/vi/sfFX9zxNd6w/hqdefault.jpg",
+          "published_at": "2026-08-29T18:28:06+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 108,
         "home_wins": 32,
@@ -76976,13 +76984,13 @@
       "referee_id": null,
       "venue_id": 778,
       "event_date": "2026-08-29T19:00:00+00:00",
-      "status": "extratime",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 1,
       "round_name": "Round 1",
       "group_name": null,
-      "period": "ETHT",
-      "current_minute": 114,
+      "period": "FT",
+      "current_minute": 90,
       "home_score": 0,
       "away_score": 1,
       "home_score_ht": 0,
@@ -78485,7 +78493,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Gaziantep 1 - 2 Rizespor — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=29gERHhnjZ0",
+          "thumbnail": "https://i.ytimg.com/vi/29gERHhnjZ0/hqdefault.jpg",
+          "published_at": "2026-08-29T21:29:50+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 12,
         "home_wins": 6,
@@ -78651,7 +78667,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Galatasaray 3 - 2 Göztepe — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=3eygTqHXzP0&pp=0gcJCRMMAYcqIYzv",
+          "thumbnail": "https://i.ytimg.com/vi/3eygTqHXzP0/hqdefault.jpg",
+          "published_at": "2026-08-29T21:26:46+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 22,
         "home_wins": 20,
@@ -79739,7 +79763,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Al-Ettifaq 0 - 3 Al Diriyah — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=403xOfxlnjM",
+          "thumbnail": "https://i.ytimg.com/vi/403xOfxlnjM/hqdefault.jpg",
+          "published_at": "2026-08-29T21:22:44+00:00"
+        }
+      ],
       "head_to_head": null,
       "has_xg": false,
       "previous_leg_event_id": null
@@ -86354,7 +86386,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Sheffield Wed 7 - 2 Bromley — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=ixKV48AjU7E",
+          "thumbnail": "https://i.ytimg.com/vi/ixKV48AjU7E/hqdefault.jpg",
+          "published_at": "2026-08-29T21:30:06+00:00"
+        }
+      ],
       "head_to_head": null,
       "has_xg": false,
       "previous_leg_event_id": null
@@ -87984,7 +88024,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Bolton 0 - 1 Lincoln — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=nQLjx_qjAzE",
+          "thumbnail": "https://i.ytimg.com/vi/nQLjx_qjAzE/hqdefault.jpg",
+          "published_at": "2026-08-29T21:23:53+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 12,
         "home_wins": 7,
