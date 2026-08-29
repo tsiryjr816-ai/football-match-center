@@ -343,14 +343,6 @@
     "id": 325,
     "name": "Asteras Aktor"
   },
-  "323": {
-    "id": 323,
-    "name": "NPS Volos"
-  },
-  "118": {
-    "id": 118,
-    "name": "Olympiacos FC"
-  },
   "330": {
     "id": 330,
     "name": "APS Atromitos Athinon"
@@ -542,6 +534,14 @@
   "4819": {
     "id": 4819,
     "name": "CD Trofense"
+  },
+  "323": {
+    "id": 323,
+    "name": "NPS Volos"
+  },
+  "118": {
+    "id": 118,
+    "name": "Olympiacos FC"
   },
   "352": {
     "id": 352,
