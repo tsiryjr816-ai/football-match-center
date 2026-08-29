@@ -391,6 +391,14 @@
     "id": 585,
     "name": "Young Africans SC"
   },
+  "134": {
+    "id": 134,
+    "name": "Fenerbahçe"
+  },
+  "196": {
+    "id": 196,
+    "name": "Beşiktaş JK"
+  },
   "30": {
     "id": 30,
     "name": "FC Alverca"
@@ -2411,10 +2419,6 @@
     "id": 66,
     "name": "Bologna"
   },
-  "196": {
-    "id": 196,
-    "name": "Beşiktaş JK"
-  },
   "3295": {
     "id": 3295,
     "name": "Çorum FK"
@@ -2622,10 +2626,6 @@
   "184": {
     "id": 184,
     "name": "Samsunspor"
-  },
-  "134": {
-    "id": 134,
-    "name": "Fenerbahçe"
   },
   "194": {
     "id": 194,
