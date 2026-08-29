@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T04:33:34.114068+00:00",
+  "updated_at": "2026-08-29T04:48:22.719035+00:00",
   "source": "BSD Football API",
   "date_from": "2026-08-29",
   "date_to": "2026-09-05",
@@ -47543,7 +47543,7 @@
       "away_team": "Bologna",
       "home_coach_id": 313,
       "away_coach_id": 427,
-      "referee_id": null,
+      "referee_id": 1764,
       "venue_id": 70,
       "event_date": "2026-08-31T18:45:00+00:00",
       "status": "notstarted",
@@ -49225,7 +49225,7 @@
       "away_team": "AS Roma",
       "home_coach_id": 456,
       "away_coach_id": 440,
-      "referee_id": null,
+      "referee_id": 2250,
       "venue_id": 60,
       "event_date": "2026-08-31T16:30:00+00:00",
       "status": "notstarted",
@@ -94544,7 +94544,7 @@
       "round_name": "",
       "group_name": null,
       "period": "2T",
-      "current_minute": 64,
+      "current_minute": 79,
       "home_score": 1,
       "away_score": 0,
       "home_score_ht": 0,
@@ -94730,7 +94730,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "San Diego Wave 3 - 2 Racing Louisville — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=lwEBdfnLA7o",
+          "thumbnail": "https://i.ytimg.com/vi/lwEBdfnLA7o/hqdefault.jpg",
+          "published_at": "2026-08-29T04:24:06+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 8,
         "home_wins": 3,
