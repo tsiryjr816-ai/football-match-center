@@ -1055,6 +1055,14 @@
     "id": 116,
     "name": "Royale Union Saint-Gilloise"
   },
+  "145": {
+    "id": 145,
+    "name": "Rangers"
+  },
+  "225": {
+    "id": 225,
+    "name": "Motherwell"
+  },
   "227": {
     "id": 227,
     "name": "Dundee United"
@@ -2027,17 +2035,9 @@
     "id": 4781,
     "name": "Llaneros FC"
   },
-  "145": {
-    "id": 145,
-    "name": "Rangers"
-  },
   "3853": {
     "id": 3853,
     "name": "VfL Osnabrück"
-  },
-  "225": {
-    "id": 225,
-    "name": "Motherwell"
   },
   "228": {
     "id": 228,
