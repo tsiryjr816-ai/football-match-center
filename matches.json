@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T07:03:27.612941+00:00",
+  "updated_at": "2026-08-29T07:18:15.452139+00:00",
   "source": "BSD Football API",
   "date_from": "2026-08-29",
   "date_to": "2026-09-05",
@@ -94588,7 +94588,7 @@
       "round_name": "Semifinals",
       "group_name": null,
       "period": "1T",
-      "current_minute": 3,
+      "current_minute": 18,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -95222,7 +95222,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Atlante 1 - 1 León — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=wlJtUXUd4u4",
+          "thumbnail": "https://i.ytimg.com/vi/wlJtUXUd4u4/hqdefault.jpg",
+          "published_at": "2026-08-29T06:53:27+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 4,
         "home_wins": 0,
