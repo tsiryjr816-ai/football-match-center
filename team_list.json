@@ -271,6 +271,14 @@
     "id": 63,
     "name": "AC Milan"
   },
+  "149": {
+    "id": 149,
+    "name": "Panathinaikos FC"
+  },
+  "129": {
+    "id": 129,
+    "name": "PAOK"
+  },
   "926": {
     "id": 926,
     "name": "Real Madrid"
@@ -446,6 +454,14 @@
   "4825": {
     "id": 4825,
     "name": "AD Marco 09"
+  },
+  "330": {
+    "id": 330,
+    "name": "APS Atromitos Athinon"
+  },
+  "3427": {
+    "id": 3427,
+    "name": "PS Kalamata"
   },
   "350": {
     "id": 350,
@@ -1471,14 +1487,6 @@
     "id": 267,
     "name": "Al-Nassr"
   },
-  "149": {
-    "id": 149,
-    "name": "Panathinaikos FC"
-  },
-  "129": {
-    "id": 129,
-    "name": "PAOK"
-  },
   "3781": {
     "id": 3781,
     "name": "POT Iraklis"
@@ -1486,14 +1494,6 @@
   "325": {
     "id": 325,
     "name": "Asteras Aktor"
-  },
-  "330": {
-    "id": 330,
-    "name": "APS Atromitos Athinon"
-  },
-  "3427": {
-    "id": 3427,
-    "name": "PS Kalamata"
   },
   "329": {
     "id": 329,

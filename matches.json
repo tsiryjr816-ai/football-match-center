@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T05:18:27.793870+00:00",
+  "updated_at": "2026-08-30T05:33:20.611669+00:00",
   "source": "BSD Football API",
   "date_from": "2026-08-30",
   "date_to": "2026-09-06",
@@ -4714,6 +4714,172 @@
       "previous_leg_event_id": null
     },
     {
+      "id": 219759,
+      "league_id": 24,
+      "season_id": 1569,
+      "home_team_id": 149,
+      "home_team": "Panathinaikos FC",
+      "away_team_id": 129,
+      "away_team": "PAOK",
+      "home_coach_id": 1760,
+      "away_coach_id": 442,
+      "referee_id": null,
+      "venue_id": 147,
+      "event_date": "2026-09-06T18:30:00+00:00",
+      "status": "notstarted",
+      "replaced_by": null,
+      "round_number": 3,
+      "round_name": "",
+      "group_name": null,
+      "period": "",
+      "current_minute": null,
+      "home_score": null,
+      "away_score": null,
+      "home_score_ht": null,
+      "away_score_ht": null,
+      "penalty_shootout": null,
+      "extra_time_score": null,
+      "is_local_derby": false,
+      "is_neutral_ground": false,
+      "travel_distance_km": null,
+      "weather": {
+        "code": 0,
+        "description": "unknown",
+        "wind_speed": 7.1,
+        "temperature_c": 31
+      },
+      "pitch_condition": null,
+      "attendance": null,
+      "live_websocket": false,
+      "websocket_plus": false,
+      "highlights": [],
+      "head_to_head": {
+        "total_matches": 115,
+        "home_wins": 52,
+        "draws": 24,
+        "away_wins": 39,
+        "home_goals": 163,
+        "away_goals": 136,
+        "avg_total_goals": 2.6,
+        "home_win_rate": 0.45217391304347826,
+        "away_win_rate": 0.3391304347826087,
+        "recent_matches": [
+          {
+            "away": "PAOK",
+            "date": "2026-05-17T16:30:00+00:00",
+            "home": "Panathinaikos FC",
+            "score": "2-2",
+            "event_id": 9230,
+            "away_score": 2,
+            "home_score": 2,
+            "away_team_id": 129,
+            "home_team_id": 149
+          },
+          {
+            "away": "Panathinaikos FC",
+            "date": "2026-04-05T16:00:00+00:00",
+            "home": "PAOK",
+            "score": "0-0",
+            "event_id": 9178,
+            "away_score": 0,
+            "home_score": 0,
+            "away_team_id": 149,
+            "home_team_id": 129
+          },
+          {
+            "away": "Panathinaikos FC",
+            "date": "2025-12-21T17:30:00+00:00",
+            "home": "PAOK",
+            "score": "2-0",
+            "event_id": 6907,
+            "away_score": 0,
+            "home_score": 2,
+            "away_team_id": 149,
+            "home_team_id": 129
+          },
+          {
+            "away": "PAOK",
+            "date": "2025-11-09T19:00:00+00:00",
+            "home": "Panathinaikos FC",
+            "score": "2-1",
+            "event_id": 6874,
+            "away_score": 1,
+            "home_score": 2,
+            "away_team_id": 129,
+            "home_team_id": 149
+          },
+          {
+            "away": "Panathinaikos FC",
+            "date": "2025-04-27T17:00:00+00:00",
+            "home": "PAOK",
+            "score": "2-1",
+            "event_id": 307705,
+            "away_score": 1,
+            "home_score": 2,
+            "away_team_id": 149,
+            "home_team_id": 129
+          },
+          {
+            "away": "PAOK",
+            "date": "2025-04-13T16:00:00+00:00",
+            "home": "Panathinaikos FC",
+            "score": "3-1",
+            "event_id": 307689,
+            "away_score": 1,
+            "home_score": 3,
+            "away_team_id": 129,
+            "home_team_id": 149
+          },
+          {
+            "away": "PAOK",
+            "date": "2025-01-05T18:30:00+00:00",
+            "home": "Panathinaikos FC",
+            "score": "2-1",
+            "event_id": 307821,
+            "away_score": 1,
+            "home_score": 2,
+            "away_team_id": 129,
+            "home_team_id": 149
+          },
+          {
+            "away": "Panathinaikos FC",
+            "date": "2024-09-15T17:30:00+00:00",
+            "home": "PAOK",
+            "score": "0-0",
+            "event_id": 307697,
+            "away_score": 0,
+            "home_score": 0,
+            "away_team_id": 149,
+            "home_team_id": 129
+          },
+          {
+            "away": "Panathinaikos FC",
+            "date": "2024-05-15T17:00:00+00:00",
+            "home": "PAOK",
+            "score": "4-1",
+            "event_id": 313256,
+            "away_score": 1,
+            "home_score": 4,
+            "away_team_id": 149,
+            "home_team_id": 129
+          },
+          {
+            "away": "PAOK",
+            "date": "2024-03-31T15:00:00+00:00",
+            "home": "Panathinaikos FC",
+            "score": "2-3",
+            "event_id": 313157,
+            "away_score": 3,
+            "home_score": 2,
+            "away_team_id": 129,
+            "home_team_id": 149
+          }
+        ]
+      },
+      "has_xg": false,
+      "previous_leg_event_id": null
+    },
+    {
       "id": 215241,
       "league_id": 36,
       "season_id": 1308,
@@ -7976,6 +8142,50 @@
           }
         ]
       },
+      "has_xg": false,
+      "previous_leg_event_id": null
+    },
+    {
+      "id": 219755,
+      "league_id": 24,
+      "season_id": 1569,
+      "home_team_id": 330,
+      "home_team": "APS Atromitos Athinon",
+      "away_team_id": 3427,
+      "away_team": "PS Kalamata",
+      "home_coach_id": 302,
+      "away_coach_id": 3431,
+      "referee_id": null,
+      "venue_id": 315,
+      "event_date": "2026-09-06T16:00:00+00:00",
+      "status": "notstarted",
+      "replaced_by": null,
+      "round_number": 3,
+      "round_name": "",
+      "group_name": null,
+      "period": "",
+      "current_minute": null,
+      "home_score": null,
+      "away_score": null,
+      "home_score_ht": null,
+      "away_score_ht": null,
+      "penalty_shootout": null,
+      "extra_time_score": null,
+      "is_local_derby": false,
+      "is_neutral_ground": false,
+      "travel_distance_km": null,
+      "weather": {
+        "code": 0,
+        "description": "unknown",
+        "wind_speed": 5.6,
+        "temperature_c": 33
+      },
+      "pitch_condition": null,
+      "attendance": null,
+      "live_websocket": false,
+      "websocket_plus": false,
+      "highlights": [],
+      "head_to_head": null,
       "has_xg": false,
       "previous_leg_event_id": null
     },
@@ -25172,172 +25382,6 @@
       "previous_leg_event_id": null
     },
     {
-      "id": 219759,
-      "league_id": 24,
-      "season_id": 1569,
-      "home_team_id": 149,
-      "home_team": "Panathinaikos FC",
-      "away_team_id": 129,
-      "away_team": "PAOK",
-      "home_coach_id": 1760,
-      "away_coach_id": 442,
-      "referee_id": null,
-      "venue_id": 147,
-      "event_date": "2026-09-05T18:00:00+00:00",
-      "status": "notstarted",
-      "replaced_by": null,
-      "round_number": 3,
-      "round_name": "",
-      "group_name": null,
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
-      "penalty_shootout": null,
-      "extra_time_score": null,
-      "is_local_derby": false,
-      "is_neutral_ground": false,
-      "travel_distance_km": null,
-      "weather": {
-        "code": 0,
-        "description": "unknown",
-        "wind_speed": 7.1,
-        "temperature_c": 31
-      },
-      "pitch_condition": null,
-      "attendance": null,
-      "live_websocket": false,
-      "websocket_plus": false,
-      "highlights": [],
-      "head_to_head": {
-        "total_matches": 115,
-        "home_wins": 52,
-        "draws": 24,
-        "away_wins": 39,
-        "home_goals": 163,
-        "away_goals": 136,
-        "avg_total_goals": 2.6,
-        "home_win_rate": 0.45217391304347826,
-        "away_win_rate": 0.3391304347826087,
-        "recent_matches": [
-          {
-            "away": "PAOK",
-            "date": "2026-05-17T16:30:00+00:00",
-            "home": "Panathinaikos FC",
-            "score": "2-2",
-            "event_id": 9230,
-            "away_score": 2,
-            "home_score": 2,
-            "away_team_id": 129,
-            "home_team_id": 149
-          },
-          {
-            "away": "Panathinaikos FC",
-            "date": "2026-04-05T16:00:00+00:00",
-            "home": "PAOK",
-            "score": "0-0",
-            "event_id": 9178,
-            "away_score": 0,
-            "home_score": 0,
-            "away_team_id": 149,
-            "home_team_id": 129
-          },
-          {
-            "away": "Panathinaikos FC",
-            "date": "2025-12-21T17:30:00+00:00",
-            "home": "PAOK",
-            "score": "2-0",
-            "event_id": 6907,
-            "away_score": 0,
-            "home_score": 2,
-            "away_team_id": 149,
-            "home_team_id": 129
-          },
-          {
-            "away": "PAOK",
-            "date": "2025-11-09T19:00:00+00:00",
-            "home": "Panathinaikos FC",
-            "score": "2-1",
-            "event_id": 6874,
-            "away_score": 1,
-            "home_score": 2,
-            "away_team_id": 129,
-            "home_team_id": 149
-          },
-          {
-            "away": "Panathinaikos FC",
-            "date": "2025-04-27T17:00:00+00:00",
-            "home": "PAOK",
-            "score": "2-1",
-            "event_id": 307705,
-            "away_score": 1,
-            "home_score": 2,
-            "away_team_id": 149,
-            "home_team_id": 129
-          },
-          {
-            "away": "PAOK",
-            "date": "2025-04-13T16:00:00+00:00",
-            "home": "Panathinaikos FC",
-            "score": "3-1",
-            "event_id": 307689,
-            "away_score": 1,
-            "home_score": 3,
-            "away_team_id": 129,
-            "home_team_id": 149
-          },
-          {
-            "away": "PAOK",
-            "date": "2025-01-05T18:30:00+00:00",
-            "home": "Panathinaikos FC",
-            "score": "2-1",
-            "event_id": 307821,
-            "away_score": 1,
-            "home_score": 2,
-            "away_team_id": 129,
-            "home_team_id": 149
-          },
-          {
-            "away": "Panathinaikos FC",
-            "date": "2024-09-15T17:30:00+00:00",
-            "home": "PAOK",
-            "score": "0-0",
-            "event_id": 307697,
-            "away_score": 0,
-            "home_score": 0,
-            "away_team_id": 149,
-            "home_team_id": 129
-          },
-          {
-            "away": "Panathinaikos FC",
-            "date": "2024-05-15T17:00:00+00:00",
-            "home": "PAOK",
-            "score": "4-1",
-            "event_id": 313256,
-            "away_score": 1,
-            "home_score": 4,
-            "away_team_id": 149,
-            "home_team_id": 129
-          },
-          {
-            "away": "PAOK",
-            "date": "2024-03-31T15:00:00+00:00",
-            "home": "Panathinaikos FC",
-            "score": "2-3",
-            "event_id": 313157,
-            "away_score": 3,
-            "home_score": 2,
-            "away_team_id": 129,
-            "home_team_id": 149
-          }
-        ]
-      },
-      "has_xg": false,
-      "previous_leg_event_id": null
-    },
-    {
       "id": 219758,
       "league_id": 24,
       "season_id": 1569,
@@ -25500,50 +25544,6 @@
           }
         ]
       },
-      "has_xg": false,
-      "previous_leg_event_id": null
-    },
-    {
-      "id": 219755,
-      "league_id": 24,
-      "season_id": 1569,
-      "home_team_id": 330,
-      "home_team": "APS Atromitos Athinon",
-      "away_team_id": 3427,
-      "away_team": "PS Kalamata",
-      "home_coach_id": 302,
-      "away_coach_id": 3431,
-      "referee_id": null,
-      "venue_id": 315,
-      "event_date": "2026-09-05T18:00:00+00:00",
-      "status": "notstarted",
-      "replaced_by": null,
-      "round_number": 3,
-      "round_name": "",
-      "group_name": null,
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
-      "penalty_shootout": null,
-      "extra_time_score": null,
-      "is_local_derby": false,
-      "is_neutral_ground": false,
-      "travel_distance_km": null,
-      "weather": {
-        "code": 0,
-        "description": "unknown",
-        "wind_speed": 5.6,
-        "temperature_c": 33
-      },
-      "pitch_condition": null,
-      "attendance": null,
-      "live_websocket": false,
-      "websocket_plus": false,
-      "highlights": [],
-      "head_to_head": null,
       "has_xg": false,
       "previous_leg_event_id": null
     },
@@ -94810,12 +94810,12 @@
       "is_neutral_ground": false,
       "travel_distance_km": 308,
       "weather": {
-        "code": 3,
-        "description": "rain",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 32.2,
         "temperature_c": 29
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
@@ -94985,7 +94985,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Phoenix Rising 2 - 1 Indy Eleven — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=WROVYeUm_co",
+          "thumbnail": "https://i.ytimg.com/vi/WROVYeUm_co/hqdefault.jpg",
+          "published_at": "2026-08-30T05:10:39+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 2,
         "home_wins": 0,
@@ -95160,7 +95168,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Portland Timbers 1-2 Austin FC — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=hcOzb6bq4L4",
+          "thumbnail": "https://i.ytimg.com/vi/hcOzb6bq4L4/maxresdefault.jpg",
+          "published_at": "2026-08-30T05:18:08+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 11,
         "home_wins": 6,
@@ -95326,7 +95342,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "San Diego 3 - 1 LA Galaxy — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=u2Knaar16Rs",
+          "thumbnail": "https://i.ytimg.com/vi/u2Knaar16Rs/hqdefault.jpg",
+          "published_at": "2026-08-30T05:07:59+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 2,
         "home_wins": 2,
@@ -97416,7 +97440,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Vasco 3 - 1 Cruzeiro — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=DXBXfTxNBco&pp=ygUUVmFzY28gMyAtIDEgQ3J1emVpcm8%3D",
+          "thumbnail": "https://i.ytimg.com/vi/DXBXfTxNBco/hqdefault.jpg",
+          "published_at": "2026-08-30T05:15:50+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 43,
         "home_wins": 11,
