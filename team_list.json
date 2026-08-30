@@ -1327,6 +1327,14 @@
     "id": 819,
     "name": "Atlético Goianiense"
   },
+  "22": {
+    "id": 22,
+    "name": "Sporting CP"
+  },
+  "23": {
+    "id": 23,
+    "name": "CD Nacional"
+  },
   "1403": {
     "id": 1403,
     "name": "CD Eldense"
@@ -3514,14 +3522,6 @@
   "863": {
     "id": 863,
     "name": "Cuiabá"
-  },
-  "22": {
-    "id": 22,
-    "name": "Sporting CP"
-  },
-  "23": {
-    "id": 23,
-    "name": "CD Nacional"
   },
   "35": {
     "id": 35,
