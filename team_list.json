@@ -567,14 +567,6 @@
     "id": 4832,
     "name": "UD Oliveirense"
   },
-  "194": {
-    "id": 194,
-    "name": "Başakşehir FK"
-  },
-  "125": {
-    "id": 125,
-    "name": "Galatasaray"
-  },
   "2074": {
     "id": 2074,
     "name": "Sarpsborg 08"
@@ -3802,6 +3794,14 @@
   "1370": {
     "id": 1370,
     "name": "Lyngby"
+  },
+  "194": {
+    "id": 194,
+    "name": "Başakşehir FK"
+  },
+  "125": {
+    "id": 125,
+    "name": "Galatasaray"
   },
   "100": {
     "id": 100,
