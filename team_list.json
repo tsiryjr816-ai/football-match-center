@@ -63,14 +63,6 @@
     "id": 2391,
     "name": "CA Talleres"
   },
-  "792": {
-    "id": 792,
-    "name": "Rosario Central"
-  },
-  "4997": {
-    "id": 4997,
-    "name": "Newell's Old Boys"
-  },
   "755": {
     "id": 755,
     "name": "River Plate"
@@ -302,6 +294,14 @@
   "318": {
     "id": 318,
     "name": "Club León"
+  },
+  "792": {
+    "id": 792,
+    "name": "Rosario Central"
+  },
+  "4997": {
+    "id": 4997,
+    "name": "Newell's Old Boys"
   },
   "361": {
     "id": 361,
@@ -1855,6 +1855,14 @@
     "id": 2213,
     "name": "Torreense"
   },
+  "1312": {
+    "id": 1312,
+    "name": "Feirense"
+  },
+  "5023": {
+    "id": 5023,
+    "name": "Sporting CP B U21"
+  },
   "34": {
     "id": 34,
     "name": "CF Estrela Amadora"
@@ -3378,14 +3386,6 @@
   "3317": {
     "id": 3317,
     "name": "FC Porto B"
-  },
-  "1312": {
-    "id": 1312,
-    "name": "Feirense"
-  },
-  "5023": {
-    "id": 5023,
-    "name": "Sporting CP B U21"
   },
   "3885": {
     "id": 3885,
