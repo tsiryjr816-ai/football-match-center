@@ -708,11 +708,11 @@
       "is_women": false,
       "is_active": true,
       "current_season": {
-        "id": 1085,
-        "name": "Botola Pro D1 25/26",
-        "year": 2025,
-        "start_date": "2025-07-01",
-        "end_date": "2026-06-30",
+        "id": 1962,
+        "name": "Botola Pro D1 26/27",
+        "year": 2026,
+        "start_date": "2026-07-01",
+        "end_date": "2027-06-30",
         "is_current": true
       }
     },
