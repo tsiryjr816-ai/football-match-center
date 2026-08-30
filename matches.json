@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T04:03:42.365880+00:00",
+  "updated_at": "2026-08-30T04:18:34.998638+00:00",
   "source": "BSD Football API",
   "date_from": "2026-08-30",
   "date_to": "2026-09-06",
@@ -43993,7 +43993,7 @@
       "away_team_id": 1315,
       "away_team": "Paços de Ferreira",
       "home_coach_id": 2919,
-      "away_coach_id": 2920,
+      "away_coach_id": 3607,
       "referee_id": null,
       "venue_id": null,
       "event_date": "2026-09-05T13:00:00+00:00",
@@ -94793,12 +94793,12 @@
       "referee_id": 2374,
       "venue_id": 300,
       "event_date": "2026-08-30T03:10:00+00:00",
-      "status": "1st_half",
+      "status": "halftime",
       "replaced_by": null,
       "round_number": 6,
       "round_name": "",
       "group_name": null,
-      "period": "1T",
+      "period": "HT",
       "current_minute": 45,
       "home_score": 0,
       "away_score": 0,
@@ -94965,7 +94965,7 @@
       "round_name": "",
       "group_name": null,
       "period": "2T",
-      "current_minute": 68,
+      "current_minute": 82,
       "home_score": 2,
       "away_score": 1,
       "home_score_ht": 2,
@@ -95043,7 +95043,7 @@
       "round_name": "",
       "group_name": null,
       "period": "2T",
-      "current_minute": 68,
+      "current_minute": 83,
       "home_score": 0,
       "away_score": 2,
       "home_score_ht": 0,
@@ -95132,7 +95132,7 @@
       "round_name": "",
       "group_name": null,
       "period": "2T",
-      "current_minute": 66,
+      "current_minute": 81,
       "home_score": 0,
       "away_score": 1,
       "home_score_ht": 0,
@@ -95298,8 +95298,8 @@
       "round_name": "",
       "group_name": null,
       "period": "2T",
-      "current_minute": 65,
-      "home_score": 2,
+      "current_minute": 80,
+      "home_score": 3,
       "away_score": 1,
       "home_score_ht": 1,
       "away_score_ht": 0,
@@ -95675,7 +95675,7 @@
       "round_name": "",
       "group_name": null,
       "period": "2T",
-      "current_minute": 61,
+      "current_minute": 75,
       "home_score": 1,
       "away_score": 2,
       "home_score_ht": 0,
@@ -95861,7 +95861,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Colorado 1 - 0 Salt Lake — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=QbA_ltqeCCY",
+          "thumbnail": "https://i.ytimg.com/vi/QbA_ltqeCCY/hqdefault.jpg",
+          "published_at": "2026-08-30T04:00:21+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 50,
         "home_wins": 12,
@@ -96341,7 +96349,7 @@
       "round_name": "",
       "group_name": "Group A",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 94,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -96482,7 +96490,7 @@
       "round_name": "",
       "group_name": "Group B",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 95,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -96740,7 +96748,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Houston 0 - 0 San Jose — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=JKfpj_fmBFE",
+          "thumbnail": "https://i.ytimg.com/vi/JKfpj_fmBFE/hqdefault.jpg",
+          "published_at": "2026-08-30T04:01:28+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 35,
         "home_wins": 19,
@@ -96906,7 +96922,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Minnesota 3 - 3 Orlando — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=fqkuyGYvdUc",
+          "thumbnail": "https://i.ytimg.com/vi/fqkuyGYvdUc/hqdefault.jpg",
+          "published_at": "2026-08-30T04:00:46+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 6,
         "home_wins": 3,
@@ -97028,7 +97052,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Kansas City 0 - 3 Vancouver — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=xr1xi3kh4vM",
+          "thumbnail": "https://i.ytimg.com/vi/xr1xi3kh4vM/hqdefault.jpg",
+          "published_at": "2026-08-30T04:01:16+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 30,
         "home_wins": 13,
@@ -97194,7 +97226,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Nashville 4 - 0 Cincinnati — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=KA-d-v6ZpU0",
+          "thumbnail": "https://i.ytimg.com/vi/KA-d-v6ZpU0/hqdefault.jpg",
+          "published_at": "2026-08-30T04:01:02+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 10,
         "home_wins": 3,
