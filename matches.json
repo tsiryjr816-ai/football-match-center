@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T04:48:25.637734+00:00",
+  "updated_at": "2026-08-30T05:03:31.031310+00:00",
   "source": "BSD Football API",
   "date_from": "2026-08-30",
   "date_to": "2026-09-06",
@@ -94799,7 +94799,7 @@
       "round_name": "",
       "group_name": null,
       "period": "2T",
-      "current_minute": 69,
+      "current_minute": 84,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -95063,7 +95063,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Las Vegas Lights 0 - 2 Charleston Battery — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=ytYQgKDYo0w",
+          "thumbnail": "https://i.ytimg.com/vi/ytYQgKDYo0w/hqdefault.jpg",
+          "published_at": "2026-08-30T04:40:13+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 3,
         "home_wins": 1,
