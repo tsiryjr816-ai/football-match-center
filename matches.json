@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T06:48:18.491635+00:00",
+  "updated_at": "2026-08-30T07:03:37.374390+00:00",
   "source": "BSD Football API",
   "date_from": "2026-08-30",
   "date_to": "2026-09-06",
@@ -94634,8 +94634,8 @@
       "group_name": null,
       "period": "",
       "current_minute": null,
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "home_score_ht": null,
       "away_score_ht": null,
       "penalty_shootout": null,
