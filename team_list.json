@@ -199,22 +199,6 @@
     "id": 4786,
     "name": "Rionegro Águilas Doradas"
   },
-  "912": {
-    "id": 912,
-    "name": "Costa Adeje Tenerife"
-  },
-  "915": {
-    "id": 915,
-    "name": "Real Club Deportivo de A Coruña"
-  },
-  "920": {
-    "id": 920,
-    "name": "Club Atlético de Madrid"
-  },
-  "3884": {
-    "id": 3884,
-    "name": "Deportivo Alavés"
-  },
   "1264": {
     "id": 1264,
     "name": "Almería"
@@ -927,6 +911,14 @@
     "id": 2035,
     "name": "Shanghai Shenhua"
   },
+  "912": {
+    "id": 912,
+    "name": "Costa Adeje Tenerife"
+  },
+  "915": {
+    "id": 915,
+    "name": "Real Club Deportivo de A Coruña"
+  },
   "1936": {
     "id": 1936,
     "name": "FC Tokyo"
@@ -958,6 +950,14 @@
   "4827": {
     "id": 4827,
     "name": "AD Fafe"
+  },
+  "920": {
+    "id": 920,
+    "name": "Club Atlético de Madrid"
+  },
+  "3884": {
+    "id": 3884,
+    "name": "Deportivo Alavés"
   },
   "1944": {
     "id": 1944,
