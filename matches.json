@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T23:18:26.154986+00:00",
+  "updated_at": "2026-08-30T23:33:16.469739+00:00",
   "source": "BSD Football API",
   "date_from": "2026-08-30",
   "date_to": "2026-09-06",
@@ -77495,7 +77495,7 @@
       "round_name": "",
       "group_name": null,
       "period": "1T",
-      "current_minute": 2,
+      "current_minute": 17,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -77562,7 +77562,7 @@
       "round_name": "",
       "group_name": null,
       "period": "1T",
-      "current_minute": 9,
+      "current_minute": 23,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -77728,11 +77728,11 @@
       "round_name": "",
       "group_name": null,
       "period": "1T",
-      "current_minute": 5,
+      "current_minute": 19,
       "home_score": 1,
-      "away_score": 0,
+      "away_score": 1,
       "home_score_ht": 1,
-      "away_score_ht": 0,
+      "away_score_ht": 1,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -77855,16 +77855,16 @@
       "referee_id": 1810,
       "venue_id": 163,
       "event_date": "2026-08-30T22:30:00+00:00",
-      "status": "1st_half",
+      "status": "halftime",
       "replaced_by": null,
       "round_number": 25,
       "round_name": "",
       "group_name": null,
-      "period": "1T",
-      "current_minute": 46,
-      "home_score": 2,
+      "period": "HT",
+      "current_minute": 45,
+      "home_score": 3,
       "away_score": 1,
-      "home_score_ht": 2,
+      "home_score_ht": 3,
       "away_score_ht": 1,
       "penalty_shootout": null,
       "extra_time_score": null,
@@ -78021,15 +78021,15 @@
       "referee_id": 2806,
       "venue_id": 1771,
       "event_date": "2026-08-30T22:15:00+00:00",
-      "status": "halftime",
+      "status": "2nd_half",
       "replaced_by": null,
       "round_number": 7,
       "round_name": "",
       "group_name": "Group A",
-      "period": "HT",
-      "current_minute": 45,
+      "period": "2T",
+      "current_minute": 57,
       "home_score": 0,
-      "away_score": 1,
+      "away_score": 2,
       "home_score_ht": 0,
       "away_score_ht": 1,
       "penalty_shootout": null,
@@ -78088,13 +78088,13 @@
       "referee_id": 2740,
       "venue_id": 619,
       "event_date": "2026-08-30T21:30:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 25,
       "round_name": "",
       "group_name": null,
-      "period": "2T",
-      "current_minute": 79,
+      "period": "FT",
+      "current_minute": 90,
       "home_score": 2,
       "away_score": 0,
       "home_score_ht": 1,
@@ -78110,7 +78110,7 @@
         "wind_speed": 15.8,
         "temperature_c": 36
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
@@ -78254,13 +78254,13 @@
       "referee_id": 1611,
       "venue_id": 149,
       "event_date": "2026-08-30T21:30:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 25,
       "round_name": "",
       "group_name": null,
-      "period": "2T",
-      "current_minute": 85,
+      "period": "FT",
+      "current_minute": 90,
       "home_score": 1,
       "away_score": 1,
       "home_score_ht": 0,
@@ -78271,12 +78271,12 @@
       "is_neutral_ground": false,
       "travel_distance_km": 420,
       "weather": {
-        "code": 2,
-        "description": "cloudy",
+        "code": 1,
+        "description": "clear",
         "wind_speed": 6.9,
         "temperature_c": 31
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
@@ -78343,13 +78343,13 @@
       "referee_id": 1802,
       "venue_id": 152,
       "event_date": "2026-08-30T21:30:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 25,
       "round_name": "",
       "group_name": null,
-      "period": "2T",
-      "current_minute": 84,
+      "period": "FT",
+      "current_minute": 90,
       "home_score": 3,
       "away_score": 1,
       "home_score_ht": 2,
@@ -78360,12 +78360,12 @@
       "is_neutral_ground": false,
       "travel_distance_km": 348,
       "weather": {
-        "code": 3,
-        "description": "rain",
+        "code": 1,
+        "description": "clear",
         "wind_speed": 9.2,
         "temperature_c": 20
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
@@ -78535,7 +78535,29 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "goals",
+          "title": "Ind. Medellín 2 - 1 Llaneros — 44' Francisco Meza",
+          "url": "https://www.youtube.com/watch?v=zJNfDoqQev4",
+          "thumbnail": "https://i.ytimg.com/vi/zJNfDoqQev4/hqdefault.jpg",
+          "published_at": "2026-08-30T22:04:13+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Ind. Medellín 2 - 0 Llaneros — 21' John Edwin Montaño",
+          "url": "https://www.youtube.com/watch?v=aPrwI_syJ28",
+          "thumbnail": "https://i.ytimg.com/vi/aPrwI_syJ28/hqdefault.jpg",
+          "published_at": "2026-08-30T21:43:09+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Ind. Medellín 1 - 0 Llaneros — 17' Jeison Medina",
+          "url": "https://www.youtube.com/watch?v=TiE0aeFhfXg",
+          "thumbnail": "https://i.ytimg.com/vi/TiE0aeFhfXg/hqdefault.jpg",
+          "published_at": "2026-08-30T21:43:05+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 2,
         "home_wins": 1,
@@ -78779,7 +78801,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Columbus 1 - 3 New England — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=Pmzi5RyoaAs",
+          "thumbnail": "https://i.ytimg.com/vi/Pmzi5RyoaAs/hqdefault.jpg",
+          "published_at": "2026-08-30T23:12:01+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 44,
         "home_wins": 21,
@@ -90750,7 +90780,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Mansfield 5 - 2 Luton — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=vKIhzXd2p0A",
+          "thumbnail": "https://i.ytimg.com/vi/vKIhzXd2p0A/hqdefault.jpg",
+          "published_at": "2026-08-30T23:18:19+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 18,
         "home_wins": 3,
@@ -91248,7 +91286,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "St Mirren 3 - 3 Motherwell — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=K_DXjN8vaaI",
+          "thumbnail": "https://i.ytimg.com/vi/K_DXjN8vaaI/hqdefault.jpg",
+          "published_at": "2026-08-30T23:13:29+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 49,
         "home_wins": 10,
@@ -91414,7 +91460,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Dundee 1 - 2 Hibernian — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=bbrONtbsKk4",
+          "thumbnail": "https://i.ytimg.com/vi/bbrONtbsKk4/hqdefault.jpg",
+          "published_at": "2026-08-30T23:14:39+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 23,
         "home_wins": 3,
@@ -94516,7 +94570,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Aberdeen 0 - 1 Rangers — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=LhowoepGB_A&pp=0gcJCRMMAYcqIYzv",
+          "thumbnail": "https://i.ytimg.com/vi/LhowoepGB_A/hqdefault.jpg",
+          "published_at": "2026-08-30T23:13:43+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 49,
         "home_wins": 7,
