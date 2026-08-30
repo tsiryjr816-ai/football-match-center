@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T09:03:34.513198+00:00",
+  "updated_at": "2026-08-30T09:18:22.704213+00:00",
   "source": "BSD Football API",
   "date_from": "2026-08-30",
   "date_to": "2026-09-06",
@@ -95231,7 +95231,7 @@
       "round_name": "Semifinals",
       "group_name": null,
       "period": "2T",
-      "current_minute": 54,
+      "current_minute": 69,
       "home_score": 2,
       "away_score": 1,
       "home_score_ht": 2,
