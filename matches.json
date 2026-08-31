@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T02:33:40.044601+00:00",
+  "updated_at": "2026-08-31T02:48:30.048199+00:00",
   "source": "BSD Football API",
   "date_from": "2026-08-31",
   "date_to": "2026-09-07",
@@ -80252,11 +80252,11 @@
       "round_name": "",
       "group_name": null,
       "period": "1T",
-      "current_minute": 22,
-      "home_score": 1,
-      "away_score": 1,
-      "home_score_ht": 1,
-      "away_score_ht": 1,
+      "current_minute": 37,
+      "home_score": 0,
+      "away_score": 2,
+      "home_score_ht": 0,
+      "away_score_ht": 2,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -80418,7 +80418,7 @@
       "round_name": "",
       "group_name": null,
       "period": "2T",
-      "current_minute": 55,
+      "current_minute": 70,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -80604,7 +80604,22 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "goals",
+          "title": "Ind. Rivadavia 1 - 1 Racing — 39' Gonzalo Ríos",
+          "url": "https://www.youtube.com/watch?v=iZ4gAzwNCzU",
+          "thumbnail": "https://i.ytimg.com/vi/iZ4gAzwNCzU/hqdefault.jpg",
+          "published_at": "2026-08-31T02:06:19+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Ind. Rivadavia 2 - 1 Racing — 70' Fabrizio Sartori",
+          "url": "https://www.youtube.com/watch?v=ZFNEadCjfHM",
+          "thumbnail": "https://i.ytimg.com/vi/ZFNEadCjfHM/hqdefault.jpg",
+          "published_at": "2026-08-31T02:06:02+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 4,
         "home_wins": 1,
@@ -80684,7 +80699,7 @@
       "round_name": "",
       "group_name": null,
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 95,
       "home_score": 4,
       "away_score": 0,
       "home_score_ht": 2,
