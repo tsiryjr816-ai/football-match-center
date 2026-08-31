@@ -71,6 +71,14 @@
     "id": 355,
     "name": "FC Universitatea Cluj"
   },
+  "3841": {
+    "id": 3841,
+    "name": "FK Dunav Ruse"
+  },
+  "346": {
+    "id": 346,
+    "name": "Slavia Sofia"
+  },
   "127": {
     "id": 127,
     "name": "FC Midtjylland"
@@ -142,6 +150,14 @@
   "263": {
     "id": 263,
     "name": "Al-Riyadh"
+  },
+  "325": {
+    "id": 325,
+    "name": "Asteras Aktor"
+  },
+  "3781": {
+    "id": 3781,
+    "name": "POT Iraklis"
   },
   "2217": {
     "id": 2217,
@@ -1719,14 +1735,6 @@
     "id": 267,
     "name": "Al-Nassr"
   },
-  "3781": {
-    "id": 3781,
-    "name": "POT Iraklis"
-  },
-  "325": {
-    "id": 325,
-    "name": "Asteras Aktor"
-  },
   "329": {
     "id": 329,
     "name": "AEK Athens"
@@ -2046,14 +2054,6 @@
   "2096": {
     "id": 2096,
     "name": "HJK"
-  },
-  "3841": {
-    "id": 3841,
-    "name": "FK Dunav Ruse"
-  },
-  "346": {
-    "id": 346,
-    "name": "Slavia Sofia"
   },
   "632": {
     "id": 632,
