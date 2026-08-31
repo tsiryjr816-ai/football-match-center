@@ -1,4 +1,180 @@
 {
+  "157": {
+    "id": 157,
+    "name": "Vitória"
+  },
+  "154": {
+    "id": 154,
+    "name": "Grêmio"
+  },
+  "55": {
+    "id": 55,
+    "name": "Elche"
+  },
+  "48": {
+    "id": 48,
+    "name": "Real Sociedad"
+  },
+  "1424": {
+    "id": 1424,
+    "name": "Bromley"
+  },
+  "1421": {
+    "id": 1421,
+    "name": "AFC Wimbledon"
+  },
+  "113": {
+    "id": 113,
+    "name": "Nantes"
+  },
+  "1620": {
+    "id": 1620,
+    "name": "Nancy"
+  },
+  "75": {
+    "id": 75,
+    "name": "Udinese"
+  },
+  "70": {
+    "id": 70,
+    "name": "Lazio"
+  },
+  "1467": {
+    "id": 1467,
+    "name": "CE Sabadell"
+  },
+  "1265": {
+    "id": 1265,
+    "name": "Córdoba"
+  },
+  "262": {
+    "id": 262,
+    "name": "Al-Hilal"
+  },
+  "259": {
+    "id": 259,
+    "name": "Neom SC"
+  },
+  "914": {
+    "id": 914,
+    "name": "Granada Club de Fútbol"
+  },
+  "924": {
+    "id": 924,
+    "name": "Real Sociedad"
+  },
+  "359": {
+    "id": 359,
+    "name": "Universitatea Craiova"
+  },
+  "355": {
+    "id": 355,
+    "name": "FC Universitatea Cluj"
+  },
+  "127": {
+    "id": 127,
+    "name": "FC Midtjylland"
+  },
+  "1332": {
+    "id": 1332,
+    "name": "FC Nordsjælland"
+  },
+  "189": {
+    "id": 189,
+    "name": "Çaykur Rizespor"
+  },
+  "188": {
+    "id": 188,
+    "name": "Alanyaspor"
+  },
+  "190": {
+    "id": 190,
+    "name": "Göztepe"
+  },
+  "183": {
+    "id": 183,
+    "name": "Gaziantep FK"
+  },
+  "50": {
+    "id": 50,
+    "name": "Getafe"
+  },
+  "49": {
+    "id": 49,
+    "name": "Celta Vigo"
+  },
+  "441": {
+    "id": 441,
+    "name": "Mjällby AIF"
+  },
+  "439": {
+    "id": 439,
+    "name": "IFK Göteborg"
+  },
+  "135": {
+    "id": 135,
+    "name": "Malmö FF"
+  },
+  "449": {
+    "id": 449,
+    "name": "AIK"
+  },
+  "1053": {
+    "id": 1053,
+    "name": "Kalmar FF"
+  },
+  "436": {
+    "id": 436,
+    "name": "Djurgårdens IF"
+  },
+  "67": {
+    "id": 67,
+    "name": "Cagliari"
+  },
+  "60": {
+    "id": 60,
+    "name": "Lecce"
+  },
+  "265": {
+    "id": 265,
+    "name": "Al-Khaleej"
+  },
+  "263": {
+    "id": 263,
+    "name": "Al-Riyadh"
+  },
+  "2217": {
+    "id": 2217,
+    "name": "FC Voluntari"
+  },
+  "356": {
+    "id": 356,
+    "name": "FC Argeș Pitești"
+  },
+  "314": {
+    "id": 314,
+    "name": "Cruz Azul"
+  },
+  "312": {
+    "id": 312,
+    "name": "Santos Laguna"
+  },
+  "797": {
+    "id": 797,
+    "name": "Independiente Santa Fe"
+  },
+  "4782": {
+    "id": 4782,
+    "name": "Fortaleza FC"
+  },
+  "3939": {
+    "id": 3939,
+    "name": "Seattle Reign FC"
+  },
+  "3936": {
+    "id": 3936,
+    "name": "San Diego Wave FC"
+  },
   "4780": {
     "id": 4780,
     "name": "Deportivo Pereira"
@@ -2947,14 +3123,6 @@
     "id": 1413,
     "name": "Cambridge United"
   },
-  "1424": {
-    "id": 1424,
-    "name": "Bromley"
-  },
-  "1421": {
-    "id": 1421,
-    "name": "AFC Wimbledon"
-  },
   "1416": {
     "id": 1416,
     "name": "Bradford City"
@@ -3743,17 +3911,9 @@
     "id": 264,
     "name": "Al-Shabab"
   },
-  "262": {
-    "id": 262,
-    "name": "Al-Hilal"
-  },
   "258": {
     "id": 258,
     "name": "Al-Ahli"
-  },
-  "263": {
-    "id": 263,
-    "name": "Al-Riyadh"
   },
   "176": {
     "id": 176,
@@ -3863,10 +4023,6 @@
     "id": 786,
     "name": "Independiente Medellín"
   },
-  "154": {
-    "id": 154,
-    "name": "Grêmio"
-  },
   "753": {
     "id": 753,
     "name": "América de Cali"
@@ -3883,21 +4039,9 @@
     "id": 927,
     "name": "Botafogo-SP"
   },
-  "67": {
-    "id": 67,
-    "name": "Cagliari"
-  },
   "76": {
     "id": 76,
     "name": "Hellas Verona"
-  },
-  "48": {
-    "id": 48,
-    "name": "Real Sociedad"
-  },
-  "49": {
-    "id": 49,
-    "name": "Celta Vigo"
   },
   "104": {
     "id": 104,
@@ -3914,26 +4058,6 @@
   "272": {
     "id": 272,
     "name": "Al-Qadsiah"
-  },
-  "1332": {
-    "id": 1332,
-    "name": "FC Nordsjælland"
-  },
-  "441": {
-    "id": 441,
-    "name": "Mjällby AIF"
-  },
-  "436": {
-    "id": 436,
-    "name": "Djurgårdens IF"
-  },
-  "259": {
-    "id": 259,
-    "name": "Neom SC"
-  },
-  "265": {
-    "id": 265,
-    "name": "Al-Khaleej"
   },
   "1393": {
     "id": 1393,
@@ -3971,14 +4095,6 @@
     "id": 1768,
     "name": "MKS Avia Świdnik"
   },
-  "797": {
-    "id": 797,
-    "name": "Independiente Santa Fe"
-  },
-  "157": {
-    "id": 157,
-    "name": "Vitória"
-  },
   "766": {
     "id": 766,
     "name": "Atlético Nacional"
@@ -4003,10 +4119,6 @@
     "id": 3853,
     "name": "VfL Osnabrück"
   },
-  "127": {
-    "id": 127,
-    "name": "FC Midtjylland"
-  },
   "1819": {
     "id": 1819,
     "name": "Resovia Rzeszów"
@@ -4030,10 +4142,6 @@
   "1816": {
     "id": 1816,
     "name": "Chrobry Głogów"
-  },
-  "75": {
-    "id": 75,
-    "name": "Udinese"
   },
   "4186": {
     "id": 4186,
@@ -4086,10 +4194,6 @@
   "4467": {
     "id": 4467,
     "name": "Wikęd Luzino"
-  },
-  "4782": {
-    "id": 4782,
-    "name": "Fortaleza FC"
   },
   "3854": {
     "id": 3854,
@@ -4175,22 +4279,6 @@
     "id": 781,
     "name": "Deportes Tolima"
   },
-  "359": {
-    "id": 359,
-    "name": "Universitatea Craiova"
-  },
-  "50": {
-    "id": 50,
-    "name": "Getafe"
-  },
-  "135": {
-    "id": 135,
-    "name": "Malmö FF"
-  },
-  "60": {
-    "id": 60,
-    "name": "Lecce"
-  },
   "2102": {
     "id": 2102,
     "name": "IFK Mariehamn"
@@ -4234,177 +4322,5 @@
   "771": {
     "id": 771,
     "name": "Atlético Bucaramanga"
-  },
-  "3939": {
-    "id": 3939,
-    "name": "Seattle Reign FC"
-  },
-  "1265": {
-    "id": 1265,
-    "name": "Córdoba"
-  },
-  "70": {
-    "id": 70,
-    "name": "Lazio"
-  },
-  "1486": {
-    "id": 1486,
-    "name": "CD Ciudad de Lucena"
-  },
-  "5926": {
-    "id": 5926,
-    "name": "Atlético Mancha Real"
-  },
-  "8312": {
-    "id": 8312,
-    "name": "Gd Nazarenos"
-  },
-  "8320": {
-    "id": 8320,
-    "name": "FC Castrense"
-  },
-  "8344": {
-    "id": 8344,
-    "name": "Florgrade FC"
-  },
-  "8455": {
-    "id": 8455,
-    "name": "Ermesinde SC 1936"
-  },
-  "8358": {
-    "id": 8358,
-    "name": "SC Régua"
-  },
-  "4828": {
-    "id": 4828,
-    "name": "AD Sanjoanense"
-  },
-  "8289": {
-    "id": 8289,
-    "name": "CD Paços de Brandão"
-  },
-  "8288": {
-    "id": 8288,
-    "name": "CCD Minas Argozelo"
-  },
-  "3239": {
-    "id": 3239,
-    "name": "1º Dezembro"
-  },
-  "3248": {
-    "id": 3248,
-    "name": "Real SC"
-  },
-  "8287": {
-    "id": 8287,
-    "name": "Mortágua"
-  },
-  "3899": {
-    "id": 3899,
-    "name": "SU Sintrense"
-  },
-  "188": {
-    "id": 188,
-    "name": "Alanyaspor"
-  },
-  "1909": {
-    "id": 1909,
-    "name": "US Ben Guerdane"
-  },
-  "8616": {
-    "id": 8616,
-    "name": "Nations FC"
-  },
-  "580": {
-    "id": 580,
-    "name": "Plateau United"
-  },
-  "581": {
-    "id": 581,
-    "name": "Niger Tornadoes"
-  },
-  "568": {
-    "id": 568,
-    "name": "Enyimba"
-  },
-  "575": {
-    "id": 575,
-    "name": "Kwara United"
-  },
-  "566": {
-    "id": 566,
-    "name": "Kano Pillars"
-  },
-  "576": {
-    "id": 576,
-    "name": "Ikorodu City"
-  },
-  "8256": {
-    "id": 8256,
-    "name": "Ranchers Bees"
-  },
-  "573": {
-    "id": 573,
-    "name": "Katsina United"
-  },
-  "5648": {
-    "id": 5648,
-    "name": "Doma United FC"
-  },
-  "5649": {
-    "id": 5649,
-    "name": "Sporting Lagos FC"
-  },
-  "570": {
-    "id": 570,
-    "name": "Bendel Insurance FC"
-  },
-  "574": {
-    "id": 574,
-    "name": "Warri Wolves FC"
-  },
-  "567": {
-    "id": 567,
-    "name": "Barau FC"
-  },
-  "582": {
-    "id": 582,
-    "name": "Nasarawa United"
-  },
-  "565": {
-    "id": 565,
-    "name": "Abia Warriors"
-  },
-  "572": {
-    "id": 572,
-    "name": "Kun Khalifat FC"
-  },
-  "439": {
-    "id": 439,
-    "name": "IFK Göteborg"
-  },
-  "449": {
-    "id": 449,
-    "name": "AIK"
-  },
-  "2425": {
-    "id": 2425,
-    "name": "Lions FC"
-  },
-  "3832": {
-    "id": 3832,
-    "name": "Peninsula Power"
-  },
-  "312": {
-    "id": 312,
-    "name": "Santos Laguna"
-  },
-  "2233": {
-    "id": 2233,
-    "name": "El Paso Locomotive FC"
-  },
-  "2236": {
-    "id": 2236,
-    "name": "Oakland Roots SC"
   }
 }
