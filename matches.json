@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T21:33:27.117961+00:00",
+  "updated_at": "2026-08-31T21:48:26.862412+00:00",
   "source": "BSD Football API",
   "date_from": "2026-08-31",
   "date_to": "2026-09-07",
@@ -75479,7 +75479,15 @@
       "attendance": null,
       "live_websocket": false,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "goals",
+          "title": "Braga 1 - 0 Vitória — 79' Diego Rodrigues",
+          "url": "https://www.youtube.com/watch?v=jvbbW7xs7NE",
+          "thumbnail": "https://i.ytimg.com/vi/jvbbW7xs7NE/hqdefault.jpg",
+          "published_at": "2026-08-31T21:33:53+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 43,
         "home_wins": 21,
@@ -76158,7 +76166,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Atalanta 1 - 0 Bologna — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=LYOXkS8JqM0",
+          "thumbnail": "https://i.ytimg.com/vi/LYOXkS8JqM0/hqdefault.jpg",
+          "published_at": "2026-08-31T21:33:37+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 67,
         "home_wins": 28,
