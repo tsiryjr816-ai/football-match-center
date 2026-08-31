@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T04:18:33.410913+00:00",
+  "updated_at": "2026-08-31T04:33:23.932423+00:00",
   "source": "BSD Football API",
   "date_from": "2026-08-31",
   "date_to": "2026-09-07",
@@ -80316,7 +80316,22 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "goals",
+          "title": "Monterrey 1 - 2 San Luis — 73' Hugo Cuypers",
+          "url": "https://www.youtube.com/watch?v=wTUwPOdpqM8",
+          "thumbnail": "https://i.ytimg.com/vi/wTUwPOdpqM8/hqdefault.jpg",
+          "published_at": "2026-08-31T03:57:45+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Monterrey 0 - 2 San Luis — 36' Rafa Llorente",
+          "url": "https://www.youtube.com/watch?v=AvVGTY5filY",
+          "thumbnail": "https://i.ytimg.com/vi/AvVGTY5filY/hqdefault.jpg",
+          "published_at": "2026-08-31T03:49:25+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 19,
         "home_wins": 8,
