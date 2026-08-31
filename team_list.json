@@ -79,6 +79,14 @@
     "id": 346,
     "name": "Slavia Sofia"
   },
+  "2910": {
+    "id": 2910,
+    "name": "Lusitânia Lourosa"
+  },
+  "26": {
+    "id": 26,
+    "name": "AVS - Futebol SAD"
+  },
   "127": {
     "id": 127,
     "name": "FC Midtjylland"
@@ -3578,14 +3586,6 @@
   "2": {
     "id": 2,
     "name": "Bournemouth"
-  },
-  "2910": {
-    "id": 2910,
-    "name": "Lusitânia Lourosa"
-  },
-  "26": {
-    "id": 26,
-    "name": "AVS - Futebol SAD"
   },
   "33": {
     "id": 33,
