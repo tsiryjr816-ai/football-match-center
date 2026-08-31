@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T03:48:26.958592+00:00",
+  "updated_at": "2026-08-31T04:03:26.606644+00:00",
   "source": "BSD Football API",
   "date_from": "2026-08-31",
   "date_to": "2026-09-07",
@@ -80296,9 +80296,9 @@
       "round_name": "",
       "group_name": null,
       "period": "2T",
-      "current_minute": 75,
+      "current_minute": 90,
       "home_score": 1,
-      "away_score": 2,
+      "away_score": 3,
       "home_score_ht": 0,
       "away_score_ht": 2,
       "penalty_shootout": null,
@@ -80482,7 +80482,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "goals",
+          "title": "Dep. Cali 1 - 1 Bucaramanga — All Goals",
+          "url": "https://www.youtube.com/watch?v=iSi0CU_rgfA",
+          "thumbnail": "https://i.ytimg.com/vi/iSi0CU_rgfA/hqdefault.jpg",
+          "published_at": "2026-08-31T03:48:22+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 13,
         "home_wins": 3,
