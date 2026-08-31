@@ -15,6 +15,14 @@
     "id": 48,
     "name": "Real Sociedad"
   },
+  "33": {
+    "id": 33,
+    "name": "Estoril Praia"
+  },
+  "25": {
+    "id": 25,
+    "name": "FC Arouca"
+  },
   "1424": {
     "id": 1424,
     "name": "Bromley"
@@ -3586,14 +3594,6 @@
   "2": {
     "id": 2,
     "name": "Bournemouth"
-  },
-  "33": {
-    "id": 33,
-    "name": "Estoril Praia"
-  },
-  "25": {
-    "id": 25,
-    "name": "FC Arouca"
   },
   "2043": {
     "id": 2043,
