@@ -351,14 +351,6 @@
     "id": 806,
     "name": "Argentinos Juniors"
   },
-  "4993": {
-    "id": 4993,
-    "name": "Aldosivi"
-  },
-  "4994": {
-    "id": 4994,
-    "name": "Banfield"
-  },
   "3927": {
     "id": 3927,
     "name": "Portland Thorns FC"
@@ -1838,6 +1830,14 @@
   "1882": {
     "id": 1882,
     "name": "Carlisle United"
+  },
+  "4993": {
+    "id": 4993,
+    "name": "Aldosivi"
+  },
+  "4994": {
+    "id": 4994,
+    "name": "Banfield"
   },
   "1263": {
     "id": 1263,
