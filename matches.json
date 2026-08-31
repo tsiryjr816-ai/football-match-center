@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T21:18:25.404342+00:00",
+  "updated_at": "2026-08-31T21:33:27.117961+00:00",
   "source": "BSD Football API",
   "date_from": "2026-08-31",
   "date_to": "2026-09-07",
@@ -75243,12 +75243,12 @@
       "referee_id": 1894,
       "venue_id": 1597,
       "event_date": "2026-08-31T19:30:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 3,
       "round_name": "",
       "group_name": null,
-      "period": "2T",
+      "period": "FT",
       "current_minute": 90,
       "home_score": 1,
       "away_score": 2,
@@ -75287,14 +75287,14 @@
       "referee_id": 1610,
       "venue_id": 44,
       "event_date": "2026-08-31T19:30:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 3,
       "round_name": "",
       "group_name": null,
-      "period": "2T",
-      "current_minute": 83,
-      "home_score": 4,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 5,
       "away_score": 2,
       "home_score_ht": 2,
       "away_score_ht": 1,
@@ -75304,12 +75304,12 @@
       "is_neutral_ground": false,
       "travel_distance_km": 499,
       "weather": {
-        "code": 51,
-        "description": null,
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 10.9,
         "temperature_c": 28
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
@@ -75645,7 +75645,22 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "goals",
+          "title": "Benfica 2 - 1 Estoril — 82' Yanis Begraoui",
+          "url": "https://www.youtube.com/watch?v=pE5Adx8WnYs",
+          "thumbnail": "https://i.ytimg.com/vi/pE5Adx8WnYs/hqdefault.jpg",
+          "published_at": "2026-08-31T21:13:46+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Benfica 2 - 0 Estoril — 51' Clément Lenglet",
+          "url": "https://www.youtube.com/watch?v=H1HVFbjSN30",
+          "thumbnail": "https://i.ytimg.com/vi/H1HVFbjSN30/hqdefault.jpg",
+          "published_at": "2026-08-31T20:38:22+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 28,
         "home_wins": 24,
@@ -76361,7 +76376,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Amed 2 - 1 Trabzonspor — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=wBtY5i4UEFg",
+          "thumbnail": "https://i.ytimg.com/vi/wBtY5i4UEFg/hqdefault.jpg",
+          "published_at": "2026-08-31T21:11:07+00:00"
+        }
+      ],
       "head_to_head": null,
       "has_xg": false,
       "previous_leg_event_id": null
