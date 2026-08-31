@@ -247,14 +247,6 @@
     "id": 787,
     "name": "Estudiantes de La Plata"
   },
-  "742": {
-    "id": 742,
-    "name": "San Lorenzo"
-  },
-  "2391": {
-    "id": 2391,
-    "name": "CA Talleres"
-  },
   "755": {
     "id": 755,
     "name": "River Plate"
@@ -1542,6 +1534,14 @@
   "3940": {
     "id": 3940,
     "name": "Angel City FC"
+  },
+  "742": {
+    "id": 742,
+    "name": "San Lorenzo"
+  },
+  "2391": {
+    "id": 2391,
+    "name": "CA Talleres"
   },
   "169": {
     "id": 169,
