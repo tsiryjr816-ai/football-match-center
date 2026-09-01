@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T08:07:01.033838+00:00",
+  "updated_at": "2026-09-01T08:27:04.364394+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-01",
   "date_to": "2026-09-08",
@@ -46429,7 +46429,7 @@
       "away_team_id": 1425,
       "away_team": "Rotherham United",
       "home_coach_id": 878,
-      "away_coach_id": 3408,
+      "away_coach_id": 1943,
       "referee_id": null,
       "venue_id": 882,
       "event_date": "2026-09-05T14:00:00+00:00",
