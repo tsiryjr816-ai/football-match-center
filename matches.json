@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T05:05:31.925987+00:00",
+  "updated_at": "2026-09-01T05:23:40.563342+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-01",
   "date_to": "2026-09-08",
@@ -58765,7 +58765,7 @@
       "home_team": "Altrincham FC",
       "away_team_id": 1872,
       "away_team": "Eastleigh",
-      "home_coach_id": 3261,
+      "home_coach_id": 1262,
       "away_coach_id": 1583,
       "referee_id": null,
       "venue_id": 2221,
