@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T21:23:13.004223+00:00",
+  "updated_at": "2026-09-01T21:35:43.675633+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-01",
   "date_to": "2026-09-08",
@@ -76079,7 +76079,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Swansea 2 - 0 Watford — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=EZClAylWkD8",
+          "thumbnail": "https://i.ytimg.com/vi/EZClAylWkD8/hqdefault.jpg",
+          "published_at": "2026-09-01T21:33:14+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 24,
         "home_wins": 10,
@@ -76854,7 +76862,15 @@
       "attendance": null,
       "live_websocket": false,
       "websocket_plus": false,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Motor 3 - 0 Legia — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=QoPtk6Kmdik",
+          "thumbnail": "https://i.ytimg.com/vi/QoPtk6Kmdik/hqdefault.jpg",
+          "published_at": "2026-09-01T21:32:00+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 5,
         "home_wins": 0,
