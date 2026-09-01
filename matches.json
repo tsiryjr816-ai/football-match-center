@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T07:06:16.762311+00:00",
+  "updated_at": "2026-09-01T07:25:10.171369+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-01",
   "date_to": "2026-09-08",
@@ -66184,7 +66184,7 @@
       "away_team": "Mirassol",
       "home_coach_id": 165,
       "away_coach_id": 142,
-      "referee_id": null,
+      "referee_id": 1604,
       "venue_id": 151,
       "event_date": "2026-09-02T22:30:00+00:00",
       "status": "notstarted",
