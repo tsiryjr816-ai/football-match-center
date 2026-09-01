@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T21:48:47.445555+00:00",
+  "updated_at": "2026-09-01T22:05:39.749493+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-01",
   "date_to": "2026-09-08",
@@ -72591,7 +72591,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Torino 0 - 1 Monza — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=C_7ZpkwurQc",
+          "thumbnail": "https://i.ytimg.com/vi/C_7ZpkwurQc/hqdefault.jpg",
+          "published_at": "2026-09-01T21:53:49+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 6,
         "home_wins": 3,
@@ -72713,7 +72721,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Stoke City 1-0 Norwich City — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=gYzGjgFQPlQ",
+          "thumbnail": "https://i.ytimg.com/vi/gYzGjgFQPlQ/maxresdefault.jpg",
+          "published_at": "2026-09-01T21:41:52+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 22,
         "home_wins": 5,
@@ -73466,7 +73482,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Salford 2 - 1 Newport — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=cDIz9XIDPGs",
+          "thumbnail": "https://i.ytimg.com/vi/cDIz9XIDPGs/hqdefault.jpg",
+          "published_at": "2026-09-01T22:01:12+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 14,
         "home_wins": 8,
@@ -73964,7 +73988,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Fleetwood 1 - 1 Oldham — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=u5ukT2YjZd0",
+          "thumbnail": "https://i.ytimg.com/vi/u5ukT2YjZd0/hqdefault.jpg",
+          "published_at": "2026-09-01T21:54:02+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 10,
         "home_wins": 2,
@@ -74130,7 +74162,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Exeter 1 - 1 Barnet — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=7xFNlGngY10&pp=0gcJCRoMAYcqIYzv",
+          "thumbnail": "https://i.ytimg.com/vi/7xFNlGngY10/hqdefault.jpg",
+          "published_at": "2026-09-01T22:02:55+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 11,
         "home_wins": 8,
@@ -74296,7 +74336,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Crewe 2 - 2 Walsall — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=Lx6Qinrhjj8",
+          "thumbnail": "https://i.ytimg.com/vi/Lx6Qinrhjj8/hqdefault.jpg",
+          "published_at": "2026-09-01T21:54:14+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 22,
         "home_wins": 7,
@@ -75392,7 +75440,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Leicester 2 - 0 Plymouth — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=uPNasBkzKLo",
+          "thumbnail": "https://i.ytimg.com/vi/uPNasBkzKLo/hqdefault.jpg",
+          "published_at": "2026-09-01T21:53:11+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 4,
         "home_wins": 2,
@@ -75813,7 +75869,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Bradford 1 - 2 Cambridge — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=vY8V82HaWBU",
+          "thumbnail": "https://i.ytimg.com/vi/vY8V82HaWBU/hqdefault.jpg",
+          "published_at": "2026-09-01T22:01:29+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 4,
         "home_wins": 1,
@@ -76253,7 +76317,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Sheffield United 3-2 Bolton Wanderers — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=YywZldlEN8A",
+          "thumbnail": "https://i.ytimg.com/vi/YywZldlEN8A/maxresdefault.jpg",
+          "published_at": "2026-09-01T21:41:44+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 10,
         "home_wins": 4,
@@ -76818,7 +76890,15 @@
       "attendance": null,
       "live_websocket": false,
       "websocket_plus": false,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "HEBC Hamburg 0 - 5 Dortmund — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=CZycaOJkTYM",
+          "thumbnail": "https://i.ytimg.com/vi/CZycaOJkTYM/hqdefault.jpg",
+          "published_at": "2026-09-01T22:03:41+00:00"
+        }
+      ],
       "head_to_head": null,
       "has_xg": false,
       "previous_leg_event_id": null
