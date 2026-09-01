@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T22:48:30.192239+00:00",
+  "updated_at": "2026-09-01T23:05:26.224202+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-01",
   "date_to": "2026-09-08",
@@ -72438,7 +72438,7 @@
       "round_name": "",
       "group_name": null,
       "period": "1T",
-      "current_minute": 17,
+      "current_minute": 34,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -75154,7 +75154,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Wycombe 1 - 2 Sheffield Wed — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=-OCZl-LXfnQ",
+          "thumbnail": "https://i.ytimg.com/vi/-OCZl-LXfnQ/hqdefault.jpg",
+          "published_at": "2026-09-01T22:56:55+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 8,
         "home_wins": 2,
@@ -76855,7 +76863,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Lincoln 0 - 0 Blackburn — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=EJgQ6UajqpY",
+          "thumbnail": "https://i.ytimg.com/vi/EJgQ6UajqpY/maxresdefault.jpg",
+          "published_at": "2026-09-01T22:57:53+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 1,
         "home_wins": 0,
