@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T22:22:13.853507+00:00",
+  "updated_at": "2026-09-01T22:35:44.167642+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-01",
   "date_to": "2026-09-08",
@@ -57806,7 +57806,7 @@
       "away_team": "AS Monaco",
       "home_coach_id": 201,
       "away_coach_id": 1919,
-      "referee_id": null,
+      "referee_id": 1617,
       "venue_id": 112,
       "event_date": "2026-09-04T19:05:00+00:00",
       "status": "notstarted",
@@ -61491,7 +61491,7 @@
       "away_team": "Auxerre",
       "home_coach_id": 380,
       "away_coach_id": 1901,
-      "referee_id": null,
+      "referee_id": 2133,
       "venue_id": 98,
       "event_date": "2026-09-04T17:00:00+00:00",
       "status": "notstarted",
@@ -72432,17 +72432,17 @@
       "referee_id": 1595,
       "venue_id": 614,
       "event_date": "2026-09-01T22:30:00+00:00",
-      "status": "notstarted",
+      "status": "1st_half",
       "replaced_by": null,
       "round_number": 25,
       "round_name": "",
       "group_name": null,
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "1T",
+      "current_minute": 4,
+      "home_score": 0,
+      "away_score": 0,
+      "home_score_ht": 0,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -72895,7 +72895,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Birmingham 1 - 1 Southampton — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=qGDr37C86dE",
+          "thumbnail": "https://i.ytimg.com/vi/qGDr37C86dE/hqdefault.jpg",
+          "published_at": "2026-09-01T22:25:18+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 16,
         "home_wins": 6,
@@ -73822,7 +73830,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Northampton 1 - 1 Crawley — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=Ip_o9qwuwcM",
+          "thumbnail": "https://i.ytimg.com/vi/Ip_o9qwuwcM/hqdefault.jpg",
+          "published_at": "2026-09-01T22:25:33+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 14,
         "home_wins": 6,
@@ -74964,7 +74980,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Accrington 2 - 2 Grimsby — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=G-1hDU-SpiI",
+          "thumbnail": "https://i.ytimg.com/vi/G-1hDU-SpiI/hqdefault.jpg",
+          "published_at": "2026-09-01T22:27:15+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 14,
         "home_wins": 5,
@@ -76657,7 +76681,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Portsmouth 0 - 2 Derby — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=ba7RQ5Q3cIA",
+          "thumbnail": "https://i.ytimg.com/vi/ba7RQ5Q3cIA/hqdefault.jpg",
+          "published_at": "2026-09-01T22:27:54+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 15,
         "home_wins": 2,
