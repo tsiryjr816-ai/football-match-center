@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T23:05:26.224202+00:00",
+  "updated_at": "2026-09-01T23:20:26.852381+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-01",
   "date_to": "2026-09-08",
@@ -72432,13 +72432,13 @@
       "referee_id": 1595,
       "venue_id": 614,
       "event_date": "2026-09-01T22:30:00+00:00",
-      "status": "1st_half",
+      "status": "halftime",
       "replaced_by": null,
       "round_number": 25,
       "round_name": "",
       "group_name": null,
-      "period": "1T",
-      "current_minute": 34,
+      "period": "HT",
+      "current_minute": 45,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -73235,7 +73235,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Tranmere 2 - 2 Rotherham — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=mYS5idG8A4w",
+          "thumbnail": "https://i.ytimg.com/vi/mYS5idG8A4w/hqdefault.jpg",
+          "published_at": "2026-09-01T23:15:57+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 3,
         "home_wins": 0,
@@ -73324,7 +73332,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Swindon 3 - 1 Port Vale — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=22xGP1itN-0",
+          "thumbnail": "https://i.ytimg.com/vi/22xGP1itN-0/hqdefault.jpg",
+          "published_at": "2026-09-01T23:16:44+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 22,
         "home_wins": 13,
@@ -74692,7 +74708,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Cheltenham 3 - 2 York — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=33zqt_kwipo",
+          "thumbnail": "https://i.ytimg.com/vi/33zqt_kwipo/hqdefault.jpg",
+          "published_at": "2026-09-01T23:18:57+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 6,
         "home_wins": 0,
@@ -75306,7 +75330,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Peterborough Utd 0 - 0 Stevenage — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=if-z1PweTtc",
+          "thumbnail": "https://i.ytimg.com/vi/if-z1PweTtc/hqdefault.jpg",
+          "published_at": "2026-09-01T23:16:11+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 12,
         "home_wins": 5,
@@ -75580,7 +75612,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Huddersfield 3 - 1 Oxford Utd — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=h-5JTy4XPD4",
+          "thumbnail": "https://i.ytimg.com/vi/h-5JTy4XPD4/hqdefault.jpg",
+          "published_at": "2026-09-01T23:17:06+00:00"
+        }
+      ],
       "head_to_head": null,
       "has_xg": false,
       "previous_leg_event_id": null
@@ -75790,7 +75830,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Bromley 0 - 5 Leyton Orient — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=0q4f1PkNVdQ",
+          "thumbnail": "https://i.ytimg.com/vi/0q4f1PkNVdQ/hqdefault.jpg",
+          "published_at": "2026-09-01T23:14:18+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 5,
         "home_wins": 3,
@@ -76009,7 +76057,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "West Ham 4 - 2 Wolves — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=u6GLMfp1lWo",
+          "thumbnail": "https://i.ytimg.com/vi/u6GLMfp1lWo/hqdefault.jpg",
+          "published_at": "2026-09-01T23:15:42+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 22,
         "home_wins": 11,
