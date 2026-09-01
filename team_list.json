@@ -299,6 +299,14 @@
     "id": 1265,
     "name": "Córdoba"
   },
+  "434": {
+    "id": 434,
+    "name": "Pogoń Szczecin"
+  },
+  "425": {
+    "id": 425,
+    "name": "Wisła Płock"
+  },
   "262": {
     "id": 262,
     "name": "Al-Hilal"
@@ -394,6 +402,14 @@
   "436": {
     "id": 436,
     "name": "Djurgårdens IF"
+  },
+  "1822": {
+    "id": 1822,
+    "name": "Wieczysta Kraków"
+  },
+  "424": {
+    "id": 424,
+    "name": "Zagłębie Lubin"
   },
   "67": {
     "id": 67,
@@ -3358,22 +3374,6 @@
   "220": {
     "id": 220,
     "name": "Bristol City"
-  },
-  "1822": {
-    "id": 1822,
-    "name": "Wieczysta Kraków"
-  },
-  "424": {
-    "id": 424,
-    "name": "Zagłębie Lubin"
-  },
-  "434": {
-    "id": 434,
-    "name": "Pogoń Szczecin"
-  },
-  "425": {
-    "id": 425,
-    "name": "Wisła Płock"
   },
   "243": {
     "id": 243,
