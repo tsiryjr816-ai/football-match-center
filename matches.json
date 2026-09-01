@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T23:33:41.272957+00:00",
+  "updated_at": "2026-09-01T23:48:29.937625+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-01",
   "date_to": "2026-09-08",
@@ -72438,7 +72438,7 @@
       "round_name": "",
       "group_name": null,
       "period": "2T",
-      "current_minute": 45,
+      "current_minute": 60,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -74838,7 +74838,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Bristol Rovers 2 - 0 Colchester — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=oqqK3wi4PCg",
+          "thumbnail": "https://i.ytimg.com/vi/oqqK3wi4PCg/hqdefault.jpg",
+          "published_at": "2026-09-01T23:20:33+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 10,
         "home_wins": 3,
