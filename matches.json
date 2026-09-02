@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T22:06:06.649643+00:00",
+  "updated_at": "2026-09-02T22:22:58.649873+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-02",
   "date_to": "2026-09-09",
@@ -25756,7 +25756,7 @@
       "away_team_id": 17,
       "away_team": "Manchester United",
       "home_coach_id": 551,
-      "away_coach_id": 831,
+      "away_coach_id": 560,
       "referee_id": null,
       "venue_id": 20,
       "event_date": "2026-09-06T13:00:00+00:00",
@@ -71532,8 +71532,8 @@
       "group_name": null,
       "period": "",
       "current_minute": null,
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "home_score_ht": null,
       "away_score_ht": null,
       "penalty_shootout": null,
@@ -72539,7 +72539,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Burton 4 - 1 Wimbledon — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=o7kYfr-o_vk",
+          "thumbnail": "https://i.ytimg.com/vi/o7kYfr-o_vk/hqdefault.jpg",
+          "published_at": "2026-09-02T22:06:06+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 18,
         "home_wins": 8,
@@ -73831,7 +73839,15 @@
       "attendance": null,
       "live_websocket": false,
       "websocket_plus": false,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Widzew 0 - 1 Korona — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=DjaC3eeF7FU",
+          "thumbnail": "https://i.ytimg.com/vi/DjaC3eeF7FU/hqdefault.jpg",
+          "published_at": "2026-09-02T22:10:56+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 19,
         "home_wins": 7,
