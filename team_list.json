@@ -763,10 +763,6 @@
     "id": 312,
     "name": "Santos Laguna"
   },
-  "4782": {
-    "id": 4782,
-    "name": "Fortaleza FC"
-  },
   "3939": {
     "id": 3939,
     "name": "Seattle Reign FC"
@@ -806,14 +802,6 @@
   "163": {
     "id": 163,
     "name": "Botafogo"
-  },
-  "4635": {
-    "id": 4635,
-    "name": "Cúcuta Deportivo"
-  },
-  "3419": {
-    "id": 3419,
-    "name": "Deportivo Pasto"
   },
   "4786": {
     "id": 4786,
@@ -1791,14 +1779,6 @@
     "id": 274,
     "name": "St.Louis City"
   },
-  "2237": {
-    "id": 2237,
-    "name": "Orange County SC"
-  },
-  "2239": {
-    "id": 2239,
-    "name": "Sacramento Republic FC"
-  },
   "2235": {
     "id": 2235,
     "name": "Monterey Bay FC"
@@ -1846,6 +1826,14 @@
   "308": {
     "id": 308,
     "name": "Club Tijuana"
+  },
+  "2237": {
+    "id": 2237,
+    "name": "Orange County SC"
+  },
+  "2239": {
+    "id": 2239,
+    "name": "Sacramento Republic FC"
   },
   "2231": {
     "id": 2231,
@@ -1914,6 +1902,14 @@
   "293": {
     "id": 293,
     "name": "Inter Miami CF"
+  },
+  "4635": {
+    "id": 4635,
+    "name": "Cúcuta Deportivo"
+  },
+  "3419": {
+    "id": 3419,
+    "name": "Deportivo Pasto"
   },
   "309": {
     "id": 309,
@@ -1986,6 +1982,10 @@
   "159": {
     "id": 159,
     "name": "Sport Recife"
+  },
+  "4782": {
+    "id": 4782,
+    "name": "Fortaleza FC"
   },
   "819": {
     "id": 819,
