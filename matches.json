@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T13:06:18.243043+00:00",
+  "updated_at": "2026-09-02T13:25:53.447750+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-02",
   "date_to": "2026-09-09",
@@ -75571,7 +75571,7 @@
       "round_name": "Round of 32",
       "group_name": null,
       "period": "1T",
-      "current_minute": 4,
+      "current_minute": 23,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -75853,17 +75853,17 @@
       "referee_id": null,
       "venue_id": null,
       "event_date": "2026-09-02T12:30:00+00:00",
-      "status": "1st_half",
+      "status": "halftime",
       "replaced_by": null,
       "round_number": 1,
       "round_name": "Round 1",
       "group_name": null,
-      "period": "1T",
-      "current_minute": 35,
+      "period": "HT",
+      "current_minute": 45,
       "home_score": 0,
-      "away_score": 1,
+      "away_score": 2,
       "home_score_ht": 0,
-      "away_score_ht": 1,
+      "away_score_ht": 2,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -76687,7 +76687,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Mito 4 - 2 Kashima — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=KsNEXEs6QZU",
+          "thumbnail": "https://i.ytimg.com/vi/KsNEXEs6QZU/hqdefault.jpg",
+          "published_at": "2026-09-02T13:07:02+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 3,
         "home_wins": 0,
@@ -76776,7 +76784,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Machida 2 - 1 Kawasaki — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=hMzYgdCuyaY",
+          "thumbnail": "https://i.ytimg.com/vi/hMzYgdCuyaY/hqdefault.jpg",
+          "published_at": "2026-09-02T13:07:16+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 6,
         "home_wins": 1,
