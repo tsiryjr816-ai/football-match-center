@@ -715,14 +715,6 @@
     "id": 436,
     "name": "Djurgårdens IF"
   },
-  "1822": {
-    "id": 1822,
-    "name": "Wieczysta Kraków"
-  },
-  "424": {
-    "id": 424,
-    "name": "Zagłębie Lubin"
-  },
   "67": {
     "id": 67,
     "name": "Cagliari"
@@ -730,6 +722,14 @@
   "60": {
     "id": 60,
     "name": "Lecce"
+  },
+  "1822": {
+    "id": 1822,
+    "name": "Wieczysta Kraków"
+  },
+  "424": {
+    "id": 424,
+    "name": "Zagłębie Lubin"
   },
   "265": {
     "id": 265,
