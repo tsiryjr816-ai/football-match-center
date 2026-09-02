@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T21:05:46.885578+00:00",
+  "updated_at": "2026-09-02T21:22:50.395867+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-02",
   "date_to": "2026-09-09",
@@ -71104,7 +71104,7 @@
       "referee_id": null,
       "venue_id": 568,
       "event_date": "2026-09-02T23:15:00+00:00",
-      "status": "postponed",
+      "status": "cancelled",
       "replaced_by": null,
       "round_number": 5,
       "round_name": "Round of 16",
