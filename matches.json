@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T22:49:15.922877+00:00",
+  "updated_at": "2026-09-02T23:05:27.540085+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-02",
   "date_to": "2026-09-09",
@@ -71277,8 +71277,8 @@
       "group_name": null,
       "period": "",
       "current_minute": null,
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "home_score_ht": null,
       "away_score_ht": null,
       "penalty_shootout": null,
@@ -71442,7 +71442,7 @@
       "round_name": "",
       "group_name": null,
       "period": "1T",
-      "current_minute": 17,
+      "current_minute": 33,
       "home_score": 1,
       "away_score": 0,
       "home_score_ht": 1,
@@ -71531,7 +71531,7 @@
       "round_name": "Round of 16",
       "group_name": null,
       "period": "1T",
-      "current_minute": 17,
+      "current_minute": 34,
       "home_score": 1,
       "away_score": 0,
       "home_score_ht": 1,
@@ -72887,7 +72887,15 @@
       "attendance": null,
       "live_websocket": false,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Queens Park Rangers 2-1 Cardiff City — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=xq8ArT7cxlc",
+          "thumbnail": "https://i.ytimg.com/vi/xq8ArT7cxlc/maxresdefault.jpg",
+          "published_at": "2026-09-02T23:00:44+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 24,
         "home_wins": 13,
@@ -73053,7 +73061,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Millwall 0 - 3 Wrexham — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=FYdXv-GT76c",
+          "thumbnail": "https://i.ytimg.com/vi/FYdXv-GT76c/maxresdefault.jpg",
+          "published_at": "2026-09-02T22:57:48+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 2,
         "home_wins": 1,
@@ -73131,7 +73147,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Osnabrück 1 - 4 Bayern — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=O9rMCpAQp8g",
+          "thumbnail": "https://i.ytimg.com/vi/O9rMCpAQp8g/hqdefault.jpg",
+          "published_at": "2026-09-02T22:44:04+00:00"
+        }
+      ],
       "head_to_head": null,
       "has_xg": false,
       "previous_leg_event_id": null
@@ -73175,7 +73199,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Motherwell 3 - 0 Dundee Utd — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=4D3tBVc7n10",
+          "thumbnail": "https://i.ytimg.com/vi/4D3tBVc7n10/hqdefault.jpg",
+          "published_at": "2026-09-02T23:03:56+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 47,
         "home_wins": 19,
@@ -73341,7 +73373,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Kilmarnock 0 - 1 St Mirren — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=d8A8WVhmwqE",
+          "thumbnail": "https://i.ytimg.com/vi/d8A8WVhmwqE/hqdefault.jpg",
+          "published_at": "2026-09-02T23:03:02+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 50,
         "home_wins": 24,
@@ -73507,7 +73547,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Dundee 1 - 1 St. Johnstone — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=T_5g3-Iy84Y",
+          "thumbnail": "https://i.ytimg.com/vi/T_5g3-Iy84Y/hqdefault.jpg",
+          "published_at": "2026-09-02T23:03:35+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 32,
         "home_wins": 12,
