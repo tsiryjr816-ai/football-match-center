@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T13:39:10.469116+00:00",
+  "updated_at": "2026-09-02T13:51:45.465333+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-02",
   "date_to": "2026-09-09",
@@ -24294,7 +24294,7 @@
       "away_team_id": 229,
       "away_team": "Hibernian",
       "home_coach_id": 1861,
-      "away_coach_id": 251,
+      "away_coach_id": 1413,
       "referee_id": null,
       "venue_id": 817,
       "event_date": "2026-09-06T14:00:00+00:00",
@@ -75440,8 +75440,8 @@
       "group_name": null,
       "period": "",
       "current_minute": null,
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "home_score_ht": null,
       "away_score_ht": null,
       "penalty_shootout": null,
@@ -75484,8 +75484,8 @@
       "group_name": null,
       "period": "",
       "current_minute": null,
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "home_score_ht": null,
       "away_score_ht": null,
       "penalty_shootout": null,
@@ -75528,8 +75528,8 @@
       "group_name": null,
       "period": "",
       "current_minute": null,
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "home_score_ht": null,
       "away_score_ht": null,
       "penalty_shootout": null,
@@ -75571,11 +75571,11 @@
       "round_name": "Round of 32",
       "group_name": null,
       "period": "1T",
-      "current_minute": 36,
+      "current_minute": 48,
       "home_score": 1,
-      "away_score": 0,
+      "away_score": 1,
       "home_score_ht": 1,
-      "away_score_ht": 0,
+      "away_score_ht": 1,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -75853,13 +75853,13 @@
       "referee_id": null,
       "venue_id": null,
       "event_date": "2026-09-02T12:30:00+00:00",
-      "status": "halftime",
+      "status": "2nd_half",
       "replaced_by": null,
       "round_number": 1,
       "round_name": "Round 1",
       "group_name": null,
-      "period": "HT",
-      "current_minute": 45,
+      "period": "2T",
+      "current_minute": 55,
       "home_score": 0,
       "away_score": 2,
       "home_score_ht": 0,
@@ -75923,7 +75923,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Yokohama FM 1 - 1 Kyoto Sanga — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=828GSqHcOeE",
+          "thumbnail": "https://i.ytimg.com/vi/828GSqHcOeE/hqdefault.jpg",
+          "published_at": "2026-09-02T13:46:35+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 15,
         "home_wins": 7,
@@ -76363,7 +76371,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Shimizu 1 - 1 Tokyo — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=VAZocwWgOro",
+          "thumbnail": "https://i.ytimg.com/vi/VAZocwWgOro/hqdefault.jpg",
+          "published_at": "2026-09-02T13:46:10+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 30,
         "home_wins": 8,
@@ -77171,7 +77187,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Fukuoka 2 - 3 Urawa Reds — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=DFolLanM3wI",
+          "thumbnail": "https://i.ytimg.com/vi/DFolLanM3wI/hqdefault.jpg",
+          "published_at": "2026-09-02T13:46:59+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 14,
         "home_wins": 4,
