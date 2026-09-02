@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T13:25:53.447750+00:00",
+  "updated_at": "2026-09-02T13:39:10.469116+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-02",
   "date_to": "2026-09-09",
@@ -53759,7 +53759,7 @@
       "home_team": "West Bromwich Albion",
       "away_team_id": 202,
       "away_team": "Watford",
-      "home_coach_id": 174,
+      "home_coach_id": 1411,
       "away_coach_id": 1814,
       "referee_id": null,
       "venue_id": 209,
@@ -75571,10 +75571,10 @@
       "round_name": "Round of 32",
       "group_name": null,
       "period": "1T",
-      "current_minute": 23,
-      "home_score": 0,
+      "current_minute": 36,
+      "home_score": 1,
       "away_score": 0,
-      "home_score_ht": 0,
+      "home_score_ht": 1,
       "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
@@ -76089,7 +76089,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Nagasaki 2 - 2 Gamba Osaka — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=mt2eC7h6VzE",
+          "thumbnail": "https://i.ytimg.com/vi/mt2eC7h6VzE/hqdefault.jpg",
+          "published_at": "2026-09-02T13:19:24+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 4,
         "home_wins": 1,
@@ -76521,7 +76529,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Sanfrecce 3 - 0 Nagoya — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=UjBJxj4DMYY",
+          "thumbnail": "https://i.ytimg.com/vi/UjBJxj4DMYY/hqdefault.jpg",
+          "published_at": "2026-09-02T13:19:30+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 36,
         "home_wins": 14,
@@ -76914,7 +76930,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Chiba 1 - 2 Okayama — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=QYz-2zaH9aE",
+          "thumbnail": "https://i.ytimg.com/vi/QYz-2zaH9aE/hqdefault.jpg",
+          "published_at": "2026-09-02T13:19:36+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 1,
         "home_wins": 0,
