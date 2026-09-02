@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T23:05:27.540085+00:00",
+  "updated_at": "2026-09-02T23:21:40.886874+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-02",
   "date_to": "2026-09-09",
@@ -68112,7 +68112,7 @@
       "away_team": "Celta Vigo",
       "home_coach_id": 229,
       "away_coach_id": 396,
-      "referee_id": null,
+      "referee_id": 2004,
       "venue_id": 48,
       "event_date": "2026-09-03T19:00:00+00:00",
       "status": "notstarted",
@@ -71270,17 +71270,17 @@
       "referee_id": null,
       "venue_id": 1336,
       "event_date": "2026-09-02T23:00:00+00:00",
-      "status": "notstarted",
+      "status": "1st_half",
       "replaced_by": null,
       "round_number": 1,
       "round_name": "",
       "group_name": null,
-      "period": "",
-      "current_minute": null,
+      "period": "1T",
+      "current_minute": 13,
       "home_score": 0,
       "away_score": 0,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "home_score_ht": 0,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -71436,16 +71436,16 @@
       "referee_id": 1604,
       "venue_id": 151,
       "event_date": "2026-09-02T22:30:00+00:00",
-      "status": "1st_half",
+      "status": "halftime",
       "replaced_by": null,
       "round_number": 4,
       "round_name": "",
       "group_name": null,
-      "period": "1T",
-      "current_minute": 33,
-      "home_score": 1,
+      "period": "HT",
+      "current_minute": 45,
+      "home_score": 2,
       "away_score": 0,
-      "home_score_ht": 1,
+      "home_score_ht": 2,
       "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
@@ -71525,17 +71525,17 @@
       "referee_id": null,
       "venue_id": null,
       "event_date": "2026-09-02T22:30:00+00:00",
-      "status": "1st_half",
+      "status": "halftime",
       "replaced_by": null,
       "round_number": 5,
       "round_name": "Round of 16",
       "group_name": null,
-      "period": "1T",
-      "current_minute": 34,
+      "period": "HT",
+      "current_minute": 45,
       "home_score": 1,
-      "away_score": 0,
+      "away_score": 1,
       "home_score_ht": 1,
-      "away_score_ht": 0,
+      "away_score_ht": 1,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -71629,7 +71629,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Reading 5 - 0 Mansfield — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=fggNyowVLfk",
+          "thumbnail": "https://i.ytimg.com/vi/fggNyowVLfk/hqdefault.jpg",
+          "published_at": "2026-09-02T23:05:48+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 4,
         "home_wins": 2,
@@ -71903,7 +71911,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Falkirk 1 - 2 Rangers — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=3xNpqq_hvas",
+          "thumbnail": "https://i.ytimg.com/vi/3xNpqq_hvas/hqdefault.jpg",
+          "published_at": "2026-09-02T23:04:45+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 10,
         "home_wins": 0,
@@ -72069,7 +72085,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Wigan 3 - 1 MK Dons — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=Ly8ngxb6XKI",
+          "thumbnail": "https://i.ytimg.com/vi/Ly8ngxb6XKI/hqdefault.jpg",
+          "published_at": "2026-09-02T23:06:04+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 10,
         "home_wins": 5,
@@ -73721,7 +73745,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Celtic 3 - 0 Aberdeen — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=WyFr2ZYSRBg",
+          "thumbnail": "https://i.ytimg.com/vi/WyFr2ZYSRBg/hqdefault.jpg",
+          "published_at": "2026-09-02T23:05:16+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 64,
         "home_wins": 52,
