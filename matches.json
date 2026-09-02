@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T03:36:57.969408+00:00",
+  "updated_at": "2026-09-02T03:49:44.733395+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-02",
   "date_to": "2026-09-09",
@@ -77389,7 +77389,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Atlético-MG 2 - 1 Cruzeiro — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=CCv-AioMsMU",
+          "thumbnail": "https://i.ytimg.com/vi/CCv-AioMsMU/hqdefault.jpg",
+          "published_at": "2026-09-02T03:47:21+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 48,
         "home_wins": 19,
