@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T21:22:50.395867+00:00",
+  "updated_at": "2026-09-02T21:36:12.205573+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-02",
   "date_to": "2026-09-09",
@@ -72681,7 +72681,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "West Bromwich Albion 1-1 Charlton Athletic — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=v6ZKnDYGaQo",
+          "thumbnail": "https://i.ytimg.com/vi/v6ZKnDYGaQo/maxresdefault.jpg",
+          "published_at": "2026-09-02T21:22:20+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 11,
         "home_wins": 2,
