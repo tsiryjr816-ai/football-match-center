@@ -471,6 +471,14 @@
     "id": 179,
     "name": "SC Telstar"
   },
+  "2096": {
+    "id": 2096,
+    "name": "HJK"
+  },
+  "2098": {
+    "id": 2098,
+    "name": "Inter Turku"
+  },
   "1953": {
     "id": 1953,
     "name": "Pohang Steelers"
@@ -707,6 +715,14 @@
     "id": 172,
     "name": "Excelsior"
   },
+  "2095": {
+    "id": 2095,
+    "name": "IF Gnistan"
+  },
+  "377": {
+    "id": 377,
+    "name": "Kuopion Palloseura"
+  },
   "257": {
     "id": 257,
     "name": "Al-Hazem"
@@ -722,6 +738,38 @@
   "4909": {
     "id": 4909,
     "name": "Al Faisaly"
+  },
+  "2093": {
+    "id": 2093,
+    "name": "VPS"
+  },
+  "2097": {
+    "id": 2097,
+    "name": "AC Oulu"
+  },
+  "2101": {
+    "id": 2101,
+    "name": "FC Lahti"
+  },
+  "2102": {
+    "id": 2102,
+    "name": "IFK Mariehamn"
+  },
+  "2099": {
+    "id": 2099,
+    "name": "Turun Palloseura"
+  },
+  "2100": {
+    "id": 2100,
+    "name": "SJK"
+  },
+  "417": {
+    "id": 417,
+    "name": "Ilves"
+  },
+  "2094": {
+    "id": 2094,
+    "name": "FF Jaro"
   },
   "1950": {
     "id": 1950,
@@ -2514,14 +2562,6 @@
   "6301": {
     "id": 6301,
     "name": "Fomboni FC"
-  },
-  "2098": {
-    "id": 2098,
-    "name": "Inter Turku"
-  },
-  "2096": {
-    "id": 2096,
-    "name": "HJK"
   },
   "632": {
     "id": 632,
