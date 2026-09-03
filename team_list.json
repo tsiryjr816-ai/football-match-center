@@ -55,6 +55,14 @@
     "id": 1251,
     "name": "Luton Town"
   },
+  "149": {
+    "id": 149,
+    "name": "Panathinaikos FC"
+  },
+  "324": {
+    "id": 324,
+    "name": "AE Kifisia"
+  },
   "259": {
     "id": 259,
     "name": "Neom SC"
@@ -81,7 +89,7 @@
   },
   "3256": {
     "id": 3256,
-    "name": "Al Diriyah"
+    "name": "Diriyah"
   },
   "2415": {
     "id": 2415,
@@ -426,14 +434,6 @@
   "217": {
     "id": 217,
     "name": "West Bromwich Albion"
-  },
-  "149": {
-    "id": 149,
-    "name": "Panathinaikos FC"
-  },
-  "324": {
-    "id": 324,
-    "name": "AE Kifisia"
   },
   "267": {
     "id": 267,
