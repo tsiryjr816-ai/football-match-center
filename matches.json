@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T22:06:01.216238+00:00",
+  "updated_at": "2026-09-03T22:23:03.924067+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-03",
   "date_to": "2026-09-10",
@@ -73186,13 +73186,13 @@
       "referee_id": 2734,
       "venue_id": 559,
       "event_date": "2026-09-03T21:00:00+00:00",
-      "status": "halftime",
+      "status": "2nd_half",
       "replaced_by": null,
       "round_number": 9,
       "round_name": "",
       "group_name": null,
-      "period": "HT",
-      "current_minute": 45,
+      "period": "2T",
+      "current_minute": 59,
       "home_score": 2,
       "away_score": 0,
       "home_score_ht": 2,
@@ -73412,7 +73412,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Cagliari 1 - 2 Verona — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=1VTR7Vtuf64",
+          "thumbnail": "https://i.ytimg.com/vi/1VTR7Vtuf64/hqdefault.jpg",
+          "published_at": "2026-09-03T22:07:03+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 42,
         "home_wins": 15,
