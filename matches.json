@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T14:26:34.584127+00:00",
+  "updated_at": "2026-09-03T14:39:08.499304+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-03",
   "date_to": "2026-09-10",
@@ -73525,10 +73525,10 @@
       "is_neutral_ground": false,
       "travel_distance_km": 711,
       "weather": {
-        "code": null,
-        "description": null,
-        "wind_speed": null,
-        "temperature_c": null
+        "code": 0,
+        "description": "unknown",
+        "wind_speed": 16.1,
+        "temperature_c": 27
       },
       "pitch_condition": null,
       "attendance": null,
