@@ -79,14 +79,6 @@
     "id": 268,
     "name": "Al-Fateh"
   },
-  "264": {
-    "id": 264,
-    "name": "Al-Shabab"
-  },
-  "269": {
-    "id": 269,
-    "name": "Al-Fayha"
-  },
   "263": {
     "id": 263,
     "name": "Al-Riyadh"
@@ -97,7 +89,7 @@
   },
   "3256": {
     "id": 3256,
-    "name": "Al Diriyah"
+    "name": "Diriyah"
   },
   "2415": {
     "id": 2415,
@@ -471,6 +463,10 @@
     "id": 179,
     "name": "SC Telstar"
   },
+  "264": {
+    "id": 264,
+    "name": "Al-Shabab"
+  },
   "2096": {
     "id": 2096,
     "name": "HJK"
@@ -690,6 +686,10 @@
   "271": {
     "id": 271,
     "name": "Al-Ittihad"
+  },
+  "269": {
+    "id": 269,
+    "name": "Al-Fayha"
   },
   "329": {
     "id": 329,
