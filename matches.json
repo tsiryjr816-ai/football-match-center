@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T08:26:49.486078+00:00",
+  "updated_at": "2026-09-03T08:41:19.471288+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-03",
   "date_to": "2026-09-10",
@@ -11384,10 +11384,10 @@
       "is_neutral_ground": false,
       "travel_distance_km": null,
       "weather": {
-        "code": null,
+        "code": 51,
         "description": null,
-        "wind_speed": null,
-        "temperature_c": null
+        "wind_speed": 26.5,
+        "temperature_c": 16
       },
       "pitch_condition": null,
       "attendance": null,
@@ -12048,10 +12048,10 @@
       "is_neutral_ground": false,
       "travel_distance_km": null,
       "weather": {
-        "code": null,
+        "code": 51,
         "description": null,
-        "wind_speed": null,
-        "temperature_c": null
+        "wind_speed": 18.7,
+        "temperature_c": 14
       },
       "pitch_condition": null,
       "attendance": null,
@@ -12214,10 +12214,10 @@
       "is_neutral_ground": false,
       "travel_distance_km": null,
       "weather": {
-        "code": null,
+        "code": 51,
         "description": null,
-        "wind_speed": null,
-        "temperature_c": null
+        "wind_speed": 24.3,
+        "temperature_c": 17
       },
       "pitch_condition": null,
       "attendance": null,
@@ -12380,10 +12380,10 @@
       "is_neutral_ground": false,
       "travel_distance_km": null,
       "weather": {
-        "code": null,
+        "code": 51,
         "description": null,
-        "wind_speed": null,
-        "temperature_c": null
+        "wind_speed": 20.8,
+        "temperature_c": 16
       },
       "pitch_condition": null,
       "attendance": null,
@@ -66901,6 +66901,139 @@
             "home_score": 1,
             "away_team_id": 1958,
             "home_team_id": 1955
+          }
+        ]
+      },
+      "has_xg": false,
+      "previous_leg_event_id": null
+    },
+    {
+      "id": 601998,
+      "league_id": 70,
+      "season_id": 1312,
+      "home_team_id": 3832,
+      "home_team": "Peninsula Power",
+      "away_team_id": 3829,
+      "away_team": "Moreton City Excelsior FC",
+      "home_coach_id": 1829,
+      "away_coach_id": 1825,
+      "referee_id": null,
+      "venue_id": null,
+      "event_date": "2026-09-05T07:00:00+00:00",
+      "status": "notstarted",
+      "replaced_by": null,
+      "round_number": 300,
+      "round_name": "Preliminary",
+      "group_name": null,
+      "period": "",
+      "current_minute": null,
+      "home_score": null,
+      "away_score": null,
+      "home_score_ht": null,
+      "away_score_ht": null,
+      "penalty_shootout": null,
+      "extra_time_score": null,
+      "is_local_derby": false,
+      "is_neutral_ground": false,
+      "travel_distance_km": null,
+      "weather": {
+        "code": null,
+        "description": null,
+        "wind_speed": null,
+        "temperature_c": null
+      },
+      "pitch_condition": null,
+      "attendance": null,
+      "live_websocket": false,
+      "websocket_plus": false,
+      "highlights": [],
+      "head_to_head": {
+        "total_matches": 7,
+        "home_wins": 1,
+        "draws": 3,
+        "away_wins": 3,
+        "home_goals": 12,
+        "away_goals": 16,
+        "avg_total_goals": 4.0,
+        "home_win_rate": 0.14285714285714285,
+        "away_win_rate": 0.42857142857142855,
+        "recent_matches": [
+          {
+            "away": "Peninsula Power",
+            "date": "2026-07-18T06:30:00+00:00",
+            "home": "Moreton City Excelsior FC",
+            "score": "2-2",
+            "event_id": 210033,
+            "away_score": 2,
+            "home_score": 2,
+            "away_team_id": 3832,
+            "home_team_id": 3829
+          },
+          {
+            "away": "Moreton City Excelsior FC",
+            "date": "2026-04-18T07:00:00+00:00",
+            "home": "Peninsula Power",
+            "score": "1-4",
+            "event_id": 209961,
+            "away_score": 4,
+            "home_score": 1,
+            "away_team_id": 3829,
+            "home_team_id": 3832
+          },
+          {
+            "away": "Moreton City Excelsior FC",
+            "date": "2025-06-17T09:15:00+00:00",
+            "home": "Peninsula Power",
+            "score": "0-2",
+            "event_id": 229083,
+            "away_score": 2,
+            "home_score": 0,
+            "away_team_id": 3829,
+            "home_team_id": 3832
+          },
+          {
+            "away": "Peninsula Power",
+            "date": "2025-05-10T07:30:00+00:00",
+            "home": "Moreton City Excelsior FC",
+            "score": "3-3",
+            "event_id": 228997,
+            "away_score": 3,
+            "home_score": 3,
+            "away_team_id": 3832,
+            "home_team_id": 3829
+          },
+          {
+            "away": "Peninsula Power",
+            "date": "2024-09-01T09:00:00+00:00",
+            "home": "Moreton City Excelsior FC",
+            "score": "4-3",
+            "event_id": 237704,
+            "away_score": 3,
+            "home_score": 4,
+            "away_team_id": 3832,
+            "home_team_id": 3829
+          },
+          {
+            "away": "Peninsula Power",
+            "date": "2024-08-10T09:00:00+00:00",
+            "home": "Moreton City Excelsior FC",
+            "score": "1-3",
+            "event_id": 237694,
+            "away_score": 3,
+            "home_score": 1,
+            "away_team_id": 3832,
+            "home_team_id": 3829
+          },
+          {
+            "away": "Moreton City Excelsior FC",
+            "date": "2024-05-11T07:00:00+00:00",
+            "home": "Peninsula Power",
+            "score": "0-0",
+            "event_id": 237619,
+            "away_score": 0,
+            "home_score": 0,
+            "away_team_id": 3829,
+            "home_team_id": 3832
           }
         ]
       },
