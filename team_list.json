@@ -1427,6 +1427,78 @@
     "id": 97,
     "name": "Stade Rennais"
   },
+  "574": {
+    "id": 574,
+    "name": "Warri Wolves FC"
+  },
+  "571": {
+    "id": 571,
+    "name": "Enugu Rangers International"
+  },
+  "5649": {
+    "id": 5649,
+    "name": "Sporting Lagos FC"
+  },
+  "576": {
+    "id": 576,
+    "name": "Ikorodu City"
+  },
+  "8256": {
+    "id": 8256,
+    "name": "Ranchers Bees"
+  },
+  "565": {
+    "id": 565,
+    "name": "Abia Warriors"
+  },
+  "580": {
+    "id": 580,
+    "name": "Plateau United"
+  },
+  "575": {
+    "id": 575,
+    "name": "Kwara United"
+  },
+  "582": {
+    "id": 582,
+    "name": "Nasarawa United"
+  },
+  "570": {
+    "id": 570,
+    "name": "Bendel Insurance FC"
+  },
+  "572": {
+    "id": 572,
+    "name": "Kun Khalifat FC"
+  },
+  "567": {
+    "id": 567,
+    "name": "Barau FC"
+  },
+  "573": {
+    "id": 573,
+    "name": "Katsina United"
+  },
+  "564": {
+    "id": 564,
+    "name": "Rivers United"
+  },
+  "566": {
+    "id": 566,
+    "name": "Kano Pillars"
+  },
+  "581": {
+    "id": 581,
+    "name": "Niger Tornadoes"
+  },
+  "568": {
+    "id": 568,
+    "name": "Enyimba"
+  },
+  "577": {
+    "id": 577,
+    "name": "Shooting Stars"
+  },
   "619": {
     "id": 619,
     "name": "Wiliete SC"
@@ -1450,10 +1522,6 @@
   "3590": {
     "id": 3590,
     "name": "Tout Puissant Mazembe"
-  },
-  "571": {
-    "id": 571,
-    "name": "Enugu Rangers International"
   },
   "3336": {
     "id": 3336,
@@ -2315,10 +2383,6 @@
     "id": 5193,
     "name": "FC San Pedro"
   },
-  "564": {
-    "id": 564,
-    "name": "Rivers United"
-  },
   "610": {
     "id": 610,
     "name": "Vipers SC"
@@ -2434,6 +2498,14 @@
   "110": {
     "id": 110,
     "name": "Lorient"
+  },
+  "8255": {
+    "id": 8255,
+    "name": "Inter Lagos FC"
+  },
+  "5648": {
+    "id": 5648,
+    "name": "Doma United FC"
   },
   "8238": {
     "id": 8238,
