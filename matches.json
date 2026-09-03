@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T21:06:18.338482+00:00",
+  "updated_at": "2026-09-03T21:23:05.060233+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-03",
   "date_to": "2026-09-10",
@@ -73192,7 +73192,7 @@
       "round_name": "",
       "group_name": null,
       "period": "1T",
-      "current_minute": 5,
+      "current_minute": 21,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -73286,15 +73286,15 @@
       "referee_id": null,
       "venue_id": null,
       "event_date": "2026-09-03T20:00:00+00:00",
-      "status": "halftime",
+      "status": "2nd_half",
       "replaced_by": null,
       "round_number": null,
       "round_name": "",
       "group_name": null,
-      "period": "HT",
-      "current_minute": 45,
+      "period": "2T",
+      "current_minute": 60,
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "home_score_ht": 0,
       "away_score_ht": 0,
       "penalty_shootout": null,
@@ -73578,7 +73578,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Real Sociedad 0-0 Celta Vigo — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=jmrGAcizaCk",
+          "thumbnail": "https://i.ytimg.com/vi/jmrGAcizaCk/maxresdefault.jpg",
+          "published_at": "2026-09-03T21:11:38+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 90,
         "home_wins": 37,
@@ -74242,7 +74250,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Lech 2 - 1 Jagiellonia — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=4aBmPhxXbYs",
+          "thumbnail": "https://i.ytimg.com/vi/4aBmPhxXbYs/hqdefault.jpg",
+          "published_at": "2026-09-03T21:06:36+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 42,
         "home_wins": 17,
