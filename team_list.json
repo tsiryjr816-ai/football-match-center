@@ -4231,6 +4231,14 @@
     "id": 347,
     "name": "Botev Vratsa"
   },
+  "2059": {
+    "id": 2059,
+    "name": "Ittihad Tanger"
+  },
+  "2070": {
+    "id": 2070,
+    "name": "CODM Meknès"
+  },
   "76": {
     "id": 76,
     "name": "Hellas Verona"
@@ -4266,5 +4274,13 @@
   "1768": {
     "id": 1768,
     "name": "MKS Avia Świdnik"
+  },
+  "586": {
+    "id": 586,
+    "name": "AS FAR Rabat"
+  },
+  "2061": {
+    "id": 2061,
+    "name": "Olympic Safi"
   }
 }
