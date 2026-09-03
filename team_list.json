@@ -795,6 +795,14 @@
     "id": 4781,
     "name": "Llaneros FC"
   },
+  "4620": {
+    "id": 4620,
+    "name": "Club Atlético Unión de Santa Fe"
+  },
+  "4996": {
+    "id": 4996,
+    "name": "Instituto De Córdoba"
+  },
   "781": {
     "id": 781,
     "name": "Deportes Tolima"
@@ -806,6 +814,14 @@
   "154": {
     "id": 154,
     "name": "Grêmio"
+  },
+  "734": {
+    "id": 734,
+    "name": "Barracas Central"
+  },
+  "806": {
+    "id": 806,
+    "name": "Argentinos Juniors"
   },
   "55": {
     "id": 55,
@@ -1007,6 +1023,14 @@
     "id": 3936,
     "name": "San Diego Wave FC"
   },
+  "733": {
+    "id": 733,
+    "name": "Racing Club"
+  },
+  "3132": {
+    "id": 3132,
+    "name": "Atlético Tucumán"
+  },
   "736": {
     "id": 736,
     "name": "Millonarios"
@@ -1023,6 +1047,14 @@
     "id": 373,
     "name": "Chapecoense"
   },
+  "755": {
+    "id": 755,
+    "name": "River Plate"
+  },
+  "774": {
+    "id": 774,
+    "name": "Independiente Rivadavia"
+  },
   "844": {
     "id": 844,
     "name": "Ponte Preta"
@@ -1034,66 +1066,6 @@
   "4786": {
     "id": 4786,
     "name": "Rionegro Águilas Doradas"
-  },
-  "2397": {
-    "id": 2397,
-    "name": "Vélez Sarsfield"
-  },
-  "755": {
-    "id": 755,
-    "name": "River Plate"
-  },
-  "774": {
-    "id": 774,
-    "name": "Independiente Rivadavia"
-  },
-  "733": {
-    "id": 733,
-    "name": "Racing Club"
-  },
-  "3132": {
-    "id": 3132,
-    "name": "Atlético Tucumán"
-  },
-  "3125": {
-    "id": 3125,
-    "name": "Gimnasia y Esgrima Mendoza"
-  },
-  "4998": {
-    "id": 4998,
-    "name": "Gimnasia y Esgrima"
-  },
-  "739": {
-    "id": 739,
-    "name": "Tigre"
-  },
-  "5000": {
-    "id": 5000,
-    "name": "Estudiantes de Río Cuarto"
-  },
-  "4999": {
-    "id": 4999,
-    "name": "Sarmiento"
-  },
-  "4620": {
-    "id": 4620,
-    "name": "Club Atlético Unión de Santa Fe"
-  },
-  "4996": {
-    "id": 4996,
-    "name": "Instituto De Córdoba"
-  },
-  "743": {
-    "id": 743,
-    "name": "Deportivo Riestra"
-  },
-  "3299": {
-    "id": 3299,
-    "name": "Club Atlético Belgrano"
-  },
-  "2352": {
-    "id": 2352,
-    "name": "Huracán"
   },
   "4995": {
     "id": 4995,
@@ -1110,14 +1082,6 @@
   "3136": {
     "id": 3136,
     "name": "Defensa y Justicia"
-  },
-  "734": {
-    "id": 734,
-    "name": "Barracas Central"
-  },
-  "806": {
-    "id": 806,
-    "name": "Argentinos Juniors"
   },
   "3927": {
     "id": 3927,
@@ -2103,6 +2067,10 @@
     "id": 2240,
     "name": "FC Tulsa"
   },
+  "2397": {
+    "id": 2397,
+    "name": "Vélez Sarsfield"
+  },
   "2223": {
     "id": 2223,
     "name": "Rhode Island FC"
@@ -2194,6 +2162,10 @@
   "4782": {
     "id": 4782,
     "name": "Fortaleza FC"
+  },
+  "3125": {
+    "id": 3125,
+    "name": "Gimnasia y Esgrima Mendoza"
   },
   "23": {
     "id": 23,
@@ -2314,6 +2286,14 @@
   "122": {
     "id": 122,
     "name": "AFC Ajax"
+  },
+  "4998": {
+    "id": 4998,
+    "name": "Gimnasia y Esgrima"
+  },
+  "739": {
+    "id": 739,
+    "name": "Tigre"
   },
   "3648": {
     "id": 3648,
@@ -4006,6 +3986,26 @@
   "2234": {
     "id": 2234,
     "name": "Colorado Springs Switchbacks FC"
+  },
+  "743": {
+    "id": 743,
+    "name": "Deportivo Riestra"
+  },
+  "3299": {
+    "id": 3299,
+    "name": "Club Atlético Belgrano"
+  },
+  "2352": {
+    "id": 2352,
+    "name": "Huracán"
+  },
+  "5000": {
+    "id": 5000,
+    "name": "Estudiantes de Río Cuarto"
+  },
+  "4999": {
+    "id": 4999,
+    "name": "Sarmiento"
   },
   "101": {
     "id": 101,
