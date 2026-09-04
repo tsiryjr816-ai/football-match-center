@@ -1259,14 +1259,6 @@
     "id": 356,
     "name": "FC Argeș Pitești"
   },
-  "314": {
-    "id": 314,
-    "name": "Cruz Azul"
-  },
-  "312": {
-    "id": 312,
-    "name": "Santos Laguna"
-  },
   "3939": {
     "id": 3939,
     "name": "Seattle Reign FC"
@@ -1290,6 +1282,14 @@
   "3937": {
     "id": 3937,
     "name": "Houston Dash"
+  },
+  "314": {
+    "id": 314,
+    "name": "Cruz Azul"
+  },
+  "312": {
+    "id": 312,
+    "name": "Santos Laguna"
   },
   "373": {
     "id": 373,
