@@ -47,6 +47,14 @@
     "id": 111,
     "name": "Metz"
   },
+  "915": {
+    "id": 915,
+    "name": "Real Club Deportivo de A Coruña"
+  },
+  "926": {
+    "id": 926,
+    "name": "Real Madrid"
+  },
   "237": {
     "id": 237,
     "name": "KV Mechelen"
@@ -166,6 +174,14 @@
   "2053": {
     "id": 2053,
     "name": "Willem II Tilburg"
+  },
+  "2213": {
+    "id": 2213,
+    "name": "Torreense"
+  },
+  "3334": {
+    "id": 3334,
+    "name": "Leixões SC"
   },
   "196": {
     "id": 196,
@@ -1419,10 +1435,6 @@
     "id": 129,
     "name": "PAOK"
   },
-  "926": {
-    "id": 926,
-    "name": "Real Madrid"
-  },
   "921": {
     "id": 921,
     "name": "SD Eibar"
@@ -1775,10 +1787,6 @@
     "id": 170,
     "name": "Fortuna Sittard"
   },
-  "3334": {
-    "id": 3334,
-    "name": "Leixões SC"
-  },
   "4829": {
     "id": 4829,
     "name": "Amarante FC"
@@ -2078,10 +2086,6 @@
   "912": {
     "id": 912,
     "name": "Costa Adeje Tenerife"
-  },
-  "915": {
-    "id": 915,
-    "name": "Real Club Deportivo de A Coruña"
   },
   "1936": {
     "id": 1936,
@@ -2658,10 +2662,6 @@
   "2881": {
     "id": 2881,
     "name": "SL Benfica B"
-  },
-  "2213": {
-    "id": 2213,
-    "name": "Torreense"
   },
   "1312": {
     "id": 1312,
