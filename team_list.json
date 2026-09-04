@@ -31,6 +31,14 @@
     "id": 2397,
     "name": "Vélez Sarsfield"
   },
+  "4028": {
+    "id": 4028,
+    "name": "Académica Coimbra"
+  },
+  "2881": {
+    "id": 2881,
+    "name": "SL Benfica B"
+  },
   "8": {
     "id": 8,
     "name": "West Ham United"
@@ -2659,10 +2667,6 @@
     "id": 621,
     "name": "African Stars FC"
   },
-  "2881": {
-    "id": 2881,
-    "name": "SL Benfica B"
-  },
   "1312": {
     "id": 1312,
     "name": "Feirense"
@@ -3794,10 +3798,6 @@
   "3517": {
     "id": 3517,
     "name": "Penafiel"
-  },
-  "4028": {
-    "id": 4028,
-    "name": "Académica Coimbra"
   },
   "4830": {
     "id": 4830,
