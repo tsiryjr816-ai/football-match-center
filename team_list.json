@@ -71,6 +71,14 @@
     "id": 68,
     "name": "Fiorentina"
   },
+  "1401": {
+    "id": 1401,
+    "name": "Burgos Club de Fútbol"
+  },
+  "1458": {
+    "id": 1458,
+    "name": "AD Ceuta"
+  },
   "83": {
     "id": 83,
     "name": "1. FC Union Berlin"
@@ -199,14 +207,6 @@
     "id": 8238,
     "name": "FC 15 de Agosto de Akonibe"
   },
-  "3336": {
-    "id": 3336,
-    "name": "SOBEMAP FC"
-  },
-  "571": {
-    "id": 571,
-    "name": "Enugu Rangers International"
-  },
   "596": {
     "id": 596,
     "name": "Simba SC"
@@ -246,6 +246,14 @@
   "358": {
     "id": 358,
     "name": "UTA Arad"
+  },
+  "3336": {
+    "id": 3336,
+    "name": "SOBEMAP FC"
+  },
+  "571": {
+    "id": 571,
+    "name": "Enugu Rangers International"
   },
   "1931": {
     "id": 1931,
@@ -1811,10 +1819,6 @@
     "id": 42,
     "name": "Real Oviedo"
   },
-  "1401": {
-    "id": 1401,
-    "name": "Burgos Club de Fútbol"
-  },
   "8558": {
     "id": 8558,
     "name": "Ascot United"
@@ -2494,10 +2498,6 @@
   "1460": {
     "id": 1460,
     "name": "FC Andorra"
-  },
-  "1458": {
-    "id": 1458,
-    "name": "AD Ceuta"
   },
   "3883": {
     "id": 3883,
