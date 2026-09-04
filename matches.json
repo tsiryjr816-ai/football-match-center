@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T21:22:36.691486+00:00",
+  "updated_at": "2026-09-04T21:35:35.574704+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-04",
   "date_to": "2026-09-11",
@@ -75491,7 +75491,7 @@
       "away_team_id": 743,
       "away_team": "Deportivo Riestra",
       "home_coach_id": 3401,
-      "away_coach_id": 3197,
+      "away_coach_id": 510,
       "referee_id": 2812,
       "venue_id": 592,
       "event_date": "2026-09-04T22:00:00+00:00",
@@ -75765,7 +75765,7 @@
       "stage_name": "Group stage",
       "round_label": "Group B · Matchday 8",
       "period": "2T",
-      "current_minute": 78,
+      "current_minute": 91,
       "home_score": 0,
       "away_score": 2,
       "home_score_ht": 0,
@@ -76370,7 +76370,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Real Betis 1-0 Real Madrid — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=rBSh5tzNeL8",
+          "thumbnail": "https://i.ytimg.com/vi/rBSh5tzNeL8/maxresdefault.jpg",
+          "published_at": "2026-09-04T21:19:58+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 90,
         "home_wins": 18,
