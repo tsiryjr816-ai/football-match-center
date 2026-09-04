@@ -15,6 +15,22 @@
     "id": 3929,
     "name": "NJ/NY Gotham FC"
   },
+  "3136": {
+    "id": 3136,
+    "name": "Defensa y Justicia"
+  },
+  "3125": {
+    "id": 3125,
+    "name": "Gimnasia y Esgrima Mendoza"
+  },
+  "4997": {
+    "id": 4997,
+    "name": "Newell's Old Boys"
+  },
+  "2397": {
+    "id": 2397,
+    "name": "Vélez Sarsfield"
+  },
   "8": {
     "id": 8,
     "name": "West Ham United"
@@ -182,6 +198,14 @@
   "3334": {
     "id": 3334,
     "name": "Leixões SC"
+  },
+  "124": {
+    "id": 124,
+    "name": "FC København"
+  },
+  "3444": {
+    "id": 3444,
+    "name": "AC Horsens"
   },
   "196": {
     "id": 196,
@@ -1355,10 +1379,6 @@
     "id": 785,
     "name": "CA Lanús"
   },
-  "3136": {
-    "id": 3136,
-    "name": "Defensa y Justicia"
-  },
   "3927": {
     "id": 3927,
     "name": "Portland Thorns FC"
@@ -1454,10 +1474,6 @@
   "792": {
     "id": 792,
     "name": "Rosario Central"
-  },
-  "4997": {
-    "id": 4997,
-    "name": "Newell's Old Boys"
   },
   "361": {
     "id": 361,
@@ -1855,10 +1871,6 @@
     "id": 3120,
     "name": "Odense Boldklub"
   },
-  "124": {
-    "id": 124,
-    "name": "FC København"
-  },
   "3295": {
     "id": 3295,
     "name": "Çorum FK"
@@ -1998,10 +2010,6 @@
   "1378": {
     "id": 1378,
     "name": "Sønderjyske Fodbold"
-  },
-  "3444": {
-    "id": 3444,
-    "name": "AC Horsens"
   },
   "1397": {
     "id": 1397,
@@ -2231,10 +2239,6 @@
     "id": 2240,
     "name": "FC Tulsa"
   },
-  "2397": {
-    "id": 2397,
-    "name": "Vélez Sarsfield"
-  },
   "2223": {
     "id": 2223,
     "name": "Rhode Island FC"
@@ -2314,10 +2318,6 @@
   "2391": {
     "id": 2391,
     "name": "CA Talleres"
-  },
-  "3125": {
-    "id": 3125,
-    "name": "Gimnasia y Esgrima Mendoza"
   },
   "23": {
     "id": 23,
