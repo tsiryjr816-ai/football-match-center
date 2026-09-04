@@ -247,14 +247,6 @@
     "id": 8241,
     "name": "Aiglons FC N'Djamena"
   },
-  "6301": {
-    "id": 6301,
-    "name": "Fomboni FC"
-  },
-  "8238": {
-    "id": 8238,
-    "name": "FC 15 de Agosto de Akonibe"
-  },
   "596": {
     "id": 596,
     "name": "Simba SC"
@@ -294,6 +286,14 @@
   "358": {
     "id": 358,
     "name": "UTA Arad"
+  },
+  "6301": {
+    "id": 6301,
+    "name": "Fomboni FC"
+  },
+  "8238": {
+    "id": 8238,
+    "name": "FC 15 de Agosto de Akonibe"
   },
   "3336": {
     "id": 3336,
