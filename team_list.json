@@ -143,6 +143,14 @@
     "id": 368,
     "name": "FC Dinamo București"
   },
+  "342": {
+    "id": 342,
+    "name": "Cherno More Varna"
+  },
+  "341": {
+    "id": 341,
+    "name": "Lokomotiv Sofia"
+  },
   "180": {
     "id": 180,
     "name": "AZ Alkmaar"
@@ -1415,10 +1423,6 @@
     "id": 1384,
     "name": "Śląsk Wrocław"
   },
-  "341": {
-    "id": 341,
-    "name": "Lokomotiv Sofia"
-  },
   "136": {
     "id": 136,
     "name": "Ludogorets"
@@ -1574,10 +1578,6 @@
   "350": {
     "id": 350,
     "name": "Lokomotiv Plovdiv"
-  },
-  "342": {
-    "id": 342,
-    "name": "Cherno More Varna"
   },
   "66": {
     "id": 66,
