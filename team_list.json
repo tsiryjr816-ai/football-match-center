@@ -2691,6 +2691,14 @@
     "id": 51,
     "name": "Athletic Club"
   },
+  "4724": {
+    "id": 4724,
+    "name": "Taunton Town"
+  },
+  "8659": {
+    "id": 8659,
+    "name": "Millbrook FC"
+  },
   "4059": {
     "id": 4059,
     "name": "Stafford Rangers"
@@ -3290,10 +3298,6 @@
   "7201": {
     "id": 7201,
     "name": "Mickleover FC"
-  },
-  "4724": {
-    "id": 4724,
-    "name": "Taunton Town"
   },
   "5436": {
     "id": 5436,
