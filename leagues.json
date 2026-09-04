@@ -15,7 +15,57 @@
         "year": 2025,
         "start_date": "2025-01-01",
         "end_date": "2025-12-31",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "group-stage",
+            "stage_name": "Group stage",
+            "matches": 36,
+            "rounds": 3,
+            "start_date": "2025-12-21",
+            "end_date": "2025-12-31"
+          },
+          {
+            "stage": "round-of-16",
+            "stage_name": "Round of 16",
+            "matches": 8,
+            "rounds": 1,
+            "start_date": "2026-01-03",
+            "end_date": "2026-01-06"
+          },
+          {
+            "stage": "quarterfinals",
+            "stage_name": "Quarterfinals",
+            "matches": 4,
+            "rounds": 1,
+            "start_date": "2026-01-09",
+            "end_date": "2026-01-10"
+          },
+          {
+            "stage": "semifinals",
+            "stage_name": "Semifinals",
+            "matches": 2,
+            "rounds": 1,
+            "start_date": "2026-01-14",
+            "end_date": "2026-01-14"
+          },
+          {
+            "stage": "match-for-3rd-place",
+            "stage_name": "Match for 3rd place",
+            "matches": 1,
+            "rounds": 1,
+            "start_date": "2026-01-17",
+            "end_date": "2026-01-17"
+          },
+          {
+            "stage": "final",
+            "stage_name": "Final",
+            "matches": 1,
+            "rounds": 1,
+            "start_date": "2026-01-18",
+            "end_date": "2026-01-18"
+          }
+        ]
       }
     },
     {
@@ -30,7 +80,17 @@
         "year": 2026,
         "start_date": "2026-07-01",
         "end_date": "2027-06-30",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "qualification-round-1",
+            "stage_name": "Qualification Round 1",
+            "matches": 58,
+            "rounds": 1,
+            "start_date": "2026-09-04",
+            "end_date": "2026-09-13"
+          }
+        ]
       }
     },
     {
@@ -45,7 +105,41 @@
         "year": 2025,
         "start_date": "2025-01-01",
         "end_date": "2025-12-31",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "group-stage",
+            "stage_name": "Group stage",
+            "matches": 262,
+            "rounds": 10,
+            "start_date": "2023-11-15",
+            "end_date": "2025-10-14"
+          },
+          {
+            "stage": "league-phase",
+            "stage_name": "League phase",
+            "matches": 2,
+            "rounds": 2,
+            "start_date": "2023-11-16",
+            "end_date": "2023-11-20"
+          },
+          {
+            "stage": "semifinals",
+            "stage_name": "Semifinals",
+            "matches": 2,
+            "rounds": 1,
+            "start_date": "2025-11-13",
+            "end_date": "2025-11-13"
+          },
+          {
+            "stage": "final",
+            "stage_name": "Final",
+            "matches": 1,
+            "rounds": 1,
+            "start_date": "2025-11-16",
+            "end_date": "2025-11-16"
+          }
+        ]
       }
     },
     {
@@ -60,7 +154,57 @@
         "year": 2026,
         "start_date": "2026-01-01",
         "end_date": "2026-12-31",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "group-stage",
+            "stage_name": "Group stage",
+            "matches": 427,
+            "rounds": 15,
+            "start_date": "2026-01-22",
+            "end_date": "2026-11-08"
+          },
+          {
+            "stage": "league-phase",
+            "stage_name": "League phase",
+            "matches": 61,
+            "rounds": 16,
+            "start_date": "2026-01-22",
+            "end_date": "2026-11-08"
+          },
+          {
+            "stage": "round-of-16",
+            "stage_name": "Round of 16",
+            "matches": 8,
+            "rounds": 1,
+            "start_date": "2026-05-09",
+            "end_date": "2026-05-11"
+          },
+          {
+            "stage": "quarterfinals",
+            "stage_name": "Quarterfinals",
+            "matches": 4,
+            "rounds": 1,
+            "start_date": "2026-05-12",
+            "end_date": "2026-05-14"
+          },
+          {
+            "stage": "semifinals",
+            "stage_name": "Semifinals",
+            "matches": 2,
+            "rounds": 1,
+            "start_date": "2026-05-16",
+            "end_date": "2026-05-17"
+          },
+          {
+            "stage": "final",
+            "stage_name": "Final",
+            "matches": 1,
+            "rounds": 1,
+            "start_date": "2026-05-24",
+            "end_date": "2026-05-24"
+          }
+        ]
       }
     },
     {
@@ -75,7 +219,17 @@
         "year": 2027,
         "start_date": "2027-01-01",
         "end_date": "2027-12-31",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "group-stage",
+            "stage_name": "Group stage",
+            "matches": 36,
+            "rounds": 3,
+            "start_date": "2027-01-07",
+            "end_date": "2027-01-20"
+          }
+        ]
       }
     },
     {
@@ -98,7 +252,33 @@
         "year": 2026,
         "start_date": "2026-01-01",
         "end_date": "2026-12-31",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "league-phase",
+            "stage_name": "League phase",
+            "matches": 142,
+            "rounds": 22,
+            "start_date": "2026-02-20",
+            "end_date": "2026-08-14"
+          },
+          {
+            "stage": "semifinals",
+            "stage_name": "Semifinals",
+            "matches": 2,
+            "rounds": 1,
+            "start_date": "2026-08-29",
+            "end_date": "2026-08-30"
+          },
+          {
+            "stage": "preliminary",
+            "stage_name": "Preliminary",
+            "matches": 1,
+            "rounds": 1,
+            "start_date": "2026-09-05",
+            "end_date": "2026-09-05"
+          }
+        ]
       }
     },
     {
@@ -113,7 +293,17 @@
         "year": 2026,
         "start_date": "2026-07-01",
         "end_date": "2027-06-30",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "regular-season",
+            "stage_name": "Regular season",
+            "matches": 308,
+            "rounds": 34,
+            "start_date": "2026-08-07",
+            "end_date": "2027-05-21"
+          }
+        ]
       }
     },
     {
@@ -128,7 +318,17 @@
         "year": 2026,
         "start_date": "2026-01-01",
         "end_date": "2026-12-31",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "regular-season",
+            "stage_name": "Regular season",
+            "matches": 386,
+            "rounds": 38,
+            "start_date": "2026-01-28",
+            "end_date": "2026-12-02"
+          }
+        ]
       }
     },
     {
@@ -143,7 +343,17 @@
         "year": 2026,
         "start_date": "2026-01-01",
         "end_date": "2026-12-31",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "regular-season",
+            "stage_name": "Regular season",
+            "matches": 384,
+            "rounds": 38,
+            "start_date": "2026-03-21",
+            "end_date": "2026-11-14"
+          }
+        ]
       }
     },
     {
@@ -158,7 +368,73 @@
         "year": 2026,
         "start_date": "2026-01-01",
         "end_date": "2026-12-31",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "round-1",
+            "stage_name": "Round 1",
+            "matches": 14,
+            "rounds": 1,
+            "start_date": "2026-02-17",
+            "end_date": "2026-02-20"
+          },
+          {
+            "stage": "round-2",
+            "stage_name": "Round 2",
+            "matches": 44,
+            "rounds": 1,
+            "start_date": "2026-02-24",
+            "end_date": "2026-03-06"
+          },
+          {
+            "stage": "round-3",
+            "stage_name": "Round 3",
+            "matches": 24,
+            "rounds": 1,
+            "start_date": "2026-03-10",
+            "end_date": "2026-03-13"
+          },
+          {
+            "stage": "round-4",
+            "stage_name": "Round 4",
+            "matches": 12,
+            "rounds": 1,
+            "start_date": "2026-03-17",
+            "end_date": "2026-03-19"
+          },
+          {
+            "stage": "round-5",
+            "stage_name": "Round 5",
+            "matches": 32,
+            "rounds": 1,
+            "start_date": "2026-04-21",
+            "end_date": "2026-05-15"
+          },
+          {
+            "stage": "round-of-16",
+            "stage_name": "Round of 16",
+            "matches": 16,
+            "rounds": 1,
+            "start_date": "2026-08-01",
+            "end_date": "2026-08-06"
+          },
+          {
+            "stage": "quarterfinals",
+            "stage_name": "Quarterfinals",
+            "matches": 8,
+            "rounds": 1,
+            "start_date": "2026-08-26",
+            "end_date": "2026-09-03"
+          },
+          {
+            "stage": "semifinals",
+            "stage_name": "Semifinals",
+            "matches": 2,
+            "rounds": 1,
+            "start_date": "2026-11-01",
+            "end_date": "2026-11-08"
+          }
+        ]
       }
     },
     {
@@ -173,7 +449,17 @@
         "year": 2026,
         "start_date": "2026-07-01",
         "end_date": "2027-06-30",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "regular-season",
+            "stage_name": "Regular season",
+            "matches": 191,
+            "rounds": 26,
+            "start_date": "2026-07-17",
+            "end_date": "2027-04-17"
+          }
+        ]
       }
     },
     {
@@ -188,7 +474,17 @@
         "year": 2026,
         "start_date": "2026-01-01",
         "end_date": "2026-12-31",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "regular-season",
+            "stage_name": "Regular season",
+            "matches": 243,
+            "rounds": 30,
+            "start_date": "2026-03-06",
+            "end_date": "2026-11-08"
+          }
+        ]
       }
     },
     {
@@ -203,7 +499,41 @@
         "year": 2026,
         "start_date": "2026-01-01",
         "end_date": "2026-12-31",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "league-phase",
+            "stage_name": "League phase",
+            "matches": 402,
+            "rounds": 19,
+            "start_date": "2026-01-16",
+            "end_date": "2026-11-08"
+          },
+          {
+            "stage": "quarterfinals",
+            "stage_name": "Quarterfinals",
+            "matches": 8,
+            "rounds": 1,
+            "start_date": "2026-05-09",
+            "end_date": "2026-05-14"
+          },
+          {
+            "stage": "semifinals",
+            "stage_name": "Semifinals",
+            "matches": 4,
+            "rounds": 1,
+            "start_date": "2026-05-16",
+            "end_date": "2026-05-24"
+          },
+          {
+            "stage": "final",
+            "stage_name": "Final",
+            "matches": 2,
+            "rounds": 1,
+            "start_date": "2026-06-03",
+            "end_date": "2026-06-08"
+          }
+        ]
       }
     },
     {
@@ -218,7 +548,33 @@
         "year": 2026,
         "start_date": "2026-01-01",
         "end_date": "2026-12-31",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "group-stage",
+            "stage_name": "Group stage",
+            "matches": 41,
+            "rounds": 5,
+            "start_date": "2026-05-07",
+            "end_date": "2026-06-02"
+          },
+          {
+            "stage": "round-1",
+            "stage_name": "Round 1",
+            "matches": 17,
+            "rounds": 1,
+            "start_date": "2026-07-21",
+            "end_date": "2026-08-06"
+          },
+          {
+            "stage": "round-of-16",
+            "stage_name": "Round of 16",
+            "matches": 18,
+            "rounds": 1,
+            "start_date": "2026-08-13",
+            "end_date": "2026-09-17"
+          }
+        ]
       }
     },
     {
@@ -233,7 +589,17 @@
         "year": 2026,
         "start_date": "2026-07-01",
         "end_date": "2027-06-30",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "regular-season",
+            "stage_name": "Regular season",
+            "matches": 132,
+            "rounds": 22,
+            "start_date": "2026-07-24",
+            "end_date": "2027-03-21"
+          }
+        ]
       }
     },
     {
@@ -248,7 +614,41 @@
         "year": 2026,
         "start_date": "2026-07-01",
         "end_date": "2027-06-30",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "preliminary",
+            "stage_name": "Preliminary",
+            "matches": 2,
+            "rounds": 1,
+            "start_date": "2026-08-01",
+            "end_date": "2026-08-03"
+          },
+          {
+            "stage": "round-1",
+            "stage_name": "Round 1",
+            "matches": 35,
+            "rounds": 1,
+            "start_date": "2026-08-06",
+            "end_date": "2026-08-10"
+          },
+          {
+            "stage": "round-2",
+            "stage_name": "Round 2",
+            "matches": 23,
+            "rounds": 1,
+            "start_date": "2026-08-25",
+            "end_date": "2026-08-27"
+          },
+          {
+            "stage": "round-3",
+            "stage_name": "Round 3",
+            "matches": 17,
+            "rounds": 1,
+            "start_date": "2026-09-08",
+            "end_date": "2026-09-17"
+          }
+        ]
       }
     },
     {
@@ -263,7 +663,17 @@
         "year": 2026,
         "start_date": "2026-07-01",
         "end_date": "2027-06-30",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "regular-season",
+            "stage_name": "Regular season",
+            "matches": 554,
+            "rounds": 46,
+            "start_date": "2026-08-14",
+            "end_date": "2027-05-01"
+          }
+        ]
       }
     },
     {
@@ -278,7 +688,17 @@
         "year": 2026,
         "start_date": "2026-07-01",
         "end_date": "2027-06-30",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "qualification-round-1",
+            "stage_name": "Qualification Round 1",
+            "matches": 114,
+            "rounds": 1,
+            "start_date": "2026-09-04",
+            "end_date": "2026-09-06"
+          }
+        ]
       }
     },
     {
@@ -293,7 +713,17 @@
         "year": 2026,
         "start_date": "2026-07-01",
         "end_date": "2027-06-30",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "regular-season",
+            "stage_name": "Regular season",
+            "matches": 554,
+            "rounds": 46,
+            "start_date": "2026-08-15",
+            "end_date": "2027-05-08"
+          }
+        ]
       }
     },
     {
@@ -308,7 +738,17 @@
         "year": 2026,
         "start_date": "2026-07-01",
         "end_date": "2027-06-30",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "regular-season",
+            "stage_name": "Regular season",
+            "matches": 553,
+            "rounds": 46,
+            "start_date": "2026-08-15",
+            "end_date": "2027-05-08"
+          }
+        ]
       }
     },
     {
@@ -323,7 +763,17 @@
         "year": 2026,
         "start_date": "2026-07-01",
         "end_date": "2027-06-30",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "regular-season",
+            "stage_name": "Regular season",
+            "matches": 552,
+            "rounds": 46,
+            "start_date": "2026-08-08",
+            "end_date": "2027-04-24"
+          }
+        ]
       }
     },
     {
@@ -338,7 +788,17 @@
         "year": 2026,
         "start_date": "2026-07-01",
         "end_date": "2027-06-30",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "regular-season",
+            "stage_name": "Regular season",
+            "matches": 380,
+            "rounds": 38,
+            "start_date": "2026-08-21",
+            "end_date": "2027-05-30"
+          }
+        ]
       }
     },
     {
@@ -353,7 +813,49 @@
         "year": 2026,
         "start_date": "2026-07-01",
         "end_date": "2027-06-30",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "qualification-round-1",
+            "stage_name": "Qualification Round 1",
+            "matches": 28,
+            "rounds": 1,
+            "start_date": "2026-07-07",
+            "end_date": "2026-07-15"
+          },
+          {
+            "stage": "qualification-round-2",
+            "stage_name": "Qualification Round 2",
+            "matches": 30,
+            "rounds": 1,
+            "start_date": "2026-07-21",
+            "end_date": "2026-07-29"
+          },
+          {
+            "stage": "qualification-round-3",
+            "stage_name": "Qualification Round 3",
+            "matches": 21,
+            "rounds": 1,
+            "start_date": "2026-08-04",
+            "end_date": "2026-08-11"
+          },
+          {
+            "stage": "playoff-round",
+            "stage_name": "Playoff round",
+            "matches": 14,
+            "rounds": 1,
+            "start_date": "2026-08-18",
+            "end_date": "2026-08-26"
+          },
+          {
+            "stage": "league-phase",
+            "stage_name": "League phase",
+            "matches": 144,
+            "rounds": 8,
+            "start_date": "2026-09-08",
+            "end_date": "2027-01-27"
+          }
+        ]
       }
     },
     {
@@ -368,7 +870,49 @@
         "year": 2026,
         "start_date": "2026-07-01",
         "end_date": "2027-06-30",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "qualification-round-1",
+            "stage_name": "Qualification Round 1",
+            "matches": 52,
+            "rounds": 1,
+            "start_date": "2026-07-07",
+            "end_date": "2026-07-16"
+          },
+          {
+            "stage": "qualification-round-2",
+            "stage_name": "Qualification Round 2",
+            "matches": 98,
+            "rounds": 1,
+            "start_date": "2026-07-21",
+            "end_date": "2026-07-30"
+          },
+          {
+            "stage": "qualification-round-3",
+            "stage_name": "Qualification Round 3",
+            "matches": 60,
+            "rounds": 1,
+            "start_date": "2026-08-04",
+            "end_date": "2026-08-13"
+          },
+          {
+            "stage": "playoff-round",
+            "stage_name": "Playoff round",
+            "matches": 48,
+            "rounds": 1,
+            "start_date": "2026-08-20",
+            "end_date": "2026-08-27"
+          },
+          {
+            "stage": "league-phase",
+            "stage_name": "League phase",
+            "matches": 108,
+            "rounds": 6,
+            "start_date": "2026-10-15",
+            "end_date": "2026-12-17"
+          }
+        ]
       }
     },
     {
@@ -383,7 +927,49 @@
         "year": 2026,
         "start_date": "2026-07-01",
         "end_date": "2027-06-30",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "qualification-round-1",
+            "stage_name": "Qualification Round 1",
+            "matches": 12,
+            "rounds": 1,
+            "start_date": "2026-07-09",
+            "end_date": "2026-07-16"
+          },
+          {
+            "stage": "qualification-round-2",
+            "stage_name": "Qualification Round 2",
+            "matches": 20,
+            "rounds": 1,
+            "start_date": "2026-07-23",
+            "end_date": "2026-07-30"
+          },
+          {
+            "stage": "qualification-round-3",
+            "stage_name": "Qualification Round 3",
+            "matches": 26,
+            "rounds": 1,
+            "start_date": "2026-08-04",
+            "end_date": "2026-08-14"
+          },
+          {
+            "stage": "playoff-round",
+            "stage_name": "Playoff round",
+            "matches": 24,
+            "rounds": 1,
+            "start_date": "2026-08-20",
+            "end_date": "2026-08-27"
+          },
+          {
+            "stage": "league-phase",
+            "stage_name": "League phase",
+            "matches": 144,
+            "rounds": 8,
+            "start_date": "2026-09-16",
+            "end_date": "2027-01-28"
+          }
+        ]
       }
     },
     {
@@ -398,7 +984,49 @@
         "year": 2024,
         "start_date": "2024-01-01",
         "end_date": "2024-12-31",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "group-stage",
+            "stage_name": "Group stage",
+            "matches": 36,
+            "rounds": 3,
+            "start_date": "2024-06-14",
+            "end_date": "2024-06-26"
+          },
+          {
+            "stage": "round-of-16",
+            "stage_name": "Round of 16",
+            "matches": 8,
+            "rounds": 1,
+            "start_date": "2024-06-29",
+            "end_date": "2024-07-02"
+          },
+          {
+            "stage": "quarterfinals",
+            "stage_name": "Quarterfinals",
+            "matches": 4,
+            "rounds": 1,
+            "start_date": "2024-07-05",
+            "end_date": "2024-07-06"
+          },
+          {
+            "stage": "semifinals",
+            "stage_name": "Semifinals",
+            "matches": 2,
+            "rounds": 1,
+            "start_date": "2024-07-09",
+            "end_date": "2024-07-10"
+          },
+          {
+            "stage": "final",
+            "stage_name": "Final",
+            "matches": 1,
+            "rounds": 1,
+            "start_date": "2024-07-14",
+            "end_date": "2024-07-14"
+          }
+        ]
       }
     },
     {
@@ -413,7 +1041,41 @@
         "year": 2026,
         "start_date": "2026-01-01",
         "end_date": "2026-12-31",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "group-stage",
+            "stage_name": "Group stage",
+            "matches": 12,
+            "rounds": 3,
+            "start_date": "2026-06-28",
+            "end_date": "2026-07-05"
+          },
+          {
+            "stage": "match-for-5th-place",
+            "stage_name": "Match for 5th place",
+            "matches": 1,
+            "rounds": 1,
+            "start_date": "2026-07-08",
+            "end_date": "2026-07-08"
+          },
+          {
+            "stage": "semifinals",
+            "stage_name": "Semifinals",
+            "matches": 2,
+            "rounds": 1,
+            "start_date": "2026-07-08",
+            "end_date": "2026-07-08"
+          },
+          {
+            "stage": "final",
+            "stage_name": "Final",
+            "matches": 1,
+            "rounds": 1,
+            "start_date": "2026-07-11",
+            "end_date": "2026-07-11"
+          }
+        ]
       }
     },
     {
@@ -428,7 +1090,17 @@
         "year": 2026,
         "start_date": "2026-07-01",
         "end_date": "2027-06-30",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "group-stage",
+            "stage_name": "Group stage",
+            "matches": 156,
+            "rounds": 6,
+            "start_date": "2026-09-24",
+            "end_date": "2026-11-17"
+          }
+        ]
       }
     },
     {
@@ -443,7 +1115,17 @@
         "year": 2026,
         "start_date": "2026-07-01",
         "end_date": "2027-06-30",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "final",
+            "stage_name": "Final",
+            "matches": 1,
+            "rounds": 1,
+            "start_date": "2026-08-12",
+            "end_date": "2026-08-12"
+          }
+        ]
       }
     },
     {
@@ -458,7 +1140,33 @@
         "year": 2026,
         "start_date": "2026-01-01",
         "end_date": "2026-12-31",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "group-stage",
+            "stage_name": "Group stage",
+            "matches": 192,
+            "rounds": 10,
+            "start_date": "2025-03-21",
+            "end_date": "2025-11-18"
+          },
+          {
+            "stage": "semifinals",
+            "stage_name": "Semifinals",
+            "matches": 8,
+            "rounds": 1,
+            "start_date": "2026-03-26",
+            "end_date": "2026-03-26"
+          },
+          {
+            "stage": "final",
+            "stage_name": "Final",
+            "matches": 4,
+            "rounds": 1,
+            "start_date": "2026-03-31",
+            "end_date": "2026-03-31"
+          }
+        ]
       }
     },
     {
@@ -473,7 +1181,65 @@
         "year": 2026,
         "start_date": "2026-01-01",
         "end_date": "2026-12-31",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "round-3",
+            "stage_name": "Round 3",
+            "matches": 56,
+            "rounds": 1,
+            "start_date": "2026-04-07",
+            "end_date": "2026-04-19"
+          },
+          {
+            "stage": "round-4",
+            "stage_name": "Round 4",
+            "matches": 28,
+            "rounds": 1,
+            "start_date": "2026-04-27",
+            "end_date": "2026-05-05"
+          },
+          {
+            "stage": "round-5",
+            "stage_name": "Round 5",
+            "matches": 16,
+            "rounds": 1,
+            "start_date": "2026-05-12",
+            "end_date": "2026-05-13"
+          },
+          {
+            "stage": "round-6",
+            "stage_name": "Round 6",
+            "matches": 8,
+            "rounds": 1,
+            "start_date": "2026-05-26",
+            "end_date": "2026-05-27"
+          },
+          {
+            "stage": "quarterfinals",
+            "stage_name": "Quarterfinals",
+            "matches": 4,
+            "rounds": 1,
+            "start_date": "2026-06-09",
+            "end_date": "2026-06-10"
+          },
+          {
+            "stage": "semifinals",
+            "stage_name": "Semifinals",
+            "matches": 2,
+            "rounds": 1,
+            "start_date": "2026-06-30",
+            "end_date": "2026-07-01"
+          },
+          {
+            "stage": "final",
+            "stage_name": "Final",
+            "matches": 1,
+            "rounds": 1,
+            "start_date": "2026-09-05",
+            "end_date": "2026-09-05"
+          }
+        ]
       }
     },
     {
@@ -488,7 +1254,17 @@
         "year": 2026,
         "start_date": "2026-01-01",
         "end_date": "2026-12-31",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "regular-season",
+            "stage_name": "Regular season",
+            "matches": 177,
+            "rounds": 0,
+            "start_date": "2026-04-04",
+            "end_date": "2026-11-08"
+          }
+        ]
       }
     },
     {
@@ -503,7 +1279,73 @@
         "year": 2025,
         "start_date": "2025-07-01",
         "end_date": "2026-06-30",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "round-7",
+            "stage_name": "Round 7",
+            "matches": 89,
+            "rounds": 1,
+            "start_date": "2025-11-14",
+            "end_date": "2025-11-16"
+          },
+          {
+            "stage": "round-8",
+            "stage_name": "Round 8",
+            "matches": 46,
+            "rounds": 1,
+            "start_date": "2025-11-28",
+            "end_date": "2025-11-30"
+          },
+          {
+            "stage": "round-of-64",
+            "stage_name": "Round of 64",
+            "matches": 32,
+            "rounds": 1,
+            "start_date": "2025-12-19",
+            "end_date": "2025-12-21"
+          },
+          {
+            "stage": "round-of-32",
+            "stage_name": "Round of 32",
+            "matches": 18,
+            "rounds": 1,
+            "start_date": "2026-01-10",
+            "end_date": "2026-01-13"
+          },
+          {
+            "stage": "round-of-16",
+            "stage_name": "Round of 16",
+            "matches": 8,
+            "rounds": 1,
+            "start_date": "2026-02-03",
+            "end_date": "2026-02-05"
+          },
+          {
+            "stage": "quarterfinals",
+            "stage_name": "Quarterfinals",
+            "matches": 4,
+            "rounds": 1,
+            "start_date": "2026-03-03",
+            "end_date": "2026-03-05"
+          },
+          {
+            "stage": "semifinals",
+            "stage_name": "Semifinals",
+            "matches": 2,
+            "rounds": 1,
+            "start_date": "2026-04-21",
+            "end_date": "2026-04-22"
+          },
+          {
+            "stage": "final",
+            "stage_name": "Final",
+            "matches": 1,
+            "rounds": 1,
+            "start_date": "2026-05-22",
+            "end_date": "2026-05-22"
+          }
+        ]
       }
     },
     {
@@ -518,7 +1360,17 @@
         "year": 2026,
         "start_date": "2026-07-01",
         "end_date": "2027-06-30",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "regular-season",
+            "stage_name": "Regular season",
+            "matches": 306,
+            "rounds": 34,
+            "start_date": "2026-08-21",
+            "end_date": "2027-05-29"
+          }
+        ]
       }
     },
     {
@@ -533,7 +1385,17 @@
         "year": 2026,
         "start_date": "2026-07-01",
         "end_date": "2027-06-30",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "regular-season",
+            "stage_name": "Regular season",
+            "matches": 307,
+            "rounds": 34,
+            "start_date": "2026-08-08",
+            "end_date": "2027-05-22"
+          }
+        ]
       }
     },
     {
@@ -548,7 +1410,17 @@
         "year": 2026,
         "start_date": "2026-07-01",
         "end_date": "2027-06-30",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "regular-season",
+            "stage_name": "Regular season",
+            "matches": 306,
+            "rounds": 34,
+            "start_date": "2026-08-28",
+            "end_date": "2027-05-22"
+          }
+        ]
       }
     },
     {
@@ -563,7 +1435,17 @@
         "year": 2026,
         "start_date": "2026-07-01",
         "end_date": "2027-06-30",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "round-1",
+            "stage_name": "Round 1",
+            "matches": 32,
+            "rounds": 1,
+            "start_date": "2026-08-21",
+            "end_date": "2026-09-02"
+          }
+        ]
       }
     },
     {
@@ -578,7 +1460,17 @@
         "year": 2026,
         "start_date": "2026-07-01",
         "end_date": "2027-06-30",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "regular-season",
+            "stage_name": "Regular season",
+            "matches": 183,
+            "rounds": 26,
+            "start_date": "2026-08-22",
+            "end_date": "2027-03-20"
+          }
+        ]
       }
     },
     {
@@ -593,7 +1485,25 @@
         "year": 2026,
         "start_date": "2026-01-01",
         "end_date": "2026-12-31",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "league-phase",
+            "stage_name": "League phase",
+            "matches": 295,
+            "rounds": 0,
+            "start_date": "2025-12-17",
+            "end_date": "2026-10-07"
+          },
+          {
+            "stage": "semifinals",
+            "stage_name": "Semifinals",
+            "matches": 3,
+            "rounds": 1,
+            "start_date": "2026-05-26",
+            "end_date": "2026-06-06"
+          }
+        ]
       }
     },
     {
@@ -608,7 +1518,65 @@
         "year": 2026,
         "start_date": "2026-01-01",
         "end_date": "2026-12-31",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "group-stage",
+            "stage_name": "Group stage",
+            "matches": 72,
+            "rounds": 3,
+            "start_date": "2026-06-11",
+            "end_date": "2026-06-28"
+          },
+          {
+            "stage": "round-of-32",
+            "stage_name": "Round of 32",
+            "matches": 16,
+            "rounds": 1,
+            "start_date": "2026-06-28",
+            "end_date": "2026-07-04"
+          },
+          {
+            "stage": "round-of-16",
+            "stage_name": "Round of 16",
+            "matches": 8,
+            "rounds": 1,
+            "start_date": "2026-07-04",
+            "end_date": "2026-07-07"
+          },
+          {
+            "stage": "quarterfinals",
+            "stage_name": "Quarterfinals",
+            "matches": 4,
+            "rounds": 1,
+            "start_date": "2026-07-09",
+            "end_date": "2026-07-12"
+          },
+          {
+            "stage": "semifinals",
+            "stage_name": "Semifinals",
+            "matches": 2,
+            "rounds": 1,
+            "start_date": "2026-07-14",
+            "end_date": "2026-07-15"
+          },
+          {
+            "stage": "match-for-3rd-place",
+            "stage_name": "Match for 3rd place",
+            "matches": 1,
+            "rounds": 1,
+            "start_date": "2026-07-18",
+            "end_date": "2026-07-18"
+          },
+          {
+            "stage": "final",
+            "stage_name": "Final",
+            "matches": 1,
+            "rounds": 1,
+            "start_date": "2026-07-19",
+            "end_date": "2026-07-19"
+          }
+        ]
       }
     },
     {
@@ -623,7 +1591,41 @@
         "year": 2026,
         "start_date": "2026-07-01",
         "end_date": "2027-06-30",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "preliminary",
+            "stage_name": "Preliminary",
+            "matches": 4,
+            "rounds": 1,
+            "start_date": "2026-08-08",
+            "end_date": "2026-08-09"
+          },
+          {
+            "stage": "round-of-64",
+            "stage_name": "Round of 64",
+            "matches": 16,
+            "rounds": 1,
+            "start_date": "2026-08-14",
+            "end_date": "2026-08-17"
+          },
+          {
+            "stage": "round-of-32",
+            "stage_name": "Round of 32",
+            "matches": 9,
+            "rounds": 1,
+            "start_date": "2026-09-01",
+            "end_date": "2026-09-15"
+          },
+          {
+            "stage": "round-of-16",
+            "stage_name": "Round of 16",
+            "matches": 4,
+            "rounds": 1,
+            "start_date": "2026-12-02",
+            "end_date": "2026-12-02"
+          }
+        ]
       }
     },
     {
@@ -638,7 +1640,17 @@
         "year": 2026,
         "start_date": "2026-07-01",
         "end_date": "2027-06-30",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "regular-season",
+            "stage_name": "Regular season",
+            "matches": 380,
+            "rounds": 38,
+            "start_date": "2026-08-22",
+            "end_date": "2027-05-29"
+          }
+        ]
       }
     },
     {
@@ -653,7 +1665,33 @@
         "year": 2026,
         "start_date": "2026-01-01",
         "end_date": "2026-12-31",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "round-1",
+            "stage_name": "Round 1",
+            "matches": 24,
+            "rounds": 1,
+            "start_date": "2026-08-19",
+            "end_date": "2026-08-19"
+          },
+          {
+            "stage": "round-2",
+            "stage_name": "Round 2",
+            "matches": 32,
+            "rounds": 1,
+            "start_date": "2026-08-26",
+            "end_date": "2026-08-26"
+          },
+          {
+            "stage": "round-3",
+            "stage_name": "Round 3",
+            "matches": 16,
+            "rounds": 1,
+            "start_date": "2026-09-23",
+            "end_date": "2026-10-07"
+          }
+        ]
       }
     },
     {
@@ -668,7 +1706,17 @@
         "year": 2026,
         "start_date": "2026-07-01",
         "end_date": "2027-06-30",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "regular-season",
+            "stage_name": "Regular season",
+            "matches": 380,
+            "rounds": 38,
+            "start_date": "2026-08-07",
+            "end_date": "2027-06-06"
+          }
+        ]
       }
     },
     {
@@ -683,7 +1731,17 @@
         "year": 2026,
         "start_date": "2026-01-01",
         "end_date": "2026-12-31",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "regular-season",
+            "stage_name": "Regular season",
+            "matches": 154,
+            "rounds": 17,
+            "start_date": "2026-07-17",
+            "end_date": "2026-11-23"
+          }
+        ]
       }
     },
     {
@@ -698,7 +1756,41 @@
         "year": 2025,
         "start_date": "2025-07-01",
         "end_date": "2026-06-30",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "league-phase",
+            "stage_name": "League phase",
+            "matches": 154,
+            "rounds": 17,
+            "start_date": "2026-01-10",
+            "end_date": "2026-04-27"
+          },
+          {
+            "stage": "quarterfinals",
+            "stage_name": "Quarterfinals",
+            "matches": 8,
+            "rounds": 1,
+            "start_date": "2026-05-03",
+            "end_date": "2026-05-11"
+          },
+          {
+            "stage": "semifinals",
+            "stage_name": "Semifinals",
+            "matches": 4,
+            "rounds": 1,
+            "start_date": "2026-05-14",
+            "end_date": "2026-05-18"
+          },
+          {
+            "stage": "final",
+            "stage_name": "Final",
+            "matches": 2,
+            "rounds": 1,
+            "start_date": "2026-05-22",
+            "end_date": "2026-05-25"
+          }
+        ]
       }
     },
     {
@@ -713,7 +1805,17 @@
         "year": 2026,
         "start_date": "2026-07-01",
         "end_date": "2027-06-30",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "regular-season",
+            "stage_name": "Regular season",
+            "matches": 8,
+            "rounds": 1,
+            "start_date": "2026-09-24",
+            "end_date": "2026-09-24"
+          }
+        ]
       }
     },
     {
@@ -728,7 +1830,17 @@
         "year": 2026,
         "start_date": "2026-07-01",
         "end_date": "2027-06-30",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "regular-season",
+            "stage_name": "Regular season",
+            "matches": 307,
+            "rounds": 34,
+            "start_date": "2026-08-07",
+            "end_date": "2027-05-23"
+          }
+        ]
       }
     },
     {
@@ -743,7 +1855,17 @@
         "year": 2026,
         "start_date": "2026-07-01",
         "end_date": "2027-06-30",
-        "is_current": true
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "regular-season",
+            "stage_name": "Regular season",
+            "matches": 21,
+            "rounds": 2,
+            "start_date": "2026-08-28",
+            "end_date": "2026-09-30"
+          }
+        ]
       }
     }
   ]
