@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T02:50:00.108434+00:00",
+  "updated_at": "2026-09-04T03:06:13.571252+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-04",
   "date_to": "2026-09-11",
@@ -77503,13 +77503,13 @@
       "referee_id": 2830,
       "venue_id": 1658,
       "event_date": "2026-09-04T01:00:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 7,
       "round_name": "",
       "group_name": null,
-      "period": "2T",
-      "current_minute": 88,
+      "period": "FT",
+      "current_minute": 90,
       "home_score": 0,
       "away_score": 3,
       "home_score_ht": 0,
@@ -77520,16 +77520,31 @@
       "is_neutral_ground": false,
       "travel_distance_km": 163,
       "weather": {
-        "code": 55,
-        "description": null,
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 6.5,
         "temperature_c": 18
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "goals",
+          "title": "Deportivo Pereira 0 - 2 Ind. Medellín — 52' Yony González",
+          "url": "https://www.youtube.com/watch?v=-cidhKjrXNc",
+          "thumbnail": "https://i.ytimg.com/vi/-cidhKjrXNc/hqdefault.jpg",
+          "published_at": "2026-09-04T02:30:33+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Deportivo Pereira 0 - 1 Ind. Medellín — 48' John Edwin Montaño",
+          "url": "https://www.youtube.com/watch?v=4HNuHNzJst0",
+          "thumbnail": "https://i.ytimg.com/vi/4HNuHNzJst0/hqdefault.jpg",
+          "published_at": "2026-09-04T02:30:27+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 9,
         "home_wins": 3,
