@@ -159,6 +159,14 @@
     "id": 36,
     "name": "Vitória SC"
   },
+  "584": {
+    "id": 584,
+    "name": "MC Alger"
+  },
+  "5699": {
+    "id": 5699,
+    "name": "ASN Nigelec"
+  },
   "4780": {
     "id": 4780,
     "name": "Deportivo Pereira"
@@ -166,6 +174,14 @@
   "771": {
     "id": 771,
     "name": "Atlético Bucaramanga"
+  },
+  "1265": {
+    "id": 1265,
+    "name": "Córdoba"
+  },
+  "1264": {
+    "id": 1264,
+    "name": "Almería"
   },
   "57": {
     "id": 57,
@@ -383,6 +399,14 @@
     "id": 841,
     "name": "São Bernardo"
   },
+  "2357": {
+    "id": 2357,
+    "name": "Zamalek SC"
+  },
+  "2677": {
+    "id": 2677,
+    "name": "AS Port"
+  },
   "192": {
     "id": 192,
     "name": "Konyaspor"
@@ -527,6 +551,14 @@
     "id": 605,
     "name": "Aigle Noir CS"
   },
+  "3599": {
+    "id": 3599,
+    "name": "Djoliba AC"
+  },
+  "1899": {
+    "id": 1899,
+    "name": "Club Africain"
+  },
   "4824": {
     "id": 4824,
     "name": "Lusitano Ginásio Clube"
@@ -623,14 +655,6 @@
     "id": 101,
     "name": "AS Monaco"
   },
-  "8246": {
-    "id": 8246,
-    "name": "Lijabatho FC"
-  },
-  "5706": {
-    "id": 5706,
-    "name": "CFFA"
-  },
   "4657": {
     "id": 4657,
     "name": "KVZ FC"
@@ -639,14 +663,6 @@
     "id": 2858,
     "name": "Swehly SC"
   },
-  "621": {
-    "id": 621,
-    "name": "African Stars FC"
-  },
-  "632": {
-    "id": 632,
-    "name": "AS Mangasport"
-  },
   "8245": {
     "id": 8245,
     "name": "Foresters FC"
@@ -654,14 +670,6 @@
   "619": {
     "id": 619,
     "name": "Wiliete SC"
-  },
-  "609": {
-    "id": 609,
-    "name": "Nsingizini Hotspur"
-  },
-  "8244": {
-    "id": 8244,
-    "name": "Scottland FC"
   },
   "5198": {
     "id": 5198,
@@ -695,14 +703,6 @@
     "id": 599,
     "name": "Colombe FC"
   },
-  "595": {
-    "id": 595,
-    "name": "Power Dynamos"
-  },
-  "616": {
-    "id": 616,
-    "name": "Al-Merrikh Khartoum Club"
-  },
   "597": {
     "id": 597,
     "name": "Atlético Petróleos de Luanda"
@@ -710,14 +710,6 @@
   "3650": {
     "id": 3650,
     "name": "União Desportiva do Songo"
-  },
-  "3590": {
-    "id": 3590,
-    "name": "Tout Puissant Mazembe"
-  },
-  "5467": {
-    "id": 5467,
-    "name": "Medeama SC"
   },
   "607": {
     "id": 607,
@@ -727,38 +719,6 @@
     "id": 2071,
     "name": "MAS de Fès"
   },
-  "3599": {
-    "id": 3599,
-    "name": "Djoliba AC"
-  },
-  "1899": {
-    "id": 1899,
-    "name": "Club Africain"
-  },
-  "584": {
-    "id": 584,
-    "name": "MC Alger"
-  },
-  "5699": {
-    "id": 5699,
-    "name": "ASN Nigelec"
-  },
-  "585": {
-    "id": 585,
-    "name": "Young Africans SC"
-  },
-  "630": {
-    "id": 630,
-    "name": "Gaborone United"
-  },
-  "608": {
-    "id": 608,
-    "name": "Orlando Pirates"
-  },
-  "8242": {
-    "id": 8242,
-    "name": "La Cure Sylvester SC"
-  },
   "593": {
     "id": 593,
     "name": "Pyramids FC"
@@ -767,13 +727,13 @@
     "id": 2810,
     "name": "Gor Mahia FC"
   },
-  "2357": {
-    "id": 2357,
-    "name": "Zamalek SC"
+  "2740": {
+    "id": 2740,
+    "name": "Sidama Bunna FC"
   },
-  "2677": {
-    "id": 2677,
-    "name": "AS Port"
+  "8241": {
+    "id": 8241,
+    "name": "Aiglons FC N'Djamena"
   },
   "4833": {
     "id": 4833,
@@ -838,6 +798,14 @@
   "1319": {
     "id": 1319,
     "name": "ADO Den Haag"
+  },
+  "1270": {
+    "id": 1270,
+    "name": "Cádiz"
+  },
+  "1266": {
+    "id": 1266,
+    "name": "UD Las Palmas"
   },
   "58": {
     "id": 58,
@@ -918,6 +886,14 @@
   "1878": {
     "id": 1878,
     "name": "Wealdstone"
+  },
+  "8246": {
+    "id": 8246,
+    "name": "Lijabatho FC"
+  },
+  "5706": {
+    "id": 5706,
+    "name": "CFFA"
   },
   "1892": {
     "id": 1892,
@@ -1255,6 +1231,54 @@
     "id": 2674,
     "name": "El Merriekh Bentiu"
   },
+  "621": {
+    "id": 621,
+    "name": "African Stars FC"
+  },
+  "632": {
+    "id": 632,
+    "name": "AS Mangasport"
+  },
+  "609": {
+    "id": 609,
+    "name": "Nsingizini Hotspur"
+  },
+  "8244": {
+    "id": 8244,
+    "name": "Scottland FC"
+  },
+  "595": {
+    "id": 595,
+    "name": "Power Dynamos"
+  },
+  "616": {
+    "id": 616,
+    "name": "Al-Merrikh Khartoum Club"
+  },
+  "3590": {
+    "id": 3590,
+    "name": "Tout Puissant Mazembe"
+  },
+  "5467": {
+    "id": 5467,
+    "name": "Medeama SC"
+  },
+  "585": {
+    "id": 585,
+    "name": "Young Africans SC"
+  },
+  "630": {
+    "id": 630,
+    "name": "Gaborone United"
+  },
+  "608": {
+    "id": 608,
+    "name": "Orlando Pirates"
+  },
+  "8242": {
+    "id": 8242,
+    "name": "La Cure Sylvester SC"
+  },
   "140": {
     "id": 140,
     "name": "FCSB"
@@ -1310,6 +1334,14 @@
   "1690": {
     "id": 1690,
     "name": "Annecy FC"
+  },
+  "1460": {
+    "id": 1460,
+    "name": "FC Andorra"
+  },
+  "1829": {
+    "id": 1829,
+    "name": "Real Sociedad B"
   },
   "1400": {
     "id": 1400,
@@ -1814,14 +1846,6 @@
   "633": {
     "id": 633,
     "name": "FC Les Aigles du congo"
-  },
-  "2740": {
-    "id": 2740,
-    "name": "Sidama Bunna FC"
-  },
-  "8241": {
-    "id": 8241,
-    "name": "Aiglons FC N'Djamena"
   },
   "596": {
     "id": 596,
@@ -2375,10 +2399,6 @@
     "id": 1467,
     "name": "CE Sabadell"
   },
-  "1265": {
-    "id": 1265,
-    "name": "Córdoba"
-  },
   "434": {
     "id": 434,
     "name": "Pogoń Szczecin"
@@ -2506,14 +2526,6 @@
   "24": {
     "id": 24,
     "name": "Gil Vicente"
-  },
-  "1264": {
-    "id": 1264,
-    "name": "Almería"
-  },
-  "1270": {
-    "id": 1270,
-    "name": "Cádiz"
   },
   "372": {
     "id": 372,
@@ -3082,10 +3094,6 @@
   "1263": {
     "id": 1263,
     "name": "Real Valladolid"
-  },
-  "1460": {
-    "id": 1460,
-    "name": "FC Andorra"
   },
   "3883": {
     "id": 3883,
@@ -4050,10 +4058,6 @@
   "5025": {
     "id": 5025,
     "name": "Bradford Park Avenue"
-  },
-  "1829": {
-    "id": 1829,
-    "name": "Real Sociedad B"
   },
   "1388": {
     "id": 1388,
