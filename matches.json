@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T02:06:03.826602+00:00",
+  "updated_at": "2026-09-05T02:23:16.730587+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-05",
   "date_to": "2026-09-12",
@@ -2849,7 +2849,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
       "has_xg": false,
@@ -7742,7 +7742,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
         "total_matches": 9,
@@ -11651,7 +11651,30 @@
       "live_websocket": false,
       "websocket_plus": false,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 1,
+        "home_wins": 0,
+        "draws": 0,
+        "away_wins": 1,
+        "home_goals": 0,
+        "away_goals": 1,
+        "avg_total_goals": 1.0,
+        "home_win_rate": 0.0,
+        "away_win_rate": 1.0,
+        "recent_matches": [
+          {
+            "away": "KVZ FC",
+            "date": "2026-09-04T17:00:00+00:00",
+            "home": "Swehly SC",
+            "score": "1-0",
+            "event_id": 587743,
+            "away_score": 0,
+            "home_score": 1,
+            "away_team_id": 4657,
+            "home_team_id": 2858
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": 587743
     },
@@ -11933,7 +11956,30 @@
       "live_websocket": false,
       "websocket_plus": false,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 1,
+        "home_wins": 0,
+        "draws": 0,
+        "away_wins": 1,
+        "home_goals": 0,
+        "away_goals": 1,
+        "avg_total_goals": 1.0,
+        "home_win_rate": 0.0,
+        "away_win_rate": 1.0,
+        "recent_matches": [
+          {
+            "away": "Horoya",
+            "date": "2026-09-04T18:00:00+00:00",
+            "home": "JS Saoura",
+            "score": "1-0",
+            "event_id": 587736,
+            "away_score": 0,
+            "home_score": 1,
+            "away_team_id": 611,
+            "home_team_id": 6485
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": 587736
     },
@@ -12484,7 +12530,30 @@
       "live_websocket": false,
       "websocket_plus": false,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 1,
+        "home_wins": 1,
+        "draws": 0,
+        "away_wins": 0,
+        "home_goals": 2,
+        "away_goals": 1,
+        "avg_total_goals": 3.0,
+        "home_win_rate": 1.0,
+        "away_win_rate": 0.0,
+        "recent_matches": [
+          {
+            "away": "Zamalek SC",
+            "date": "2026-09-04T17:00:00+00:00",
+            "home": "AS Port",
+            "score": "1-2",
+            "event_id": 587721,
+            "away_score": 2,
+            "home_score": 1,
+            "away_team_id": 2357,
+            "home_team_id": 2677
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": 587721
     },
@@ -13247,7 +13316,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
         "total_matches": 2,
@@ -26901,7 +26970,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
         "total_matches": 1,
@@ -26971,7 +27040,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
         "total_matches": 26,
@@ -27775,7 +27844,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
         "total_matches": 8,
@@ -28429,7 +28498,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
         "total_matches": 2,
@@ -30329,7 +30398,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
         "total_matches": 27,
@@ -31964,7 +32033,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
         "total_matches": 30,
@@ -100880,7 +100949,7 @@
       "home_team": "FC Juárez",
       "away_team_id": 316,
       "away_team": "CF Pachuca",
-      "home_coach_id": 3782,
+      "home_coach_id": 3381,
       "away_coach_id": 1389,
       "referee_id": 2261,
       "venue_id": 294,
@@ -101054,7 +101123,7 @@
       "referee_id": 2688,
       "venue_id": 286,
       "event_date": "2026-09-05T02:00:00+00:00",
-      "status": "notstarted",
+      "status": "1st_half",
       "replaced_by": null,
       "round_number": 1,
       "round_name": "",
@@ -101062,12 +101131,12 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 1",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "1T",
+      "current_minute": 11,
+      "home_score": 0,
+      "away_score": 1,
+      "home_score_ht": 0,
+      "away_score_ht": 1,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -101166,7 +101235,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 1",
       "period": "1T",
-      "current_minute": 26,
+      "current_minute": 43,
       "home_score": 1,
       "away_score": 1,
       "home_score_ht": 1,
@@ -101405,9 +101474,9 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 26",
       "period": "2T",
-      "current_minute": 73,
+      "current_minute": 90,
       "home_score": 3,
-      "away_score": 0,
+      "away_score": 1,
       "home_score_ht": 1,
       "away_score_ht": 0,
       "penalty_shootout": null,
