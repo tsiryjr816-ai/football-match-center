@@ -327,14 +327,6 @@
     "id": 327,
     "name": "Aris Thessaloniki"
   },
-  "118": {
-    "id": 118,
-    "name": "Olympiacos FC"
-  },
-  "332": {
-    "id": 332,
-    "name": "OFI Crete"
-  },
   "324": {
     "id": 324,
     "name": "AE Kifisia"
@@ -542,6 +534,22 @@
   "4822": {
     "id": 4822,
     "name": "SC Covilhã"
+  },
+  "118": {
+    "id": 118,
+    "name": "Olympiacos FC"
+  },
+  "332": {
+    "id": 332,
+    "name": "OFI Crete"
+  },
+  "339": {
+    "id": 339,
+    "name": "FC CSKA 1948 Sofia"
+  },
+  "3841": {
+    "id": 3841,
+    "name": "FK Dunav Ruse"
   },
   "255": {
     "id": 255,
@@ -798,14 +806,6 @@
   "352": {
     "id": 352,
     "name": "FK Spartak Varna"
-  },
-  "339": {
-    "id": 339,
-    "name": "FC CSKA 1948 Sofia"
-  },
-  "3841": {
-    "id": 3841,
-    "name": "FK Dunav Ruse"
   },
   "347": {
     "id": 347,
