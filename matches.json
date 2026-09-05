@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T05:05:40.836999+00:00",
+  "updated_at": "2026-09-05T05:22:20.328920+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-05",
   "date_to": "2026-09-12",
@@ -100983,7 +100983,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "goals",
+          "title": "Juárez 0 - 2 Pachuca — 90'+10 Alan Bautista",
+          "url": "https://www.youtube.com/watch?v=dfKNlfmw9g8",
+          "thumbnail": "https://i.ytimg.com/vi/dfKNlfmw9g8/hqdefault.jpg",
+          "published_at": "2026-09-05T05:08:57+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 14,
         "home_wins": 4,
