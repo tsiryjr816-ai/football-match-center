@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T04:23:27.773844+00:00",
+  "updated_at": "2026-09-05T04:36:14.933528+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-05",
   "date_to": "2026-09-12",
@@ -100963,7 +100963,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 7",
       "period": "2T",
-      "current_minute": 59,
+      "current_minute": 72,
       "home_score": 0,
       "away_score": 1,
       "home_score_ht": 0,
@@ -101132,7 +101132,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 1",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 95,
       "home_score": 1,
       "away_score": 2,
       "home_score_ht": 1,
@@ -101152,7 +101152,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Bay FC 1 - 2 Kansas City — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=upPNA-GfM0I",
+          "thumbnail": "https://i.ytimg.com/vi/upPNA-GfM0I/hqdefault.jpg",
+          "published_at": "2026-09-05T04:26:39+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 4,
         "home_wins": 0,
@@ -101235,7 +101243,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 1",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 92,
       "home_score": 1,
       "away_score": 2,
       "home_score_ht": 1,
