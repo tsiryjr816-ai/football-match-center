@@ -1279,6 +1279,14 @@
     "id": 8242,
     "name": "La Cure Sylvester SC"
   },
+  "4126": {
+    "id": 4126,
+    "name": "Felgueiras"
+  },
+  "3517": {
+    "id": 3517,
+    "name": "Penafiel"
+  },
   "140": {
     "id": 140,
     "name": "FCSB"
@@ -1447,6 +1455,14 @@
     "id": 3512,
     "name": "CD Mafra"
   },
+  "911": {
+    "id": 911,
+    "name": "Athletic Club"
+  },
+  "919": {
+    "id": 919,
+    "name": "RCD Espanyol de Barcelona"
+  },
   "1932": {
     "id": 1932,
     "name": "V-Varen Nagasaki"
@@ -1455,14 +1471,6 @@
     "id": 1942,
     "name": "Nagoya Grampus"
   },
-  "1943": {
-    "id": 1943,
-    "name": "Shimizu S-Pulse"
-  },
-  "1940": {
-    "id": 1940,
-    "name": "Avispa Fukuoka"
-  },
   "1933": {
     "id": 1933,
     "name": "Sanfrecce Hiroshima"
@@ -1470,14 +1478,6 @@
   "1938": {
     "id": 1938,
     "name": "Cerezo Osaka"
-  },
-  "1947": {
-    "id": 1947,
-    "name": "Mito Hollyhock"
-  },
-  "1944": {
-    "id": 1944,
-    "name": "Kawasaki Frontale"
   },
   "1929": {
     "id": 1929,
@@ -1502,6 +1502,22 @@
   "1953": {
     "id": 1953,
     "name": "Pohang Steelers"
+  },
+  "1943": {
+    "id": 1943,
+    "name": "Shimizu S-Pulse"
+  },
+  "1940": {
+    "id": 1940,
+    "name": "Avispa Fukuoka"
+  },
+  "1947": {
+    "id": 1947,
+    "name": "Mito Hollyhock"
+  },
+  "1944": {
+    "id": 1944,
+    "name": "Kawasaki Frontale"
   },
   "1950": {
     "id": 1950,
@@ -2575,10 +2591,6 @@
     "id": 925,
     "name": "Logroño United"
   },
-  "911": {
-    "id": 911,
-    "name": "Athletic Club"
-  },
   "1259": {
     "id": 1259,
     "name": "Málaga CF"
@@ -2934,10 +2946,6 @@
   "1317": {
     "id": 1317,
     "name": "Vizela"
-  },
-  "4126": {
-    "id": 4126,
-    "name": "Felgueiras"
   },
   "4827": {
     "id": 4827,
@@ -4015,10 +4023,6 @@
     "id": 8489,
     "name": "Barton Town"
   },
-  "3517": {
-    "id": 3517,
-    "name": "Penafiel"
-  },
   "1315": {
     "id": 1315,
     "name": "Paços de Ferreira"
@@ -4114,10 +4118,6 @@
   "3885": {
     "id": 3885,
     "name": "Valencia"
-  },
-  "919": {
-    "id": 919,
-    "name": "RCD Espanyol de Barcelona"
   },
   "916": {
     "id": 916,
