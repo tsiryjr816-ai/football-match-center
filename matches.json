@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T21:33:52.670409+00:00",
+  "updated_at": "2026-09-05T21:48:36.935552+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-05",
   "date_to": "2026-09-12",
@@ -73676,7 +73676,7 @@
       "home_team": "San Lorenzo",
       "away_team_id": 2391,
       "away_team": "CA Talleres",
-      "home_coach_id": 2668,
+      "home_coach_id": 3855,
       "away_coach_id": 3839,
       "referee_id": 2814,
       "venue_id": 548,
@@ -73859,7 +73859,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 26",
       "period": "1T",
-      "current_minute": 2,
+      "current_minute": 17,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -74028,7 +74028,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 26",
       "period": "1T",
-      "current_minute": 2,
+      "current_minute": 17,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -74197,8 +74197,8 @@
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 9",
       "period": "1T",
-      "current_minute": 33,
-      "home_score": 1,
+      "current_minute": 47,
+      "home_score": 2,
       "away_score": 0,
       "home_score_ht": 1,
       "away_score_ht": 0,
@@ -74366,10 +74366,10 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 26",
       "period": "1T",
-      "current_minute": 31,
-      "home_score": 0,
+      "current_minute": 46,
+      "home_score": 2,
       "away_score": 1,
-      "home_score_ht": 0,
+      "home_score_ht": 2,
       "away_score_ht": 1,
       "penalty_shootout": null,
       "extra_time_score": null,
@@ -75565,7 +75565,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Goiás 0 - 1 Fortaleza — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=IGEoPAFKcEI",
+          "thumbnail": "https://i.ytimg.com/vi/IGEoPAFKcEI/hqdefault.jpg",
+          "published_at": "2026-09-05T21:33:47+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 17,
         "home_wins": 4,
@@ -77094,7 +77102,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Motor 2 - 3 Legia — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=ucLpIcO5PqE&pp=0gcJCRoMAYcqIYzv",
+          "thumbnail": "https://i.ytimg.com/vi/ucLpIcO5PqE/hqdefault.jpg",
+          "published_at": "2026-09-05T21:23:40+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 6,
         "home_wins": 1,
@@ -78296,7 +78312,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Gimnasia 2 - 1 Tigre — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=WpRApJgTqUs",
+          "thumbnail": "https://i.ytimg.com/vi/WpRApJgTqUs/hqdefault.jpg",
+          "published_at": "2026-09-05T21:22:50+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 17,
         "home_wins": 5,
