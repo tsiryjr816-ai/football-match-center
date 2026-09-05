@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T01:21:46.952811+00:00",
+  "updated_at": "2026-09-05T01:35:01.608317+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-05",
   "date_to": "2026-09-12",
@@ -8726,7 +8726,7 @@
       "home_team": "1. FC Köln",
       "away_team_id": 88,
       "away_team": "SV Werder Bremen",
-      "home_coach_id": 1877,
+      "home_coach_id": 411,
       "away_coach_id": 241,
       "referee_id": null,
       "venue_id": 92,
@@ -50107,7 +50107,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 187,
       "weather": {
         "code": 51,
         "description": null,
@@ -50116,7 +50116,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -50276,7 +50276,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 1365,
       "weather": {
         "code": 55,
         "description": null,
@@ -50285,7 +50285,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -50445,7 +50445,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 829,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -50454,7 +50454,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -50614,7 +50614,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 727,
       "weather": {
         "code": 2,
         "description": "cloudy",
@@ -50623,7 +50623,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -50783,7 +50783,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 982,
       "weather": {
         "code": 1,
         "description": "clear",
@@ -50792,7 +50792,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -50864,7 +50864,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 101,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -50873,7 +50873,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -50934,7 +50934,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 354,
       "weather": {
         "code": 55,
         "description": null,
@@ -50943,7 +50943,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -51112,7 +51112,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -51173,7 +51173,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 950,
       "weather": {
         "code": null,
         "description": null,
@@ -51182,7 +51182,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -51298,7 +51298,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 15,
       "weather": {
         "code": 1,
         "description": "clear",
@@ -51307,7 +51307,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -51467,7 +51467,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 3790,
       "weather": {
         "code": 51,
         "description": null,
@@ -51476,7 +51476,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -51636,7 +51636,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 1029,
       "weather": {
         "code": 2,
         "description": "cloudy",
@@ -51645,7 +51645,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -52010,7 +52010,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 345,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -52019,7 +52019,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -52179,7 +52179,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 821,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -52188,7 +52188,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -52357,7 +52357,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -52451,7 +52451,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 837,
       "weather": {
         "code": 51,
         "description": null,
@@ -52460,7 +52460,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -52798,7 +52798,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -52936,7 +52936,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 123,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -52945,7 +52945,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -53105,7 +53105,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 300,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -53114,7 +53114,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -53274,7 +53274,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 315,
       "weather": {
         "code": null,
         "description": null,
@@ -53283,7 +53283,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -53443,7 +53443,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 477,
       "weather": {
         "code": 51,
         "description": null,
@@ -53452,7 +53452,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -53612,7 +53612,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 276,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -53621,7 +53621,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -53790,7 +53790,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -53851,7 +53851,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 328,
       "weather": {
         "code": 51,
         "description": null,
@@ -53860,7 +53860,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -54020,7 +54020,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 5,
       "weather": {
         "code": 1,
         "description": "clear",
@@ -54029,7 +54029,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -54189,7 +54189,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 189,
       "weather": {
         "code": 2,
         "description": "cloudy",
@@ -54198,7 +54198,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -54356,9 +54356,9 @@
       "away_score_ht": null,
       "penalty_shootout": null,
       "extra_time_score": null,
-      "is_local_derby": false,
+      "is_local_derby": true,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 50,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -54367,7 +54367,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -54527,7 +54527,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 881,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -54536,7 +54536,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -54696,7 +54696,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 382,
       "weather": {
         "code": 1,
         "description": "clear",
@@ -54705,7 +54705,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -54865,7 +54865,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 130,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -54874,7 +54874,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -55034,7 +55034,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 606,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -55043,7 +55043,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -55203,7 +55203,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 549,
       "weather": {
         "code": 55,
         "description": null,
@@ -55212,7 +55212,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -55530,7 +55530,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 326,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -55539,7 +55539,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -55780,7 +55780,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 193,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -55789,7 +55789,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -55949,7 +55949,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 471,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -55958,7 +55958,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -56118,7 +56118,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 86,
       "weather": {
         "code": 1,
         "description": "clear",
@@ -56127,7 +56127,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -56287,7 +56287,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 89,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -56296,7 +56296,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -56456,7 +56456,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 175,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -56465,7 +56465,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -56625,7 +56625,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 164,
       "weather": {
         "code": null,
         "description": null,
@@ -56634,7 +56634,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": null,
@@ -56681,7 +56681,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -56775,7 +56775,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 243,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -56784,7 +56784,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
@@ -56822,7 +56822,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 286,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -56831,7 +56831,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -56991,7 +56991,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 58,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -57000,7 +57000,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -57160,7 +57160,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 264,
       "weather": {
         "code": null,
         "description": null,
@@ -57169,7 +57169,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -57294,7 +57294,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -57386,9 +57386,9 @@
       "away_score_ht": null,
       "penalty_shootout": null,
       "extra_time_score": null,
-      "is_local_derby": false,
+      "is_local_derby": true,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 13,
       "weather": {
         "code": null,
         "description": null,
@@ -57397,7 +57397,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -57651,7 +57651,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 254,
       "weather": {
         "code": 1,
         "description": "clear",
@@ -57660,7 +57660,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -57820,7 +57820,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 258,
       "weather": {
         "code": 2,
         "description": "cloudy",
@@ -57829,7 +57829,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -57987,9 +57987,9 @@
       "away_score_ht": null,
       "penalty_shootout": null,
       "extra_time_score": null,
-      "is_local_derby": false,
+      "is_local_derby": true,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 10,
       "weather": {
         "code": 51,
         "description": null,
@@ -57998,7 +57998,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -58158,7 +58158,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 114,
       "weather": {
         "code": 1,
         "description": "clear",
@@ -58167,7 +58167,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -59649,7 +59649,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 245,
       "weather": {
         "code": null,
         "description": null,
@@ -59658,7 +59658,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -59818,7 +59818,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 72,
       "weather": {
         "code": 2,
         "description": "cloudy",
@@ -59827,7 +59827,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -59996,7 +59996,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -60112,7 +60112,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 156,
       "weather": {
         "code": null,
         "description": null,
@@ -60121,7 +60121,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -60290,7 +60290,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -60362,7 +60362,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 1502,
       "weather": {
         "code": 2,
         "description": "cloudy",
@@ -60371,7 +60371,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -60531,7 +60531,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 60,
       "weather": {
         "code": 51,
         "description": null,
@@ -60540,7 +60540,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -60700,7 +60700,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 198,
       "weather": {
         "code": 80,
         "description": null,
@@ -60709,7 +60709,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -60869,7 +60869,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 338,
       "weather": {
         "code": null,
         "description": null,
@@ -60878,7 +60878,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -61038,7 +61038,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 212,
       "weather": {
         "code": 1,
         "description": "clear",
@@ -61047,7 +61047,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -61207,7 +61207,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 299,
       "weather": {
         "code": 2,
         "description": "cloudy",
@@ -61216,7 +61216,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -61540,7 +61540,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 144,
       "weather": {
         "code": null,
         "description": null,
@@ -61549,7 +61549,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -61718,7 +61718,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
@@ -61765,7 +61765,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
@@ -61801,9 +61801,9 @@
       "away_score_ht": null,
       "penalty_shootout": null,
       "extra_time_score": null,
-      "is_local_derby": false,
+      "is_local_derby": true,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 14,
       "weather": {
         "code": null,
         "description": null,
@@ -61812,7 +61812,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -61972,7 +61972,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 54,
       "weather": {
         "code": null,
         "description": null,
@@ -61981,7 +61981,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -62141,7 +62141,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 62,
       "weather": {
         "code": null,
         "description": null,
@@ -62150,7 +62150,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -62466,7 +62466,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -62558,7 +62558,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": null,
@@ -62596,7 +62596,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 415,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -62605,7 +62605,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -62987,7 +62987,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 528,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -62996,7 +62996,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -63156,7 +63156,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 272,
       "weather": {
         "code": 53,
         "description": null,
@@ -63165,7 +63165,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -63325,7 +63325,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 119,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -63334,7 +63334,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -63406,7 +63406,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 430,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -63415,7 +63415,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -63474,9 +63474,9 @@
       "away_score_ht": null,
       "penalty_shootout": null,
       "extra_time_score": null,
-      "is_local_derby": false,
+      "is_local_derby": true,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 45,
       "weather": {
         "code": null,
         "description": null,
@@ -63485,7 +63485,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -63645,7 +63645,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 86,
       "weather": {
         "code": 1,
         "description": "clear",
@@ -63654,7 +63654,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -63814,7 +63814,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 115,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -63823,7 +63823,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
@@ -63861,7 +63861,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 89,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -63870,7 +63870,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -64124,7 +64124,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 72,
       "weather": {
         "code": 51,
         "description": null,
@@ -64133,7 +64133,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -64293,7 +64293,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 678,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -64302,7 +64302,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -64471,7 +64471,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
@@ -64509,7 +64509,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 279,
       "weather": {
         "code": 80,
         "description": null,
@@ -64518,7 +64518,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -64678,7 +64678,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 1022,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -64687,7 +64687,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -64847,7 +64847,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 397,
       "weather": {
         "code": 51,
         "description": null,
@@ -64856,7 +64856,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -64948,7 +64948,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -65009,7 +65009,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 1031,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -65018,7 +65018,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -65212,9 +65212,9 @@
       "away_score_ht": null,
       "penalty_shootout": null,
       "extra_time_score": null,
-      "is_local_derby": false,
+      "is_local_derby": true,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 43,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -65223,7 +65223,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -65381,9 +65381,9 @@
       "away_score_ht": null,
       "penalty_shootout": null,
       "extra_time_score": null,
-      "is_local_derby": false,
+      "is_local_derby": true,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 22,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -65392,7 +65392,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -65561,7 +65561,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -65622,7 +65622,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 1844,
       "weather": {
         "code": null,
         "description": null,
@@ -65631,7 +65631,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -65769,7 +65769,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 355,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -65778,7 +65778,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -66116,7 +66116,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -66219,7 +66219,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": null,
@@ -66257,7 +66257,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 265,
       "weather": {
         "code": null,
         "description": null,
@@ -66266,7 +66266,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -66360,7 +66360,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 126,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -66369,7 +66369,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -66529,7 +66529,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 517,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -66538,7 +66538,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -66630,9 +66630,9 @@
       "away_score_ht": null,
       "penalty_shootout": null,
       "extra_time_score": null,
-      "is_local_derby": false,
+      "is_local_derby": true,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 50,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -66641,7 +66641,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -66801,7 +66801,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 384,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -66810,7 +66810,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -66948,7 +66948,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 186,
       "weather": {
         "code": 53,
         "description": null,
@@ -66957,7 +66957,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -67117,7 +67117,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 190,
       "weather": {
         "code": 63,
         "description": null,
@@ -67126,7 +67126,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -67231,7 +67231,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 214,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -67240,7 +67240,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -67367,7 +67367,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 84,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -67376,7 +67376,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -67536,7 +67536,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 426,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -67545,7 +67545,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -67659,7 +67659,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -67753,7 +67753,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 459,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -67762,7 +67762,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -67922,7 +67922,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 780,
       "weather": {
         "code": 53,
         "description": null,
@@ -67931,7 +67931,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -68091,7 +68091,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 2295,
       "weather": {
         "code": 2,
         "description": "cloudy",
@@ -68100,7 +68100,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -68269,7 +68269,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -68385,7 +68385,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 973,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -68394,7 +68394,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -68543,7 +68543,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 268,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -68552,7 +68552,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -68712,7 +68712,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 4174,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -68721,7 +68721,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -69050,7 +69050,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 473,
       "weather": {
         "code": 1,
         "description": "clear",
@@ -69059,7 +69059,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -69219,7 +69219,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 2309,
       "weather": {
         "code": 53,
         "description": null,
@@ -69228,7 +69228,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -69388,7 +69388,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 641,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -69397,7 +69397,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -69557,7 +69557,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 1714,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -69566,7 +69566,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -69726,7 +69726,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 2363,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -69735,7 +69735,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -69895,7 +69895,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 689,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -69904,7 +69904,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -70064,7 +70064,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 3862,
       "weather": {
         "code": 51,
         "description": null,
@@ -70073,7 +70073,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -70233,7 +70233,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 62,
       "weather": {
         "code": 1,
         "description": "clear",
@@ -70242,7 +70242,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
