@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T21:05:29.521331+00:00",
+  "updated_at": "2026-09-05T21:21:59.637390+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-05",
   "date_to": "2026-09-12",
@@ -74197,7 +74197,7 @@
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 9",
       "period": "1T",
-      "current_minute": 4,
+      "current_minute": 21,
       "home_score": 1,
       "away_score": 0,
       "home_score_ht": 1,
@@ -74366,11 +74366,11 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 26",
       "period": "1T",
-      "current_minute": 3,
+      "current_minute": 19,
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "home_score_ht": 0,
-      "away_score_ht": 0,
+      "away_score_ht": 1,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -74535,8 +74535,8 @@
       "stage_name": "Group stage",
       "round_label": "Group A · Matchday 8",
       "period": "2T",
-      "current_minute": 75,
-      "home_score": 1,
+      "current_minute": 92,
+      "home_score": 2,
       "away_score": 2,
       "home_score_ht": 1,
       "away_score_ht": 2,
@@ -74605,7 +74605,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 5",
       "period": "2T",
-      "current_minute": 72,
+      "current_minute": 89,
       "home_score": 2,
       "away_score": 0,
       "home_score_ht": 1,
@@ -75705,7 +75705,7 @@
       "referee_id": 2225,
       "venue_id": 1156,
       "event_date": "2026-09-05T19:00:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 26,
       "round_name": "",
@@ -75713,8 +75713,8 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 26",
-      "period": "2T",
-      "current_minute": 100,
+      "period": "FT",
+      "current_minute": 90,
       "home_score": 2,
       "away_score": 3,
       "home_score_ht": 2,
@@ -75725,16 +75725,24 @@
       "is_neutral_ground": false,
       "travel_distance_km": 1409,
       "weather": {
-        "code": null,
-        "description": null,
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": null,
         "temperature_c": null
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "RB Bragantino 2 - 3 Bahia — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=qIqeNXt0GqM",
+          "thumbnail": "https://i.ytimg.com/vi/qIqeNXt0GqM/hqdefault.jpg",
+          "published_at": "2026-09-05T21:18:40+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 21,
         "home_wins": 8,
@@ -77211,7 +77219,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": false,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Levski Sofia 1 - 0 CSKA 1948 Sofia — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=Ct78eqCIsso",
+          "thumbnail": "https://i.ytimg.com/vi/Ct78eqCIsso/hqdefault.jpg",
+          "published_at": "2026-09-05T21:06:44+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 15,
         "home_wins": 7,
@@ -90119,7 +90135,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": false,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Barrow 3 - 0 Sutton — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=BSoQIkd-gsE",
+          "thumbnail": "https://i.ytimg.com/vi/BSoQIkd-gsE/hqdefault.jpg",
+          "published_at": "2026-09-05T20:50:44+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 14,
         "home_wins": 5,
@@ -92872,7 +92896,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Burton 2 - 2 Cambridge — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=kg_Cn9pUN5U",
+          "thumbnail": "https://i.ytimg.com/vi/kg_Cn9pUN5U/hqdefault.jpg",
+          "published_at": "2026-09-05T21:07:01+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 12,
         "home_wins": 5,
