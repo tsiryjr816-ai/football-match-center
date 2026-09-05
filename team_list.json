@@ -175,14 +175,6 @@
     "id": 5699,
     "name": "ASN Nigelec"
   },
-  "4780": {
-    "id": 4780,
-    "name": "Deportivo Pereira"
-  },
-  "771": {
-    "id": 771,
-    "name": "Atlético Bucaramanga"
-  },
   "1265": {
     "id": 1265,
     "name": "Córdoba"
@@ -1615,14 +1607,6 @@
     "id": 2242,
     "name": "Indy Eleven"
   },
-  "4783": {
-    "id": 4783,
-    "name": "Alianza Valledupar FC"
-  },
-  "789": {
-    "id": 789,
-    "name": "Junior Barranquilla"
-  },
   "311": {
     "id": 311,
     "name": "Club Necaxa"
@@ -2175,6 +2159,10 @@
     "id": 3891,
     "name": "Once Caldas"
   },
+  "4783": {
+    "id": 4783,
+    "name": "Alianza Valledupar FC"
+  },
   "301": {
     "id": 301,
     "name": "New York City FC"
@@ -2206,6 +2194,10 @@
   "753": {
     "id": 753,
     "name": "América de Cali"
+  },
+  "4780": {
+    "id": 4780,
+    "name": "Deportivo Pereira"
   },
   "152": {
     "id": 152,
@@ -2990,6 +2982,10 @@
   "2232": {
     "id": 2232,
     "name": "Phoenix Rising FC"
+  },
+  "789": {
+    "id": 789,
+    "name": "Junior Barranquilla"
   },
   "321": {
     "id": 321,
