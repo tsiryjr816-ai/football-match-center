@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T04:36:14.933528+00:00",
+  "updated_at": "2026-09-05T04:48:35.882992+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-05",
   "date_to": "2026-09-12",
@@ -100963,7 +100963,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 7",
       "period": "2T",
-      "current_minute": 72,
+      "current_minute": 84,
       "home_score": 0,
       "away_score": 1,
       "home_score_ht": 0,
@@ -101107,7 +101107,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -101642,7 +101642,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     }
   ]
