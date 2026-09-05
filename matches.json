@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T07:35:09.129735+00:00",
+  "updated_at": "2026-09-05T07:48:20.646287+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-05",
   "date_to": "2026-09-12",
@@ -102029,7 +102029,7 @@
       "stage_name": "Preliminary",
       "round_label": "Preliminary",
       "period": "1T",
-      "current_minute": 34,
+      "current_minute": 47,
       "home_score": 2,
       "away_score": 1,
       "home_score_ht": 2,
