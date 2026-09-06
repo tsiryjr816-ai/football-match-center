@@ -1367,14 +1367,6 @@
     "id": 122,
     "name": "AFC Ajax"
   },
-  "821": {
-    "id": 821,
-    "name": "Londrina"
-  },
-  "844": {
-    "id": 844,
-    "name": "Ponte Preta"
-  },
   "831": {
     "id": 831,
     "name": "Clube De Regatas Brasil"
@@ -1398,14 +1390,6 @@
   "826": {
     "id": 826,
     "name": "Vila Nova FC"
-  },
-  "838": {
-    "id": 838,
-    "name": "América Mineiro"
-  },
-  "841": {
-    "id": 841,
-    "name": "São Bernardo"
   },
   "774": {
     "id": 774,
@@ -2915,6 +2899,18 @@
     "id": 747,
     "name": "Montevideo City Torque"
   },
+  "844": {
+    "id": 844,
+    "name": "Ponte Preta"
+  },
+  "841": {
+    "id": 841,
+    "name": "São Bernardo"
+  },
+  "821": {
+    "id": 821,
+    "name": "Londrina"
+  },
   "34": {
     "id": 34,
     "name": "CF Estrela Amadora"
@@ -2970,6 +2966,10 @@
   "828": {
     "id": 828,
     "name": "Operário-PR"
+  },
+  "838": {
+    "id": 838,
+    "name": "América Mineiro"
   },
   "928": {
     "id": 928,
