@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T07:35:59.753544+00:00",
+  "updated_at": "2026-09-06T07:49:05.653418+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-06",
   "date_to": "2026-09-13",
@@ -22159,7 +22159,7 @@
       "away_team_id": 67,
       "away_team": "Cagliari",
       "home_coach_id": 313,
-      "away_coach_id": 236,
+      "away_coach_id": 3854,
       "referee_id": null,
       "venue_id": 70,
       "event_date": "2026-09-12T18:45:00+00:00",
