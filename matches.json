@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T03:37:11.064650+00:00",
+  "updated_at": "2026-09-06T03:49:53.380696+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-06",
   "date_to": "2026-09-13",
@@ -85093,7 +85093,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 7",
       "period": "1T",
-      "current_minute": 32,
+      "current_minute": 45,
       "home_score": 1,
       "away_score": 0,
       "home_score_ht": 1,
@@ -85253,7 +85253,7 @@
       "referee_id": null,
       "venue_id": 1335,
       "event_date": "2026-09-06T02:30:00+00:00",
-      "status": "halftime",
+      "status": "2nd_half",
       "replaced_by": null,
       "round_number": 1,
       "round_name": "",
@@ -85261,8 +85261,8 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 1",
-      "period": "HT",
-      "current_minute": 45,
+      "period": "2T",
+      "current_minute": 52,
       "home_score": 1,
       "away_score": 1,
       "home_score_ht": 1,
@@ -85591,7 +85591,7 @@
       "referee_id": 2086,
       "venue_id": 266,
       "event_date": "2026-09-06T02:30:00+00:00",
-      "status": "halftime",
+      "status": "2nd_half",
       "replaced_by": null,
       "round_number": null,
       "round_name": "",
@@ -85599,8 +85599,8 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season",
-      "period": "HT",
-      "current_minute": 45,
+      "period": "2T",
+      "current_minute": 48,
       "home_score": 1,
       "away_score": 3,
       "home_score_ht": 1,
@@ -85725,9 +85725,9 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 1",
       "period": "2T",
-      "current_minute": 73,
+      "current_minute": 86,
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "home_score_ht": 0,
       "away_score_ht": 0,
       "penalty_shootout": null,
@@ -86043,7 +86043,7 @@
       "referee_id": 1769,
       "venue_id": 288,
       "event_date": "2026-09-06T01:30:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": null,
       "round_name": "",
@@ -86051,8 +86051,8 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season",
-      "period": "2T",
-      "current_minute": 96,
+      "period": "FT",
+      "current_minute": 90,
       "home_score": 2,
       "away_score": 1,
       "home_score_ht": 2,
@@ -86063,12 +86063,12 @@
       "is_neutral_ground": false,
       "travel_distance_km": 4174,
       "weather": {
-        "code": 0,
-        "description": "unknown",
+        "code": 1,
+        "description": "clear",
         "wind_speed": 15.3,
         "temperature_c": 30
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
@@ -86925,7 +86925,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Orange County SC 1 - 1 Sacramento Republic — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=rEtbmXPS5Ac",
+          "thumbnail": "https://i.ytimg.com/vi/rEtbmXPS5Ac/hqdefault.jpg",
+          "published_at": "2026-09-06T03:34:27+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 26,
         "home_wins": 9,
@@ -87094,7 +87102,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "San Antonio 0 - 0 FC Tulsa — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=1s8ZaCA8-BM&pp=ygUaU2FuIEFudG9uaW8gMCAtIDAgRkMgVHVsc2HSBwkJGwwBhyohjO8%3D",
+          "thumbnail": "https://i.ytimg.com/vi/1s8ZaCA8-BM/hqdefault.jpg",
+          "published_at": "2026-09-06T03:42:29+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 21,
         "home_wins": 8,
@@ -87263,7 +87279,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Austin 1 - 1 San Jose — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=0pZwg79gJJM",
+          "thumbnail": "https://i.ytimg.com/vi/0pZwg79gJJM/hqdefault.jpg",
+          "published_at": "2026-09-06T03:38:29+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 12,
         "home_wins": 2,
@@ -87609,7 +87633,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Seattle 0 - 0 NY Red Bulls — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=mqWCMDGhFDI",
+          "thumbnail": "https://i.ytimg.com/vi/mqWCMDGhFDI/hqdefault.jpg",
+          "published_at": "2026-09-06T03:38:20+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 15,
         "home_wins": 7,
@@ -87778,7 +87810,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Vélez Sarsfield 1 - 0 Estudiantes — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=vnjtioANme0",
+          "thumbnail": "https://i.ytimg.com/vi/vnjtioANme0/hqdefault.jpg",
+          "published_at": "2026-09-06T03:36:12+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 26,
         "home_wins": 13,
