@@ -23,6 +23,14 @@
     "id": 290,
     "name": "Austin FC"
   },
+  "2390": {
+    "id": 2390,
+    "name": "CA Independiente"
+  },
+  "742": {
+    "id": 742,
+    "name": "San Lorenzo"
+  },
   "836": {
     "id": 836,
     "name": "Grêmio Novorizontino"
@@ -71,14 +79,6 @@
     "id": 167,
     "name": "Corinthians"
   },
-  "739": {
-    "id": 739,
-    "name": "Tigre"
-  },
-  "792": {
-    "id": 792,
-    "name": "Rosario Central"
-  },
   "4996": {
     "id": 4996,
     "name": "Instituto De Córdoba"
@@ -94,14 +94,6 @@
   "733": {
     "id": 733,
     "name": "Racing Club"
-  },
-  "2390": {
-    "id": 2390,
-    "name": "CA Independiente"
-  },
-  "742": {
-    "id": 742,
-    "name": "San Lorenzo"
   },
   "4994": {
     "id": 4994,
@@ -270,6 +262,14 @@
   "176": {
     "id": 176,
     "name": "Sparta Rotterdam"
+  },
+  "739": {
+    "id": 739,
+    "name": "Tigre"
+  },
+  "792": {
+    "id": 792,
+    "name": "Rosario Central"
   },
   "4999": {
     "id": 4999,
