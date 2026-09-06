@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T04:49:29.857131+00:00",
+  "updated_at": "2026-09-06T05:05:26.767049+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-06",
   "date_to": "2026-09-13",
@@ -85084,7 +85084,7 @@
       "referee_id": 2342,
       "venue_id": 293,
       "event_date": "2026-09-06T03:00:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 7,
       "round_name": "",
@@ -85092,8 +85092,8 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 7",
-      "period": "2T",
-      "current_minute": 87,
+      "period": "FT",
+      "current_minute": 90,
       "home_score": 1,
       "away_score": 1,
       "home_score_ht": 1,
@@ -85104,16 +85104,38 @@
       "is_neutral_ground": false,
       "travel_distance_km": 459,
       "weather": {
-        "code": 3,
-        "description": "rain",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 4.2,
         "temperature_c": 20
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "goals",
+          "title": "Atlas 1 - 1 Atlante — 48' Martín Sarrafiore",
+          "url": "https://www.youtube.com/watch?v=xZxoXjmTUSo",
+          "thumbnail": "https://i.ytimg.com/vi/xZxoXjmTUSo/hqdefault.jpg",
+          "published_at": "2026-09-06T04:54:52+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Atlas - Atlante — 35' Missed Penalty Jhojan Julio",
+          "url": "https://www.youtube.com/watch?v=Wvrcc1gpZh8",
+          "thumbnail": "https://i.ytimg.com/vi/Wvrcc1gpZh8/hqdefault.jpg",
+          "published_at": "2026-09-06T03:50:25+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Atlas 1 - 0 Atlante — 7' Luís Esteves",
+          "url": "https://www.youtube.com/watch?v=g3djLY8SLzI",
+          "thumbnail": "https://i.ytimg.com/vi/g3djLY8SLzI/hqdefault.jpg",
+          "published_at": "2026-09-06T03:31:58+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 12,
         "home_wins": 3,
@@ -85620,7 +85642,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Vancouver 1 - 3 St. Louis — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=zpXHTLEHEC4",
+          "thumbnail": "https://i.ytimg.com/vi/zpXHTLEHEC4/hqdefault.jpg",
+          "published_at": "2026-09-06T05:02:14+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 6,
         "home_wins": 4,
@@ -85745,7 +85775,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Monterey Bay 1 - 1 Phoenix Rising — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=Z1i0Szqlrtk",
+          "thumbnail": "https://i.ytimg.com/vi/Z1i0Szqlrtk/hqdefault.jpg",
+          "published_at": "2026-09-06T04:55:03+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 9,
         "home_wins": 3,
@@ -86122,7 +86160,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "LA Galaxy 2 - 1 New England — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=DQAztD9fmIs",
+          "thumbnail": "https://i.ytimg.com/vi/DQAztD9fmIs/hqdefault.jpg",
+          "published_at": "2026-09-06T04:54:13+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 18,
         "home_wins": 9,
@@ -86291,7 +86337,15 @@
       "attendance": null,
       "live_websocket": false,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Salt Lake 2 - 2 Los Angeles — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=EvGAn_sOtJI",
+          "thumbnail": "https://i.ytimg.com/vi/EvGAn_sOtJI/hqdefault.jpg",
+          "published_at": "2026-09-06T04:54:23+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 19,
         "home_wins": 4,
@@ -86460,7 +86514,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Inter Miami 2 - 2 Atlanta — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=-i1Y4Q5eOlk&pp=0gcJCRoMAYcqIYzv",
+          "thumbnail": "https://i.ytimg.com/vi/-i1Y4Q5eOlk/hqdefault.jpg",
+          "published_at": "2026-09-06T04:58:35+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 18,
         "home_wins": 7,
