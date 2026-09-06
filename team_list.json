@@ -167,30 +167,6 @@
     "id": 914,
     "name": "Granada Club de Fútbol"
   },
-  "1267": {
-    "id": 1267,
-    "name": "Sporting Gijón"
-  },
-  "1403": {
-    "id": 1403,
-    "name": "CD Eldense"
-  },
-  "1263": {
-    "id": 1263,
-    "name": "Real Valladolid"
-  },
-  "42": {
-    "id": 42,
-    "name": "Real Oviedo"
-  },
-  "43": {
-    "id": 43,
-    "name": "Mallorca"
-  },
-  "1467": {
-    "id": 1467,
-    "name": "CE Sabadell"
-  },
   "3883": {
     "id": 3883,
     "name": "Celta Fortuna"
@@ -406,6 +382,14 @@
   "24": {
     "id": 24,
     "name": "Gil Vicente"
+  },
+  "43": {
+    "id": 43,
+    "name": "Mallorca"
+  },
+  "1467": {
+    "id": 1467,
+    "name": "CE Sabadell"
   },
   "50": {
     "id": 50,
@@ -623,6 +607,14 @@
     "id": 450,
     "name": "Örgryte IS"
   },
+  "1263": {
+    "id": 1263,
+    "name": "Real Valladolid"
+  },
+  "42": {
+    "id": 42,
+    "name": "Real Oviedo"
+  },
   "46": {
     "id": 46,
     "name": "Levante UD"
@@ -758,6 +750,14 @@
   "1378": {
     "id": 1378,
     "name": "Sønderjyske Fodbold"
+  },
+  "1267": {
+    "id": 1267,
+    "name": "Sporting Gijón"
+  },
+  "1403": {
+    "id": 1403,
+    "name": "CD Eldense"
   },
   "356": {
     "id": 356,
