@@ -111,6 +111,14 @@
     "id": 343,
     "name": "FK Septemvri Sofia"
   },
+  "5023": {
+    "id": 5023,
+    "name": "Sporting CP B"
+  },
+  "2910": {
+    "id": 2910,
+    "name": "Lusitânia Lourosa"
+  },
   "3317": {
     "id": 3317,
     "name": "FC Porto B"
@@ -2574,14 +2582,6 @@
   "1249": {
     "id": 1249,
     "name": "Cardiff City"
-  },
-  "5023": {
-    "id": 5023,
-    "name": "Sporting CP B"
-  },
-  "2910": {
-    "id": 2910,
-    "name": "Lusitânia Lourosa"
   },
   "1313": {
     "id": 1313,
