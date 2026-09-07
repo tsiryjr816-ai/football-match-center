@@ -7,6 +7,14 @@
     "id": 372,
     "name": "Remo"
   },
+  "927": {
+    "id": 927,
+    "name": "Botafogo-SP"
+  },
+  "809": {
+    "id": 809,
+    "name": "Goiás"
+  },
   "838": {
     "id": 838,
     "name": "América Mineiro"
@@ -70,6 +78,14 @@
   "75": {
     "id": 75,
     "name": "Udinese"
+  },
+  "3883": {
+    "id": 3883,
+    "name": "Celta Fortuna"
+  },
+  "1397": {
+    "id": 1397,
+    "name": "Eibar"
   },
   "140": {
     "id": 140,
@@ -374,14 +390,6 @@
   "914": {
     "id": 914,
     "name": "Granada Club de Fútbol"
-  },
-  "3883": {
-    "id": 3883,
-    "name": "Celta Fortuna"
-  },
-  "1397": {
-    "id": 1397,
-    "name": "Eibar"
   },
   "1388": {
     "id": 1388,
@@ -1590,14 +1598,6 @@
   "159": {
     "id": 159,
     "name": "Sport Recife"
-  },
-  "927": {
-    "id": 927,
-    "name": "Botafogo-SP"
-  },
-  "809": {
-    "id": 809,
-    "name": "Goiás"
   },
   "860": {
     "id": 860,
