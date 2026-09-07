@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T00:55:19.710792+00:00",
+  "updated_at": "2026-09-07T01:06:21.625662+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-07",
   "date_to": "2026-09-14",
@@ -71172,7 +71172,7 @@
       "stage_name": "Group stage",
       "round_label": "Group B · Matchday 8",
       "period": "1T",
-      "current_minute": 25,
+      "current_minute": 36,
       "home_score": 0,
       "away_score": 1,
       "home_score_ht": 0,
