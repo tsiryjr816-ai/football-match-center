@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T08:27:52.368304+00:00",
+  "updated_at": "2026-09-07T08:42:41.409792+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-07",
   "date_to": "2026-09-14",
@@ -12745,8 +12745,8 @@
       "home_team": "Logroño United",
       "away_team_id": 3885,
       "away_team": "Valencia",
-      "home_coach_id": 3788,
-      "away_coach_id": 3793,
+      "home_coach_id": 3424,
+      "away_coach_id": 2004,
       "referee_id": null,
       "venue_id": 705,
       "event_date": "2026-09-13T15:00:00+00:00",
