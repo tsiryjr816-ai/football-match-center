@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T07:09:41.797592+00:00",
+  "updated_at": "2026-09-07T07:27:08.965387+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-07",
   "date_to": "2026-09-14",
@@ -70092,7 +70092,7 @@
       "away_team": "Celta Vigo",
       "home_coach_id": 371,
       "away_coach_id": 396,
-      "referee_id": null,
+      "referee_id": 1917,
       "venue_id": 50,
       "event_date": "2026-09-07T17:00:00+00:00",
       "status": "notstarted",
