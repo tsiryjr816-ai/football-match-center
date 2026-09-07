@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T22:05:44.466057+00:00",
+  "updated_at": "2026-09-07T22:23:29.414433+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-07",
   "date_to": "2026-09-14",
@@ -67437,7 +67437,7 @@
       "stage_name": "Group stage",
       "round_label": "Group B · Matchday 8",
       "period": "1T",
-      "current_minute": 5,
+      "current_minute": 23,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -67936,7 +67936,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Bromley 0 - 2 Wimbledon — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=Bgej5KUYhyw&pp=ygUNQUZDIFdpbWJsZWRvbg%3D%3D",
+          "thumbnail": "https://i.ytimg.com/vi/Bgej5KUYhyw/hqdefault.jpg",
+          "published_at": "2026-09-07T22:07:30+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 3,
         "home_wins": 2,
@@ -68374,7 +68382,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Sabadell 3 - 2 Córdoba — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=HQjOORSVTxM",
+          "thumbnail": "https://i.ytimg.com/vi/HQjOORSVTxM/hqdefault.jpg",
+          "published_at": "2026-09-07T22:08:00+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 9,
         "home_wins": 2,
@@ -69898,7 +69914,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Getafe 1 - 1 Celta — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=WThHBksMZZc",
+          "thumbnail": "https://i.ytimg.com/vi/WThHBksMZZc/hqdefault.jpg",
+          "published_at": "2026-09-07T22:06:25+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 30,
         "home_wins": 11,
