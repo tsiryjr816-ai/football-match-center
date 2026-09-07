@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T02:51:23.194642+00:00",
+  "updated_at": "2026-09-07T03:06:09.848870+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-07",
   "date_to": "2026-09-14",
@@ -71290,7 +71290,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 1",
       "period": "2T",
-      "current_minute": 78,
+      "current_minute": 93,
       "home_score": 1,
       "away_score": 0,
       "home_score_ht": 1,
@@ -71479,7 +71479,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Racing 1 - 2 Atlético Tucumán — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=wdu-n4BDQeM&pp=0gcJCRoMAYcqIYzv",
+          "thumbnail": "https://i.ytimg.com/vi/wdu-n4BDQeM/hqdefault.jpg",
+          "published_at": "2026-09-07T02:49:56+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 12,
         "home_wins": 6,
