@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T21:37:10.769627+00:00",
+  "updated_at": "2026-09-07T21:50:43.341914+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-07",
   "date_to": "2026-09-14",
@@ -67424,7 +67424,7 @@
       "away_team_id": 806,
       "away_team": "Argentinos Juniors",
       "home_coach_id": 3194,
-      "away_coach_id": 3198,
+      "away_coach_id": 727,
       "referee_id": 2105,
       "venue_id": 540,
       "event_date": "2026-09-07T22:00:00+00:00",
@@ -67751,7 +67751,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Estoril 0 - 0 Arouca — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=l7v1Uen8K6o",
+          "thumbnail": "https://i.ytimg.com/vi/l7v1Uen8K6o/hqdefault.jpg",
+          "published_at": "2026-09-07T21:44:18+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 26,
         "home_wins": 10,
