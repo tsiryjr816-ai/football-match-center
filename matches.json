@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T22:23:29.414433+00:00",
+  "updated_at": "2026-09-07T22:36:08.428202+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-07",
   "date_to": "2026-09-14",
@@ -67412,7 +67412,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -67437,7 +67437,7 @@
       "stage_name": "Group stage",
       "round_label": "Group B · Matchday 8",
       "period": "1T",
-      "current_minute": 23,
+      "current_minute": 35,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
