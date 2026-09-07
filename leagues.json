@@ -277,6 +277,14 @@
             "rounds": 1,
             "start_date": "2026-09-05",
             "end_date": "2026-09-05"
+          },
+          {
+            "stage": "final",
+            "stage_name": "Final",
+            "matches": 1,
+            "rounds": 1,
+            "start_date": "2026-09-12",
+            "end_date": "2026-09-12"
           }
         ]
       }
