@@ -1599,22 +1599,6 @@
     "id": 122,
     "name": "AFC Ajax"
   },
-  "831": {
-    "id": 831,
-    "name": "Clube De Regatas Brasil"
-  },
-  "159": {
-    "id": 159,
-    "name": "Sport Recife"
-  },
-  "860": {
-    "id": 860,
-    "name": "Avaí"
-  },
-  "826": {
-    "id": 826,
-    "name": "Vila Nova FC"
-  },
   "774": {
     "id": 774,
     "name": "Independiente Rivadavia"
@@ -3091,9 +3075,17 @@
     "id": 747,
     "name": "Montevideo City Torque"
   },
+  "159": {
+    "id": 159,
+    "name": "Sport Recife"
+  },
   "844": {
     "id": 844,
     "name": "Ponte Preta"
+  },
+  "826": {
+    "id": 826,
+    "name": "Vila Nova FC"
   },
   "821": {
     "id": 821,
@@ -3123,6 +3115,10 @@
     "id": 828,
     "name": "Operário-PR"
   },
+  "831": {
+    "id": 831,
+    "name": "Clube De Regatas Brasil"
+  },
   "928": {
     "id": 928,
     "name": "Náutico"
@@ -3130,6 +3126,10 @@
   "4788": {
     "id": 4788,
     "name": "Real Cundinamarca"
+  },
+  "860": {
+    "id": 860,
+    "name": "Avaí"
   },
   "778": {
     "id": 778,
