@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T20:50:30.599221+00:00",
+  "updated_at": "2026-09-07T21:06:15.482552+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-07",
   "date_to": "2026-09-14",
@@ -67562,8 +67562,8 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 4",
       "period": "2T",
-      "current_minute": 59,
-      "home_score": 0,
+      "current_minute": 75,
+      "home_score": 2,
       "away_score": 2,
       "home_score_ht": 0,
       "away_score_ht": 2,
@@ -67731,7 +67731,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 5",
       "period": "2T",
-      "current_minute": 73,
+      "current_minute": 88,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -67891,7 +67891,7 @@
       "referee_id": null,
       "venue_id": 874,
       "event_date": "2026-09-07T19:00:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 5,
       "round_name": "",
@@ -67899,7 +67899,7 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 5",
-      "period": "2T",
+      "period": "FT",
       "current_minute": 90,
       "home_score": 0,
       "away_score": 2,
@@ -67911,12 +67911,12 @@
       "is_neutral_ground": false,
       "travel_distance_km": 29,
       "weather": {
-        "code": null,
-        "description": null,
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": null,
         "temperature_c": null
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
@@ -68508,7 +68508,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Pogoń 1 - 1 Wisła Płock — Full Highlights",
+          "url": "https://youtu.be/rrYYDK7ydZo",
+          "thumbnail": "https://i.ytimg.com/vi/rrYYDK7ydZo/hqdefault.jpg",
+          "published_at": "2026-09-07T20:56:40+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 17,
         "home_wins": 7,
@@ -68677,7 +68685,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Al-Hilal 0 - 2 Neom — Full Highlights",
+          "url": "https://youtu.be/AiSaswV_mOU",
+          "thumbnail": "https://i.ytimg.com/vi/AiSaswV_mOU/hqdefault.jpg",
+          "published_at": "2026-09-07T20:53:11+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 2,
         "home_wins": 2,
@@ -70790,7 +70806,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Al-Khaleej 0 - 0 Al-Riyadh — Full Highlights",
+          "url": "https://youtu.be/es6bE0h_EJA",
+          "thumbnail": "https://i.ytimg.com/vi/es6bE0h_EJA/hqdefault.jpg",
+          "published_at": "2026-09-07T20:53:52+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 6,
         "home_wins": 2,
