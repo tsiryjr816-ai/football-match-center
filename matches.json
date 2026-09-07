@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T03:25:29.600010+00:00",
+  "updated_at": "2026-09-07T03:40:16.055810+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-07",
   "date_to": "2026-09-14",
@@ -33294,7 +33294,7 @@
       "home_team": "Madrid CFF",
       "away_team_id": 922,
       "away_team": "Sevilla FC",
-      "home_coach_id": 3790,
+      "home_coach_id": 420,
       "away_coach_id": 214,
       "referee_id": null,
       "venue_id": 703,
@@ -71310,7 +71310,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Reign 1 - 0 San Diego Wave — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=j4xY6G6iZa8",
+          "thumbnail": "https://i.ytimg.com/vi/j4xY6G6iZa8/hqdefault.jpg",
+          "published_at": "2026-09-07T03:27:53+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 10,
         "home_wins": 7,
