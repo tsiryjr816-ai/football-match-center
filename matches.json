@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T02:05:55.910909+00:00",
+  "updated_at": "2026-09-07T02:24:47.574319+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-07",
   "date_to": "2026-09-14",
@@ -159,7 +159,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
         "total_matches": 1,
@@ -4347,7 +4347,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
         "total_matches": 24,
@@ -8060,7 +8060,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
         "total_matches": 88,
@@ -8229,7 +8229,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
         "total_matches": 2,
@@ -8479,7 +8479,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
         "total_matches": 15,
@@ -9450,7 +9450,30 @@
       "live_websocket": false,
       "websocket_plus": false,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 1,
+        "home_wins": 1,
+        "draws": 0,
+        "away_wins": 0,
+        "home_goals": 2,
+        "away_goals": 0,
+        "avg_total_goals": 2.0,
+        "home_win_rate": 1.0,
+        "away_win_rate": 0.0,
+        "recent_matches": [
+          {
+            "away": "Pyramids FC",
+            "date": "2026-09-06T12:00:00+00:00",
+            "home": "Gor Mahia FC",
+            "score": "0-2",
+            "event_id": 587722,
+            "away_score": 2,
+            "home_score": 0,
+            "away_team_id": 593,
+            "home_team_id": 2810
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": 587722
     },
@@ -10119,7 +10142,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
         "total_matches": 12,
@@ -10779,7 +10802,30 @@
       "live_websocket": false,
       "websocket_plus": false,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 1,
+        "home_wins": 0,
+        "draws": 1,
+        "away_wins": 0,
+        "home_goals": 1,
+        "away_goals": 1,
+        "avg_total_goals": 2.0,
+        "home_win_rate": 0.0,
+        "away_win_rate": 0.0,
+        "recent_matches": [
+          {
+            "away": "ASEC Mimosas",
+            "date": "2026-09-06T15:30:00+00:00",
+            "home": "ASC Kara",
+            "score": "1-1",
+            "event_id": 587735,
+            "away_score": 1,
+            "home_score": 1,
+            "away_team_id": 634,
+            "home_team_id": 627
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": 587735
     },
@@ -10826,7 +10872,30 @@
       "live_websocket": false,
       "websocket_plus": false,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 1,
+        "home_wins": 0,
+        "draws": 1,
+        "away_wins": 0,
+        "home_goals": 0,
+        "away_goals": 0,
+        "avg_total_goals": 0.0,
+        "home_win_rate": 0.0,
+        "away_win_rate": 0.0,
+        "recent_matches": [
+          {
+            "away": "Stade Malien",
+            "date": "2026-09-06T15:00:00+00:00",
+            "home": "Colombe FC",
+            "score": "0-0",
+            "event_id": 587733,
+            "away_score": 0,
+            "home_score": 0,
+            "away_team_id": 592,
+            "home_team_id": 599
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": 587733
     },
@@ -13480,7 +13549,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
         "total_matches": 35,
@@ -16059,7 +16128,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
         "total_matches": 4,
@@ -17165,7 +17234,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": true,
+      "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
         "total_matches": 13,
@@ -18940,7 +19009,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
         "total_matches": 49,
@@ -24057,7 +24126,30 @@
       "live_websocket": false,
       "websocket_plus": false,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 1,
+        "home_wins": 0,
+        "draws": 1,
+        "away_wins": 0,
+        "home_goals": 0,
+        "away_goals": 0,
+        "avg_total_goals": 0.0,
+        "home_win_rate": 0.0,
+        "away_win_rate": 0.0,
+        "recent_matches": [
+          {
+            "away": "MC Alger",
+            "date": "2026-09-06T15:30:00+00:00",
+            "home": "ASN Nigelec",
+            "score": "0-0",
+            "event_id": 587725,
+            "away_score": 0,
+            "home_score": 0,
+            "away_team_id": 584,
+            "home_team_id": 5699
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": 587725
     },
@@ -32760,7 +32852,30 @@
       "live_websocket": false,
       "websocket_plus": false,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 1,
+        "home_wins": 0,
+        "draws": 0,
+        "away_wins": 1,
+        "home_goals": 0,
+        "away_goals": 4,
+        "avg_total_goals": 4.0,
+        "home_win_rate": 0.0,
+        "away_win_rate": 1.0,
+        "recent_matches": [
+          {
+            "away": "Foresters FC",
+            "date": "2026-09-06T15:00:00+00:00",
+            "home": "Wiliete SC",
+            "score": "4-0",
+            "event_id": 587740,
+            "away_score": 0,
+            "home_score": 4,
+            "away_team_id": 8245,
+            "home_team_id": 619
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": 587740
     },
@@ -32808,16 +32923,27 @@
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
-        "total_matches": 2,
-        "home_wins": 2,
+        "total_matches": 3,
+        "home_wins": 3,
         "draws": 0,
         "away_wins": 0,
-        "home_goals": 5,
+        "home_goals": 6,
         "away_goals": 2,
-        "avg_total_goals": 3.5,
+        "avg_total_goals": 2.6666666666666665,
         "home_win_rate": 1.0,
         "away_win_rate": 0.0,
         "recent_matches": [
+          {
+            "away": "Atlético Petróleos de Luanda",
+            "date": "2026-09-06T13:00:00+00:00",
+            "home": "União Desportiva do Songo",
+            "score": "0-1",
+            "event_id": 587730,
+            "away_score": 1,
+            "home_score": 0,
+            "away_team_id": 597,
+            "home_team_id": 3650
+          },
           {
             "away": "União Desportiva do Songo",
             "date": "2023-09-30T14:00:00+00:00",
@@ -32888,7 +33014,30 @@
       "live_websocket": false,
       "websocket_plus": false,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 1,
+        "home_wins": 0,
+        "draws": 0,
+        "away_wins": 1,
+        "home_goals": 1,
+        "away_goals": 4,
+        "avg_total_goals": 5.0,
+        "home_win_rate": 0.0,
+        "away_win_rate": 1.0,
+        "recent_matches": [
+          {
+            "away": "Rahimo FC",
+            "date": "2026-09-06T19:00:00+00:00",
+            "home": "MAS de Fès",
+            "score": "4-1",
+            "event_id": 587727,
+            "away_score": 1,
+            "home_score": 4,
+            "away_team_id": 607,
+            "home_team_id": 2071
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": 587727
     },
@@ -41340,7 +41489,30 @@
       "live_websocket": false,
       "websocket_plus": false,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 1,
+        "home_wins": 0,
+        "draws": 0,
+        "away_wins": 1,
+        "home_goals": 0,
+        "away_goals": 1,
+        "avg_total_goals": 1.0,
+        "home_win_rate": 0.0,
+        "away_win_rate": 1.0,
+        "recent_matches": [
+          {
+            "away": "Nsingizini Hotspur",
+            "date": "2026-09-06T13:00:00+00:00",
+            "home": "Scottland FC",
+            "score": "1-0",
+            "event_id": 587739,
+            "away_score": 0,
+            "home_score": 1,
+            "away_team_id": 609,
+            "home_team_id": 8244
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": 587739
     },
@@ -41457,7 +41629,30 @@
       "live_websocket": false,
       "websocket_plus": false,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 1,
+        "home_wins": 1,
+        "draws": 0,
+        "away_wins": 0,
+        "home_goals": 1,
+        "away_goals": 0,
+        "avg_total_goals": 1.0,
+        "home_win_rate": 1.0,
+        "away_win_rate": 0.0,
+        "recent_matches": [
+          {
+            "away": "Tout Puissant Mazembe",
+            "date": "2026-09-06T15:00:00+00:00",
+            "home": "Medeama SC",
+            "score": "0-1",
+            "event_id": 587729,
+            "away_score": 1,
+            "home_score": 0,
+            "away_team_id": 3590,
+            "home_team_id": 5467
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": 587729
     },
@@ -41574,7 +41769,30 @@
       "live_websocket": false,
       "websocket_plus": false,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 1,
+        "home_wins": 0,
+        "draws": 1,
+        "away_wins": 0,
+        "home_goals": 0,
+        "away_goals": 0,
+        "avg_total_goals": 0.0,
+        "home_win_rate": 0.0,
+        "away_win_rate": 0.0,
+        "recent_matches": [
+          {
+            "away": "Orlando Pirates",
+            "date": "2026-09-06T11:30:00+00:00",
+            "home": "La Cure Sylvester SC",
+            "score": "0-0",
+            "event_id": 587723,
+            "away_score": 0,
+            "home_score": 0,
+            "away_team_id": 608,
+            "home_team_id": 8242
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": 587723
     },
@@ -51893,7 +52111,30 @@
       "live_websocket": false,
       "websocket_plus": false,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 1,
+        "home_wins": 0,
+        "draws": 0,
+        "away_wins": 1,
+        "home_goals": 0,
+        "away_goals": 1,
+        "avg_total_goals": 1.0,
+        "home_win_rate": 0.0,
+        "away_win_rate": 1.0,
+        "recent_matches": [
+          {
+            "away": "APR FC",
+            "date": "2026-09-06T13:00:00+00:00",
+            "home": "FC Les Aigles du congo",
+            "score": "1-0",
+            "event_id": 587734,
+            "away_score": 0,
+            "home_score": 1,
+            "away_team_id": 640,
+            "home_team_id": 633
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": 587734
     },
@@ -51940,7 +52181,30 @@
       "live_websocket": false,
       "websocket_plus": false,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 1,
+        "home_wins": 1,
+        "draws": 0,
+        "away_wins": 0,
+        "home_goals": 1,
+        "away_goals": 0,
+        "avg_total_goals": 1.0,
+        "home_win_rate": 1.0,
+        "away_win_rate": 0.0,
+        "recent_matches": [
+          {
+            "away": "Simba SC",
+            "date": "2026-09-06T13:00:00+00:00",
+            "home": "Mighty Mukuru Wanderers",
+            "score": "0-1",
+            "event_id": 587716,
+            "away_score": 1,
+            "home_score": 0,
+            "away_team_id": 596,
+            "home_team_id": 3592
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": 587716
     },
@@ -52655,7 +52919,30 @@
       "live_websocket": false,
       "websocket_plus": false,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 1,
+        "home_wins": 0,
+        "draws": 1,
+        "away_wins": 0,
+        "home_goals": 1,
+        "away_goals": 1,
+        "avg_total_goals": 2.0,
+        "home_win_rate": 0.0,
+        "away_win_rate": 0.0,
+        "recent_matches": [
+          {
+            "away": "SOBEMAP FC",
+            "date": "2026-09-06T15:00:00+00:00",
+            "home": "Enugu Rangers International",
+            "score": "1-1",
+            "event_id": 587717,
+            "away_score": 1,
+            "home_score": 1,
+            "away_team_id": 3336,
+            "home_team_id": 571
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": 587717
     },
@@ -70994,7 +71281,7 @@
       "referee_id": 2090,
       "venue_id": 290,
       "event_date": "2026-09-07T01:00:00+00:00",
-      "status": "halftime",
+      "status": "2nd_half",
       "replaced_by": null,
       "round_number": 1,
       "round_name": "",
@@ -71002,8 +71289,8 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 1",
-      "period": "HT",
-      "current_minute": 45,
+      "period": "2T",
+      "current_minute": 51,
       "home_score": 1,
       "away_score": 0,
       "home_score_ht": 1,
@@ -71172,9 +71459,9 @@
       "stage_name": "Group stage",
       "round_label": "Group B · Matchday 8",
       "period": "2T",
-      "current_minute": 74,
+      "current_minute": 93,
       "home_score": 1,
-      "away_score": 1,
+      "away_score": 2,
       "home_score_ht": 0,
       "away_score_ht": 1,
       "penalty_shootout": null,
