@@ -71,6 +71,14 @@
     "id": 75,
     "name": "Udinese"
   },
+  "140": {
+    "id": 140,
+    "name": "FCSB"
+  },
+  "362": {
+    "id": 362,
+    "name": "FC Petrolul Ploiești"
+  },
   "38": {
     "id": 38,
     "name": "Rio Ave"
@@ -166,6 +174,14 @@
   "2093": {
     "id": 2093,
     "name": "VPS"
+  },
+  "355": {
+    "id": 355,
+    "name": "FC Universitatea Cluj"
+  },
+  "361": {
+    "id": 361,
+    "name": "SC Oțelul Galați"
   },
   "4635": {
     "id": 4635,
@@ -2430,22 +2446,6 @@
   "3517": {
     "id": 3517,
     "name": "Penafiel"
-  },
-  "140": {
-    "id": 140,
-    "name": "FCSB"
-  },
-  "362": {
-    "id": 362,
-    "name": "FC Petrolul Ploiești"
-  },
-  "355": {
-    "id": 355,
-    "name": "FC Universitatea Cluj"
-  },
-  "361": {
-    "id": 361,
-    "name": "SC Oțelul Galați"
   },
   "59": {
     "id": 59,
