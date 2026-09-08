@@ -299,6 +299,14 @@
     "id": 826,
     "name": "Vila Nova FC"
   },
+  "4996": {
+    "id": 4996,
+    "name": "Instituto De Córdoba"
+  },
+  "5000": {
+    "id": 5000,
+    "name": "Estudiantes de Río Cuarto"
+  },
   "166": {
     "id": 166,
     "name": "Bahia"
@@ -634,14 +642,6 @@
   "167": {
     "id": 167,
     "name": "Corinthians"
-  },
-  "4996": {
-    "id": 4996,
-    "name": "Instituto De Córdoba"
-  },
-  "5000": {
-    "id": 5000,
-    "name": "Estudiantes de Río Cuarto"
   },
   "806": {
     "id": 806,
