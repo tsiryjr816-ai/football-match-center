@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T07:26:15.306220+00:00",
+  "updated_at": "2026-09-08T07:40:15.989683+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-08",
   "date_to": "2026-09-15",
@@ -68656,7 +68656,7 @@
       "away_team": "SC Telstar",
       "home_coach_id": 318,
       "away_coach_id": 1937,
-      "referee_id": null,
+      "referee_id": 2156,
       "venue_id": 174,
       "event_date": "2026-09-09T16:45:00+00:00",
       "status": "notstarted",
