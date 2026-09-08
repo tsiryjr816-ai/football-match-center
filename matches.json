@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T22:49:45.932980+00:00",
+  "updated_at": "2026-09-08T23:06:08.827283+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-08",
   "date_to": "2026-09-15",
@@ -69941,7 +69941,7 @@
       "referee_id": 2112,
       "venue_id": 542,
       "event_date": "2026-09-08T22:00:00+00:00",
-      "status": "1st_half",
+      "status": "2nd_half",
       "replaced_by": null,
       "round_number": 27,
       "round_name": "Quarterfinals",
@@ -69949,8 +69949,8 @@
       "stage": "quarterfinals",
       "stage_name": "Quarterfinals",
       "round_label": "Quarterfinals",
-      "period": "1T",
-      "current_minute": 48,
+      "period": "2T",
+      "current_minute": 45,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -69988,7 +69988,7 @@
       "referee_id": 2120,
       "venue_id": 151,
       "event_date": "2026-09-08T22:00:00+00:00",
-      "status": "halftime",
+      "status": "2nd_half",
       "replaced_by": null,
       "round_number": 27,
       "round_name": "Quarterfinals",
@@ -69996,8 +69996,8 @@
       "stage": "quarterfinals",
       "stage_name": "Quarterfinals",
       "round_label": "Quarterfinals",
-      "period": "HT",
-      "current_minute": 45,
+      "period": "2T",
+      "current_minute": 46,
       "home_score": 2,
       "away_score": 0,
       "home_score_ht": 2,
@@ -70064,7 +70064,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Millwall 0 - 1 Newcastle — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=n0qnjh712QU",
+          "thumbnail": "https://i.ytimg.com/vi/n0qnjh712QU/hqdefault.jpg",
+          "published_at": "2026-09-08T22:49:16+00:00"
+        }
+      ],
       "head_to_head": null,
       "has_xg": false,
       "previous_leg_event_id": null
