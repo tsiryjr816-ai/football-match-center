@@ -283,6 +283,14 @@
     "id": 319,
     "name": "Atlético San Luis"
   },
+  "753": {
+    "id": 753,
+    "name": "América de Cali"
+  },
+  "3419": {
+    "id": 3419,
+    "name": "Deportivo Pasto"
+  },
   "860": {
     "id": 860,
     "name": "Avaí"
@@ -658,10 +666,6 @@
   "22": {
     "id": 22,
     "name": "Sporting CP"
-  },
-  "781": {
-    "id": 781,
-    "name": "Deportes Tolima"
   },
   "771": {
     "id": 771,
@@ -1574,14 +1578,6 @@
   "789": {
     "id": 789,
     "name": "Junior Barranquilla"
-  },
-  "753": {
-    "id": 753,
-    "name": "América de Cali"
-  },
-  "3419": {
-    "id": 3419,
-    "name": "Deportivo Pasto"
   },
   "3937": {
     "id": 3937,
@@ -2930,6 +2926,10 @@
   "2231": {
     "id": 2231,
     "name": "San Antonio FC"
+  },
+  "781": {
+    "id": 781,
+    "name": "Deportes Tolima"
   },
   "2245": {
     "id": 2245,
