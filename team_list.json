@@ -1027,9 +1027,77 @@
     "id": 99,
     "name": "RC Lens"
   },
+  "577": {
+    "id": 577,
+    "name": "Shooting Stars"
+  },
+  "566": {
+    "id": 566,
+    "name": "Kano Pillars"
+  },
   "564": {
     "id": 564,
     "name": "Rivers United"
+  },
+  "574": {
+    "id": 574,
+    "name": "Warri Wolves FC"
+  },
+  "581": {
+    "id": 581,
+    "name": "Niger Tornadoes"
+  },
+  "580": {
+    "id": 580,
+    "name": "Plateau United"
+  },
+  "575": {
+    "id": 575,
+    "name": "Kwara United"
+  },
+  "573": {
+    "id": 573,
+    "name": "Katsina United"
+  },
+  "8255": {
+    "id": 8255,
+    "name": "Inter Lagos FC"
+  },
+  "5649": {
+    "id": 5649,
+    "name": "Sporting Lagos FC"
+  },
+  "571": {
+    "id": 571,
+    "name": "Enugu Rangers International"
+  },
+  "582": {
+    "id": 582,
+    "name": "Nasarawa United"
+  },
+  "570": {
+    "id": 570,
+    "name": "Bendel Insurance FC"
+  },
+  "572": {
+    "id": 572,
+    "name": "Kun Khalifat FC"
+  },
+  "567": {
+    "id": 567,
+    "name": "Barau FC"
+  },
+  "8256": {
+    "id": 8256,
+    "name": "Ranchers Bees"
+  },
+  "565": {
+    "id": 565,
+    "name": "Abia Warriors"
+  },
+  "576": {
+    "id": 576,
+    "name": "Ikorodu City"
   },
   "5193": {
     "id": 5193,
@@ -1171,14 +1239,6 @@
     "id": 96,
     "name": "Hamburger SV"
   },
-  "4657": {
-    "id": 4657,
-    "name": "KVZ FC"
-  },
-  "2858": {
-    "id": 2858,
-    "name": "Swehly SC"
-  },
   "2350": {
     "id": 2350,
     "name": "Chaves"
@@ -1250,6 +1310,14 @@
   "2096": {
     "id": 2096,
     "name": "HJK"
+  },
+  "4657": {
+    "id": 4657,
+    "name": "KVZ FC"
+  },
+  "2858": {
+    "id": 2858,
+    "name": "Swehly SC"
   },
   "1374": {
     "id": 1374,
@@ -2090,6 +2158,14 @@
   "101": {
     "id": 101,
     "name": "AS Monaco"
+  },
+  "5648": {
+    "id": 5648,
+    "name": "Doma United FC"
+  },
+  "568": {
+    "id": 568,
+    "name": "Enyimba"
   },
   "8245": {
     "id": 8245,
@@ -3106,10 +3182,6 @@
   "3336": {
     "id": 3336,
     "name": "SOBEMAP FC"
-  },
-  "571": {
-    "id": 571,
-    "name": "Enugu Rangers International"
   },
   "1931": {
     "id": 1931,
