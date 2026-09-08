@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T23:06:08.827283+00:00",
+  "updated_at": "2026-09-08T23:22:22.940166+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-08",
   "date_to": "2026-09-15",
@@ -69950,7 +69950,7 @@
       "stage_name": "Quarterfinals",
       "round_label": "Quarterfinals",
       "period": "2T",
-      "current_minute": 45,
+      "current_minute": 62,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -69997,7 +69997,7 @@
       "stage_name": "Quarterfinals",
       "round_label": "Quarterfinals",
       "period": "2T",
-      "current_minute": 46,
+      "current_minute": 63,
       "home_score": 2,
       "away_score": 0,
       "home_score_ht": 2,
@@ -73125,7 +73125,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Wrexham 1 - 1 Burnley — Full Highlights",
+          "url": "https://youtu.be/9lUoxUPAwII",
+          "thumbnail": "https://i.ytimg.com/vi/9lUoxUPAwII/hqdefault.jpg",
+          "published_at": "2026-09-08T23:08:51+00:00"
+        }
+      ],
       "head_to_head": null,
       "has_xg": false,
       "previous_leg_event_id": null
@@ -73172,7 +73180,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Watford 2 - 1 Preston — Full Highlights",
+          "url": "https://youtu.be/6gWLlbYFrsQ",
+          "thumbnail": "https://i.ytimg.com/vi/6gWLlbYFrsQ/hqdefault.jpg",
+          "published_at": "2026-09-08T23:08:23+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 19,
         "home_wins": 6,
@@ -73687,7 +73703,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Blackburn 1 - 2 Sheffield Utd — Full Highlights",
+          "url": "https://youtu.be/TfOWWo87cGo",
+          "thumbnail": "https://i.ytimg.com/vi/TfOWWo87cGo/hqdefault.jpg",
+          "published_at": "2026-09-08T23:07:51+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 19,
         "home_wins": 7,
