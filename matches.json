@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T16:08:06.991871+00:00",
+  "updated_at": "2026-09-08T16:28:23.954516+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-08",
   "date_to": "2026-09-15",
@@ -74140,7 +74140,7 @@
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -74232,7 +74232,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -74401,7 +74401,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -74426,7 +74426,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season",
       "period": "1T",
-      "current_minute": 5,
+      "current_minute": 26,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -74595,7 +74595,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 6",
       "period": "1T",
-      "current_minute": 11,
+      "current_minute": 32,
       "home_score": 1,
       "away_score": 0,
       "home_score_ht": 1,
@@ -74755,7 +74755,7 @@
       "referee_id": 1877,
       "venue_id": 1772,
       "event_date": "2026-09-08T15:30:00+00:00",
-      "status": "1st_half",
+      "status": "halftime",
       "replaced_by": null,
       "round_number": 6,
       "round_name": "",
@@ -74763,8 +74763,8 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 6",
-      "period": "1T",
-      "current_minute": 37,
+      "period": "HT",
+      "current_minute": 45,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -74933,7 +74933,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season",
       "period": "2T",
-      "current_minute": 67,
+      "current_minute": 87,
       "home_score": 1,
       "away_score": 0,
       "home_score_ht": 1,
@@ -75102,9 +75102,9 @@
       "stage_name": "Regular season",
       "round_label": "Regular season",
       "period": "2T",
-      "current_minute": 48,
+      "current_minute": 68,
       "home_score": 1,
-      "away_score": 0,
+      "away_score": 1,
       "home_score_ht": 1,
       "away_score_ht": 0,
       "penalty_shootout": null,
@@ -75271,7 +75271,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season",
       "period": "2T",
-      "current_minute": 45,
+      "current_minute": 65,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -75440,7 +75440,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season",
       "period": "2T",
-      "current_minute": 48,
+      "current_minute": 68,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
