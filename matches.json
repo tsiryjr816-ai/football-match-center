@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T13:54:39.882150+00:00",
+  "updated_at": "2026-09-08T14:07:40.768433+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-08",
   "date_to": "2026-09-15",
@@ -71638,7 +71638,7 @@
       "league_id": 39,
       "season_id": 1961,
       "home_team_id": 4698,
-      "home_team": "Warrington Town",
+      "home_team": "Warrington Town FC",
       "away_team_id": 7347,
       "away_team": "Shildon AFC",
       "home_coach_id": 2760,
