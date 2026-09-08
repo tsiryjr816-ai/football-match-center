@@ -577,10 +577,10 @@
           {
             "stage": "round-of-16",
             "stage_name": "Round of 16",
-            "matches": 18,
+            "matches": 19,
             "rounds": 1,
             "start_date": "2026-08-13",
-            "end_date": "2026-09-17"
+            "end_date": "2026-10-03"
           }
         ]
       }
