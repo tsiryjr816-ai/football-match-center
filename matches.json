@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T14:53:39.081997+00:00",
+  "updated_at": "2026-09-09T15:05:58.701385+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-09",
   "date_to": "2026-09-16",
@@ -73519,7 +73519,7 @@
       "referee_id": 1636,
       "venue_id": 1295,
       "event_date": "2026-09-09T15:00:00+00:00",
-      "status": "notstarted",
+      "status": "1st_half",
       "replaced_by": null,
       "round_number": null,
       "round_name": "",
@@ -73527,12 +73527,12 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "1T",
+      "current_minute": 5,
+      "home_score": 0,
+      "away_score": 0,
+      "home_score_ht": 0,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -73886,7 +73886,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": false,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Gwangju 0 - 1 Jeju — Full Highlights",
+          "url": "https://youtu.be/MararHLN4mA?si=BIvP5k0WkqcKs-YQ",
+          "thumbnail": "https://i.ytimg.com/vi/MararHLN4mA/hqdefault.jpg",
+          "published_at": "2026-09-09T15:01:39+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 29,
         "home_wins": 12,
