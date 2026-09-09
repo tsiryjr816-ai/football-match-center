@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T21:23:07.344931+00:00",
+  "updated_at": "2026-09-09T21:36:29.226462+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-09",
   "date_to": "2026-09-16",
@@ -70980,7 +70980,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 3",
       "period": "2T",
-      "current_minute": 74,
+      "current_minute": 88,
       "home_score": 0,
       "away_score": 4,
       "home_score_ht": 0,
@@ -73231,7 +73231,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Al-Fateh 1 - 2 Diriyah — Full Highlights",
+          "url": "https://youtu.be/Xcc2nlthZ88",
+          "thumbnail": "https://i.ytimg.com/vi/Xcc2nlthZ88/hqdefault.jpg",
+          "published_at": "2026-09-09T21:22:14+00:00"
+        }
+      ],
       "head_to_head": null,
       "has_xg": false,
       "previous_leg_event_id": null
@@ -73372,7 +73380,15 @@
       "attendance": null,
       "live_websocket": false,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Twente 1 - 0 Telstar — Full Highlights",
+          "url": "https://youtu.be/NvGSyVTja-U",
+          "thumbnail": "https://i.ytimg.com/vi/NvGSyVTja-U/hqdefault.jpg",
+          "published_at": "2026-09-09T21:21:04+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 2,
         "home_wins": 0,
