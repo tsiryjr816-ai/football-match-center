@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T04:25:29.876909+00:00",
+  "updated_at": "2026-09-09T04:40:10.065389+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-09",
   "date_to": "2026-09-16",
@@ -57517,7 +57517,7 @@
       "away_team_id": 3832,
       "away_team": "Peninsula Power",
       "home_coach_id": 2922,
-      "away_coach_id": 1829,
+      "away_coach_id": 3869,
       "referee_id": null,
       "venue_id": null,
       "event_date": "2026-09-12T09:00:00+00:00",
