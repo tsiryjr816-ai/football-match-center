@@ -1739,14 +1739,6 @@
     "id": 302,
     "name": "Seattle Sounders FC"
   },
-  "317": {
-    "id": 317,
-    "name": "CF Monterrey"
-  },
-  "321": {
-    "id": 321,
-    "name": "Tigres UANL"
-  },
   "2239": {
     "id": 2239,
     "name": "Sacramento Republic FC"
@@ -1798,6 +1790,14 @@
   "789": {
     "id": 789,
     "name": "Junior Barranquilla"
+  },
+  "317": {
+    "id": 317,
+    "name": "CF Monterrey"
+  },
+  "321": {
+    "id": 321,
+    "name": "Tigres UANL"
   },
   "3937": {
     "id": 3937,
