@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T02:25:28.456554+00:00",
+  "updated_at": "2026-09-09T02:38:47.664326+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-09",
   "date_to": "2026-09-16",
@@ -65862,10 +65862,10 @@
       "is_neutral_ground": false,
       "travel_distance_km": null,
       "weather": {
-        "code": null,
-        "description": null,
-        "wind_speed": null,
-        "temperature_c": null
+        "code": 3,
+        "description": "rain",
+        "wind_speed": 3.4,
+        "temperature_c": 17
       },
       "pitch_condition": null,
       "attendance": null,
@@ -74081,7 +74081,7 @@
       "referee_id": 2096,
       "venue_id": 579,
       "event_date": "2026-09-09T00:30:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 27,
       "round_name": "Quarterfinals",
@@ -74089,8 +74089,8 @@
       "stage": "quarterfinals",
       "stage_name": "Quarterfinals",
       "round_label": "Quarterfinals",
-      "period": "2T",
-      "current_minute": 93,
+      "period": "FT",
+      "current_minute": 90,
       "home_score": 1,
       "away_score": 0,
       "home_score_ht": 0,
@@ -74101,12 +74101,12 @@
       "is_neutral_ground": false,
       "travel_distance_km": null,
       "weather": {
-        "code": 3,
-        "description": "rain",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 7.2,
         "temperature_c": 16
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
