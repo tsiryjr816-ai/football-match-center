@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T03:06:23.638958+00:00",
+  "updated_at": "2026-09-09T03:25:23.312225+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-09",
   "date_to": "2026-09-16",
@@ -26161,6 +26161,76 @@
       "previous_leg_event_id": null
     },
     {
+      "id": 587749,
+      "league_id": 29,
+      "season_id": 1900,
+      "home_team_id": 2740,
+      "home_team": "Sidama Bunna FC",
+      "away_team_id": 8241,
+      "away_team": "Aiglons FC N'Djamena",
+      "home_coach_id": null,
+      "away_coach_id": null,
+      "referee_id": null,
+      "venue_id": null,
+      "event_date": "2026-09-13T13:00:00+00:00",
+      "status": "notstarted",
+      "replaced_by": null,
+      "round_number": 1,
+      "round_name": "Qualification Round 1",
+      "group_name": null,
+      "stage": "qualification-round-1",
+      "stage_name": "Qualification Round 1",
+      "round_label": "Qualification Round 1",
+      "period": "",
+      "current_minute": null,
+      "home_score": null,
+      "away_score": null,
+      "home_score_ht": null,
+      "away_score_ht": null,
+      "penalty_shootout": null,
+      "extra_time_score": null,
+      "is_local_derby": false,
+      "is_neutral_ground": false,
+      "travel_distance_km": null,
+      "weather": {
+        "code": null,
+        "description": null,
+        "wind_speed": null,
+        "temperature_c": null
+      },
+      "pitch_condition": null,
+      "attendance": null,
+      "live_websocket": false,
+      "websocket_plus": false,
+      "highlights": [],
+      "head_to_head": {
+        "total_matches": 1,
+        "home_wins": 0,
+        "draws": 1,
+        "away_wins": 0,
+        "home_goals": 0,
+        "away_goals": 0,
+        "avg_total_goals": 0.0,
+        "home_win_rate": 0.0,
+        "away_win_rate": 0.0,
+        "recent_matches": [
+          {
+            "away": "Sidama Bunna FC",
+            "date": "2026-09-05T14:30:00+00:00",
+            "home": "Aiglons FC N'Djamena",
+            "score": "0-0",
+            "event_id": 587720,
+            "away_score": 0,
+            "home_score": 0,
+            "away_team_id": 2740,
+            "home_team_id": 8241
+          }
+        ]
+      },
+      "has_xg": false,
+      "previous_leg_event_id": 587720
+    },
+    {
       "id": 375045,
       "league_id": 88,
       "season_id": 1693,
@@ -44814,76 +44884,6 @@
       },
       "has_xg": false,
       "previous_leg_event_id": 587727
-    },
-    {
-      "id": 587749,
-      "league_id": 29,
-      "season_id": 1900,
-      "home_team_id": 2740,
-      "home_team": "Sidama Bunna FC",
-      "away_team_id": 8241,
-      "away_team": "Aiglons FC N'Djamena",
-      "home_coach_id": null,
-      "away_coach_id": null,
-      "referee_id": null,
-      "venue_id": null,
-      "event_date": "2026-09-12T15:00:00+00:00",
-      "status": "notstarted",
-      "replaced_by": null,
-      "round_number": 1,
-      "round_name": "Qualification Round 1",
-      "group_name": null,
-      "stage": "qualification-round-1",
-      "stage_name": "Qualification Round 1",
-      "round_label": "Qualification Round 1",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
-      "penalty_shootout": null,
-      "extra_time_score": null,
-      "is_local_derby": false,
-      "is_neutral_ground": false,
-      "travel_distance_km": null,
-      "weather": {
-        "code": null,
-        "description": null,
-        "wind_speed": null,
-        "temperature_c": null
-      },
-      "pitch_condition": null,
-      "attendance": null,
-      "live_websocket": false,
-      "websocket_plus": false,
-      "highlights": [],
-      "head_to_head": {
-        "total_matches": 1,
-        "home_wins": 0,
-        "draws": 1,
-        "away_wins": 0,
-        "home_goals": 0,
-        "away_goals": 0,
-        "avg_total_goals": 0.0,
-        "home_win_rate": 0.0,
-        "away_win_rate": 0.0,
-        "recent_matches": [
-          {
-            "away": "Sidama Bunna FC",
-            "date": "2026-09-05T14:30:00+00:00",
-            "home": "Aiglons FC N'Djamena",
-            "score": "0-0",
-            "event_id": 587720,
-            "away_score": 0,
-            "home_score": 0,
-            "away_team_id": 2740,
-            "home_team_id": 8241
-          }
-        ]
-      },
-      "has_xg": false,
-      "previous_leg_event_id": 587720
     },
     {
       "id": 220864,
@@ -74090,7 +74090,7 @@
       "stage_name": "Quarterfinals",
       "round_label": "Quarterfinals",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 95,
       "home_score": 1,
       "away_score": 0,
       "home_score_ht": 0,
@@ -74110,9 +74110,24 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Boca Juniors 1 - 0 São Paulo — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=TzbE3mnL8TQ",
+          "thumbnail": "https://i.ytimg.com/vi/TzbE3mnL8TQ/hqdefault.jpg",
+          "published_at": "2026-09-09T03:05:29+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Boca Juniors 1 - 0 São Paulo — 52' Miguel Merentiel",
+          "url": "https://www.youtube.com/watch?v=athk6CvLTsM",
+          "thumbnail": "https://i.ytimg.com/vi/athk6CvLTsM/hqdefault.jpg",
+          "published_at": "2026-09-09T03:05:18+00:00"
+        }
+      ],
       "head_to_head": null,
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -74137,7 +74152,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 27",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 97,
       "home_score": 0,
       "away_score": 2,
       "home_score_ht": 0,
@@ -74289,7 +74304,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     }
   ]
