@@ -1503,6 +1503,14 @@
     "id": 8241,
     "name": "Aiglons FC N'Djamena"
   },
+  "596": {
+    "id": 596,
+    "name": "Simba SC"
+  },
+  "3592": {
+    "id": 3592,
+    "name": "Mighty Mukuru Wanderers"
+  },
   "2350": {
     "id": 2350,
     "name": "Chaves"
@@ -2243,14 +2251,6 @@
     "id": 2101,
     "name": "FC Lahti"
   },
-  "583": {
-    "id": 583,
-    "name": "Al-Hilal Omdurman"
-  },
-  "605": {
-    "id": 605,
-    "name": "Aigle Noir CS"
-  },
   "3599": {
     "id": 3599,
     "name": "Djoliba AC"
@@ -2354,14 +2354,6 @@
   "568": {
     "id": 568,
     "name": "Enyimba"
-  },
-  "8245": {
-    "id": 8245,
-    "name": "Foresters FC"
-  },
-  "619": {
-    "id": 619,
-    "name": "Wiliete SC"
   },
   "597": {
     "id": 597,
@@ -2758,6 +2750,14 @@
   "5467": {
     "id": 5467,
     "name": "Medeama SC"
+  },
+  "583": {
+    "id": 583,
+    "name": "Al-Hilal Omdurman"
+  },
+  "605": {
+    "id": 605,
+    "name": "Aigle Noir CS"
   },
   "585": {
     "id": 585,
@@ -3243,14 +3243,6 @@
     "id": 633,
     "name": "FC Les Aigles du congo"
   },
-  "596": {
-    "id": 596,
-    "name": "Simba SC"
-  },
-  "3592": {
-    "id": 3592,
-    "name": "Mighty Mukuru Wanderers"
-  },
   "431": {
     "id": 431,
     "name": "Motor Lublin"
@@ -3338,6 +3330,14 @@
   "402": {
     "id": 402,
     "name": "Shakhtar Donetsk"
+  },
+  "8245": {
+    "id": 8245,
+    "name": "Foresters FC"
+  },
+  "619": {
+    "id": 619,
+    "name": "Wiliete SC"
   },
   "4788": {
     "id": 4788,
