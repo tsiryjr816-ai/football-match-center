@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T02:51:35.451834+00:00",
+  "updated_at": "2026-09-09T03:06:23.638958+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-09",
   "date_to": "2026-09-16",
@@ -25085,7 +25085,7 @@
       "away_team_id": 450,
       "away_team": "Örgryte IS",
       "home_coach_id": 2018,
-      "away_coach_id": 1426,
+      "away_coach_id": 688,
       "referee_id": null,
       "venue_id": 133,
       "event_date": "2026-09-13T14:30:00+00:00",
