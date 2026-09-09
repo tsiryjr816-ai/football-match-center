@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T08:26:21.192273+00:00",
+  "updated_at": "2026-09-09T08:39:57.843752+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-09",
   "date_to": "2026-09-16",
@@ -54669,10 +54669,10 @@
       "is_neutral_ground": false,
       "travel_distance_km": null,
       "weather": {
-        "code": null,
-        "description": null,
-        "wind_speed": null,
-        "temperature_c": null
+        "code": 1,
+        "description": "clear",
+        "wind_speed": 1.4,
+        "temperature_c": 28
       },
       "pitch_condition": null,
       "attendance": null,
@@ -56049,10 +56049,10 @@
       "is_neutral_ground": false,
       "travel_distance_km": null,
       "weather": {
-        "code": null,
-        "description": null,
-        "wind_speed": null,
-        "temperature_c": null
+        "code": 0,
+        "description": "unknown",
+        "wind_speed": 6.2,
+        "temperature_c": 22
       },
       "pitch_condition": null,
       "attendance": null,
