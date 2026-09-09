@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T00:55:10.514672+00:00",
+  "updated_at": "2026-09-09T01:06:16.792151+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-09",
   "date_to": "2026-09-16",
@@ -74044,7 +74044,7 @@
       "stage_name": "Quarterfinals",
       "round_label": "Quarterfinals",
       "period": "1T",
-      "current_minute": 23,
+      "current_minute": 35,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
