@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T10:06:17.042380+00:00",
+  "updated_at": "2026-09-09T10:26:50.004225+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-09",
   "date_to": "2026-09-16",
@@ -74205,8 +74205,8 @@
       "round_label": "Regular season · Matchday 28",
       "period": "",
       "current_minute": null,
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "home_score_ht": null,
       "away_score_ht": null,
       "penalty_shootout": null,
