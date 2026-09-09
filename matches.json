@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T16:53:12.815112+00:00",
+  "updated_at": "2026-09-09T17:05:37.494347+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-09",
   "date_to": "2026-09-16",
@@ -73250,7 +73250,7 @@
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 1",
       "period": "1T",
-      "current_minute": 5,
+      "current_minute": 17,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -73297,7 +73297,7 @@
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 1",
       "period": "1T",
-      "current_minute": 4,
+      "current_minute": 18,
       "home_score": 1,
       "away_score": 0,
       "home_score_ht": 1,
@@ -73344,7 +73344,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 3",
       "period": "1T",
-      "current_minute": 6,
+      "current_minute": 19,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -73416,7 +73416,7 @@
       "referee_id": 2336,
       "venue_id": 247,
       "event_date": "2026-09-09T15:55:00+00:00",
-      "status": "halftime",
+      "status": "2nd_half",
       "replaced_by": null,
       "round_number": 6,
       "round_name": "",
@@ -73424,8 +73424,8 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 6",
-      "period": "HT",
-      "current_minute": 45,
+      "period": "2T",
+      "current_minute": 49,
       "home_score": 1,
       "away_score": 1,
       "home_score_ht": 1,
@@ -73717,7 +73717,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": false,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Pohang Steelers 0 - 0 Gimcheon — Full Highlights",
+          "url": "https://youtu.be/MNiEzpw0u_c?si=2OX9bUx-dzkEIEzy",
+          "thumbnail": "https://i.ytimg.com/vi/MNiEzpw0u_c/hqdefault.jpg",
+          "published_at": "2026-09-09T16:49:21+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 42,
         "home_wins": 19,
@@ -74063,7 +74071,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": false,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Gangwon 1 - 1 Jeonbuk — Full Highlights",
+          "url": "https://youtu.be/pCkSKhciNZ8?si=0acWV7LX_-R5r1y-",
+          "thumbnail": "https://i.ytimg.com/vi/pCkSKhciNZ8/hqdefault.jpg",
+          "published_at": "2026-09-09T16:49:35+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 42,
         "home_wins": 13,
@@ -74232,7 +74248,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": false,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Daejeon Hana 3 - 2 FC Anyang — Full Highlights",
+          "url": "https://youtu.be/7VQGCwyXFTk?si=Gt0ipWLxXl-JED4f",
+          "thumbnail": "https://i.ytimg.com/vi/7VQGCwyXFTk/hqdefault.jpg",
+          "published_at": "2026-09-09T16:49:45+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 5,
         "home_wins": 2,
