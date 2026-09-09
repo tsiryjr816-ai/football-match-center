@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T04:40:10.065389+00:00",
+  "updated_at": "2026-09-09T04:52:00.957719+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-09",
   "date_to": "2026-09-16",
@@ -59339,7 +59339,7 @@
       "away_team_id": 3938,
       "away_team": "Orlando Pride",
       "home_coach_id": 2053,
-      "away_coach_id": 2061,
+      "away_coach_id": 3863,
       "referee_id": null,
       "venue_id": 1607,
       "event_date": "2026-09-12T00:00:00+00:00",
