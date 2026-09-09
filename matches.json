@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T15:05:58.701385+00:00",
+  "updated_at": "2026-09-09T15:25:46.394143+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-09",
   "date_to": "2026-09-16",
@@ -73528,7 +73528,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season",
       "period": "1T",
-      "current_minute": 5,
+      "current_minute": 25,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
