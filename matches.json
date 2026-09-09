@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T16:06:29.238561+00:00",
+  "updated_at": "2026-09-09T16:27:00.110276+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-09",
   "date_to": "2026-09-16",
@@ -73272,7 +73272,7 @@
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -73319,7 +73319,7 @@
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -73425,10 +73425,10 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 6",
       "period": "1T",
-      "current_minute": 10,
-      "home_score": 0,
+      "current_minute": 31,
+      "home_score": 1,
       "away_score": 1,
-      "home_score_ht": 0,
+      "home_score_ht": 1,
       "away_score_ht": 1,
       "penalty_shootout": null,
       "extra_time_score": null,
@@ -73528,8 +73528,8 @@
       "stage_name": "Regular season",
       "round_label": "Regular season",
       "period": "2T",
-      "current_minute": 48,
-      "home_score": 0,
+      "current_minute": 68,
+      "home_score": 1,
       "away_score": 1,
       "home_score_ht": 0,
       "away_score_ht": 1,
