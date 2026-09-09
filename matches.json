@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T02:06:29.513481+00:00",
+  "updated_at": "2026-09-09T02:25:28.456554+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-09",
   "date_to": "2026-09-16",
@@ -4824,7 +4824,30 @@
       "live_websocket": false,
       "websocket_plus": true,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 1,
+        "home_wins": 0,
+        "draws": 1,
+        "away_wins": 0,
+        "home_goals": 0,
+        "away_goals": 0,
+        "avg_total_goals": 0.0,
+        "home_win_rate": 0.0,
+        "away_win_rate": 0.0,
+        "recent_matches": [
+          {
+            "away": "Vasco da Gama",
+            "date": "2026-09-08T22:00:00+00:00",
+            "home": "Independiente Santa Fe",
+            "score": "0-0",
+            "event_id": 601168,
+            "away_score": 0,
+            "home_score": 0,
+            "away_team_id": 164,
+            "home_team_id": 797
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": 601168
     },
@@ -4871,7 +4894,30 @@
       "live_websocket": false,
       "websocket_plus": true,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 1,
+        "home_wins": 0,
+        "draws": 0,
+        "away_wins": 1,
+        "home_goals": 0,
+        "away_goals": 2,
+        "avg_total_goals": 2.0,
+        "home_win_rate": 0.0,
+        "away_win_rate": 1.0,
+        "recent_matches": [
+          {
+            "away": "Club Atlético Platense",
+            "date": "2026-09-08T22:00:00+00:00",
+            "home": "Fluminense",
+            "score": "2-0",
+            "event_id": 588061,
+            "away_score": 0,
+            "home_score": 2,
+            "away_team_id": 796,
+            "home_team_id": 153
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": 588061
     },
@@ -74044,7 +74090,7 @@
       "stage_name": "Quarterfinals",
       "round_label": "Quarterfinals",
       "period": "2T",
-      "current_minute": 74,
+      "current_minute": 93,
       "home_score": 1,
       "away_score": 0,
       "home_score_ht": 0,
@@ -74113,16 +74159,27 @@
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
-        "total_matches": 15,
+        "total_matches": 16,
         "home_wins": 4,
         "draws": 3,
-        "away_wins": 8,
+        "away_wins": 9,
         "home_goals": 11,
-        "away_goals": 13,
-        "avg_total_goals": 1.6,
-        "home_win_rate": 0.26666666666666666,
-        "away_win_rate": 0.5333333333333333,
+        "away_goals": 15,
+        "avg_total_goals": 1.625,
+        "home_win_rate": 0.25,
+        "away_win_rate": 0.5625,
         "recent_matches": [
+          {
+            "away": "Juventude",
+            "date": "2026-09-09T00:00:00+00:00",
+            "home": "Criciúma",
+            "score": "0-2",
+            "event_id": 10117,
+            "away_score": 2,
+            "home_score": 0,
+            "away_team_id": 156,
+            "home_team_id": 929
+          },
           {
             "away": "Criciúma",
             "date": "2026-05-10T00:15:00+00:00",
@@ -74221,17 +74278,6 @@
             "home_score": 1,
             "away_team_id": 929,
             "home_team_id": 156
-          },
-          {
-            "away": "Juventude",
-            "date": "2008-08-26T22:30:00+00:00",
-            "home": "Criciúma",
-            "score": "0-1",
-            "event_id": 473912,
-            "away_score": 1,
-            "home_score": 0,
-            "away_team_id": 156,
-            "home_team_id": 929
           }
         ]
       },
