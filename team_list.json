@@ -183,14 +183,6 @@
     "id": 781,
     "name": "Deportes Tolima"
   },
-  "2228": {
-    "id": 2228,
-    "name": "Hartford Athletic"
-  },
-  "2227": {
-    "id": 2227,
-    "name": "SC Jacksonville"
-  },
   "163": {
     "id": 163,
     "name": "Botafogo"
@@ -214,6 +206,14 @@
   "165": {
     "id": 165,
     "name": "Santos"
+  },
+  "2228": {
+    "id": 2228,
+    "name": "Hartford Athletic"
+  },
+  "2227": {
+    "id": 2227,
+    "name": "SC Jacksonville"
   },
   "46": {
     "id": 46,
