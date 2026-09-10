@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T05:51:03.540948+00:00",
+  "updated_at": "2026-09-10T06:08:25.036972+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-10",
   "date_to": "2026-09-17",
@@ -67427,7 +67427,7 @@
       "away_team": "Deportivo Cali",
       "home_coach_id": 3852,
       "away_coach_id": 2156,
-      "referee_id": null,
+      "referee_id": 2098,
       "venue_id": 542,
       "event_date": "2026-09-11T01:00:00+00:00",
       "status": "notstarted",
