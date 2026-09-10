@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T22:36:00.132606+00:00",
+  "updated_at": "2026-09-10T22:49:12.259815+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-10",
   "date_to": "2026-09-17",
@@ -68074,7 +68074,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 27",
       "period": "1T",
-      "current_minute": 4,
+      "current_minute": 18,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
