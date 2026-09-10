@@ -1339,6 +1339,14 @@
     "id": 599,
     "name": "Colombe FC"
   },
+  "2740": {
+    "id": 2740,
+    "name": "Sidama Bunna FC"
+  },
+  "8241": {
+    "id": 8241,
+    "name": "Aiglons FC N'Djamena"
+  },
   "1332": {
     "id": 1332,
     "name": "FC Nordsjælland"
@@ -1622,14 +1630,6 @@
   "96": {
     "id": 96,
     "name": "Hamburger SV"
-  },
-  "2740": {
-    "id": 2740,
-    "name": "Sidama Bunna FC"
-  },
-  "8241": {
-    "id": 8241,
-    "name": "Aiglons FC N'Djamena"
   },
   "596": {
     "id": 596,
@@ -2527,6 +2527,14 @@
     "id": 5706,
     "name": "CFFA"
   },
+  "3590": {
+    "id": 3590,
+    "name": "Tout Puissant Mazembe"
+  },
+  "5467": {
+    "id": 5467,
+    "name": "Medeama SC"
+  },
   "1892": {
     "id": 1892,
     "name": "York City"
@@ -2798,14 +2806,6 @@
   "616": {
     "id": 616,
     "name": "Al-Merrikh Khartoum Club"
-  },
-  "3590": {
-    "id": 3590,
-    "name": "Tout Puissant Mazembe"
-  },
-  "5467": {
-    "id": 5467,
-    "name": "Medeama SC"
   },
   "583": {
     "id": 583,
