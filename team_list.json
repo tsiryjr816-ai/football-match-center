@@ -2283,14 +2283,6 @@
     "id": 181,
     "name": "FC Groningen"
   },
-  "8240": {
-    "id": 8240,
-    "name": "Medina United FC"
-  },
-  "8239": {
-    "id": 8239,
-    "name": "Star Sport Academy"
-  },
   "1261": {
     "id": 1261,
     "name": "Granada"
@@ -2358,6 +2350,14 @@
   "630": {
     "id": 630,
     "name": "Gaborone United"
+  },
+  "8240": {
+    "id": 8240,
+    "name": "Medina United FC"
+  },
+  "8239": {
+    "id": 8239,
+    "name": "Star Sport Academy"
   },
   "4824": {
     "id": 4824,
