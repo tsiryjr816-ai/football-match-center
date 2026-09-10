@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T22:05:40.754082+00:00",
+  "updated_at": "2026-09-10T22:22:34.737872+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-10",
   "date_to": "2026-09-17",
@@ -68712,7 +68712,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Stevenage 2 - 1 Luton — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=O6b8tBfcqPM",
+          "thumbnail": "https://i.ytimg.com/vi/O6b8tBfcqPM/hqdefault.jpg",
+          "published_at": "2026-09-10T22:16:15+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 13,
         "home_wins": 5,
