@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T17:36:11.272395+00:00",
+  "updated_at": "2026-09-10T17:50:08.716386+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-10",
   "date_to": "2026-09-17",
@@ -68748,7 +68748,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -68995,7 +68995,7 @@
       "referee_id": 2140,
       "venue_id": 113,
       "event_date": "2026-09-10T16:45:00+00:00",
-      "status": "halftime",
+      "status": "2nd_half",
       "replaced_by": null,
       "round_number": 1,
       "round_name": "",
@@ -69003,7 +69003,7 @@
       "stage": "league-phase",
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 1",
-      "period": "HT",
+      "period": "2T",
       "current_minute": 45,
       "home_score": 0,
       "away_score": 1,
@@ -69065,7 +69065,7 @@
       "referee_id": 1778,
       "venue_id": 132,
       "event_date": "2026-09-10T16:45:00+00:00",
-      "status": "halftime",
+      "status": "2nd_half",
       "replaced_by": null,
       "round_number": 1,
       "round_name": "",
@@ -69073,8 +69073,8 @@
       "stage": "league-phase",
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 1",
-      "period": "HT",
-      "current_minute": 45,
+      "period": "2T",
+      "current_minute": 46,
       "home_score": 0,
       "away_score": 1,
       "home_score_ht": 0,
