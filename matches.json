@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T05:23:51.086589+00:00",
+  "updated_at": "2026-09-10T05:37:43.212600+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-10",
   "date_to": "2026-09-17",
@@ -41158,7 +41158,7 @@
       "away_team": "APS Atromitos Athinon",
       "home_coach_id": 2802,
       "away_coach_id": 302,
-      "referee_id": null,
+      "referee_id": 2957,
       "venue_id": 1651,
       "event_date": "2026-09-12T18:00:00+00:00",
       "status": "notstarted",
@@ -44664,7 +44664,7 @@
       "away_team": "OFI Crete",
       "home_coach_id": 435,
       "away_coach_id": 390,
-      "referee_id": null,
+      "referee_id": 1651,
       "venue_id": 116,
       "event_date": "2026-09-12T16:00:00+00:00",
       "status": "notstarted",
@@ -69211,7 +69211,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Portland 2 - 2 St. Louis — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=Bqm6n2Qj_UQ",
+          "thumbnail": "https://i.ytimg.com/vi/Bqm6n2Qj_UQ/hqdefault.jpg",
+          "published_at": "2026-09-10T05:20:40+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 6,
         "home_wins": 2,
@@ -69336,7 +69344,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "San Diego 2 - 3 San Jose — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=R_EFmWS0aYY",
+          "thumbnail": "https://i.ytimg.com/vi/R_EFmWS0aYY/hqdefault.jpg",
+          "published_at": "2026-09-10T05:32:46+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 3,
         "home_wins": 1,
@@ -69597,7 +69613,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Vancouver 3 - 0 LA Galaxy — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=ElOZTNk_rGg",
+          "thumbnail": "https://i.ytimg.com/vi/ElOZTNk_rGg/hqdefault.jpg",
+          "published_at": "2026-09-10T05:32:35+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 38,
         "home_wins": 12,
@@ -69766,7 +69790,15 @@
       "attendance": null,
       "live_websocket": false,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Los Angeles 2 - 0 NY Red Bulls — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=UPwnry04iGk",
+          "thumbnail": "https://i.ytimg.com/vi/UPwnry04iGk/hqdefault.jpg",
+          "published_at": "2026-09-10T05:20:23+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 4,
         "home_wins": 2,
