@@ -979,6 +979,14 @@
     "id": 313,
     "name": "Pumas UNAM"
   },
+  "312": {
+    "id": 312,
+    "name": "Santos Laguna"
+  },
+  "306": {
+    "id": 306,
+    "name": "FC Juárez"
+  },
   "296": {
     "id": 296,
     "name": "San Diego FC"
@@ -994,14 +1002,6 @@
   "733": {
     "id": 733,
     "name": "Racing Club"
-  },
-  "312": {
-    "id": 312,
-    "name": "Santos Laguna"
-  },
-  "306": {
-    "id": 306,
-    "name": "FC Juárez"
   },
   "3733": {
     "id": 3733,
