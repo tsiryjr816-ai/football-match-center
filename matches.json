@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T02:51:44.584520+00:00",
+  "updated_at": "2026-09-10T03:06:05.597237+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-10",
   "date_to": "2026-09-17",
@@ -14877,7 +14877,7 @@
       "home_team": "Radomiak Radom",
       "away_team_id": 435,
       "away_team": "Piast Gliwice",
-      "home_coach_id": 1897,
+      "home_coach_id": 3887,
       "away_coach_id": 447,
       "referee_id": null,
       "venue_id": 413,
@@ -69191,7 +69191,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season",
       "period": "1T",
-      "current_minute": 10,
+      "current_minute": 24,
       "home_score": 0,
       "away_score": 1,
       "home_score_ht": 0,
@@ -69316,11 +69316,11 @@
       "stage_name": "Regular season",
       "round_label": "Regular season",
       "period": "1T",
-      "current_minute": 10,
+      "current_minute": 24,
       "home_score": 0,
-      "away_score": 1,
+      "away_score": 2,
       "home_score_ht": 0,
-      "away_score_ht": 1,
+      "away_score_ht": 2,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -69577,7 +69577,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season",
       "period": "1T",
-      "current_minute": 10,
+      "current_minute": 24,
       "home_score": 1,
       "away_score": 0,
       "home_score_ht": 1,
@@ -69746,10 +69746,10 @@
       "stage_name": "Regular season",
       "round_label": "Regular season",
       "period": "1T",
-      "current_minute": 10,
-      "home_score": 0,
+      "current_minute": 24,
+      "home_score": 1,
       "away_score": 0,
-      "home_score_ht": 0,
+      "home_score_ht": 1,
       "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
@@ -69840,7 +69840,7 @@
       "referee_id": null,
       "venue_id": null,
       "event_date": "2026-09-10T01:10:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 5,
       "round_name": "Round of 16",
@@ -69848,8 +69848,8 @@
       "stage": "round-of-16",
       "stage_name": "Round of 16",
       "round_label": "Round of 16",
-      "period": "2T",
-      "current_minute": 82,
+      "period": "FT",
+      "current_minute": 90,
       "home_score": 1,
       "away_score": 4,
       "home_score_ht": 0,
@@ -69869,7 +69869,43 @@
       "attendance": null,
       "live_websocket": false,
       "websocket_plus": false,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "goals",
+          "title": "Dep. Pasto 0 - 2 Ind. Medellín — 27' Didier Moreno",
+          "url": "https://www.youtube.com/watch?v=bCgkXwdZBoI&pp=0gcJCf4LAYcqIYzv",
+          "thumbnail": "https://i.ytimg.com/vi/bCgkXwdZBoI/hqdefault.jpg",
+          "published_at": "2026-09-10T02:59:55+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Dep. Pasto 0 - 3 Ind. Medellín — 70' Keiner Klinger",
+          "url": "https://www.youtube.com/watch?v=Ei5bQtiRzyQ",
+          "thumbnail": "https://i.ytimg.com/vi/Ei5bQtiRzyQ/hqdefault.jpg",
+          "published_at": "2026-09-10T02:59:46+00:00"
+        },
+        {
+          "kind": "clip",
+          "title": "Dep. Pasto 1 - 4 Ind. Medellín — 81'",
+          "url": "https://www.youtube.com/watch?v=5O3mUGlyyE4&pp=0gcJCf4LAYcqIYzv",
+          "thumbnail": "https://i.ytimg.com/vi/5O3mUGlyyE4/hqdefault.jpg",
+          "published_at": "2026-09-10T02:59:38+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Dep. Pasto 1 - 3 Ind. Medellín — 74' Jonathan Perlaza",
+          "url": "https://www.youtube.com/watch?v=z_Rqai50yII",
+          "thumbnail": "https://i.ytimg.com/vi/z_Rqai50yII/hqdefault.jpg",
+          "published_at": "2026-09-10T02:59:26+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Dep. Pasto 0 - 1 Ind. Medellín — 12' Yony González",
+          "url": "https://www.youtube.com/watch?v=nd6fcdGOgPQ",
+          "thumbnail": "https://i.ytimg.com/vi/nd6fcdGOgPQ/hqdefault.jpg",
+          "published_at": "2026-09-10T01:35:36+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 22,
         "home_wins": 7,
@@ -70207,7 +70243,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "goals",
+          "title": "Estudiantes 1 - 1 Corinthians — All Goals",
+          "url": "https://www.youtube.com/watch?v=2wfQrwoHgw8&pp=0gcJCf4LAYcqIYzv",
+          "thumbnail": "https://i.ytimg.com/vi/2wfQrwoHgw8/hqdefault.jpg",
+          "published_at": "2026-09-10T02:54:33+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 2,
         "home_wins": 1,
@@ -70288,7 +70332,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Atlético-GO 2 - 1 Ceará — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=XlqPOTEFLG0",
+          "thumbnail": "https://i.ytimg.com/vi/XlqPOTEFLG0/hqdefault.jpg",
+          "published_at": "2026-09-10T02:59:05+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 23,
         "home_wins": 9,
