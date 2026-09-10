@@ -535,14 +535,6 @@
     "id": 72,
     "name": "Pisa"
   },
-  "1254": {
-    "id": 1254,
-    "name": "Peterborough United"
-  },
-  "1414": {
-    "id": 1414,
-    "name": "Barnsley"
-  },
   "8": {
     "id": 8,
     "name": "West Ham United"
@@ -662,6 +654,14 @@
   "1415": {
     "id": 1415,
     "name": "Lincoln City"
+  },
+  "1254": {
+    "id": 1254,
+    "name": "Peterborough United"
+  },
+  "1414": {
+    "id": 1414,
+    "name": "Barnsley"
   },
   "426": {
     "id": 426,
