@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T03:06:06.465218+00:00",
+  "updated_at": "2026-09-11T03:24:54.312407+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-11",
   "date_to": "2026-09-18",
@@ -72231,7 +72231,7 @@
       "referee_id": 2364,
       "venue_id": 301,
       "event_date": "2026-09-11T03:05:00+00:00",
-      "status": "notstarted",
+      "status": "1st_half",
       "replaced_by": null,
       "round_number": 7,
       "round_name": "",
@@ -72239,12 +72239,12 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 7",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "1T",
+      "current_minute": 19,
+      "home_score": 0,
+      "away_score": 0,
+      "home_score_ht": 0,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -72613,7 +72613,22 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "goals",
+          "title": "Ind. del Valle 0 - 2 Flamengo — All Goals",
+          "url": "https://www.youtube.com/watch?v=okbqqM3WpYg",
+          "thumbnail": "https://i.ytimg.com/vi/okbqqM3WpYg/hqdefault.jpg",
+          "published_at": "2026-09-11T03:07:56+00:00"
+        },
+        {
+          "kind": "full",
+          "title": "Ind. del Valle 0 - 2 Flamengo — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=anfuR7551rY",
+          "thumbnail": "https://i.ytimg.com/vi/anfuR7551rY/hqdefault.jpg",
+          "published_at": "2026-09-11T03:06:54+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 2,
         "home_wins": 1,
@@ -72694,7 +72709,22 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Cienciano 2 - 0 Torque — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=48cWs6pELh0",
+          "thumbnail": "https://i.ytimg.com/vi/48cWs6pELh0/hqdefault.jpg",
+          "published_at": "2026-09-11T03:07:33+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Cienciano 2 - 0 Torque — All Goals",
+          "url": "https://www.youtube.com/watch?v=EQ2OGz6DwFI&pp=0gcJCf4LAYcqIYzv",
+          "thumbnail": "https://i.ytimg.com/vi/EQ2OGz6DwFI/hqdefault.jpg",
+          "published_at": "2026-09-11T03:07:23+00:00"
+        }
+      ],
       "head_to_head": null,
       "has_xg": true,
       "previous_leg_event_id": null
@@ -72741,7 +72771,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Sport Recife 2 - 0 Ponte Preta — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=OPhgfwEZ6CI",
+          "thumbnail": "https://i.ytimg.com/vi/OPhgfwEZ6CI/hqdefault.jpg",
+          "published_at": "2026-09-11T03:09:29+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 24,
         "home_wins": 10,
