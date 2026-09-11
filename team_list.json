@@ -143,6 +143,14 @@
     "id": 1305,
     "name": "Dijon"
   },
+  "357": {
+    "id": 357,
+    "name": "FC Rapid București"
+  },
+  "356": {
+    "id": 356,
+    "name": "FC Argeș Pitești"
+  },
   "368": {
     "id": 368,
     "name": "FC Dinamo București"
@@ -174,6 +182,14 @@
   "192": {
     "id": 192,
     "name": "Konyaspor"
+  },
+  "346": {
+    "id": 346,
+    "name": "Slavia Sofia"
+  },
+  "339": {
+    "id": 339,
+    "name": "FC CSKA 1948 Sofia"
   },
   "2074": {
     "id": 2074,
@@ -1851,10 +1867,6 @@
     "id": 2079,
     "name": "Kristiansund BK"
   },
-  "346": {
-    "id": 346,
-    "name": "Slavia Sofia"
-  },
   "352": {
     "id": 352,
     "name": "FK Spartak Varna"
@@ -1886,10 +1898,6 @@
   "1403": {
     "id": 1403,
     "name": "CD Eldense"
-  },
-  "356": {
-    "id": 356,
-    "name": "FC Argeș Pitești"
   },
   "365": {
     "id": 365,
@@ -2311,10 +2319,6 @@
     "id": 67,
     "name": "Cagliari"
   },
-  "357": {
-    "id": 357,
-    "name": "FC Rapid București"
-  },
   "2217": {
     "id": 2217,
     "name": "FC Voluntari"
@@ -2470,10 +2474,6 @@
   "4822": {
     "id": 4822,
     "name": "SC Covilhã"
-  },
-  "339": {
-    "id": 339,
-    "name": "FC CSKA 1948 Sofia"
   },
   "3841": {
     "id": 3841,
