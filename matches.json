@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T02:51:30.350187+00:00",
+  "updated_at": "2026-09-11T03:06:06.465218+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-11",
   "date_to": "2026-09-18",
@@ -72228,7 +72228,7 @@
       "away_team": "Club León",
       "home_coach_id": 350,
       "away_coach_id": 347,
-      "referee_id": null,
+      "referee_id": 2364,
       "venue_id": 301,
       "event_date": "2026-09-11T03:05:00+00:00",
       "status": "notstarted",
@@ -72400,7 +72400,7 @@
       "referee_id": 2098,
       "venue_id": 542,
       "event_date": "2026-09-11T01:00:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 5,
       "round_name": "",
@@ -72408,8 +72408,8 @@
       "stage": "league-phase",
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 5",
-      "period": "2T",
-      "current_minute": 92,
+      "period": "FT",
+      "current_minute": 90,
       "home_score": 1,
       "away_score": 1,
       "home_score_ht": 0,
@@ -72425,11 +72425,26 @@
         "wind_speed": 4.6,
         "temperature_c": 16
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "goals",
+          "title": "Millonarios 1 - 1 Dep. Cali — 60' Francisco Chaverra",
+          "url": "https://www.youtube.com/watch?v=NNLpn9RTqpo",
+          "thumbnail": "https://i.ytimg.com/vi/NNLpn9RTqpo/hqdefault.jpg",
+          "published_at": "2026-09-11T02:25:34+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Millonarios 0 - 1 Dep. Cali — 39' Johan Martínez",
+          "url": "https://www.youtube.com/watch?v=XzUwll_7-vU",
+          "thumbnail": "https://i.ytimg.com/vi/XzUwll_7-vU/hqdefault.jpg",
+          "published_at": "2026-09-11T01:52:29+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 22,
         "home_wins": 6,
