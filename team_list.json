@@ -1551,6 +1551,14 @@
     "id": 24,
     "name": "Gil Vicente"
   },
+  "3653": {
+    "id": 3653,
+    "name": "Chaves B"
+  },
+  "8297": {
+    "id": 8297,
+    "name": "CD Celoricense"
+  },
   "43": {
     "id": 43,
     "name": "Mallorca"
@@ -1658,6 +1666,22 @@
   "1619": {
     "id": 1619,
     "name": "Le Mans"
+  },
+  "3899": {
+    "id": 3899,
+    "name": "SU Sintrense"
+  },
+  "8718": {
+    "id": 8718,
+    "name": "Santa Clara Azores B"
+  },
+  "5028": {
+    "id": 5028,
+    "name": "SC Maria da Fonte"
+  },
+  "2845": {
+    "id": 2845,
+    "name": "SC Braga B"
   },
   "1910": {
     "id": 1910,
@@ -1839,6 +1863,190 @@
     "id": 42,
     "name": "Real Oviedo"
   },
+  "5867": {
+    "id": 5867,
+    "name": "Vitória de Setúbal"
+  },
+  "8390": {
+    "id": 8390,
+    "name": "Juventude SC"
+  },
+  "3248": {
+    "id": 3248,
+    "name": "Real SC"
+  },
+  "8326": {
+    "id": 8326,
+    "name": "JD Lajense"
+  },
+  "8722": {
+    "id": 8722,
+    "name": "GD Portel"
+  },
+  "8392": {
+    "id": 8392,
+    "name": "SC Mineiro Aljustrelense"
+  },
+  "8328": {
+    "id": 8328,
+    "name": "GD Lagoa"
+  },
+  "8307": {
+    "id": 8307,
+    "name": "FC Serpa"
+  },
+  "8394": {
+    "id": 8394,
+    "name": "GD Alcochetense"
+  },
+  "8290": {
+    "id": 8290,
+    "name": "Imortal Deportivo Clube"
+  },
+  "3239": {
+    "id": 3239,
+    "name": "1º Dezembro"
+  },
+  "4820": {
+    "id": 4820,
+    "name": "Amora FC"
+  },
+  "8334": {
+    "id": 8334,
+    "name": "União Desportiva da Serra"
+  },
+  "8287": {
+    "id": 8287,
+    "name": "Mortágua"
+  },
+  "8345": {
+    "id": 8345,
+    "name": "Sertanense"
+  },
+  "8285": {
+    "id": 8285,
+    "name": "At. Malveira"
+  },
+  "8312": {
+    "id": 8312,
+    "name": "Gd Nazarenos"
+  },
+  "5022": {
+    "id": 5022,
+    "name": "CF Marialvas"
+  },
+  "3241": {
+    "id": 3241,
+    "name": "CD Fátima"
+  },
+  "3246": {
+    "id": 3246,
+    "name": "Oliveira Hospital"
+  },
+  "8299": {
+    "id": 8299,
+    "name": "Benfica Castelo Branco"
+  },
+  "8719": {
+    "id": 8719,
+    "name": "AD Nogueirense"
+  },
+  "4026": {
+    "id": 4026,
+    "name": "Associação Naval 1893"
+  },
+  "8720": {
+    "id": 8720,
+    "name": "FC Alverca B"
+  },
+  "8721": {
+    "id": 8721,
+    "name": "AD Fazendense"
+  },
+  "8319": {
+    "id": 8319,
+    "name": "O Elvas CAD"
+  },
+  "8434": {
+    "id": 8434,
+    "name": "UD Sousense"
+  },
+  "4834": {
+    "id": 4834,
+    "name": "CF União de Lamas"
+  },
+  "8374": {
+    "id": 8374,
+    "name": "Sport Comércio e Salgueiros"
+  },
+  "5002": {
+    "id": 5002,
+    "name": "CD Cinfães"
+  },
+  "7069": {
+    "id": 7069,
+    "name": "SC Beira-Mar"
+  },
+  "8292": {
+    "id": 8292,
+    "name": "AD Castro Daire"
+  },
+  "8344": {
+    "id": 8344,
+    "name": "Florgrade FC"
+  },
+  "4828": {
+    "id": 4828,
+    "name": "AD Sanjoanense"
+  },
+  "8304": {
+    "id": 8304,
+    "name": "FC Alpendorada"
+  },
+  "4922": {
+    "id": 4922,
+    "name": "AD Machico"
+  },
+  "8653": {
+    "id": 8653,
+    "name": "Estrela Calheta FC"
+  },
+  "8321": {
+    "id": 8321,
+    "name": "AD Ovarense"
+  },
+  "8296": {
+    "id": 8296,
+    "name": "Grupo Desportivo de Bragança"
+  },
+  "8651": {
+    "id": 8651,
+    "name": "AD Ponte da Barca"
+  },
+  "4970": {
+    "id": 4970,
+    "name": "FC Tirsense"
+  },
+  "8350": {
+    "id": 8350,
+    "name": "Brito SC"
+  },
+  "5865": {
+    "id": 5865,
+    "name": "CDC Montalegre"
+  },
+  "8652": {
+    "id": 8652,
+    "name": "FC Maia Lidador"
+  },
+  "4914": {
+    "id": 4914,
+    "name": "AC Vila Meã"
+  },
+  "8340": {
+    "id": 8340,
+    "name": "FC Vinhais"
+  },
   "1373": {
     "id": 1373,
     "name": "Randers FC"
@@ -2018,6 +2226,14 @@
   "142": {
     "id": 142,
     "name": "FC Utrecht"
+  },
+  "8224": {
+    "id": 8224,
+    "name": "Guarda FC"
+  },
+  "4816": {
+    "id": 4816,
+    "name": "AD Camacha"
   },
   "26": {
     "id": 26,
