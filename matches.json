@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T12:30:27.864229+00:00",
+  "updated_at": "2026-09-11T12:53:41.398037+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-11",
   "date_to": "2026-09-18",
@@ -72848,7 +72848,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Vissel Kobe 2 - 1 Kashima — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=JeEb-4HBVY8",
+          "thumbnail": "https://i.ytimg.com/vi/JeEb-4HBVY8/hqdefault.jpg",
+          "published_at": "2026-09-11T12:27:51+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 42,
         "home_wins": 13,
@@ -73017,7 +73025,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Kyoto Sanga 2 - 3 Kashiwa — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=LA6bmCiv5vY",
+          "thumbnail": "https://i.ytimg.com/vi/LA6bmCiv5vY/hqdefault.jpg",
+          "published_at": "2026-09-11T12:27:27+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 16,
         "home_wins": 3,
