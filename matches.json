@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T04:51:38.876034+00:00",
+  "updated_at": "2026-09-11T05:05:44.238295+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-11",
   "date_to": "2026-09-18",
@@ -72231,7 +72231,7 @@
       "referee_id": 2364,
       "venue_id": 301,
       "event_date": "2026-09-11T03:05:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 7,
       "round_name": "",
@@ -72239,9 +72239,9 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 7",
-      "period": "2T",
-      "current_minute": 84,
-      "home_score": 2,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 3,
       "away_score": 1,
       "home_score_ht": 1,
       "away_score_ht": 0,
@@ -72251,8 +72251,8 @@
       "is_neutral_ground": false,
       "travel_distance_km": 328,
       "weather": {
-        "code": 51,
-        "description": null,
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 2.4,
         "temperature_c": 15
       },
@@ -72260,7 +72260,29 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "goals",
+          "title": "Pumas 2 - 1 León — 70' Robert Morales",
+          "url": "https://www.youtube.com/watch?v=abRkirlJvdA",
+          "thumbnail": "https://i.ytimg.com/vi/abRkirlJvdA/hqdefault.jpg",
+          "published_at": "2026-09-11T04:46:01+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Pumas 1 - 1 León — 53' José Alvarado",
+          "url": "https://www.youtube.com/watch?v=wYBpoRyDC8c&pp=0gcJCf4LAYcqIYzv",
+          "thumbnail": "https://i.ytimg.com/vi/wYBpoRyDC8c/hqdefault.jpg",
+          "published_at": "2026-09-11T04:31:29+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Pumas 1 - 0 León — 45' Juninho",
+          "url": "https://www.youtube.com/watch?v=AZ7JTCDHH_U",
+          "thumbnail": "https://i.ytimg.com/vi/AZ7JTCDHH_U/hqdefault.jpg",
+          "published_at": "2026-09-11T04:18:27+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 30,
         "home_wins": 12,
