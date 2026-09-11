@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T02:38:31.813457+00:00",
+  "updated_at": "2026-09-11T02:51:30.350187+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-11",
   "date_to": "2026-09-18",
@@ -72409,7 +72409,7 @@
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 5",
       "period": "2T",
-      "current_minute": 79,
+      "current_minute": 92,
       "home_score": 1,
       "away_score": 1,
       "home_score_ht": 0,
