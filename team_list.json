@@ -23,6 +23,14 @@
     "id": 838,
     "name": "América Mineiro"
   },
+  "4995": {
+    "id": 4995,
+    "name": "Central Córdoba"
+  },
+  "3136": {
+    "id": 3136,
+    "name": "Defensa y Justicia"
+  },
   "4786": {
     "id": 4786,
     "name": "Rionegro Águilas Doradas"
@@ -3151,10 +3159,6 @@
     "id": 311,
     "name": "Club Necaxa"
   },
-  "4995": {
-    "id": 4995,
-    "name": "Central Córdoba"
-  },
   "3930": {
     "id": 3930,
     "name": "Kansas City Current"
@@ -3186,10 +3190,6 @@
   "3929": {
     "id": 3929,
     "name": "NJ/NY Gotham FC"
-  },
-  "3136": {
-    "id": 3136,
-    "name": "Defensa y Justicia"
   },
   "3125": {
     "id": 3125,
