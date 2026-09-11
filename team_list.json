@@ -79,6 +79,14 @@
     "id": 61,
     "name": "Sassuolo"
   },
+  "1395": {
+    "id": 1395,
+    "name": "Albacete Balompié"
+  },
+  "1265": {
+    "id": 1265,
+    "name": "Córdoba"
+  },
   "79": {
     "id": 79,
     "name": "FC Bayern München"
@@ -142,6 +150,14 @@
   "1305": {
     "id": 1305,
     "name": "Dijon"
+  },
+  "3884": {
+    "id": 3884,
+    "name": "Deportivo Alavés"
+  },
+  "917": {
+    "id": 917,
+    "name": "Fútbol Club Barcelona"
   },
   "357": {
     "id": 357,
@@ -1975,10 +1991,6 @@
     "id": 912,
     "name": "Costa Adeje Tenerife"
   },
-  "3884": {
-    "id": 3884,
-    "name": "Deportivo Alavés"
-  },
   "914": {
     "id": 914,
     "name": "Granada Club de Fútbol"
@@ -2259,10 +2271,6 @@
     "id": 5699,
     "name": "ASN Nigelec"
   },
-  "1265": {
-    "id": 1265,
-    "name": "Córdoba"
-  },
   "1264": {
     "id": 1264,
     "name": "Almería"
@@ -2391,10 +2399,6 @@
     "id": 190,
     "name": "Göztepe"
   },
-  "917": {
-    "id": 917,
-    "name": "Fútbol Club Barcelona"
-  },
   "920": {
     "id": 920,
     "name": "Club Atlético de Madrid"
@@ -2418,10 +2422,6 @@
   "1261": {
     "id": 1261,
     "name": "Granada"
-  },
-  "1395": {
-    "id": 1395,
-    "name": "Albacete Balompié"
   },
   "39": {
     "id": 39,
