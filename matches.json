@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T21:48:29.874692+00:00",
+  "updated_at": "2026-09-11T22:06:10.523373+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-11",
   "date_to": "2026-09-18",
@@ -70351,7 +70351,7 @@
       "referee_id": 2287,
       "venue_id": 1769,
       "event_date": "2026-09-11T20:00:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 9,
       "round_name": "",
@@ -70359,9 +70359,9 @@
       "stage": "group-stage",
       "stage_name": "Group stage",
       "round_label": "Group A · Matchday 9",
-      "period": "2T",
-      "current_minute": 86,
-      "home_score": 0,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 1,
       "away_score": 1,
       "home_score_ht": 0,
       "away_score_ht": 1,
@@ -70371,12 +70371,12 @@
       "is_neutral_ground": false,
       "travel_distance_km": 273,
       "weather": {
-        "code": 0,
-        "description": "unknown",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 12.6,
         "temperature_c": 22
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
@@ -70942,7 +70942,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": false,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Kidderminster 2 - 0 Hartlepool — Full Highlights",
+          "url": "https://youtu.be/Z8FXpPH5TMU",
+          "thumbnail": "https://i.ytimg.com/vi/Z8FXpPH5TMU/hqdefault.jpg",
+          "published_at": "2026-09-11T21:45:57+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 2,
         "home_wins": 1,
