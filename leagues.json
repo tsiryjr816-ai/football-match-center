@@ -88,7 +88,7 @@
             "matches": 58,
             "rounds": 1,
             "start_date": "2026-09-04",
-            "end_date": "2026-09-13"
+            "end_date": "2026-10-03"
           }
         ]
       }
@@ -1884,8 +1884,8 @@
           {
             "stage": "regular-season",
             "stage_name": "Regular season",
-            "matches": 31,
-            "rounds": 3,
+            "matches": 37,
+            "rounds": 4,
             "start_date": "2026-08-28",
             "end_date": "2026-09-30"
           }
