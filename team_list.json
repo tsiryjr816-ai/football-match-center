@@ -79,6 +79,14 @@
     "id": 239,
     "name": "Standard Liège"
   },
+  "101": {
+    "id": 101,
+    "name": "AS Monaco"
+  },
+  "99": {
+    "id": 99,
+    "name": "RC Lens"
+  },
   "1286": {
     "id": 1286,
     "name": "Monza"
@@ -1635,10 +1643,6 @@
     "id": 1619,
     "name": "Le Mans"
   },
-  "99": {
-    "id": 99,
-    "name": "RC Lens"
-  },
   "1910": {
     "id": 1910,
     "name": "Olympique Béja"
@@ -2522,10 +2526,6 @@
   "112": {
     "id": 112,
     "name": "RC Strasbourg"
-  },
-  "101": {
-    "id": 101,
-    "name": "AS Monaco"
   },
   "4985": {
     "id": 4985,
