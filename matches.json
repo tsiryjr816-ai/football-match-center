@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T21:22:24.951364+00:00",
+  "updated_at": "2026-09-11T21:34:26.516444+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-11",
   "date_to": "2026-09-18",
@@ -70360,7 +70360,7 @@
       "stage_name": "Group stage",
       "round_label": "Group A · Matchday 9",
       "period": "2T",
-      "current_minute": 60,
+      "current_minute": 72,
       "home_score": 0,
       "away_score": 1,
       "home_score_ht": 0,
@@ -70529,7 +70529,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 6",
       "period": "2T",
-      "current_minute": 79,
+      "current_minute": 91,
       "home_score": 0,
       "away_score": 3,
       "home_score_ht": 0,
@@ -71192,7 +71192,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Deportivo 0 - 2 Real Madrid — Full Highlights",
+          "url": "https://youtu.be/Ex2e6jT-A0M",
+          "thumbnail": "https://i.ytimg.com/vi/Ex2e6jT-A0M/hqdefault.jpg",
+          "published_at": "2026-09-11T21:26:54+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 8,
         "home_wins": 2,
