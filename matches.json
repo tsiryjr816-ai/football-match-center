@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T05:22:43.589188+00:00",
+  "updated_at": "2026-09-12T05:35:52.665638+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-12",
   "date_to": "2026-09-19",
@@ -47191,7 +47191,7 @@
       "away_team": "Atlético San Luis",
       "home_coach_id": 347,
       "away_coach_id": 1928,
-      "referee_id": null,
+      "referee_id": 1806,
       "venue_id": 305,
       "event_date": "2026-09-15T01:00:00+00:00",
       "status": "notstarted",
@@ -51916,7 +51916,7 @@
       "away_team": "Pumas UNAM",
       "home_coach_id": 444,
       "away_coach_id": 350,
-      "referee_id": null,
+      "referee_id": 2215,
       "venue_id": 307,
       "event_date": "2026-09-14T01:07:00+00:00",
       "status": "notstarted",
@@ -52085,7 +52085,7 @@
       "away_team": "FC Juárez",
       "home_coach_id": 1929,
       "away_coach_id": 3782,
-      "referee_id": null,
+      "referee_id": 2382,
       "venue_id": 300,
       "event_date": "2026-09-14T01:00:00+00:00",
       "status": "notstarted",
@@ -62629,7 +62629,7 @@
       "away_team": "Basel",
       "home_coach_id": 2016,
       "away_coach_id": 3889,
-      "referee_id": null,
+      "referee_id": 1870,
       "venue_id": 240,
       "event_date": "2026-09-13T14:30:00+00:00",
       "status": "notstarted",
@@ -62798,7 +62798,7 @@
       "away_team": "Servette FC",
       "home_coach_id": 272,
       "away_coach_id": 466,
-      "referee_id": null,
+      "referee_id": 2254,
       "venue_id": 242,
       "event_date": "2026-09-13T14:30:00+00:00",
       "status": "notstarted",
@@ -67342,7 +67342,7 @@
       "away_team": "FC Vaduz",
       "home_coach_id": 1977,
       "away_coach_id": 1864,
-      "referee_id": null,
+      "referee_id": 2146,
       "venue_id": 237,
       "event_date": "2026-09-13T12:00:00+00:00",
       "status": "notstarted",
@@ -98252,7 +98252,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Atlante 0 - 3 Pachuca — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=-_iRRs9rv4w",
+          "thumbnail": "https://i.ytimg.com/vi/-_iRRs9rv4w/hqdefault.jpg",
+          "published_at": "2026-09-12T05:30:19+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 12,
         "home_wins": 3,
@@ -98930,7 +98938,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Necaxa 0 - 1 Puebla — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=1AFVTw757Qo",
+          "thumbnail": "https://i.ytimg.com/vi/1AFVTw757Qo/hqdefault.jpg",
+          "published_at": "2026-09-12T05:31:17+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 24,
         "home_wins": 10,
