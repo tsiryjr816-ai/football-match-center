@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T22:22:48.228006+00:00",
+  "updated_at": "2026-09-12T22:35:30.409925+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-12",
   "date_to": "2026-09-19",
@@ -75359,10 +75359,10 @@
       "away_team": "North Carolina Courage",
       "home_coach_id": 2059,
       "away_coach_id": 2057,
-      "referee_id": null,
+      "referee_id": 2699,
       "venue_id": 284,
       "event_date": "2026-09-12T22:30:00+00:00",
-      "status": "notstarted",
+      "status": "1st_half",
       "replaced_by": null,
       "round_number": 1,
       "round_name": "",
@@ -75370,12 +75370,12 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 1",
-      "period": "",
-      "current_minute": null,
+      "period": "1T",
+      "current_minute": 1,
       "home_score": 0,
       "away_score": 0,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "home_score_ht": 0,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -75509,7 +75509,7 @@
       "referee_id": 1590,
       "venue_id": 159,
       "event_date": "2026-09-12T21:30:00+00:00",
-      "status": "1st_half",
+      "status": "halftime",
       "replaced_by": null,
       "round_number": 27,
       "round_name": "",
@@ -75517,8 +75517,8 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 27",
-      "period": "1T",
-      "current_minute": 50,
+      "period": "HT",
+      "current_minute": 45,
       "home_score": 1,
       "away_score": 0,
       "home_score_ht": 1,
@@ -75687,7 +75687,7 @@
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 10",
       "period": "2T",
-      "current_minute": 57,
+      "current_minute": 70,
       "home_score": 2,
       "away_score": 2,
       "home_score_ht": 2,
@@ -75748,7 +75748,7 @@
       "referee_id": 2288,
       "venue_id": 1770,
       "event_date": "2026-09-12T20:30:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 9,
       "round_name": "",
@@ -75756,10 +75756,10 @@
       "stage": "group-stage",
       "stage_name": "Group stage",
       "round_label": "Group B · Matchday 9",
-      "period": "2T",
-      "current_minute": 86,
+      "period": "FT",
+      "current_minute": 90,
       "home_score": 1,
-      "away_score": 1,
+      "away_score": 2,
       "home_score_ht": 0,
       "away_score_ht": 1,
       "penalty_shootout": null,
@@ -75768,12 +75768,12 @@
       "is_neutral_ground": false,
       "travel_distance_km": 1077,
       "weather": {
-        "code": 3,
-        "description": "rain",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 7.4,
         "temperature_c": 25
       },
-      "pitch_condition": null,
+      "pitch_condition": 2,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
@@ -79508,7 +79508,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Fortuna 1 - 5 Ajax — Full Highlights",
+          "url": "https://youtu.be/cYn7eedcEVQ",
+          "thumbnail": "https://i.ytimg.com/vi/cYn7eedcEVQ/hqdefault.jpg",
+          "published_at": "2026-09-12T22:09:58+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 39,
         "home_wins": 5,
@@ -90846,7 +90854,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Watford 1 - 2 Stoke — Full Highlights",
+          "url": "https://youtu.be/hJ3PQiGoNUg",
+          "thumbnail": "https://i.ytimg.com/vi/hJ3PQiGoNUg/hqdefault.jpg",
+          "published_at": "2026-09-12T22:18:52+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 19,
         "home_wins": 7,
@@ -91015,7 +91031,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Swansea 3 - 1 Burnley — Full Highlights",
+          "url": "https://youtu.be/SIVaK1FPbZo",
+          "thumbnail": "https://i.ytimg.com/vi/SIVaK1FPbZo/hqdefault.jpg",
+          "published_at": "2026-09-12T22:18:22+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 14,
         "home_wins": 7,
@@ -91184,7 +91208,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Southampton 4 - 1 Bristol City — Full Highlights",
+          "url": "https://youtu.be/NFoL7ab5GTw",
+          "thumbnail": "https://i.ytimg.com/vi/NFoL7ab5GTw/hqdefault.jpg",
+          "published_at": "2026-09-12T22:17:56+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 9,
         "home_wins": 2,
@@ -91389,7 +91421,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Middlesbrough 4 - 3 Norwich — Full Highlights",
+          "url": "https://youtu.be/eOWq9GZha6s",
+          "thumbnail": "https://i.ytimg.com/vi/eOWq9GZha6s/hqdefault.jpg",
+          "published_at": "2026-09-12T22:13:43+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 23,
         "home_wins": 9,
@@ -91558,7 +91598,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": false,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Charlton 0 - 0 Portsmouth — Full Highlights",
+          "url": "https://youtu.be/dh3YexoSBfY",
+          "thumbnail": "https://i.ytimg.com/vi/dh3YexoSBfY/hqdefault.jpg",
+          "published_at": "2026-09-12T22:13:14+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 22,
         "home_wins": 12,
@@ -91727,7 +91775,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Blackburn 3 - 1 Millwall — Full Highlights",
+          "url": "https://youtu.be/at-GsIFzFbg",
+          "thumbnail": "https://i.ytimg.com/vi/at-GsIFzFbg/hqdefault.jpg",
+          "published_at": "2026-09-12T22:12:42+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 24,
         "home_wins": 13,
