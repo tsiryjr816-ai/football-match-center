@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T02:37:41.530712+00:00",
+  "updated_at": "2026-09-12T02:50:41.437698+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-12",
   "date_to": "2026-09-19",
@@ -98043,7 +98043,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -98237,7 +98237,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 1",
       "period": "1T",
-      "current_minute": 30,
+      "current_minute": 43,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -98284,7 +98284,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 1",
       "period": "1T",
-      "current_minute": 30,
+      "current_minute": 43,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -98453,7 +98453,7 @@
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 10",
       "period": "2T",
-      "current_minute": 46,
+      "current_minute": 59,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -98613,7 +98613,7 @@
       "referee_id": null,
       "venue_id": 1330,
       "event_date": "2026-09-12T01:30:00+00:00",
-      "status": "halftime",
+      "status": "2nd_half",
       "replaced_by": null,
       "round_number": 1,
       "round_name": "",
@@ -98621,10 +98621,10 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 1",
-      "period": "HT",
-      "current_minute": 45,
+      "period": "2T",
+      "current_minute": 53,
       "home_score": 2,
-      "away_score": 0,
+      "away_score": 1,
       "home_score_ht": 2,
       "away_score_ht": 0,
       "penalty_shootout": null,
@@ -98714,7 +98714,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 8",
       "period": "2T",
-      "current_minute": 75,
+      "current_minute": 89,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -98858,7 +98858,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
