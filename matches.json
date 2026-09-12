@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T21:35:15.650302+00:00",
+  "updated_at": "2026-09-12T21:48:35.201886+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-12",
   "date_to": "2026-09-19",
@@ -75518,7 +75518,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 27",
       "period": "1T",
-      "current_minute": 3,
+      "current_minute": 13,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -75687,11 +75687,11 @@
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 10",
       "period": "1T",
-      "current_minute": 27,
+      "current_minute": 39,
       "home_score": 1,
-      "away_score": 1,
+      "away_score": 2,
       "home_score_ht": 1,
-      "away_score_ht": 1,
+      "away_score_ht": 2,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -75757,7 +75757,7 @@
       "stage_name": "Group stage",
       "round_label": "Group B · Matchday 9",
       "period": "2T",
-      "current_minute": 45,
+      "current_minute": 58,
       "home_score": 0,
       "away_score": 1,
       "home_score_ht": 0,
@@ -75926,7 +75926,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 27",
       "period": "2T",
-      "current_minute": 69,
+      "current_minute": 84,
       "home_score": 1,
       "away_score": 2,
       "home_score_ht": 1,
@@ -78969,7 +78969,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Al-Shabab 0 - 0 Al-Fayha — Full Highlights",
+          "url": "https://youtu.be/I8s4bIlfxuk",
+          "thumbnail": "https://i.ytimg.com/vi/I8s4bIlfxuk/hqdefault.jpg",
+          "published_at": "2026-09-12T21:34:01+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 16,
         "home_wins": 10,
@@ -96549,7 +96557,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Derby 1 - 2 Birmingham — Full Highlights",
+          "url": "https://youtu.be/x8WhzRfLd2s",
+          "thumbnail": "https://i.ytimg.com/vi/x8WhzRfLd2s/hqdefault.jpg",
+          "published_at": "2026-09-12T21:18:16+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 29,
         "home_wins": 11,
