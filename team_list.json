@@ -207,14 +207,6 @@
     "id": 4784,
     "name": "Boyacá Chicó FC"
   },
-  "916": {
-    "id": 916,
-    "name": "FC Badalona"
-  },
-  "924": {
-    "id": 924,
-    "name": "Real Sociedad"
-  },
   "1270": {
     "id": 1270,
     "name": "Cádiz"
@@ -590,6 +582,14 @@
   "112": {
     "id": 112,
     "name": "RC Strasbourg"
+  },
+  "576": {
+    "id": 576,
+    "name": "Ikorodu City"
+  },
+  "567": {
+    "id": 567,
+    "name": "Barau FC"
   },
   "350": {
     "id": 350,
@@ -1959,6 +1959,14 @@
     "id": 32,
     "name": "Tondela"
   },
+  "916": {
+    "id": 916,
+    "name": "FC Badalona"
+  },
+  "924": {
+    "id": 924,
+    "name": "Real Sociedad"
+  },
   "1929": {
     "id": 1929,
     "name": "Machida Zelvia"
@@ -2511,14 +2519,6 @@
     "id": 147,
     "name": "Red Bull Salzburg"
   },
-  "1906": {
-    "id": 1906,
-    "name": "ES Zarzis"
-  },
-  "602": {
-    "id": 602,
-    "name": "US Monastir"
-  },
   "1911": {
     "id": 1911,
     "name": "Stade Tunisien"
@@ -2690,6 +2690,14 @@
   "1340": {
     "id": 1340,
     "name": "AC Sparta Praha"
+  },
+  "1906": {
+    "id": 1906,
+    "name": "ES Zarzis"
+  },
+  "602": {
+    "id": 602,
+    "name": "US Monastir"
   },
   "1909": {
     "id": 1909,
@@ -3307,10 +3315,6 @@
     "id": 572,
     "name": "Kun Khalifat FC"
   },
-  "567": {
-    "id": 567,
-    "name": "Barau FC"
-  },
   "8256": {
     "id": 8256,
     "name": "Ranchers Bees"
@@ -3318,10 +3322,6 @@
   "565": {
     "id": 565,
     "name": "Abia Warriors"
-  },
-  "576": {
-    "id": 576,
-    "name": "Ikorodu City"
   },
   "5193": {
     "id": 5193,
@@ -3878,6 +3878,14 @@
   "241": {
     "id": 241,
     "name": "KVC Westerlo"
+  },
+  "586": {
+    "id": 586,
+    "name": "AS FAR Rabat"
+  },
+  "8617": {
+    "id": 8617,
+    "name": "Widad Temara"
   },
   "3599": {
     "id": 3599,
