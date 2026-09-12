@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T21:48:35.201886+00:00",
+  "updated_at": "2026-09-12T22:08:21.680075+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-12",
   "date_to": "2026-09-19",
@@ -75518,7 +75518,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 27",
       "period": "1T",
-      "current_minute": 13,
+      "current_minute": 35,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -75678,7 +75678,7 @@
       "referee_id": 2111,
       "venue_id": 1653,
       "event_date": "2026-09-12T21:05:00+00:00",
-      "status": "1st_half",
+      "status": "halftime",
       "replaced_by": null,
       "round_number": 10,
       "round_name": "",
@@ -75686,11 +75686,11 @@
       "stage": "league-phase",
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 10",
-      "period": "1T",
-      "current_minute": 39,
-      "home_score": 1,
+      "period": "HT",
+      "current_minute": 45,
+      "home_score": 2,
       "away_score": 2,
-      "home_score_ht": 1,
+      "home_score_ht": 2,
       "away_score_ht": 2,
       "penalty_shootout": null,
       "extra_time_score": null,
@@ -75757,7 +75757,7 @@
       "stage_name": "Group stage",
       "round_label": "Group B · Matchday 9",
       "period": "2T",
-      "current_minute": 58,
+      "current_minute": 76,
       "home_score": 0,
       "away_score": 1,
       "home_score_ht": 0,
@@ -75917,7 +75917,7 @@
       "referee_id": 1587,
       "venue_id": 353,
       "event_date": "2026-09-12T20:00:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 27,
       "round_name": "",
@@ -75925,8 +75925,8 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 27",
-      "period": "2T",
-      "current_minute": 84,
+      "period": "FT",
+      "current_minute": 90,
       "home_score": 1,
       "away_score": 2,
       "home_score_ht": 1,
@@ -75937,12 +75937,12 @@
       "is_neutral_ground": false,
       "travel_distance_km": 356,
       "weather": {
-        "code": 51,
-        "description": null,
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 3.6,
         "temperature_c": 19
       },
-      "pitch_condition": null,
+      "pitch_condition": 2,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
@@ -77077,7 +77077,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Atlético-MG 3 - 1 Fluminense — Full Highlights",
+          "url": "https://youtu.be/3riutY42AGo",
+          "thumbnail": "https://i.ytimg.com/vi/3riutY42AGo/hqdefault.jpg",
+          "published_at": "2026-09-12T21:46:03+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 50,
         "home_wins": 21,
@@ -78116,7 +78124,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Atalanta 1 - 2 Cagliari — Full Highlights",
+          "url": "https://youtu.be/IXxBoMpwGUU",
+          "thumbnail": "https://i.ytimg.com/vi/IXxBoMpwGUU/hqdefault.jpg",
+          "published_at": "2026-09-12T21:39:30+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 62,
         "home_wins": 27,
@@ -79146,7 +79162,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Al-Khaleej 1 - 1 Al-Nassr — Full Highlights",
+          "url": "https://youtu.be/AmCShMEyZto",
+          "thumbnail": "https://i.ytimg.com/vi/AmCShMEyZto/hqdefault.jpg",
+          "published_at": "2026-09-12T21:47:30+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 14,
         "home_wins": 1,
@@ -79745,7 +79769,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": false,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Estudiantes 2 - 1 Platense — Full Highlights",
+          "url": "https://youtu.be/98gRhyqoUZI",
+          "thumbnail": "https://i.ytimg.com/vi/98gRhyqoUZI/hqdefault.jpg",
+          "published_at": "2026-09-12T21:41:45+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 5,
         "home_wins": 2,
