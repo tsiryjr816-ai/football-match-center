@@ -239,14 +239,6 @@
     "id": 170,
     "name": "Fortuna Sittard"
   },
-  "100": {
-    "id": 100,
-    "name": "Olympique Lyonnais"
-  },
-  "97": {
-    "id": 97,
-    "name": "Stade Rennais"
-  },
   "103": {
     "id": 103,
     "name": "Nice"
@@ -255,14 +247,6 @@
     "id": 106,
     "name": "Lille"
   },
-  "1619": {
-    "id": 1619,
-    "name": "Le Mans"
-  },
-  "110": {
-    "id": 110,
-    "name": "Lorient"
-  },
   "109": {
     "id": 109,
     "name": "Auxerre"
@@ -270,14 +254,6 @@
   "105": {
     "id": 105,
     "name": "Stade Brestois"
-  },
-  "107": {
-    "id": 107,
-    "name": "Angers"
-  },
-  "1303": {
-    "id": 1303,
-    "name": "Troyes"
   },
   "155": {
     "id": 155,
@@ -310,6 +286,30 @@
   "102": {
     "id": 102,
     "name": "Le Havre"
+  },
+  "100": {
+    "id": 100,
+    "name": "Olympique Lyonnais"
+  },
+  "97": {
+    "id": 97,
+    "name": "Stade Rennais"
+  },
+  "1619": {
+    "id": 1619,
+    "name": "Le Mans"
+  },
+  "110": {
+    "id": 110,
+    "name": "Lorient"
+  },
+  "107": {
+    "id": 107,
+    "name": "Angers"
+  },
+  "1303": {
+    "id": 1303,
+    "name": "Troyes"
   },
   "1285": {
     "id": 1285,
