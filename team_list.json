@@ -527,6 +527,14 @@
     "id": 925,
     "name": "Logroño United"
   },
+  "340": {
+    "id": 340,
+    "name": "Arda Kardzhali"
+  },
+  "342": {
+    "id": 342,
+    "name": "Cherno More Varna"
+  },
   "250": {
     "id": 250,
     "name": "FC Luzern"
@@ -590,30 +598,6 @@
   "345": {
     "id": 345,
     "name": "CSKA Sofia"
-  },
-  "343": {
-    "id": 343,
-    "name": "FK Septemvri Sofia"
-  },
-  "344": {
-    "id": 344,
-    "name": "Botev Plovdiv"
-  },
-  "3841": {
-    "id": 3841,
-    "name": "FK Dunav Ruse"
-  },
-  "347": {
-    "id": 347,
-    "name": "Botev Vratsa"
-  },
-  "340": {
-    "id": 340,
-    "name": "Arda Kardzhali"
-  },
-  "342": {
-    "id": 342,
-    "name": "Cherno More Varna"
   },
   "348": {
     "id": 348,
@@ -1727,6 +1711,14 @@
     "id": 93,
     "name": "1. FSV Mainz 05"
   },
+  "343": {
+    "id": 343,
+    "name": "FK Septemvri Sofia"
+  },
+  "344": {
+    "id": 344,
+    "name": "Botev Plovdiv"
+  },
   "4026": {
     "id": 4026,
     "name": "Associação Naval 1893"
@@ -1942,6 +1934,14 @@
   "1830": {
     "id": 1830,
     "name": "Eintracht Braunschweig"
+  },
+  "3841": {
+    "id": 3841,
+    "name": "FK Dunav Ruse"
+  },
+  "347": {
+    "id": 347,
+    "name": "Botev Vratsa"
   },
   "1928": {
     "id": 1928,
