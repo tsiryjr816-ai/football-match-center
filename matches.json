@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T22:08:21.680075+00:00",
+  "updated_at": "2026-09-12T22:22:48.228006+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-12",
   "date_to": "2026-09-19",
@@ -75372,8 +75372,8 @@
       "round_label": "Regular season · Matchday 1",
       "period": "",
       "current_minute": null,
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "home_score_ht": null,
       "away_score_ht": null,
       "penalty_shootout": null,
@@ -75518,10 +75518,10 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 27",
       "period": "1T",
-      "current_minute": 35,
-      "home_score": 0,
+      "current_minute": 50,
+      "home_score": 1,
       "away_score": 0,
-      "home_score_ht": 0,
+      "home_score_ht": 1,
       "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
@@ -75678,7 +75678,7 @@
       "referee_id": 2111,
       "venue_id": 1653,
       "event_date": "2026-09-12T21:05:00+00:00",
-      "status": "halftime",
+      "status": "2nd_half",
       "replaced_by": null,
       "round_number": 10,
       "round_name": "",
@@ -75686,8 +75686,8 @@
       "stage": "league-phase",
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 10",
-      "period": "HT",
-      "current_minute": 45,
+      "period": "2T",
+      "current_minute": 57,
       "home_score": 2,
       "away_score": 2,
       "home_score_ht": 2,
@@ -75757,8 +75757,8 @@
       "stage_name": "Group stage",
       "round_label": "Group B · Matchday 9",
       "period": "2T",
-      "current_minute": 76,
-      "home_score": 0,
+      "current_minute": 86,
+      "home_score": 1,
       "away_score": 1,
       "home_score_ht": 0,
       "away_score_ht": 1,
@@ -79677,7 +79677,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Ind. Rivadavia 4 - 3 Aldosivi — Full Highlights",
+          "url": "https://youtu.be/syJM0Yns1Co",
+          "thumbnail": "https://i.ytimg.com/vi/syJM0Yns1Co/hqdefault.jpg",
+          "published_at": "2026-09-12T21:55:11+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 3,
         "home_wins": 1,
@@ -83796,7 +83804,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Rosenborg 5 - 3 Tromsø — Full Highlights",
+          "url": "https://youtu.be/KwwjNbQmP9M",
+          "thumbnail": "https://i.ytimg.com/vi/KwwjNbQmP9M/hqdefault.jpg",
+          "published_at": "2026-09-12T21:55:40+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 33,
         "home_wins": 16,
@@ -96766,7 +96782,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Bolton 1 - 0 Cardiff — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=pQsVW8W0pcI",
+          "thumbnail": "https://i.ytimg.com/vi/pQsVW8W0pcI/hqdefault.jpg",
+          "published_at": "2026-09-12T22:11:57+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 11,
         "home_wins": 5,
