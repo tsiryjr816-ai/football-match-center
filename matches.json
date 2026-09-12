@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T04:36:57.455910+00:00",
+  "updated_at": "2026-09-12T04:50:47.377886+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-12",
   "date_to": "2026-09-19",
@@ -98063,7 +98063,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 8",
       "period": "2T",
-      "current_minute": 64,
+      "current_minute": 78,
       "home_score": 0,
       "away_score": 1,
       "home_score_ht": 0,
@@ -98232,7 +98232,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 8",
       "period": "2T",
-      "current_minute": 74,
+      "current_minute": 88,
       "home_score": 0,
       "away_score": 3,
       "home_score_ht": 0,
@@ -98421,7 +98421,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Angel City 3 - 3 Denver Summit — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=qkOlUNQr0pM",
+          "thumbnail": "https://i.ytimg.com/vi/qkOlUNQr0pM/hqdefault.jpg",
+          "published_at": "2026-09-12T04:42:11+00:00"
+        }
+      ],
       "head_to_head": null,
       "has_xg": false,
       "previous_leg_event_id": null
