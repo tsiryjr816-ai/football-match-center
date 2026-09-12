@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T22:50:06.323332+00:00",
+  "updated_at": "2026-09-12T23:05:23.208045+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-12",
   "date_to": "2026-09-19",
@@ -74127,7 +74127,7 @@
       "referee_id": 2337,
       "venue_id": 1760,
       "event_date": "2026-09-12T23:00:00+00:00",
-      "status": "notstarted",
+      "status": "1st_half",
       "replaced_by": null,
       "round_number": 9,
       "round_name": "",
@@ -74135,12 +74135,12 @@
       "stage": "group-stage",
       "stage_name": "Group stage",
       "round_label": "Group A · Matchday 9",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "1T",
+      "current_minute": 4,
+      "home_score": 0,
+      "away_score": 0,
+      "home_score_ht": 0,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -74633,8 +74633,8 @@
       "round_label": "Regular season · Matchday 1",
       "period": "",
       "current_minute": null,
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "home_score_ht": null,
       "away_score_ht": null,
       "penalty_shootout": null,
@@ -75371,10 +75371,10 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 1",
       "period": "1T",
-      "current_minute": 16,
-      "home_score": 0,
+      "current_minute": 31,
+      "home_score": 1,
       "away_score": 0,
-      "home_score_ht": 0,
+      "home_score_ht": 1,
       "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
@@ -75518,7 +75518,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 27",
       "period": "2T",
-      "current_minute": 57,
+      "current_minute": 72,
       "home_score": 2,
       "away_score": 0,
       "home_score_ht": 1,
@@ -75678,7 +75678,7 @@
       "referee_id": 2111,
       "venue_id": 1653,
       "event_date": "2026-09-12T21:05:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 10,
       "round_name": "",
@@ -75686,9 +75686,9 @@
       "stage": "league-phase",
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 10",
-      "period": "2T",
-      "current_minute": 85,
-      "home_score": 2,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 3,
       "away_score": 2,
       "home_score_ht": 2,
       "away_score_ht": 2,
@@ -75698,16 +75698,45 @@
       "is_neutral_ground": false,
       "travel_distance_km": null,
       "weather": {
-        "code": 2,
-        "description": "cloudy",
+        "code": 1,
+        "description": "clear",
         "wind_speed": 10.7,
         "temperature_c": 22
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "goals",
+          "title": "Inter de Bogotá 1 - 2 Llaneros — 32' Neider Ospina",
+          "url": "https://youtu.be/l0wvegeQHdQ",
+          "thumbnail": "https://i.ytimg.com/vi/l0wvegeQHdQ/hqdefault.jpg",
+          "published_at": "2026-09-12T22:36:47+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Inter de Bogotá 2 - 2 Llaneros — 41' Fabricio Sanguinetti",
+          "url": "https://youtu.be/RE42k-uidIE",
+          "thumbnail": "https://i.ytimg.com/vi/RE42k-uidIE/hqdefault.jpg",
+          "published_at": "2026-09-12T22:36:14+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Inter de Bogotá 1 - 1 Llaneros — 16' Diego Duarte",
+          "url": "https://youtu.be/xoyCCkEjQqc",
+          "thumbnail": "https://i.ytimg.com/vi/xoyCCkEjQqc/hqdefault.jpg",
+          "published_at": "2026-09-12T21:52:01+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Inter de Bogotá 0 - 1 Llaneros — 12' Larry Vásquez, Own goal",
+          "url": "https://youtu.be/Uh7uNCtC6w0",
+          "thumbnail": "https://i.ytimg.com/vi/Uh7uNCtC6w0/hqdefault.jpg",
+          "published_at": "2026-09-12T21:51:55+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 1,
         "home_wins": 0,
@@ -76735,7 +76764,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 4",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 96,
       "home_score": 0,
       "away_score": 2,
       "home_score_ht": 0,
@@ -76755,7 +76784,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Sunderland 0 - 2 Arsenal — Full Highlights",
+          "url": "https://youtu.be/qSCuGCI2eZQ",
+          "thumbnail": "https://i.ytimg.com/vi/qSCuGCI2eZQ/hqdefault.jpg",
+          "published_at": "2026-09-12T23:01:15+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 37,
         "home_wins": 4,
@@ -76879,7 +76916,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -81875,7 +81912,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 4",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 93,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -82027,7 +82064,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -87888,7 +87925,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "York 4 - 0 Swindon — Full Highlights",
+          "url": "https://youtu.be/OPsMsEAx7FY",
+          "thumbnail": "https://i.ytimg.com/vi/OPsMsEAx7FY/hqdefault.jpg",
+          "published_at": "2026-09-12T22:55:11+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 1,
         "home_wins": 0,
@@ -87958,7 +88003,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Walsall 0 - 0 Rochdale — Full Highlights",
+          "url": "https://youtu.be/Os2KuyVADGY",
+          "thumbnail": "https://i.ytimg.com/vi/Os2KuyVADGY/hqdefault.jpg",
+          "published_at": "2026-09-12T22:54:36+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 18,
         "home_wins": 4,
@@ -88127,7 +88180,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": false,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Shrewsbury 2 - 0 Northampton — Full Highlights",
+          "url": "https://youtu.be/DweWfTT41yU",
+          "thumbnail": "https://i.ytimg.com/vi/DweWfTT41yU/hqdefault.jpg",
+          "published_at": "2026-09-12T22:55:42+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 18,
         "home_wins": 7,
@@ -88385,7 +88446,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Port Vale 1 - 0 Exeter — Full Highlights",
+          "url": "https://youtu.be/A5bednMSOw8",
+          "thumbnail": "https://i.ytimg.com/vi/A5bednMSOw8/hqdefault.jpg",
+          "published_at": "2026-09-12T22:54:07+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 22,
         "home_wins": 9,
@@ -88723,7 +88792,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Newport 1 - 1 Fleetwood — Full Highlights",
+          "url": "https://youtu.be/ip69kq9obtw",
+          "thumbnail": "https://i.ytimg.com/vi/ip69kq9obtw/hqdefault.jpg",
+          "published_at": "2026-09-12T22:53:35+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 10,
         "home_wins": 1,
@@ -88892,7 +88969,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Gillingham 2 - 0 Tranmere — Full Highlights",
+          "url": "https://youtu.be/NA2kQ0MAT8g",
+          "thumbnail": "https://i.ytimg.com/vi/NA2kQ0MAT8g/hqdefault.jpg",
+          "published_at": "2026-09-12T22:53:10+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 13,
         "home_wins": 5,
@@ -89061,7 +89146,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Colchester 1 - 1 Crewe — Full Highlights",
+          "url": "https://youtu.be/e_Zfb7JFSZc",
+          "thumbnail": "https://i.ytimg.com/vi/e_Zfb7JFSZc/hqdefault.jpg",
+          "published_at": "2026-09-12T22:52:40+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 26,
         "home_wins": 6,
@@ -89230,7 +89323,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": false,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Barnet 2 - 1 Accrington — Full Highlights",
+          "url": "https://youtu.be/wIsXScSukPM",
+          "thumbnail": "https://i.ytimg.com/vi/wIsXScSukPM/hqdefault.jpg",
+          "published_at": "2026-09-12T22:52:15+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 21,
         "home_wins": 6,
@@ -89510,7 +89611,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Sheffield Wed 0 - 0 Wigan — Full Highlights",
+          "url": "https://youtu.be/ZD25LWy9vBk",
+          "thumbnail": "https://i.ytimg.com/vi/ZD25LWy9vBk/hqdefault.jpg",
+          "published_at": "2026-09-12T22:50:51+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 12,
         "home_wins": 8,
@@ -89679,7 +89788,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Plymouth 3 - 0 Barnsley — Full Highlights",
+          "url": "https://youtu.be/jlhWL7D79V8",
+          "thumbnail": "https://i.ytimg.com/vi/jlhWL7D79V8/hqdefault.jpg",
+          "published_at": "2026-09-12T22:49:44+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 10,
         "home_wins": 3,
@@ -89848,7 +89965,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": false,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Oxford Utd 3 - 0 Burton — Full Highlights",
+          "url": "https://youtu.be/7R819ViUIfE",
+          "thumbnail": "https://i.ytimg.com/vi/7R819ViUIfE/hqdefault.jpg",
+          "published_at": "2026-09-12T22:50:24+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 26,
         "home_wins": 12,
@@ -90017,7 +90142,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "MK Dons 1 - 1 Peterborough Utd — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=9ArE0H1DOs0",
+          "thumbnail": "https://i.ytimg.com/vi/9ArE0H1DOs0/hqdefault.jpg",
+          "published_at": "2026-09-12T22:49:15+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 19,
         "home_wins": 5,
@@ -90400,7 +90533,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Blackpool 2 - 2 Bromley — Full Highlights",
+          "url": "https://youtu.be/mkLWd6KlpUI",
+          "thumbnail": "https://i.ytimg.com/vi/mkLWd6KlpUI/hqdefault.jpg",
+          "published_at": "2026-09-12T22:47:11+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 1,
         "home_wins": 1,
@@ -90470,7 +90611,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Wimbledon 1 - 0 Doncaster — Full Highlights",
+          "url": "https://youtu.be/QgepMACSLrc",
+          "thumbnail": "https://i.ytimg.com/vi/QgepMACSLrc/hqdefault.jpg",
+          "published_at": "2026-09-12T22:48:10+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 19,
         "home_wins": 7,
@@ -92133,7 +92282,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 4",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 94,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -92310,7 +92459,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 4",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 95,
       "home_score": 2,
       "away_score": 3,
       "home_score_ht": 1,
@@ -92487,7 +92636,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 4",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 96,
       "home_score": 2,
       "away_score": 2,
       "home_score_ht": 1,
@@ -92664,7 +92813,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 4",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 95,
       "home_score": 2,
       "away_score": 2,
       "home_score_ht": 1,
@@ -92841,7 +92990,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 4",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 96,
       "home_score": 1,
       "away_score": 2,
       "home_score_ht": 0,
@@ -96186,7 +96335,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Notts County 0 - 1 Bradford — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=ey2tuO0Nj5U",
+          "thumbnail": "https://i.ytimg.com/vi/ey2tuO0Nj5U/hqdefault.jpg",
+          "published_at": "2026-09-12T22:47:41+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 14,
         "home_wins": 7,
