@@ -127,6 +127,14 @@
     "id": 3929,
     "name": "NJ/NY Gotham FC"
   },
+  "755": {
+    "id": 755,
+    "name": "River Plate"
+  },
+  "2352": {
+    "id": 2352,
+    "name": "Huracán"
+  },
   "843": {
     "id": 843,
     "name": "Athletic Club"
@@ -358,6 +366,22 @@
   "172": {
     "id": 172,
     "name": "Excelsior"
+  },
+  "3125": {
+    "id": 3125,
+    "name": "Gimnasia y Esgrima Mendoza"
+  },
+  "743": {
+    "id": 743,
+    "name": "Deportivo Riestra"
+  },
+  "4998": {
+    "id": 4998,
+    "name": "Gimnasia y Esgrima"
+  },
+  "4994": {
+    "id": 4994,
+    "name": "Banfield"
   },
   "359": {
     "id": 359,
@@ -2087,6 +2111,14 @@
     "id": 3840,
     "name": "Atlante FC"
   },
+  "733": {
+    "id": 733,
+    "name": "Racing Club"
+  },
+  "4999": {
+    "id": 4999,
+    "name": "Sarmiento"
+  },
   "841": {
     "id": 841,
     "name": "São Bernardo"
@@ -2134,6 +2166,14 @@
   "4780": {
     "id": 4780,
     "name": "Deportivo Pereira"
+  },
+  "3248": {
+    "id": 3248,
+    "name": "Real SC"
+  },
+  "4028": {
+    "id": 4028,
+    "name": "Académica Coimbra"
   },
   "220": {
     "id": 220,
@@ -2835,17 +2875,9 @@
     "id": 809,
     "name": "Goiás"
   },
-  "743": {
-    "id": 743,
-    "name": "Deportivo Riestra"
-  },
   "785": {
     "id": 785,
     "name": "CA Lanús"
-  },
-  "4994": {
-    "id": 4994,
-    "name": "Banfield"
   },
   "734": {
     "id": 734,
@@ -2955,14 +2987,6 @@
     "id": 283,
     "name": "Philadelphia Union"
   },
-  "2352": {
-    "id": 2352,
-    "name": "Huracán"
-  },
-  "733": {
-    "id": 733,
-    "name": "Racing Club"
-  },
   "3941": {
     "id": 3941,
     "name": "Chicago Stars FC"
@@ -2994,10 +3018,6 @@
   "806": {
     "id": 806,
     "name": "Argentinos Juniors"
-  },
-  "4998": {
-    "id": 4998,
-    "name": "Gimnasia y Esgrima"
   },
   "4675": {
     "id": 4675,
@@ -3066,10 +3086,6 @@
   "792": {
     "id": 792,
     "name": "Rosario Central"
-  },
-  "4999": {
-    "id": 4999,
-    "name": "Sarmiento"
   },
   "3299": {
     "id": 3299,
@@ -3378,10 +3394,6 @@
   "8390": {
     "id": 8390,
     "name": "Juventude SC"
-  },
-  "3248": {
-    "id": 3248,
-    "name": "Real SC"
   },
   "8326": {
     "id": 8326,
@@ -3782,10 +3794,6 @@
   "3132": {
     "id": 3132,
     "name": "Atlético Tucumán"
-  },
-  "755": {
-    "id": 755,
-    "name": "River Plate"
   },
   "161": {
     "id": 161,
