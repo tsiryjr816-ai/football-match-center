@@ -271,6 +271,14 @@
     "id": 3937,
     "name": "Houston Dash"
   },
+  "368": {
+    "id": 368,
+    "name": "FC Dinamo București"
+  },
+  "366": {
+    "id": 366,
+    "name": "FCV Farul Constanța"
+  },
   "1293": {
     "id": 1293,
     "name": "SC Paderborn 07"
@@ -278,6 +286,14 @@
   "86": {
     "id": 86,
     "name": "TSG Hoffenheim"
+  },
+  "348": {
+    "id": 348,
+    "name": "Levski Sofia"
+  },
+  "136": {
+    "id": 136,
+    "name": "Ludogorets"
   },
   "2763": {
     "id": 2763,
@@ -566,6 +582,14 @@
   "2083": {
     "id": 2083,
     "name": "IK Start"
+  },
+  "350": {
+    "id": 350,
+    "name": "Lokomotiv Plovdiv"
+  },
+  "345": {
+    "id": 345,
+    "name": "CSKA Sofia"
   },
   "171": {
     "id": 171,
@@ -974,6 +998,14 @@
   "410": {
     "id": 410,
     "name": "Fredrikstad FK"
+  },
+  "352": {
+    "id": 352,
+    "name": "FK Spartak Varna"
+  },
+  "341": {
+    "id": 341,
+    "name": "Lokomotiv Sofia"
   },
   "1378": {
     "id": 1378,
@@ -1918,30 +1950,6 @@
   "567": {
     "id": 567,
     "name": "Barau FC"
-  },
-  "350": {
-    "id": 350,
-    "name": "Lokomotiv Plovdiv"
-  },
-  "345": {
-    "id": 345,
-    "name": "CSKA Sofia"
-  },
-  "348": {
-    "id": 348,
-    "name": "Levski Sofia"
-  },
-  "136": {
-    "id": 136,
-    "name": "Ludogorets"
-  },
-  "352": {
-    "id": 352,
-    "name": "FK Spartak Varna"
-  },
-  "341": {
-    "id": 341,
-    "name": "Lokomotiv Sofia"
   },
   "4124": {
     "id": 4124,
@@ -3622,14 +3630,6 @@
   "356": {
     "id": 356,
     "name": "FC Argeș Pitești"
-  },
-  "368": {
-    "id": 368,
-    "name": "FC Dinamo București"
-  },
-  "366": {
-    "id": 366,
-    "name": "FCV Farul Constanța"
   },
   "181": {
     "id": 181,
