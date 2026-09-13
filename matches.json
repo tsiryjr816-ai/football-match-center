@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T04:49:57.873269+00:00",
+  "updated_at": "2026-09-13T05:06:00.185244+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-13",
   "date_to": "2026-09-20",
@@ -91278,8 +91278,8 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 8",
       "period": "2T",
-      "current_minute": 60,
-      "home_score": 3,
+      "current_minute": 76,
+      "home_score": 4,
       "away_score": 1,
       "home_score_ht": 3,
       "away_score_ht": 0,
