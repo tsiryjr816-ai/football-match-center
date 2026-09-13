@@ -1,5 +1,5 @@
 {
-  "count": 85,
+  "count": 86,
   "next": "https://sports.bzzoiro.com/api/v2/leagues/?limit=50&offset=50",
   "previous": null,
   "results": [
@@ -296,6 +296,14 @@
           }
         ]
       }
+    },
+    {
+      "id": 96,
+      "name": "Austrian Bundesliga",
+      "country": "Austria",
+      "is_women": false,
+      "is_active": true,
+      "current_season": null
     },
     {
       "id": 14,
@@ -1871,31 +1879,6 @@
             "rounds": 1,
             "start_date": "2026-09-24",
             "end_date": "2026-09-24"
-          }
-        ]
-      }
-    },
-    {
-      "id": 10,
-      "name": "Eredivisie",
-      "country": "Netherlands",
-      "is_women": false,
-      "is_active": true,
-      "current_season": {
-        "id": 1268,
-        "name": "Eredivisie 26/27",
-        "year": 2026,
-        "start_date": "2026-07-01",
-        "end_date": "2027-06-30",
-        "is_current": true,
-        "stages": [
-          {
-            "stage": "regular-season",
-            "stage_name": "Regular season",
-            "matches": 307,
-            "rounds": 34,
-            "start_date": "2026-08-07",
-            "end_date": "2027-05-23"
           }
         ]
       }

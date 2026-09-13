@@ -447,6 +447,14 @@
     "id": 106,
     "name": "Lille"
   },
+  "147": {
+    "id": 147,
+    "name": "Red Bull Salzburg"
+  },
+  "128": {
+    "id": 128,
+    "name": "SK Sturm Graz"
+  },
   "8256": {
     "id": 8256,
     "name": "Ranchers Bees"
@@ -966,6 +974,22 @@
   "425": {
     "id": 425,
     "name": "Wisła Płock"
+  },
+  "1406": {
+    "id": 1406,
+    "name": "TSV Hartberg"
+  },
+  "1404": {
+    "id": 1404,
+    "name": "LASK"
+  },
+  "1408": {
+    "id": 1408,
+    "name": "SV Ried"
+  },
+  "411": {
+    "id": 411,
+    "name": "Wolfsberger AC"
   },
   "209": {
     "id": 209,
@@ -1719,6 +1743,14 @@
     "id": 172,
     "name": "Excelsior"
   },
+  "1409": {
+    "id": 1409,
+    "name": "Grazer AK 1902"
+  },
+  "1410": {
+    "id": 1410,
+    "name": "FK Austria Wien"
+  },
   "3125": {
     "id": 3125,
     "name": "Gimnasia y Esgrima Mendoza"
@@ -1958,6 +1990,14 @@
   "112": {
     "id": 112,
     "name": "RC Strasbourg"
+  },
+  "2871": {
+    "id": 2871,
+    "name": "SC Austria Lustenau"
+  },
+  "1407": {
+    "id": 1407,
+    "name": "SCR Altach"
   },
   "576": {
     "id": 576,
@@ -3639,6 +3679,14 @@
     "id": 177,
     "name": "PEC Zwolle"
   },
+  "1411": {
+    "id": 1411,
+    "name": "SK Rapid Wien"
+  },
+  "1405": {
+    "id": 1405,
+    "name": "WSG Tirol"
+  },
   "1370": {
     "id": 1370,
     "name": "Lyngby"
@@ -3775,10 +3823,6 @@
     "id": 1256,
     "name": "Milton Keynes Dons"
   },
-  "147": {
-    "id": 147,
-    "name": "Red Bull Salzburg"
-  },
   "1911": {
     "id": 1911,
     "name": "Stade Tunisien"
@@ -3802,10 +3846,6 @@
   "2227": {
     "id": 2227,
     "name": "SC Jacksonville"
-  },
-  "128": {
-    "id": 128,
-    "name": "SK Sturm Graz"
   },
   "416": {
     "id": 416,
