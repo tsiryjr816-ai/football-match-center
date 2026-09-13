@@ -183,14 +183,6 @@
     "id": 915,
     "name": "Real Club Deportivo de A Coruña"
   },
-  "912": {
-    "id": 912,
-    "name": "Costa Adeje Tenerife"
-  },
-  "922": {
-    "id": 922,
-    "name": "Sevilla FC"
-  },
   "1268": {
     "id": 1268,
     "name": "Leganés"
@@ -1110,6 +1102,14 @@
   "4830": {
     "id": 4830,
     "name": "SC Vianense"
+  },
+  "912": {
+    "id": 912,
+    "name": "Costa Adeje Tenerife"
+  },
+  "922": {
+    "id": 922,
+    "name": "Sevilla FC"
   },
   "2217": {
     "id": 2217,
