@@ -47,6 +47,14 @@
     "id": 166,
     "name": "Bahia"
   },
+  "3299": {
+    "id": 3299,
+    "name": "Club Atlético Belgrano"
+  },
+  "5000": {
+    "id": 5000,
+    "name": "Estudiantes de Río Cuarto"
+  },
   "821": {
     "id": 821,
     "name": "Londrina"
@@ -95,14 +103,6 @@
     "id": 739,
     "name": "Tigre"
   },
-  "742": {
-    "id": 742,
-    "name": "San Lorenzo"
-  },
-  "780": {
-    "id": 780,
-    "name": "Boca Juniors"
-  },
   "792": {
     "id": 792,
     "name": "Rosario Central"
@@ -111,14 +111,6 @@
     "id": 806,
     "name": "Argentinos Juniors"
   },
-  "4996": {
-    "id": 4996,
-    "name": "Instituto De Córdoba"
-  },
-  "2391": {
-    "id": 2391,
-    "name": "CA Talleres"
-  },
   "796": {
     "id": 796,
     "name": "Club Atlético Platense"
@@ -126,14 +118,6 @@
   "4997": {
     "id": 4997,
     "name": "Newell's Old Boys"
-  },
-  "3299": {
-    "id": 3299,
-    "name": "Club Atlético Belgrano"
-  },
-  "5000": {
-    "id": 5000,
-    "name": "Estudiantes de Río Cuarto"
   },
   "734": {
     "id": 734,
@@ -262,6 +246,14 @@
   "3937": {
     "id": 3937,
     "name": "Houston Dash"
+  },
+  "742": {
+    "id": 742,
+    "name": "San Lorenzo"
+  },
+  "780": {
+    "id": 780,
+    "name": "Boca Juniors"
   },
   "368": {
     "id": 368,
@@ -1183,6 +1175,22 @@
     "id": 1958,
     "name": "Daejeon Hana Citizen"
   },
+  "1929": {
+    "id": 1929,
+    "name": "Machida Zelvia"
+  },
+  "1945": {
+    "id": 1945,
+    "name": "Kashiwa Reysol"
+  },
+  "1939": {
+    "id": 1939,
+    "name": "Gamba Osaka"
+  },
+  "1931": {
+    "id": 1931,
+    "name": "Vissel Kobe"
+  },
   "1954": {
     "id": 1954,
     "name": "Jeonbuk Hyundai Motors"
@@ -1326,6 +1334,14 @@
   "300": {
     "id": 300,
     "name": "LA Galaxy"
+  },
+  "4996": {
+    "id": 4996,
+    "name": "Instituto De Córdoba"
+  },
+  "2391": {
+    "id": 2391,
+    "name": "CA Talleres"
   },
   "158": {
     "id": 158,
@@ -3302,22 +3318,6 @@
   "924": {
     "id": 924,
     "name": "Real Sociedad"
-  },
-  "1929": {
-    "id": 1929,
-    "name": "Machida Zelvia"
-  },
-  "1945": {
-    "id": 1945,
-    "name": "Kashiwa Reysol"
-  },
-  "1939": {
-    "id": 1939,
-    "name": "Gamba Osaka"
-  },
-  "1931": {
-    "id": 1931,
-    "name": "Vissel Kobe"
   },
   "1941": {
     "id": 1941,
