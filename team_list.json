@@ -439,6 +439,14 @@
     "id": 17,
     "name": "Manchester United"
   },
+  "103": {
+    "id": 103,
+    "name": "Nice"
+  },
+  "106": {
+    "id": 106,
+    "name": "Lille"
+  },
   "8256": {
     "id": 8256,
     "name": "Ranchers Bees"
@@ -902,6 +910,14 @@
   "3334": {
     "id": 3334,
     "name": "Leixões SC"
+  },
+  "109": {
+    "id": 109,
+    "name": "Auxerre"
+  },
+  "105": {
+    "id": 105,
+    "name": "Stade Brestois"
   },
   "74": {
     "id": 74,
@@ -1590,22 +1606,6 @@
   "170": {
     "id": 170,
     "name": "Fortuna Sittard"
-  },
-  "103": {
-    "id": 103,
-    "name": "Nice"
-  },
-  "106": {
-    "id": 106,
-    "name": "Lille"
-  },
-  "109": {
-    "id": 109,
-    "name": "Auxerre"
-  },
-  "105": {
-    "id": 105,
-    "name": "Stade Brestois"
   },
   "155": {
     "id": 155,
