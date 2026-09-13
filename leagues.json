@@ -1,5 +1,5 @@
 {
-  "count": 86,
+  "count": 87,
   "next": "https://sports.bzzoiro.com/api/v2/leagues/?limit=50&offset=50",
   "previous": null,
   "results": [
@@ -303,7 +303,49 @@
       "country": "Austria",
       "is_women": false,
       "is_active": true,
-      "current_season": null
+      "current_season": {
+        "id": 1999,
+        "name": "Bundesliga 26/27",
+        "year": 2026,
+        "start_date": "2026-07-01",
+        "end_date": "2027-06-30",
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "regular-season",
+            "stage_name": "Regular season",
+            "matches": 135,
+            "rounds": 22,
+            "start_date": "2026-07-31",
+            "end_date": "2027-02-27"
+          }
+        ]
+      }
+    },
+    {
+      "id": 97,
+      "name": "Challenger Pro League",
+      "country": "Belgium",
+      "is_women": false,
+      "is_active": true,
+      "current_season": {
+        "id": 2018,
+        "name": "Challenger Pro League 26/27",
+        "year": 2026,
+        "start_date": "2026-07-01",
+        "end_date": "2027-06-30",
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "regular-season",
+            "stage_name": "Regular season",
+            "matches": 210,
+            "rounds": 30,
+            "start_date": "2026-08-14",
+            "end_date": "2027-04-30"
+          }
+        ]
+      }
     },
     {
       "id": 14,
@@ -1854,31 +1896,6 @@
             "rounds": 1,
             "start_date": "2026-05-22",
             "end_date": "2026-05-25"
-          }
-        ]
-      }
-    },
-    {
-      "id": 53,
-      "name": "Botola Pro",
-      "country": "Morocco",
-      "is_women": false,
-      "is_active": true,
-      "current_season": {
-        "id": 1962,
-        "name": "Botola Pro D1 26/27",
-        "year": 2026,
-        "start_date": "2026-07-01",
-        "end_date": "2027-06-30",
-        "is_current": true,
-        "stages": [
-          {
-            "stage": "regular-season",
-            "stage_name": "Regular season",
-            "matches": 8,
-            "rounds": 1,
-            "start_date": "2026-09-24",
-            "end_date": "2026-09-24"
           }
         ]
       }
