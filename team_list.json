@@ -2159,14 +2159,6 @@
     "id": 2529,
     "name": "Leiston"
   },
-  "8510": {
-    "id": 8510,
-    "name": "Redcar Town"
-  },
-  "4677": {
-    "id": 4677,
-    "name": "Darlington"
-  },
   "6430": {
     "id": 6430,
     "name": "Dulwich Hamlet"
@@ -3158,6 +3150,14 @@
   "40": {
     "id": 40,
     "name": "Rayo Vallecano"
+  },
+  "8510": {
+    "id": 8510,
+    "name": "Redcar Town"
+  },
+  "4677": {
+    "id": 4677,
+    "name": "Darlington"
   },
   "1875": {
     "id": 1875,
