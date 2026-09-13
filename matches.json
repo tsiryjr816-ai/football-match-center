@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T05:06:00.185244+00:00",
+  "updated_at": "2026-09-13T05:22:36.908458+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-13",
   "date_to": "2026-09-20",
@@ -91278,9 +91278,9 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 8",
       "period": "2T",
-      "current_minute": 76,
+      "current_minute": 93,
       "home_score": 4,
-      "away_score": 1,
+      "away_score": 3,
       "home_score_ht": 3,
       "away_score_ht": 0,
       "penalty_shootout": null,
@@ -91467,7 +91467,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "San Jose 1 - 0 Houston — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=eUdKML1NBm0",
+          "thumbnail": "https://i.ytimg.com/vi/eUdKML1NBm0/hqdefault.jpg",
+          "published_at": "2026-09-13T05:12:57+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 36,
         "home_wins": 11,
@@ -91636,7 +91644,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "LA Galaxy 1 - 1 Seattle — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=FpS5W4b9AaQ",
+          "thumbnail": "https://i.ytimg.com/vi/FpS5W4b9AaQ/hqdefault.jpg",
+          "published_at": "2026-09-13T05:12:46+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 50,
         "home_wins": 17,
@@ -92509,7 +92525,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Salt Lake 0 - 2 NY City — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=7ixOdAsMXnU",
+          "thumbnail": "https://i.ytimg.com/vi/7ixOdAsMXnU/hqdefault.jpg",
+          "published_at": "2026-09-13T05:13:07+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 7,
         "home_wins": 4,
@@ -92745,7 +92769,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Monterrey 0 - 0 Tigres — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=l5E2qyEvY-Y",
+          "thumbnail": "https://i.ytimg.com/vi/l5E2qyEvY-Y/hqdefault.jpg",
+          "published_at": "2026-09-13T05:14:24+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 49,
         "home_wins": 15,
