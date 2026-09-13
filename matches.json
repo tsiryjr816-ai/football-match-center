@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T20:06:18.400865+00:00",
+  "updated_at": "2026-09-13T20:24:07.622333+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-13",
   "date_to": "2026-09-20",
@@ -76116,7 +76116,7 @@
       "stage_name": "Group stage",
       "round_label": "Group B · Matchday 9",
       "period": "1T",
-      "current_minute": 5,
+      "current_minute": 23,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -76276,7 +76276,7 @@
       "referee_id": null,
       "venue_id": null,
       "event_date": "2026-09-13T19:30:00+00:00",
-      "status": "1st_half",
+      "status": "halftime",
       "replaced_by": null,
       "round_number": 5,
       "round_name": "",
@@ -76284,8 +76284,8 @@
       "stage": "group-stage",
       "stage_name": "Group stage",
       "round_label": "Group A · Matchday 5",
-      "period": "1T",
-      "current_minute": 33,
+      "period": "HT",
+      "current_minute": 45,
       "home_score": 1,
       "away_score": 0,
       "home_score_ht": 1,
@@ -76401,7 +76401,7 @@
       "referee_id": 1594,
       "venue_id": 27,
       "event_date": "2026-09-13T19:30:00+00:00",
-      "status": "1st_half",
+      "status": "halftime",
       "replaced_by": null,
       "round_number": 6,
       "round_name": "",
@@ -76409,8 +76409,8 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 6",
-      "period": "1T",
-      "current_minute": 31,
+      "period": "HT",
+      "current_minute": 45,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -76570,7 +76570,7 @@
       "referee_id": 1584,
       "venue_id": 1652,
       "event_date": "2026-09-13T19:00:00+00:00",
-      "status": "halftime",
+      "status": "2nd_half",
       "replaced_by": null,
       "round_number": 10,
       "round_name": "",
@@ -76578,8 +76578,8 @@
       "stage": "league-phase",
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 10",
-      "period": "HT",
-      "current_minute": 45,
+      "period": "2T",
+      "current_minute": 61,
       "home_score": 1,
       "away_score": 2,
       "home_score_ht": 1,
@@ -76739,7 +76739,7 @@
       "referee_id": 2911,
       "venue_id": 841,
       "event_date": "2026-09-13T19:00:00+00:00",
-      "status": "halftime",
+      "status": "2nd_half",
       "replaced_by": null,
       "round_number": 5,
       "round_name": "",
@@ -76747,8 +76747,8 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 5",
-      "period": "HT",
-      "current_minute": 45,
+      "period": "2T",
+      "current_minute": 61,
       "home_score": 1,
       "away_score": 0,
       "home_score_ht": 1,
@@ -76917,7 +76917,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 5",
       "period": "2T",
-      "current_minute": 45,
+      "current_minute": 63,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -77077,7 +77077,7 @@
       "referee_id": 1589,
       "venue_id": 612,
       "event_date": "2026-09-13T19:00:00+00:00",
-      "status": "halftime",
+      "status": "2nd_half",
       "replaced_by": null,
       "round_number": 28,
       "round_name": "",
@@ -77085,9 +77085,9 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 28",
-      "period": "HT",
-      "current_minute": 45,
-      "home_score": 2,
+      "period": "2T",
+      "current_minute": 57,
+      "home_score": 3,
       "away_score": 0,
       "home_score_ht": 2,
       "away_score_ht": 0,
@@ -77246,7 +77246,7 @@
       "referee_id": 2045,
       "venue_id": 149,
       "event_date": "2026-09-13T19:00:00+00:00",
-      "status": "halftime",
+      "status": "2nd_half",
       "replaced_by": null,
       "round_number": 27,
       "round_name": "",
@@ -77254,8 +77254,8 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 27",
-      "period": "HT",
-      "current_minute": 45,
+      "period": "2T",
+      "current_minute": 57,
       "home_score": 0,
       "away_score": 2,
       "home_score_ht": 0,
@@ -77369,7 +77369,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 4",
       "period": "2T",
-      "current_minute": 58,
+      "current_minute": 75,
       "home_score": 0,
       "away_score": 1,
       "home_score_ht": 0,
@@ -77538,9 +77538,9 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 4",
       "period": "2T",
-      "current_minute": 64,
-      "home_score": 0,
-      "away_score": 0,
+      "current_minute": 82,
+      "home_score": 1,
+      "away_score": 1,
       "home_score_ht": 0,
       "away_score_ht": 0,
       "penalty_shootout": null,
@@ -77707,7 +77707,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 4",
       "period": "2T",
-      "current_minute": 73,
+      "current_minute": 91,
       "home_score": 2,
       "away_score": 0,
       "home_score_ht": 2,
@@ -78465,7 +78465,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Tigre 0 - 1 Rosario Central — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=hSoAVCvKQNM",
+          "thumbnail": "https://i.ytimg.com/vi/hSoAVCvKQNM/hqdefault.jpg",
+          "published_at": "2026-09-13T20:09:02+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 15,
         "home_wins": 6,
@@ -78759,7 +78767,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Eibar 1 - 4 FC Badalona — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=tt7x8VWwqQw",
+          "thumbnail": "https://i.ytimg.com/vi/tt7x8VWwqQw/hqdefault.jpg",
+          "published_at": "2026-09-13T20:10:32+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 6,
         "home_wins": 2,
@@ -84186,7 +84202,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "KFUM Oslo 2 - 1 Aalesund — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=AMIwrlvg1X0",
+          "thumbnail": "https://i.ytimg.com/vi/AMIwrlvg1X0/hqdefault.jpg",
+          "published_at": "2026-09-13T20:09:15+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 1,
         "home_wins": 0,
@@ -84256,7 +84280,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "IK Start 2 - 0 Brann — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=n_gN8fKkuVQ",
+          "thumbnail": "https://i.ytimg.com/vi/n_gN8fKkuVQ/hqdefault.jpg",
+          "published_at": "2026-09-13T20:09:42+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 17,
         "home_wins": 4,
@@ -84425,7 +84457,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "HamKam 1 - 5 Molde — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=orWtvpu6uEQ",
+          "thumbnail": "https://i.ytimg.com/vi/orWtvpu6uEQ/hqdefault.jpg",
+          "published_at": "2026-09-13T20:10:05+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 11,
         "home_wins": 1,
@@ -90899,7 +90939,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": false,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Sheffield Utd 0 - 1 Wolves — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=NVkzmMkqmVk&pp=ygUQV29sdmVyaGFtcHRvbiBmYw%3D%3D",
+          "thumbnail": "https://i.ytimg.com/vi/NVkzmMkqmVk/hqdefault.jpg",
+          "published_at": "2026-09-13T20:17:51+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 13,
         "home_wins": 3,
@@ -92151,7 +92199,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Tokyo Verdy 1 - 1 Chiba — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=kWVMzXN-TFc&pp=ygULVG9reW8gVmVyZHk%3D",
+          "thumbnail": "https://i.ytimg.com/vi/kWVMzXN-TFc/hqdefault.jpg",
+          "published_at": "2026-09-13T20:16:50+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 9,
         "home_wins": 3,
