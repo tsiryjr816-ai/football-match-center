@@ -7,6 +7,14 @@
     "id": 828,
     "name": "Operário-PR"
   },
+  "734": {
+    "id": 734,
+    "name": "Barracas Central"
+  },
+  "774": {
+    "id": 774,
+    "name": "Independiente Rivadavia"
+  },
   "362": {
     "id": 362,
     "name": "FC Petrolul Ploiești"
@@ -14,6 +22,14 @@
   "367": {
     "id": 367,
     "name": "FK Csíkszereda Miercurea Ciuc"
+  },
+  "4993": {
+    "id": 4993,
+    "name": "Aldosivi"
+  },
+  "3132": {
+    "id": 3132,
+    "name": "Atlético Tucumán"
   },
   "361": {
     "id": 361,
@@ -38,6 +54,14 @@
   "766": {
     "id": 766,
     "name": "Atlético Nacional"
+  },
+  "2397": {
+    "id": 2397,
+    "name": "Vélez Sarsfield"
+  },
+  "739": {
+    "id": 739,
+    "name": "Tigre"
   },
   "316": {
     "id": 316,
@@ -151,14 +175,6 @@
     "id": 2236,
     "name": "Oakland Roots SC"
   },
-  "2397": {
-    "id": 2397,
-    "name": "Vélez Sarsfield"
-  },
-  "739": {
-    "id": 739,
-    "name": "Tigre"
-  },
   "792": {
     "id": 792,
     "name": "Rosario Central"
@@ -174,22 +190,6 @@
   "4997": {
     "id": 4997,
     "name": "Newell's Old Boys"
-  },
-  "734": {
-    "id": 734,
-    "name": "Barracas Central"
-  },
-  "774": {
-    "id": 774,
-    "name": "Independiente Rivadavia"
-  },
-  "4993": {
-    "id": 4993,
-    "name": "Aldosivi"
-  },
-  "3132": {
-    "id": 3132,
-    "name": "Atlético Tucumán"
   },
   "35": {
     "id": 35,
