@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T07:08:48.685256+00:00",
+  "updated_at": "2026-09-14T07:27:21.680246+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-14",
   "date_to": "2026-09-21",
@@ -8764,7 +8764,7 @@
       "away_team_id": 128,
       "away_team": "SK Sturm Graz",
       "home_coach_id": 253,
-      "away_coach_id": 1850,
+      "away_coach_id": 654,
       "referee_id": null,
       "venue_id": 145,
       "event_date": "2026-09-20T15:00:00+00:00",
