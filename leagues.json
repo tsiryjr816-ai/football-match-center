@@ -1,5 +1,5 @@
 {
-  "count": 87,
+  "count": 88,
   "next": "https://sports.bzzoiro.com/api/v2/leagues/?limit=50&offset=50",
   "previous": null,
   "results": [
@@ -146,6 +146,31 @@
             "rounds": 1,
             "start_date": "2025-11-16",
             "end_date": "2025-11-16"
+          }
+        ]
+      }
+    },
+    {
+      "id": 98,
+      "name": "Girabola",
+      "country": "Angola",
+      "is_women": false,
+      "is_active": true,
+      "current_season": {
+        "id": 2037,
+        "name": "Girabola 26/27",
+        "year": 2026,
+        "start_date": "2026-07-01",
+        "end_date": "2027-06-30",
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "regular-season",
+            "stage_name": "Regular season",
+            "matches": 240,
+            "rounds": 30,
+            "start_date": "2026-08-21",
+            "end_date": "2027-05-15"
           }
         ]
       }
@@ -1847,55 +1872,6 @@
             "rounds": 17,
             "start_date": "2026-07-17",
             "end_date": "2026-11-23"
-          }
-        ]
-      }
-    },
-    {
-      "id": 20,
-      "name": "Liga MX Clausura",
-      "country": "Mexico",
-      "is_women": false,
-      "is_active": true,
-      "current_season": {
-        "id": 297,
-        "name": "Liga MX, Clausura 2026",
-        "year": 2025,
-        "start_date": "2025-07-01",
-        "end_date": "2026-06-30",
-        "is_current": true,
-        "stages": [
-          {
-            "stage": "league-phase",
-            "stage_name": "League phase",
-            "matches": 154,
-            "rounds": 17,
-            "start_date": "2026-01-10",
-            "end_date": "2026-04-27"
-          },
-          {
-            "stage": "quarterfinals",
-            "stage_name": "Quarterfinals",
-            "matches": 8,
-            "rounds": 1,
-            "start_date": "2026-05-03",
-            "end_date": "2026-05-11"
-          },
-          {
-            "stage": "semifinals",
-            "stage_name": "Semifinals",
-            "matches": 4,
-            "rounds": 1,
-            "start_date": "2026-05-14",
-            "end_date": "2026-05-18"
-          },
-          {
-            "stage": "final",
-            "stage_name": "Final",
-            "matches": 2,
-            "rounds": 1,
-            "start_date": "2026-05-22",
-            "end_date": "2026-05-25"
           }
         ]
       }
