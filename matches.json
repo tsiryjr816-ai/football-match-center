@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T06:08:42.450648+00:00",
+  "updated_at": "2026-09-14T06:32:48.897328+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-14",
   "date_to": "2026-09-21",
@@ -74647,7 +74647,7 @@
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 10",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 95,
       "home_score": 1,
       "away_score": 2,
       "home_score_ht": 0,
@@ -74791,7 +74791,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -75225,7 +75225,7 @@
       "stage_name": "Group stage",
       "round_label": "Group B · Matchday 9",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 95,
       "home_score": 2,
       "away_score": 1,
       "home_score_ht": 0,
@@ -75377,7 +75377,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     }
   ]
