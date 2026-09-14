@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T04:53:19.367694+00:00",
+  "updated_at": "2026-09-14T05:05:55.636713+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-14",
   "date_to": "2026-09-21",
@@ -74836,7 +74836,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Guadalajara 3 - 0 Pumas — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=zEg_Db4Adys",
+          "thumbnail": "https://i.ytimg.com/vi/zEg_Db4Adys/hqdefault.jpg",
+          "published_at": "2026-09-14T05:00:24+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 40,
         "home_wins": 14,
