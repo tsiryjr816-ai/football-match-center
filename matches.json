@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T03:25:59.818876+00:00",
+  "updated_at": "2026-09-14T03:41:10.076829+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-14",
   "date_to": "2026-09-21",
@@ -75005,7 +75005,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Santos 2 - 1 Juárez — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=3sDCkZwGctk",
+          "thumbnail": "https://i.ytimg.com/vi/3sDCkZwGctk/hqdefault.jpg",
+          "published_at": "2026-09-14T03:33:08+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 14,
         "home_wins": 6,
