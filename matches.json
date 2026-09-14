@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T03:53:34.958702+00:00",
+  "updated_at": "2026-09-14T04:06:42.321117+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-14",
   "date_to": "2026-09-21",
@@ -75182,7 +75182,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "San Diego 0 - 5 Philadelphia — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=04Uzoq6yNUM",
+          "thumbnail": "https://i.ytimg.com/vi/04Uzoq6yNUM/hqdefault.jpg",
+          "published_at": "2026-09-14T04:02:33+00:00"
+        }
+      ],
       "head_to_head": null,
       "has_xg": true,
       "previous_leg_event_id": null
