@@ -1,4 +1,44 @@
 {
+  "929": {
+    "id": 929,
+    "name": "Criciúma"
+  },
+  "828": {
+    "id": 828,
+    "name": "Operário-PR"
+  },
+  "309": {
+    "id": 309,
+    "name": "Querétaro FC"
+  },
+  "318": {
+    "id": 318,
+    "name": "Club León"
+  },
+  "4781": {
+    "id": 4781,
+    "name": "Llaneros FC"
+  },
+  "766": {
+    "id": 766,
+    "name": "Atlético Nacional"
+  },
+  "316": {
+    "id": 316,
+    "name": "CF Pachuca"
+  },
+  "308": {
+    "id": 308,
+    "name": "Club Tijuana"
+  },
+  "310": {
+    "id": 310,
+    "name": "CD Toluca"
+  },
+  "312": {
+    "id": 312,
+    "name": "Santos Laguna"
+  },
   "781": {
     "id": 781,
     "name": "Deportes Tolima"
@@ -3887,10 +3927,6 @@
     "id": 4801,
     "name": "Barranquilla FC"
   },
-  "766": {
-    "id": 766,
-    "name": "Atlético Nacional"
-  },
   "787": {
     "id": 787,
     "name": "Estudiantes de La Plata"
@@ -3935,17 +3971,9 @@
     "id": 1909,
     "name": "US Ben Guerdane"
   },
-  "310": {
-    "id": 310,
-    "name": "CD Toluca"
-  },
   "928": {
     "id": 928,
     "name": "Náutico"
-  },
-  "828": {
-    "id": 828,
-    "name": "Operário-PR"
   },
   "72": {
     "id": 72,
@@ -3971,10 +3999,6 @@
     "id": 1753,
     "name": "Polonia Bytom"
   },
-  "318": {
-    "id": 318,
-    "name": "Club León"
-  },
   "785": {
     "id": 785,
     "name": "CA Lanús"
@@ -3986,213 +4010,5 @@
   "3317": {
     "id": 3317,
     "name": "FC Porto B"
-  },
-  "312": {
-    "id": 312,
-    "name": "Santos Laguna"
-  },
-  "863": {
-    "id": 863,
-    "name": "Cuiabá"
-  },
-  "929": {
-    "id": 929,
-    "name": "Criciúma"
-  },
-  "3256": {
-    "id": 3256,
-    "name": "Diriyah"
-  },
-  "2415": {
-    "id": 2415,
-    "name": "Abha"
-  },
-  "263": {
-    "id": 263,
-    "name": "Al-Riyadh"
-  },
-  "261": {
-    "id": 261,
-    "name": "Al-Kholood"
-  },
-  "5198": {
-    "id": 5198,
-    "name": "Teungueth FC"
-  },
-  "8243": {
-    "id": 8243,
-    "name": "FC Canchungo"
-  },
-  "612": {
-    "id": 612,
-    "name": "FC Nouadhibou"
-  },
-  "610": {
-    "id": 610,
-    "name": "Vipers SC"
-  },
-  "593": {
-    "id": 593,
-    "name": "Pyramids FC"
-  },
-  "2810": {
-    "id": 2810,
-    "name": "Gor Mahia FC"
-  },
-  "3653": {
-    "id": 3653,
-    "name": "Chaves B"
-  },
-  "259": {
-    "id": 259,
-    "name": "Neom SC"
-  },
-  "268": {
-    "id": 268,
-    "name": "Al-Fateh"
-  },
-  "611": {
-    "id": 611,
-    "name": "Horoya"
-  },
-  "6485": {
-    "id": 6485,
-    "name": "JS Saoura"
-  },
-  "634": {
-    "id": 634,
-    "name": "ASEC Mimosas"
-  },
-  "627": {
-    "id": 627,
-    "name": "ASC Kara"
-  },
-  "592": {
-    "id": 592,
-    "name": "Stade Malien"
-  },
-  "599": {
-    "id": 599,
-    "name": "Colombe FC"
-  },
-  "2740": {
-    "id": 2740,
-    "name": "Sidama Bunna FC"
-  },
-  "8241": {
-    "id": 8241,
-    "name": "Aiglons FC N'Djamena"
-  },
-  "4821": {
-    "id": 4821,
-    "name": "Caldas SC"
-  },
-  "1315": {
-    "id": 1315,
-    "name": "Paços de Ferreira"
-  },
-  "4286": {
-    "id": 4286,
-    "name": "SC São João Ver"
-  },
-  "8718": {
-    "id": 8718,
-    "name": "Santa Clara Azores B"
-  },
-  "2845": {
-    "id": 2845,
-    "name": "SC Braga B"
-  },
-  "1910": {
-    "id": 1910,
-    "name": "Olympique Béja"
-  },
-  "1912": {
-    "id": 1912,
-    "name": "PS Sakiet Eddaïer"
-  },
-  "1907": {
-    "id": 1907,
-    "name": "JS Omrane"
-  },
-  "1901": {
-    "id": 1901,
-    "name": "ES Métlaoui"
-  },
-  "4408": {
-    "id": 4408,
-    "name": "CS Hammam-Lif"
-  },
-  "591": {
-    "id": 591,
-    "name": "Espérance Sportive De Tunis"
-  },
-  "5193": {
-    "id": 5193,
-    "name": "FC San Pedro"
-  },
-  "3239": {
-    "id": 3239,
-    "name": "1º Dezembro"
-  },
-  "8345": {
-    "id": 8345,
-    "name": "Sertanense"
-  },
-  "8285": {
-    "id": 8285,
-    "name": "At. Malveira"
-  },
-  "8312": {
-    "id": 8312,
-    "name": "Gd Nazarenos"
-  },
-  "8299": {
-    "id": 8299,
-    "name": "Benfica Castelo Branco"
-  },
-  "8719": {
-    "id": 8719,
-    "name": "AD Nogueirense"
-  },
-  "8720": {
-    "id": 8720,
-    "name": "FC Alverca B"
-  },
-  "8434": {
-    "id": 8434,
-    "name": "UD Sousense"
-  },
-  "4834": {
-    "id": 4834,
-    "name": "CF União de Lamas"
-  },
-  "4922": {
-    "id": 4922,
-    "name": "AD Machico"
-  },
-  "5865": {
-    "id": 5865,
-    "name": "CDC Montalegre"
-  },
-  "4914": {
-    "id": 4914,
-    "name": "AC Vila Meã"
-  },
-  "596": {
-    "id": 596,
-    "name": "Simba SC"
-  },
-  "3592": {
-    "id": 3592,
-    "name": "Mighty Mukuru Wanderers"
-  },
-  "4657": {
-    "id": 4657,
-    "name": "KVZ FC"
-  },
-  "2858": {
-    "id": 2858,
-    "name": "Swehly SC"
   }
 }
