@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T14:06:16.282329+00:00",
+  "updated_at": "2026-09-15T14:25:45.879162+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-15",
   "date_to": "2026-09-22",
@@ -71125,9 +71125,9 @@
       "stage_name": "Round 1",
       "round_label": "Round 1",
       "period": "2T",
-      "current_minute": 48,
+      "current_minute": 67,
       "home_score": 0,
-      "away_score": 1,
+      "away_score": 2,
       "home_score_ht": 0,
       "away_score_ht": 1,
       "penalty_shootout": null,
