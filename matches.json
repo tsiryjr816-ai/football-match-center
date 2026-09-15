@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T06:08:19.938757+00:00",
+  "updated_at": "2026-09-15T06:32:05.357854+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-15",
   "date_to": "2026-09-22",
@@ -71349,7 +71349,7 @@
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 10",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 95,
       "home_score": 0,
       "away_score": 1,
       "home_score_ht": 0,
@@ -71501,7 +71501,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
