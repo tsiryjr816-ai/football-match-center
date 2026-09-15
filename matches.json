@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T02:41:42.702135+00:00",
+  "updated_at": "2026-09-15T02:54:16.786210+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-15",
   "date_to": "2026-09-22",
@@ -71172,7 +71172,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 8",
       "period": "2T",
-      "current_minute": 81,
+      "current_minute": 93,
       "home_score": 2,
       "away_score": 0,
       "home_score_ht": 0,
@@ -71316,7 +71316,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -71341,9 +71341,9 @@
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 10",
       "period": "2T",
-      "current_minute": 75,
+      "current_minute": 88,
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "home_score_ht": 0,
       "away_score_ht": 0,
       "penalty_shootout": null,
@@ -71699,7 +71699,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Instituto 2 - 1 Estudiantes R.C. — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=WvNFw4UYClw",
+          "thumbnail": "https://i.ytimg.com/vi/WvNFw4UYClw/hqdefault.jpg",
+          "published_at": "2026-09-15T02:43:39+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 2,
         "home_wins": 2,
