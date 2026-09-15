@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T21:35:48.406714+00:00",
+  "updated_at": "2026-09-15T21:49:19.740707+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-15",
   "date_to": "2026-09-22",
@@ -67582,7 +67582,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Fiorentina 3 - 0 Pisa — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=pnUfxdx5594",
+          "thumbnail": "https://i.ytimg.com/vi/pnUfxdx5594/hqdefault.jpg",
+          "published_at": "2026-09-15T21:48:44+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 16,
         "home_wins": 8,
