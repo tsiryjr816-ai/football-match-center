@@ -1,4 +1,28 @@
 {
+  "786": {
+    "id": 786,
+    "name": "Independiente Medellín"
+  },
+  "4785": {
+    "id": 4785,
+    "name": "Jaguares de Córdoba"
+  },
+  "863": {
+    "id": 863,
+    "name": "Cuiabá"
+  },
+  "928": {
+    "id": 928,
+    "name": "Náutico"
+  },
+  "785": {
+    "id": 785,
+    "name": "CA Lanús"
+  },
+  "787": {
+    "id": 787,
+    "name": "Estudiantes de La Plata"
+  },
   "929": {
     "id": 929,
     "name": "Criciúma"
@@ -3599,14 +3623,6 @@
     "id": 3930,
     "name": "Kansas City Current"
   },
-  "786": {
-    "id": 786,
-    "name": "Independiente Medellín"
-  },
-  "4785": {
-    "id": 4785,
-    "name": "Jaguares de Córdoba"
-  },
   "304": {
     "id": 304,
     "name": "Club Puebla"
@@ -3999,10 +4015,6 @@
     "id": 4801,
     "name": "Barranquilla FC"
   },
-  "787": {
-    "id": 787,
-    "name": "Estudiantes de La Plata"
-  },
   "778": {
     "id": 778,
     "name": "LDU"
@@ -4039,10 +4051,6 @@
     "id": 602,
     "name": "US Monastir"
   },
-  "928": {
-    "id": 928,
-    "name": "Náutico"
-  },
   "72": {
     "id": 72,
     "name": "Pisa"
@@ -4066,17 +4074,5 @@
   "1753": {
     "id": 1753,
     "name": "Polonia Bytom"
-  },
-  "785": {
-    "id": 785,
-    "name": "CA Lanús"
-  },
-  "5023": {
-    "id": 5023,
-    "name": "Sporting CP B"
-  },
-  "3317": {
-    "id": 3317,
-    "name": "FC Porto B"
   }
 }
