@@ -239,14 +239,6 @@
     "id": 789,
     "name": "Junior Barranquilla"
   },
-  "914": {
-    "id": 914,
-    "name": "Granada Club de Fútbol"
-  },
-  "915": {
-    "id": 915,
-    "name": "Real Club Deportivo de A Coruña"
-  },
   "1268": {
     "id": 1268,
     "name": "Leganés"
@@ -1358,6 +1350,14 @@
   "1316": {
     "id": 1316,
     "name": "SC Farense"
+  },
+  "914": {
+    "id": 914,
+    "name": "Granada Club de Fútbol"
+  },
+  "915": {
+    "id": 915,
+    "name": "Real Club Deportivo de A Coruña"
   },
   "1953": {
     "id": 1953,

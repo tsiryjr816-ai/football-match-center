@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T03:07:09.227360+00:00",
+  "updated_at": "2026-09-15T03:27:35.013139+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-15",
   "date_to": "2026-09-22",
@@ -3789,109 +3789,6 @@
             "home_score": 0,
             "away_team_id": 789,
             "home_team_id": 4782
-          }
-        ]
-      },
-      "has_xg": false,
-      "previous_leg_event_id": null
-    },
-    {
-      "id": 215256,
-      "league_id": 36,
-      "season_id": 1308,
-      "home_team_id": 914,
-      "home_team": "Granada Club de Fútbol",
-      "away_team_id": 915,
-      "away_team": "Real Club Deportivo de A Coruña",
-      "home_coach_id": 3608,
-      "away_coach_id": 3030,
-      "referee_id": null,
-      "venue_id": 695,
-      "event_date": "2026-09-20T19:00:00+00:00",
-      "status": "notstarted",
-      "replaced_by": null,
-      "round_number": 4,
-      "round_name": "",
-      "group_name": null,
-      "stage": "regular-season",
-      "stage_name": "Regular season",
-      "round_label": "Regular season · Matchday 4",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
-      "penalty_shootout": null,
-      "extra_time_score": null,
-      "is_local_derby": false,
-      "is_neutral_ground": false,
-      "travel_distance_km": null,
-      "weather": {
-        "code": null,
-        "description": null,
-        "wind_speed": null,
-        "temperature_c": null
-      },
-      "pitch_condition": null,
-      "attendance": null,
-      "live_websocket": false,
-      "websocket_plus": false,
-      "highlights": [],
-      "head_to_head": {
-        "total_matches": 4,
-        "home_wins": 3,
-        "draws": 0,
-        "away_wins": 1,
-        "home_goals": 8,
-        "away_goals": 3,
-        "avg_total_goals": 2.75,
-        "home_win_rate": 0.75,
-        "away_win_rate": 0.25,
-        "recent_matches": [
-          {
-            "away": "Real Club Deportivo de la Coruña",
-            "date": "2026-03-23T18:30:00+00:00",
-            "home": "Granada Club de Fútbol",
-            "score": "1-0",
-            "event_id": 9797,
-            "away_score": 0,
-            "home_score": 1,
-            "away_team_id": 915,
-            "home_team_id": 914
-          },
-          {
-            "away": "Granada Club de Fútbol",
-            "date": "2025-12-06T11:00:00+00:00",
-            "home": "Real Club Deportivo de la Coruña",
-            "score": "2-0",
-            "event_id": 9711,
-            "away_score": 0,
-            "home_score": 2,
-            "away_team_id": 914,
-            "home_team_id": 915
-          },
-          {
-            "away": "Granada Club de Fútbol",
-            "date": "2025-04-26T10:00:00+00:00",
-            "home": "Real Club Deportivo de A Coruña",
-            "score": "1-2",
-            "event_id": 235880,
-            "away_score": 2,
-            "home_score": 1,
-            "away_team_id": 914,
-            "home_team_id": 915
-          },
-          {
-            "away": "Real Club Deportivo de A Coruña",
-            "date": "2024-12-07T11:00:00+00:00",
-            "home": "Granada Club de Fútbol",
-            "score": "5-0",
-            "event_id": 235759,
-            "away_score": 0,
-            "home_score": 5,
-            "away_team_id": 915,
-            "home_team_id": 914
           }
         ]
       },
@@ -20577,6 +20474,109 @@
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": null,
+      "has_xg": false,
+      "previous_leg_event_id": null
+    },
+    {
+      "id": 215256,
+      "league_id": 36,
+      "season_id": 1308,
+      "home_team_id": 914,
+      "home_team": "Granada Club de Fútbol",
+      "away_team_id": 915,
+      "away_team": "Real Club Deportivo de A Coruña",
+      "home_coach_id": 3608,
+      "away_coach_id": 3030,
+      "referee_id": null,
+      "venue_id": 695,
+      "event_date": "2026-09-20T10:00:00+00:00",
+      "status": "notstarted",
+      "replaced_by": null,
+      "round_number": 4,
+      "round_name": "",
+      "group_name": null,
+      "stage": "regular-season",
+      "stage_name": "Regular season",
+      "round_label": "Regular season · Matchday 4",
+      "period": "",
+      "current_minute": null,
+      "home_score": null,
+      "away_score": null,
+      "home_score_ht": null,
+      "away_score_ht": null,
+      "penalty_shootout": null,
+      "extra_time_score": null,
+      "is_local_derby": false,
+      "is_neutral_ground": false,
+      "travel_distance_km": null,
+      "weather": {
+        "code": null,
+        "description": null,
+        "wind_speed": null,
+        "temperature_c": null
+      },
+      "pitch_condition": null,
+      "attendance": null,
+      "live_websocket": false,
+      "websocket_plus": false,
+      "highlights": [],
+      "head_to_head": {
+        "total_matches": 4,
+        "home_wins": 3,
+        "draws": 0,
+        "away_wins": 1,
+        "home_goals": 8,
+        "away_goals": 3,
+        "avg_total_goals": 2.75,
+        "home_win_rate": 0.75,
+        "away_win_rate": 0.25,
+        "recent_matches": [
+          {
+            "away": "Real Club Deportivo de la Coruña",
+            "date": "2026-03-23T18:30:00+00:00",
+            "home": "Granada Club de Fútbol",
+            "score": "1-0",
+            "event_id": 9797,
+            "away_score": 0,
+            "home_score": 1,
+            "away_team_id": 915,
+            "home_team_id": 914
+          },
+          {
+            "away": "Granada Club de Fútbol",
+            "date": "2025-12-06T11:00:00+00:00",
+            "home": "Real Club Deportivo de la Coruña",
+            "score": "2-0",
+            "event_id": 9711,
+            "away_score": 0,
+            "home_score": 2,
+            "away_team_id": 914,
+            "home_team_id": 915
+          },
+          {
+            "away": "Granada Club de Fútbol",
+            "date": "2025-04-26T10:00:00+00:00",
+            "home": "Real Club Deportivo de A Coruña",
+            "score": "1-2",
+            "event_id": 235880,
+            "away_score": 2,
+            "home_score": 1,
+            "away_team_id": 914,
+            "home_team_id": 915
+          },
+          {
+            "away": "Real Club Deportivo de A Coruña",
+            "date": "2024-12-07T11:00:00+00:00",
+            "home": "Granada Club de Fútbol",
+            "score": "5-0",
+            "event_id": 235759,
+            "away_score": 0,
+            "home_score": 5,
+            "away_team_id": 915,
+            "home_team_id": 914
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": null
     },
@@ -71518,7 +71518,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 28",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 95,
       "home_score": 1,
       "away_score": 1,
       "home_score_ht": 1,
@@ -71538,7 +71538,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Avaí 1 - 1 Vila Nova — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=PPaOljr6jMs",
+          "thumbnail": "https://i.ytimg.com/vi/PPaOljr6jMs/hqdefault.jpg",
+          "published_at": "2026-09-15T03:07:58+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 17,
         "home_wins": 7,
@@ -71662,7 +71670,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
