@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T21:06:04.014673+00:00",
+  "updated_at": "2026-09-15T21:23:02.284961+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-15",
   "date_to": "2026-09-22",
@@ -66886,8 +66886,8 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 6",
       "period": "2T",
-      "current_minute": 73,
-      "home_score": 1,
+      "current_minute": 90,
+      "home_score": 2,
       "away_score": 2,
       "home_score_ht": 0,
       "away_score_ht": 2,
@@ -70084,7 +70084,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Korona 0 - 2 Górnik — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=P4Bbh_l_UxU",
+          "thumbnail": "https://i.ytimg.com/vi/P4Bbh_l_UxU/hqdefault.jpg",
+          "published_at": "2026-09-15T21:06:37+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 31,
         "home_wins": 6,
