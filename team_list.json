@@ -2431,14 +2431,6 @@
     "id": 2916,
     "name": "Hayes & Yeading"
   },
-  "4731": {
-    "id": 4731,
-    "name": "Yate Town"
-  },
-  "4049": {
-    "id": 4049,
-    "name": "Chippenham Town"
-  },
   "1890": {
     "id": 1890,
     "name": "Hemel Hempstead"
@@ -2454,14 +2446,6 @@
   "4095": {
     "id": 4095,
     "name": "Guiseley"
-  },
-  "6912": {
-    "id": 6912,
-    "name": "Worcester City"
-  },
-  "4723": {
-    "id": 4723,
-    "name": "Stratford Town"
   },
   "4737": {
     "id": 4737,
@@ -3718,6 +3702,22 @@
   "13": {
     "id": 13,
     "name": "Chelsea"
+  },
+  "4731": {
+    "id": 4731,
+    "name": "Yate Town"
+  },
+  "4049": {
+    "id": 4049,
+    "name": "Chippenham Town"
+  },
+  "6912": {
+    "id": 6912,
+    "name": "Worcester City"
+  },
+  "4723": {
+    "id": 4723,
+    "name": "Stratford Town"
   },
   "1255": {
     "id": 1255,
