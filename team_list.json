@@ -223,14 +223,6 @@
     "id": 37,
     "name": "Benfica"
   },
-  "4675": {
-    "id": 4675,
-    "name": "USC Paredes"
-  },
-  "5028": {
-    "id": 5028,
-    "name": "SC Maria da Fonte"
-  },
   "4782": {
     "id": 4782,
     "name": "Fortaleza FC"
@@ -638,6 +630,14 @@
   "1902": {
     "id": 1902,
     "name": "CA Bizertin"
+  },
+  "4675": {
+    "id": 4675,
+    "name": "USC Paredes"
+  },
+  "5028": {
+    "id": 5028,
+    "name": "SC Maria da Fonte"
   },
   "8291": {
     "id": 8291,
