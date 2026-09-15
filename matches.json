@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T14:25:45.879162+00:00",
+  "updated_at": "2026-09-15T14:39:15.725566+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-15",
   "date_to": "2026-09-22",
@@ -67573,10 +67573,10 @@
       "is_neutral_ground": false,
       "travel_distance_km": 71,
       "weather": {
-        "code": null,
-        "description": null,
-        "wind_speed": null,
-        "temperature_c": null
+        "code": 0,
+        "description": "unknown",
+        "wind_speed": 4.6,
+        "temperature_c": 24
       },
       "pitch_condition": null,
       "attendance": null,
@@ -71089,10 +71089,10 @@
       "is_neutral_ground": false,
       "travel_distance_km": 299,
       "weather": {
-        "code": null,
-        "description": null,
-        "wind_speed": null,
-        "temperature_c": null
+        "code": 2,
+        "description": "cloudy",
+        "wind_speed": 6.5,
+        "temperature_c": 26
       },
       "pitch_condition": null,
       "attendance": null,
@@ -71125,8 +71125,8 @@
       "stage_name": "Round 1",
       "round_label": "Round 1",
       "period": "2T",
-      "current_minute": 67,
-      "home_score": 0,
+      "current_minute": 81,
+      "home_score": 1,
       "away_score": 2,
       "home_score_ht": 0,
       "away_score_ht": 1,
