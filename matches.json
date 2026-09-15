@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T22:06:25.829643+00:00",
+  "updated_at": "2026-09-15T22:23:58.767817+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-15",
   "date_to": "2026-09-22",
@@ -66588,7 +66588,7 @@
       "stage_name": "Quarterfinals",
       "round_label": "Quarterfinals",
       "period": "1T",
-      "current_minute": 5,
+      "current_minute": 22,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -66658,7 +66658,7 @@
       "stage_name": "Quarterfinals",
       "round_label": "Quarterfinals",
       "period": "1T",
-      "current_minute": 5,
+      "current_minute": 22,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -67075,7 +67075,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Liverpool 3 - 1 Tottenham — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=4f0bAA48DEI&pp=0gcJCSQMAYcqIYzv",
+          "thumbnail": "https://i.ytimg.com/vi/4f0bAA48DEI/hqdefault.jpg",
+          "published_at": "2026-09-15T22:05:48+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 73,
         "home_wins": 38,
@@ -67413,7 +67421,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Ipswich 2 - 4 Arsenal — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=LBXdqM0NauA",
+          "thumbnail": "https://i.ytimg.com/vi/LBXdqM0NauA/hqdefault.jpg",
+          "published_at": "2026-09-15T22:06:20+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 14,
         "home_wins": 1,
