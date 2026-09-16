@@ -1,4 +1,100 @@
 {
+  "684": {
+    "id": 684,
+    "name": "Bahamas"
+  },
+  "934": {
+    "id": 934,
+    "name": "Saint Martin"
+  },
+  "2058": {
+    "id": 2058,
+    "name": "Aruba"
+  },
+  "2290": {
+    "id": 2290,
+    "name": "Antigua and Barbuda"
+  },
+  "2296": {
+    "id": 2296,
+    "name": "Turks and Caicos Islands"
+  },
+  "2292": {
+    "id": 2292,
+    "name": "Montserrat"
+  },
+  "2229": {
+    "id": 2229,
+    "name": "Birmingham Legion FC"
+  },
+  "2241": {
+    "id": 2241,
+    "name": "Brooklyn FC"
+  },
+  "5189": {
+    "id": 5189,
+    "name": "Sagrada Esperança"
+  },
+  "6834": {
+    "id": 6834,
+    "name": "Kabuscorp SCP"
+  },
+  "1930": {
+    "id": 1930,
+    "name": "Kyoto Sanga FC"
+  },
+  "1973": {
+    "id": 1973,
+    "name": "Fujieda MYFC"
+  },
+  "1945": {
+    "id": 1945,
+    "name": "Kashiwa Reysol"
+  },
+  "2026": {
+    "id": 2026,
+    "name": "FC Imabari"
+  },
+  "1929": {
+    "id": 1929,
+    "name": "Machida Zelvia"
+  },
+  "3871": {
+    "id": 3871,
+    "name": "Tochigi City FC"
+  },
+  "1939": {
+    "id": 1939,
+    "name": "Gamba Osaka"
+  },
+  "1962": {
+    "id": 1962,
+    "name": "Tokushima Vortis"
+  },
+  "1937": {
+    "id": 1937,
+    "name": "Kashima Antlers"
+  },
+  "1975": {
+    "id": 1975,
+    "name": "Ventforet Kofu"
+  },
+  "1931": {
+    "id": 1931,
+    "name": "Vissel Kobe"
+  },
+  "1967": {
+    "id": 1967,
+    "name": "Sagan Tosu"
+  },
+  "797": {
+    "id": 797,
+    "name": "Independiente Santa Fe"
+  },
+  "3733": {
+    "id": 3733,
+    "name": "Deportivo Cali"
+  },
   "786": {
     "id": 786,
     "name": "Independiente Medellín"
@@ -695,10 +791,6 @@
     "id": 139,
     "name": "Go Ahead Eagles"
   },
-  "5189": {
-    "id": 5189,
-    "name": "Sagrada Esperança"
-  },
   "597": {
     "id": 597,
     "name": "Atlético Petróleos de Luanda"
@@ -782,10 +874,6 @@
   "5021": {
     "id": 5021,
     "name": "FC Bravos do Maquis"
-  },
-  "6834": {
-    "id": 6834,
-    "name": "Kabuscorp SCP"
   },
   "8758": {
     "id": 8758,
@@ -1375,22 +1463,6 @@
     "id": 1958,
     "name": "Daejeon Hana Citizen"
   },
-  "1929": {
-    "id": 1929,
-    "name": "Machida Zelvia"
-  },
-  "1945": {
-    "id": 1945,
-    "name": "Kashiwa Reysol"
-  },
-  "1939": {
-    "id": 1939,
-    "name": "Gamba Osaka"
-  },
-  "1931": {
-    "id": 1931,
-    "name": "Vissel Kobe"
-  },
   "1954": {
     "id": 1954,
     "name": "Jeonbuk Hyundai Motors"
@@ -1563,10 +1635,6 @@
     "id": 2230,
     "name": "FC Tampa Bay Rowdies"
   },
-  "2229": {
-    "id": 2229,
-    "name": "Birmingham Legion FC"
-  },
   "164": {
     "id": 164,
     "name": "Vasco da Gama"
@@ -1606,10 +1674,6 @@
   "292": {
     "id": 292,
     "name": "Los Angeles FC"
-  },
-  "3733": {
-    "id": 3733,
-    "name": "Deportivo Cali"
   },
   "4635": {
     "id": 4635,
@@ -1663,10 +1727,6 @@
     "id": 2235,
     "name": "Monterey Bay FC"
   },
-  "2241": {
-    "id": 2241,
-    "name": "Brooklyn FC"
-  },
   "2240": {
     "id": 2240,
     "name": "FC Tulsa"
@@ -1706,10 +1766,6 @@
   "4783": {
     "id": 4783,
     "name": "Alianza Valledupar FC"
-  },
-  "797": {
-    "id": 797,
-    "name": "Independiente Santa Fe"
   },
   "3938": {
     "id": 3938,
@@ -3523,10 +3579,6 @@
     "id": 1941,
     "name": "Fagiano Okayama"
   },
-  "1930": {
-    "id": 1930,
-    "name": "Kyoto Sanga FC"
-  },
   "1936": {
     "id": 1936,
     "name": "FC Tokyo"
@@ -3570,10 +3622,6 @@
   "1944": {
     "id": 1944,
     "name": "Kawasaki Frontale"
-  },
-  "1937": {
-    "id": 1937,
-    "name": "Kashima Antlers"
   },
   "1940": {
     "id": 1940,
@@ -4050,29 +4098,5 @@
   "602": {
     "id": 602,
     "name": "US Monastir"
-  },
-  "72": {
-    "id": 72,
-    "name": "Pisa"
-  },
-  "8197": {
-    "id": 8197,
-    "name": "Jersey Bulls FC"
-  },
-  "7208": {
-    "id": 7208,
-    "name": "Burgess Hill Town"
-  },
-  "1608": {
-    "id": 1608,
-    "name": "Südtirol"
-  },
-  "4685": {
-    "id": 4685,
-    "name": "Widzew II Łódź"
-  },
-  "1753": {
-    "id": 1753,
-    "name": "Polonia Bytom"
   }
 }
