@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T16:07:05.253309+00:00",
+  "updated_at": "2026-09-16T16:25:29.320052+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-16",
   "date_to": "2026-09-23",
@@ -66184,7 +66184,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -66353,7 +66353,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -66675,7 +66675,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 6",
       "period": "1T",
-      "current_minute": 5,
+      "current_minute": 24,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -66844,7 +66844,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 3",
       "period": "2T",
-      "current_minute": 47,
+      "current_minute": 65,
       "home_score": 1,
       "away_score": 0,
       "home_score_ht": 1,
@@ -66982,7 +66982,7 @@
       "referee_id": null,
       "venue_id": null,
       "event_date": "2026-09-16T15:00:00+00:00",
-      "status": "halftime",
+      "status": "2nd_half",
       "replaced_by": null,
       "round_number": 3,
       "round_name": "",
@@ -66990,10 +66990,10 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 3",
-      "period": "HT",
-      "current_minute": 45,
+      "period": "2T",
+      "current_minute": 57,
       "home_score": 1,
-      "away_score": 1,
+      "away_score": 2,
       "home_score_ht": 1,
       "away_score_ht": 1,
       "penalty_shootout": null,
@@ -67151,7 +67151,7 @@
       "referee_id": null,
       "venue_id": null,
       "event_date": "2026-09-16T15:00:00+00:00",
-      "status": "halftime",
+      "status": "2nd_half",
       "replaced_by": null,
       "round_number": 3,
       "round_name": "",
@@ -67159,8 +67159,8 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 3",
-      "period": "HT",
-      "current_minute": 45,
+      "period": "2T",
+      "current_minute": 64,
       "home_score": 0,
       "away_score": 1,
       "home_score_ht": 0,
