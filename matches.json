@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T02:25:09.725375+00:00",
+  "updated_at": "2026-09-16T02:38:16.925531+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-16",
   "date_to": "2026-09-23",
@@ -61061,10 +61061,10 @@
       "is_neutral_ground": false,
       "travel_distance_km": 1848,
       "weather": {
-        "code": null,
-        "description": null,
-        "wind_speed": null,
-        "temperature_c": null
+        "code": 1,
+        "description": "clear",
+        "wind_speed": 25.6,
+        "temperature_c": 12
       },
       "pitch_condition": null,
       "attendance": null,
@@ -66799,9 +66799,9 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 7",
       "period": "2T",
-      "current_minute": 62,
+      "current_minute": 76,
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "home_score_ht": 0,
       "away_score_ht": 0,
       "penalty_shootout": null,
@@ -66959,7 +66959,7 @@
       "referee_id": 2106,
       "venue_id": 156,
       "event_date": "2026-09-16T00:30:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 27,
       "round_name": "Quarterfinals",
@@ -66967,8 +66967,8 @@
       "stage": "quarterfinals",
       "stage_name": "Quarterfinals",
       "round_label": "Quarterfinals",
-      "period": "2T",
-      "current_minute": 91,
+      "period": "FT",
+      "current_minute": 90,
       "home_score": 1,
       "away_score": 1,
       "home_score_ht": 0,
@@ -66979,12 +66979,12 @@
       "is_neutral_ground": false,
       "travel_distance_km": null,
       "weather": {
-        "code": 1,
-        "description": "clear",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 15.0,
         "temperature_c": 14
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
@@ -67058,7 +67058,29 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "goals",
+          "title": "Boyacá Chicó 0 - 2 Alianza Valledupar — 30' Déinner Quiñones",
+          "url": "https://www.youtube.com/watch?v=Nc6IKCqv89c",
+          "thumbnail": "https://i.ytimg.com/vi/Nc6IKCqv89c/hqdefault.jpg",
+          "published_at": "2026-09-16T01:28:47+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Boyacá Chicó 1 - 2 Alianza Valledupar — 36' Jhonier Alomía",
+          "url": "https://www.youtube.com/watch?v=3H1BLgwAcVQ",
+          "thumbnail": "https://i.ytimg.com/vi/3H1BLgwAcVQ/hqdefault.jpg",
+          "published_at": "2026-09-16T01:28:35+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Boyacá Chicó 0 - 1 Alianza Valledupar — 10' Felipe Pardo, Penalty",
+          "url": "https://www.youtube.com/watch?v=23GG7olGlRY",
+          "thumbnail": "https://i.ytimg.com/vi/23GG7olGlRY/hqdefault.jpg",
+          "published_at": "2026-09-16T00:50:35+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 3,
         "home_wins": 2,
