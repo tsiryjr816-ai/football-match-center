@@ -5,7 +5,7 @@
   "results": [
     {
       "id": 30,
-      "name": "Africa Cup of Nations 2023",
+      "name": "Africa Cup of Nations 2025",
       "country": "Africa",
       "is_women": false,
       "is_active": true,
@@ -85,7 +85,7 @@
           {
             "stage": "qualification-round-1",
             "stage_name": "Qualification Round 1",
-            "matches": 58,
+            "matches": 59,
             "rounds": 1,
             "start_date": "2026-09-04",
             "end_date": "2026-10-03"
@@ -242,7 +242,7 @@
     },
     {
       "id": 68,
-      "name": "AFC Asian Cup 2023",
+      "name": "AFC Asian Cup 2027",
       "country": "Asia",
       "is_women": false,
       "is_active": true,
@@ -1622,7 +1622,7 @@
           {
             "stage": "league-phase",
             "stage_name": "League phase",
-            "matches": 296,
+            "matches": 297,
             "rounds": 0,
             "start_date": "2025-12-17",
             "end_date": "2026-10-07"

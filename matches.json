@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T03:06:10.726730+00:00",
+  "updated_at": "2026-09-16T03:25:02.947230+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-16",
   "date_to": "2026-09-23",
@@ -1525,6 +1525,98 @@
             "home_score": 0,
             "away_team_id": 785,
             "home_team_id": 787
+          }
+        ]
+      },
+      "has_xg": false,
+      "previous_leg_event_id": null
+    },
+    {
+      "id": 604418,
+      "league_id": 31,
+      "season_id": 133,
+      "home_team_id": 706,
+      "home_team": "Dominica",
+      "away_team_id": 685,
+      "away_team": "Anguilla",
+      "home_coach_id": 55,
+      "away_coach_id": 40,
+      "referee_id": null,
+      "venue_id": null,
+      "event_date": "2026-09-22T00:00:00+00:00",
+      "status": "notstarted",
+      "replaced_by": null,
+      "round_number": null,
+      "round_name": "",
+      "group_name": null,
+      "stage": "league-phase",
+      "stage_name": "League phase",
+      "round_label": "League phase",
+      "period": "",
+      "current_minute": null,
+      "home_score": null,
+      "away_score": null,
+      "home_score_ht": null,
+      "away_score_ht": null,
+      "penalty_shootout": null,
+      "extra_time_score": null,
+      "is_local_derby": false,
+      "is_neutral_ground": false,
+      "travel_distance_km": null,
+      "weather": {
+        "code": null,
+        "description": null,
+        "wind_speed": null,
+        "temperature_c": null
+      },
+      "pitch_condition": null,
+      "attendance": null,
+      "live_websocket": false,
+      "websocket_plus": false,
+      "highlights": [],
+      "head_to_head": {
+        "total_matches": 3,
+        "home_wins": 1,
+        "draws": 2,
+        "away_wins": 0,
+        "home_goals": 4,
+        "away_goals": 1,
+        "avg_total_goals": 1.6666666666666667,
+        "home_win_rate": 0.3333333333333333,
+        "away_win_rate": 0.0,
+        "recent_matches": [
+          {
+            "away": "Anguilla",
+            "date": "2022-06-05T19:00:00+00:00",
+            "home": "Dominica",
+            "score": "1-1",
+            "event_id": 251564,
+            "away_score": 1,
+            "home_score": 1,
+            "away_team_id": 685,
+            "home_team_id": 706
+          },
+          {
+            "away": "Dominica",
+            "date": "2022-06-02T20:00:00+00:00",
+            "home": "Anguilla",
+            "score": "0-0",
+            "event_id": 251545,
+            "away_score": 0,
+            "home_score": 0,
+            "away_team_id": 706,
+            "home_team_id": 685
+          },
+          {
+            "away": "Anguilla",
+            "date": "2021-06-02T19:00:00+00:00",
+            "home": "Dominica",
+            "score": "3-0",
+            "event_id": 262636,
+            "away_score": 0,
+            "home_score": 3,
+            "away_team_id": 685,
+            "home_team_id": 706
           }
         ]
       },
@@ -33249,7 +33341,7 @@
       "home_team": "CD Eldense",
       "away_team_id": 1397,
       "away_team": "Eibar",
-      "home_coach_id": 829,
+      "home_coach_id": 3961,
       "away_coach_id": 3484,
       "referee_id": null,
       "venue_id": 855,
@@ -67284,7 +67376,7 @@
       "stage_name": "Quarterfinals",
       "round_label": "Quarterfinals",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 97,
       "home_score": 1,
       "away_score": 1,
       "home_score_ht": 0,
@@ -67304,7 +67396,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "goals",
+          "title": "São Paulo 1 - 1 Boca Juniors — All Goals",
+          "url": "https://www.youtube.com/watch?v=CofWtF2Ywkc",
+          "thumbnail": "https://i.ytimg.com/vi/CofWtF2Ywkc/hqdefault.jpg",
+          "published_at": "2026-09-16T03:07:19+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 1,
         "home_wins": 0,
@@ -67329,7 +67429,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": 588063
     },
     {
@@ -67468,7 +67568,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 28",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 95,
       "home_score": 2,
       "away_score": 1,
       "home_score_ht": 1,
@@ -67620,7 +67720,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     }
   ]
