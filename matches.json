@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T16:25:29.320052+00:00",
+  "updated_at": "2026-09-16T16:38:12.215796+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-16",
   "date_to": "2026-09-23",
@@ -65846,7 +65846,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -66015,7 +66015,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -66569,7 +66569,7 @@
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -66650,7 +66650,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -66675,7 +66675,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 6",
       "period": "1T",
-      "current_minute": 24,
+      "current_minute": 36,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -66844,8 +66844,8 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 3",
       "period": "2T",
-      "current_minute": 65,
-      "home_score": 1,
+      "current_minute": 78,
+      "home_score": 2,
       "away_score": 0,
       "home_score_ht": 1,
       "away_score_ht": 0,
@@ -66991,7 +66991,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 3",
       "period": "2T",
-      "current_minute": 57,
+      "current_minute": 70,
       "home_score": 1,
       "away_score": 2,
       "home_score_ht": 1,
@@ -67160,8 +67160,8 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 3",
       "period": "2T",
-      "current_minute": 64,
-      "home_score": 0,
+      "current_minute": 77,
+      "home_score": 1,
       "away_score": 1,
       "home_score_ht": 0,
       "away_score_ht": 1,
