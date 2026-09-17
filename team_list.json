@@ -143,6 +143,22 @@
     "id": 572,
     "name": "Kun Khalifat FC"
   },
+  "453": {
+    "id": 453,
+    "name": "South Korea"
+  },
+  "472": {
+    "id": 472,
+    "name": "Ecuador"
+  },
+  "470": {
+    "id": 470,
+    "name": "Japan"
+  },
+  "480": {
+    "id": 480,
+    "name": "Uruguay"
+  },
   "302": {
     "id": 302,
     "name": "Seattle Sounders FC"
@@ -159,14 +175,6 @@
     "id": 4786,
     "name": "Rionegro Águilas Doradas"
   },
-  "684": {
-    "id": 684,
-    "name": "Bahamas"
-  },
-  "934": {
-    "id": 934,
-    "name": "Saint Martin"
-  },
   "2058": {
     "id": 2058,
     "name": "Aruba"
@@ -174,6 +182,14 @@
   "2290": {
     "id": 2290,
     "name": "Antigua and Barbuda"
+  },
+  "684": {
+    "id": 684,
+    "name": "Bahamas"
+  },
+  "934": {
+    "id": 934,
+    "name": "Saint Martin"
   },
   "2296": {
     "id": 2296,
