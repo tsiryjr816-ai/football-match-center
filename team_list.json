@@ -1,4 +1,164 @@
 {
+  "2212": {
+    "id": 2212,
+    "name": "Liechtenstein"
+  },
+  "674": {
+    "id": 674,
+    "name": "Lithuania"
+  },
+  "2211": {
+    "id": 2211,
+    "name": "Kosovo"
+  },
+  "729": {
+    "id": 729,
+    "name": "Ireland"
+  },
+  "483": {
+    "id": 483,
+    "name": "Austria"
+  },
+  "679": {
+    "id": 679,
+    "name": "Israel"
+  },
+  "491": {
+    "id": 491,
+    "name": "Portugal"
+  },
+  "727": {
+    "id": 727,
+    "name": "Wales"
+  },
+  "488": {
+    "id": 488,
+    "name": "Norway"
+  },
+  "1327": {
+    "id": 1327,
+    "name": "Denmark"
+  },
+  "675": {
+    "id": 675,
+    "name": "Serbia"
+  },
+  "702": {
+    "id": 702,
+    "name": "Greece"
+  },
+  "469": {
+    "id": 469,
+    "name": "Netherlands"
+  },
+  "467": {
+    "id": 467,
+    "name": "Germany"
+  },
+  "2295": {
+    "id": 2295,
+    "name": "Puerto Rico"
+  },
+  "705": {
+    "id": 705,
+    "name": "Guyana"
+  },
+  "2064": {
+    "id": 2064,
+    "name": "Wydad Casablanca"
+  },
+  "8617": {
+    "id": 8617,
+    "name": "Widad Temara"
+  },
+  "2062": {
+    "id": 2062,
+    "name": "Union Touarga Sport"
+  },
+  "2066": {
+    "id": 2066,
+    "name": "Fath Union Sport"
+  },
+  "4771": {
+    "id": 4771,
+    "name": "Union Sportive Amal Tiznit"
+  },
+  "2059": {
+    "id": 2059,
+    "name": "Ittihad Tanger"
+  },
+  "5186": {
+    "id": 5186,
+    "name": "Moghreb Atlético Tetuán"
+  },
+  "594": {
+    "id": 594,
+    "name": "RS Berkane"
+  },
+  "2071": {
+    "id": 2071,
+    "name": "MAS de Fès"
+  },
+  "2072": {
+    "id": 2072,
+    "name": "Renaissance Zemamra"
+  },
+  "2065": {
+    "id": 2065,
+    "name": "Kawkab Athletic Club Marrakech"
+  },
+  "2060": {
+    "id": 2060,
+    "name": "Hassania d'Agadir"
+  },
+  "2069": {
+    "id": 2069,
+    "name": "Difaâ Hassani El-Jadidi"
+  },
+  "2070": {
+    "id": 2070,
+    "name": "CODM Meknès"
+  },
+  "586": {
+    "id": 586,
+    "name": "AS FAR Rabat"
+  },
+  "2067": {
+    "id": 2067,
+    "name": "Raja Club Athletic"
+  },
+  "701": {
+    "id": 701,
+    "name": "Andorra"
+  },
+  "2089": {
+    "id": 2089,
+    "name": "Malta"
+  },
+  "582": {
+    "id": 582,
+    "name": "Nasarawa United"
+  },
+  "572": {
+    "id": 572,
+    "name": "Kun Khalifat FC"
+  },
+  "302": {
+    "id": 302,
+    "name": "Seattle Sounders FC"
+  },
+  "279": {
+    "id": 279,
+    "name": "Real Salt Lake"
+  },
+  "753": {
+    "id": 753,
+    "name": "América de Cali"
+  },
+  "4786": {
+    "id": 4786,
+    "name": "Rionegro Águilas Doradas"
+  },
   "684": {
     "id": 684,
     "name": "Bahamas"
@@ -218,10 +378,6 @@
   "781": {
     "id": 781,
     "name": "Deportes Tolima"
-  },
-  "753": {
-    "id": 753,
-    "name": "América de Cali"
   },
   "3931": {
     "id": 3931,
@@ -671,13 +827,17 @@
     "id": 565,
     "name": "Abia Warriors"
   },
-  "572": {
-    "id": 572,
-    "name": "Kun Khalifat FC"
-  },
   "571": {
     "id": 571,
     "name": "Enugu Rangers International"
+  },
+  "8327": {
+    "id": 8327,
+    "name": "CD Alcains"
+  },
+  "5867": {
+    "id": 5867,
+    "name": "Vitória de Setúbal"
   },
   "574": {
     "id": 574,
@@ -718,10 +878,6 @@
   "577": {
     "id": 577,
     "name": "Shooting Stars"
-  },
-  "582": {
-    "id": 582,
-    "name": "Nasarawa United"
   },
   "564": {
     "id": 564,
@@ -1007,14 +1163,6 @@
     "id": 8390,
     "name": "Juventude SC"
   },
-  "8327": {
-    "id": 8327,
-    "name": "CD Alcains"
-  },
-  "5867": {
-    "id": 5867,
-    "name": "Vitória de Setúbal"
-  },
   "3593": {
     "id": 3593,
     "name": "Southall FC"
@@ -1071,14 +1219,6 @@
     "id": 4829,
     "name": "Amarante FC"
   },
-  "4827": {
-    "id": 4827,
-    "name": "AD Fafe"
-  },
-  "8326": {
-    "id": 8326,
-    "name": "JD Lajense"
-  },
   "8650": {
     "id": 8650,
     "name": "FC Madalena"
@@ -1086,14 +1226,6 @@
   "2910": {
     "id": 2910,
     "name": "Lusitânia Lourosa"
-  },
-  "8374": {
-    "id": 8374,
-    "name": "Sport Comércio e Salgueiros"
-  },
-  "1312": {
-    "id": 1312,
-    "name": "Feirense"
   },
   "8224": {
     "id": 8224,
@@ -1479,6 +1611,14 @@
     "id": 1958,
     "name": "Daejeon Hana Citizen"
   },
+  "4827": {
+    "id": 4827,
+    "name": "AD Fafe"
+  },
+  "8326": {
+    "id": 8326,
+    "name": "JD Lajense"
+  },
   "1954": {
     "id": 1954,
     "name": "Jeonbuk Hyundai Motors"
@@ -1535,10 +1675,6 @@
     "id": 289,
     "name": "Chicago Fire"
   },
-  "279": {
-    "id": 279,
-    "name": "Real Salt Lake"
-  },
   "278": {
     "id": 278,
     "name": "Vancouver Whitecaps"
@@ -1546,10 +1682,6 @@
   "303": {
     "id": 303,
     "name": "Colorado Rapids"
-  },
-  "302": {
-    "id": 302,
-    "name": "Seattle Sounders FC"
   },
   "3419": {
     "id": 3419,
@@ -2263,6 +2395,14 @@
     "id": 8328,
     "name": "GD Lagoa"
   },
+  "8374": {
+    "id": 8374,
+    "name": "Sport Comércio e Salgueiros"
+  },
+  "1312": {
+    "id": 1312,
+    "name": "Feirense"
+  },
   "363": {
     "id": 363,
     "name": "CFR 1907 Cluj"
@@ -2310,6 +2450,14 @@
   "45": {
     "id": 45,
     "name": "Deportivo Alavés"
+  },
+  "4921": {
+    "id": 4921,
+    "name": "Hanwell Town"
+  },
+  "7208": {
+    "id": 7208,
+    "name": "Burgess Hill Town"
   },
   "4123": {
     "id": 4123,
@@ -3719,10 +3867,6 @@
     "id": 3136,
     "name": "Defensa y Justicia"
   },
-  "4786": {
-    "id": 4786,
-    "name": "Rionegro Águilas Doradas"
-  },
   "4780": {
     "id": 4780,
     "name": "Deportivo Pereira"
@@ -4070,41 +4214,5 @@
   "4801": {
     "id": 4801,
     "name": "Barranquilla FC"
-  },
-  "778": {
-    "id": 778,
-    "name": "LDU"
-  },
-  "2227": {
-    "id": 2227,
-    "name": "SC Jacksonville"
-  },
-  "416": {
-    "id": 416,
-    "name": "Hapoel Be'er Sheva"
-  },
-  "133": {
-    "id": 133,
-    "name": "GNK Dinamo Zagreb"
-  },
-  "406": {
-    "id": 406,
-    "name": "NK Celje"
-  },
-  "2346": {
-    "id": 2346,
-    "name": "Omonia Nicosia"
-  },
-  "3298": {
-    "id": 3298,
-    "name": "FC Ararat-Armenia"
-  },
-  "1340": {
-    "id": 1340,
-    "name": "AC Sparta Praha"
-  },
-  "602": {
-    "id": 602,
-    "name": "US Monastir"
   }
 }
