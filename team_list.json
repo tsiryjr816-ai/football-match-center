@@ -1067,14 +1067,6 @@
     "id": 5648,
     "name": "Doma United FC"
   },
-  "573": {
-    "id": 573,
-    "name": "Katsina United"
-  },
-  "581": {
-    "id": 581,
-    "name": "Niger Tornadoes"
-  },
   "568": {
     "id": 568,
     "name": "Enyimba"
@@ -2259,14 +2251,6 @@
     "id": 3885,
     "name": "Valencia"
   },
-  "247": {
-    "id": 247,
-    "name": "FC Sion"
-  },
-  "246": {
-    "id": 246,
-    "name": "FC Zürich"
-  },
   "431": {
     "id": 431,
     "name": "Motor Lublin"
@@ -2491,6 +2475,14 @@
     "id": 342,
     "name": "Cherno More Varna"
   },
+  "247": {
+    "id": 247,
+    "name": "FC Sion"
+  },
+  "246": {
+    "id": 246,
+    "name": "FC Zürich"
+  },
   "250": {
     "id": 250,
     "name": "FC Luzern"
@@ -2570,6 +2562,14 @@
   "567": {
     "id": 567,
     "name": "Barau FC"
+  },
+  "573": {
+    "id": 573,
+    "name": "Katsina United"
+  },
+  "581": {
+    "id": 581,
+    "name": "Niger Tornadoes"
   },
   "3294": {
     "id": 3294,
