@@ -1,4 +1,196 @@
 {
+  "2227": {
+    "id": 2227,
+    "name": "SC Jacksonville"
+  },
+  "2224": {
+    "id": 2224,
+    "name": "Loudoun United FC"
+  },
+  "826": {
+    "id": 826,
+    "name": "Vila Nova FC"
+  },
+  "821": {
+    "id": 821,
+    "name": "Londrina"
+  },
+  "4784": {
+    "id": 4784,
+    "name": "Boyacá Chicó FC"
+  },
+  "3419": {
+    "id": 3419,
+    "name": "Deportivo Pasto"
+  },
+  "4797": {
+    "id": 4797,
+    "name": "Unión Magdalena"
+  },
+  "797": {
+    "id": 797,
+    "name": "Independiente Santa Fe"
+  },
+  "2228": {
+    "id": 2228,
+    "name": "Hartford Athletic"
+  },
+  "2222": {
+    "id": 2222,
+    "name": "Louisville City FC"
+  },
+  "3935": {
+    "id": 3935,
+    "name": "Racing Louisville"
+  },
+  "3936": {
+    "id": 3936,
+    "name": "San Diego Wave FC"
+  },
+  "836": {
+    "id": 836,
+    "name": "Grêmio Novorizontino"
+  },
+  "841": {
+    "id": 841,
+    "name": "São Bernardo"
+  },
+  "661": {
+    "id": 661,
+    "name": "Grenada"
+  },
+  "683": {
+    "id": 683,
+    "name": "Cuba"
+  },
+  "668": {
+    "id": 668,
+    "name": "Bermuda"
+  },
+  "2308": {
+    "id": 2308,
+    "name": "Guadeloupe"
+  },
+  "700": {
+    "id": 700,
+    "name": "Montenegro"
+  },
+  "676": {
+    "id": 676,
+    "name": "Cyprus"
+  },
+  "731": {
+    "id": 731,
+    "name": "Sweden"
+  },
+  "726": {
+    "id": 726,
+    "name": "Romania"
+  },
+  "2028": {
+    "id": 2028,
+    "name": "Poland"
+  },
+  "931": {
+    "id": 931,
+    "name": "Bosnia & Herzegovina"
+  },
+  "714": {
+    "id": 714,
+    "name": "Hungary"
+  },
+  "723": {
+    "id": 723,
+    "name": "Ukraine"
+  },
+  "932": {
+    "id": 932,
+    "name": "Türkiye"
+  },
+  "485": {
+    "id": 485,
+    "name": "France"
+  },
+  "1326": {
+    "id": 1326,
+    "name": "Italy"
+  },
+  "477": {
+    "id": 477,
+    "name": "Belgium"
+  },
+  "39": {
+    "id": 39,
+    "name": "Girona FC"
+  },
+  "1395": {
+    "id": 1395,
+    "name": "Albacete Balompié"
+  },
+  "717": {
+    "id": 717,
+    "name": "Armenia"
+  },
+  "2262": {
+    "id": 2262,
+    "name": "Latvia"
+  },
+  "678": {
+    "id": 678,
+    "name": "Georgia"
+  },
+  "728": {
+    "id": 728,
+    "name": "Northern Ireland"
+  },
+  "459": {
+    "id": 459,
+    "name": "Australia"
+  },
+  "463": {
+    "id": 463,
+    "name": "Brazil"
+  },
+  "699": {
+    "id": 699,
+    "name": "Costa Rica"
+  },
+  "468": {
+    "id": 468,
+    "name": "Curaçao"
+  },
+  "766": {
+    "id": 766,
+    "name": "Atlético Nacional"
+  },
+  "736": {
+    "id": 736,
+    "name": "Millonarios"
+  },
+  "686": {
+    "id": 686,
+    "name": "Cayman Islands"
+  },
+  "706": {
+    "id": 706,
+    "name": "Dominica"
+  },
+  "465": {
+    "id": 465,
+    "name": "Haiti"
+  },
+  "666": {
+    "id": 666,
+    "name": "Trinidad and Tobago"
+  },
+  "688": {
+    "id": 688,
+    "name": "Dominican Republic"
+  },
+  "698": {
+    "id": 698,
+    "name": "Nicaragua"
+  },
   "2212": {
     "id": 2212,
     "name": "Liechtenstein"
@@ -271,10 +463,6 @@
     "id": 1967,
     "name": "Sagan Tosu"
   },
-  "797": {
-    "id": 797,
-    "name": "Independiente Santa Fe"
-  },
   "3733": {
     "id": 3733,
     "name": "Deportivo Cali"
@@ -302,10 +490,6 @@
   "787": {
     "id": 787,
     "name": "Estudiantes de La Plata"
-  },
-  "706": {
-    "id": 706,
-    "name": "Dominica"
   },
   "685": {
     "id": 685,
@@ -363,10 +547,6 @@
     "id": 4781,
     "name": "Llaneros FC"
   },
-  "766": {
-    "id": 766,
-    "name": "Atlético Nacional"
-  },
   "2397": {
     "id": 2397,
     "name": "Vélez Sarsfield"
@@ -407,10 +587,6 @@
     "id": 3932,
     "name": "Bay FC"
   },
-  "3935": {
-    "id": 3935,
-    "name": "Racing Louisville"
-  },
   "2239": {
     "id": 2239,
     "name": "Sacramento Republic FC"
@@ -442,10 +618,6 @@
   "5000": {
     "id": 5000,
     "name": "Estudiantes de Río Cuarto"
-  },
-  "821": {
-    "id": 821,
-    "name": "Londrina"
   },
   "152": {
     "id": 152,
@@ -1663,10 +1835,6 @@
     "id": 2238,
     "name": "Las Vegas Lights"
   },
-  "2228": {
-    "id": 2228,
-    "name": "Hartford Athletic"
-  },
   "294": {
     "id": 294,
     "name": "Portland Timbers"
@@ -1698,10 +1866,6 @@
   "303": {
     "id": 303,
     "name": "Colorado Rapids"
-  },
-  "3419": {
-    "id": 3419,
-    "name": "Deportivo Pasto"
   },
   "3891": {
     "id": 3891,
@@ -1859,14 +2023,6 @@
     "id": 313,
     "name": "Pumas UNAM"
   },
-  "2222": {
-    "id": 2222,
-    "name": "Louisville City FC"
-  },
-  "2224": {
-    "id": 2224,
-    "name": "Loudoun United FC"
-  },
   "2221": {
     "id": 2221,
     "name": "Lexington SC"
@@ -1979,21 +2135,9 @@
     "id": 4663,
     "name": "C.F. Os Belenenses"
   },
-  "736": {
-    "id": 736,
-    "name": "Millonarios"
-  },
-  "4784": {
-    "id": 4784,
-    "name": "Boyacá Chicó FC"
-  },
   "1270": {
     "id": 1270,
     "name": "Cádiz"
-  },
-  "39": {
-    "id": 39,
-    "name": "Girona FC"
   },
   "52": {
     "id": 52,
@@ -3819,10 +3963,6 @@
     "id": 321,
     "name": "Tigres UANL"
   },
-  "3936": {
-    "id": 3936,
-    "name": "San Diego Wave FC"
-  },
   "3930": {
     "id": 3930,
     "name": "Kansas City Current"
@@ -3843,10 +3983,6 @@
     "id": 4999,
     "name": "Sarmiento"
   },
-  "841": {
-    "id": 841,
-    "name": "São Bernardo"
-  },
   "819": {
     "id": 819,
     "name": "Atlético Goianiense"
@@ -3855,10 +3991,6 @@
     "id": 169,
     "name": "Ceará"
   },
-  "836": {
-    "id": 836,
-    "name": "Grêmio Novorizontino"
-  },
   "301": {
     "id": 301,
     "name": "New York City FC"
@@ -3866,10 +3998,6 @@
   "281": {
     "id": 281,
     "name": "New York Red Bulls"
-  },
-  "826": {
-    "id": 826,
-    "name": "Vila Nova FC"
   },
   "838": {
     "id": 838,
@@ -3966,10 +4094,6 @@
   "61": {
     "id": 61,
     "name": "Sassuolo"
-  },
-  "1395": {
-    "id": 1395,
-    "name": "Albacete Balompié"
   },
   "1265": {
     "id": 1265,
@@ -4202,33 +4326,5 @@
   "750": {
     "id": 750,
     "name": "Cienciano"
-  },
-  "2213": {
-    "id": 2213,
-    "name": "Torreense"
-  },
-  "144": {
-    "id": 144,
-    "name": "FC Viktoria Plzeň"
-  },
-  "143": {
-    "id": 143,
-    "name": "Ferencváros TC"
-  },
-  "1421": {
-    "id": 1421,
-    "name": "AFC Wimbledon"
-  },
-  "1256": {
-    "id": 1256,
-    "name": "Milton Keynes Dons"
-  },
-  "1911": {
-    "id": 1911,
-    "name": "Stade Tunisien"
-  },
-  "4801": {
-    "id": 4801,
-    "name": "Barranquilla FC"
   }
 }
