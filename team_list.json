@@ -1031,14 +1031,6 @@
     "id": 128,
     "name": "SK Sturm Graz"
   },
-  "8256": {
-    "id": 8256,
-    "name": "Ranchers Bees"
-  },
-  "570": {
-    "id": 570,
-    "name": "Bendel Insurance FC"
-  },
   "5649": {
     "id": 5649,
     "name": "Sporting Lagos FC"
@@ -2562,6 +2554,14 @@
   "1407": {
     "id": 1407,
     "name": "SCR Altach"
+  },
+  "8256": {
+    "id": 8256,
+    "name": "Ranchers Bees"
+  },
+  "570": {
+    "id": 570,
+    "name": "Bendel Insurance FC"
   },
   "576": {
     "id": 576,
