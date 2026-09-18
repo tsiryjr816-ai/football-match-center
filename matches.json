@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T00:56:35.912403+00:00",
+  "updated_at": "2026-09-18T05:31:40.814102+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-18",
   "date_to": "2026-09-25",
@@ -2461,6 +2461,98 @@
       "previous_leg_event_id": null
     },
     {
+      "id": 223075,
+      "league_id": 65,
+      "season_id": 1633,
+      "home_team_id": 2295,
+      "home_team": "Puerto Rico",
+      "away_team_id": 705,
+      "away_team": "Guyana",
+      "home_coach_id": 1716,
+      "away_coach_id": 53,
+      "referee_id": null,
+      "venue_id": null,
+      "event_date": "2026-09-24T19:00:00+00:00",
+      "status": "notstarted",
+      "replaced_by": null,
+      "round_number": 1,
+      "round_name": "",
+      "group_name": "Group A",
+      "stage": "group-stage",
+      "stage_name": "Group stage",
+      "round_label": "Group A · Matchday 1",
+      "period": "",
+      "current_minute": null,
+      "home_score": null,
+      "away_score": null,
+      "home_score_ht": null,
+      "away_score_ht": null,
+      "penalty_shootout": null,
+      "extra_time_score": null,
+      "is_local_derby": false,
+      "is_neutral_ground": false,
+      "travel_distance_km": null,
+      "weather": {
+        "code": null,
+        "description": null,
+        "wind_speed": null,
+        "temperature_c": null
+      },
+      "pitch_condition": null,
+      "attendance": null,
+      "live_websocket": false,
+      "websocket_plus": true,
+      "highlights": [],
+      "head_to_head": {
+        "total_matches": 3,
+        "home_wins": 1,
+        "draws": 0,
+        "away_wins": 2,
+        "home_goals": 4,
+        "away_goals": 6,
+        "avg_total_goals": 3.3333333333333335,
+        "home_win_rate": 0.3333333333333333,
+        "away_win_rate": 0.6666666666666666,
+        "recent_matches": [
+          {
+            "away": "Puerto Rico",
+            "date": "2023-10-17T20:00:00+00:00",
+            "home": "Guyana",
+            "score": "3-1",
+            "event_id": 240804,
+            "away_score": 1,
+            "home_score": 3,
+            "away_team_id": 2295,
+            "home_team_id": 705
+          },
+          {
+            "away": "Guyana",
+            "date": "2023-10-14T19:00:00+00:00",
+            "home": "Puerto Rico",
+            "score": "1-3",
+            "event_id": 240790,
+            "away_score": 3,
+            "home_score": 1,
+            "away_team_id": 705,
+            "home_team_id": 2295
+          },
+          {
+            "away": "Puerto Rico",
+            "date": "2021-06-08T20:00:00+00:00",
+            "home": "Guyana",
+            "score": "0-2",
+            "event_id": 262655,
+            "away_score": 2,
+            "home_score": 0,
+            "away_team_id": 2295,
+            "home_team_id": 705
+          }
+        ]
+      },
+      "has_xg": false,
+      "previous_leg_event_id": null
+    },
+    {
       "id": 212590,
       "league_id": 64,
       "season_id": 1430,
@@ -3075,98 +3167,6 @@
             "home_score": 1,
             "away_team_id": 469,
             "home_team_id": 467
-          }
-        ]
-      },
-      "has_xg": false,
-      "previous_leg_event_id": null
-    },
-    {
-      "id": 223075,
-      "league_id": 65,
-      "season_id": 1633,
-      "home_team_id": 2295,
-      "home_team": "Puerto Rico",
-      "away_team_id": 705,
-      "away_team": "Guyana",
-      "home_coach_id": 1716,
-      "away_coach_id": 53,
-      "referee_id": null,
-      "venue_id": null,
-      "event_date": "2026-09-24T18:00:00+00:00",
-      "status": "notstarted",
-      "replaced_by": null,
-      "round_number": 1,
-      "round_name": "",
-      "group_name": "Group A",
-      "stage": "group-stage",
-      "stage_name": "Group stage",
-      "round_label": "Group A · Matchday 1",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
-      "penalty_shootout": null,
-      "extra_time_score": null,
-      "is_local_derby": false,
-      "is_neutral_ground": false,
-      "travel_distance_km": null,
-      "weather": {
-        "code": null,
-        "description": null,
-        "wind_speed": null,
-        "temperature_c": null
-      },
-      "pitch_condition": null,
-      "attendance": null,
-      "live_websocket": false,
-      "websocket_plus": true,
-      "highlights": [],
-      "head_to_head": {
-        "total_matches": 3,
-        "home_wins": 1,
-        "draws": 0,
-        "away_wins": 2,
-        "home_goals": 4,
-        "away_goals": 6,
-        "avg_total_goals": 3.3333333333333335,
-        "home_win_rate": 0.3333333333333333,
-        "away_win_rate": 0.6666666666666666,
-        "recent_matches": [
-          {
-            "away": "Puerto Rico",
-            "date": "2023-10-17T20:00:00+00:00",
-            "home": "Guyana",
-            "score": "3-1",
-            "event_id": 240804,
-            "away_score": 1,
-            "home_score": 3,
-            "away_team_id": 2295,
-            "home_team_id": 705
-          },
-          {
-            "away": "Guyana",
-            "date": "2023-10-14T19:00:00+00:00",
-            "home": "Puerto Rico",
-            "score": "1-3",
-            "event_id": 240790,
-            "away_score": 3,
-            "home_score": 1,
-            "away_team_id": 705,
-            "home_team_id": 2295
-          },
-          {
-            "away": "Puerto Rico",
-            "date": "2021-06-08T20:00:00+00:00",
-            "home": "Guyana",
-            "score": "0-2",
-            "event_id": 262655,
-            "away_score": 2,
-            "home_score": 0,
-            "away_team_id": 2295,
-            "home_team_id": 705
           }
         ]
       },
@@ -4246,6 +4246,109 @@
       "previous_leg_event_id": null
     },
     {
+      "id": 604449,
+      "league_id": 31,
+      "season_id": 133,
+      "home_team_id": 664,
+      "home_team": "China",
+      "away_team_id": 2259,
+      "away_team": "Maldives",
+      "home_coach_id": 699,
+      "away_coach_id": 1682,
+      "referee_id": null,
+      "venue_id": null,
+      "event_date": "2026-09-24T11:35:00+00:00",
+      "status": "notstarted",
+      "replaced_by": null,
+      "round_number": null,
+      "round_name": "",
+      "group_name": null,
+      "stage": "league-phase",
+      "stage_name": "League phase",
+      "round_label": "League phase",
+      "period": "",
+      "current_minute": null,
+      "home_score": null,
+      "away_score": null,
+      "home_score_ht": null,
+      "away_score_ht": null,
+      "penalty_shootout": null,
+      "extra_time_score": null,
+      "is_local_derby": false,
+      "is_neutral_ground": false,
+      "travel_distance_km": null,
+      "weather": {
+        "code": null,
+        "description": null,
+        "wind_speed": null,
+        "temperature_c": null
+      },
+      "pitch_condition": null,
+      "attendance": null,
+      "live_websocket": false,
+      "websocket_plus": false,
+      "highlights": [],
+      "head_to_head": {
+        "total_matches": 4,
+        "home_wins": 4,
+        "draws": 0,
+        "away_wins": 0,
+        "home_goals": 17,
+        "away_goals": 0,
+        "avg_total_goals": 4.25,
+        "home_win_rate": 1.0,
+        "away_win_rate": 0.0,
+        "recent_matches": [
+          {
+            "away": "Maldives",
+            "date": "2021-06-11T17:00:00+00:00",
+            "home": "China",
+            "score": "5-0",
+            "event_id": 262362,
+            "away_score": 0,
+            "home_score": 5,
+            "away_team_id": 2259,
+            "home_team_id": 664
+          },
+          {
+            "away": "China",
+            "date": "2019-09-10T15:00:00+00:00",
+            "home": "Maldives",
+            "score": "0-5",
+            "event_id": 262251,
+            "away_score": 5,
+            "home_score": 0,
+            "away_team_id": 664,
+            "home_team_id": 2259
+          },
+          {
+            "away": "Maldives",
+            "date": "2016-03-24T11:35:00+00:00",
+            "home": "China",
+            "score": "4-0",
+            "event_id": 339768,
+            "away_score": 0,
+            "home_score": 4,
+            "away_team_id": 2259,
+            "home_team_id": 664
+          },
+          {
+            "away": "China",
+            "date": "2015-09-08T11:35:00+00:00",
+            "home": "Maldives",
+            "score": "0-3",
+            "event_id": 339670,
+            "away_score": 3,
+            "home_score": 0,
+            "away_team_id": 664,
+            "home_team_id": 2259
+          }
+        ]
+      },
+      "has_xg": false,
+      "previous_leg_event_id": null
+    },
+    {
       "id": 604433,
       "league_id": 31,
       "season_id": 133,
@@ -4437,6 +4540,53 @@
           }
         ]
       },
+      "has_xg": false,
+      "previous_leg_event_id": null
+    },
+    {
+      "id": 604448,
+      "league_id": 31,
+      "season_id": 133,
+      "home_team_id": 692,
+      "home_team": "Palestine",
+      "away_team_id": 482,
+      "away_team": "New Zealand",
+      "home_coach_id": 59,
+      "away_coach_id": 578,
+      "referee_id": null,
+      "venue_id": 519,
+      "event_date": "2026-09-24T09:30:00+00:00",
+      "status": "notstarted",
+      "replaced_by": null,
+      "round_number": null,
+      "round_name": "",
+      "group_name": null,
+      "stage": "league-phase",
+      "stage_name": "League phase",
+      "round_label": "League phase",
+      "period": "",
+      "current_minute": null,
+      "home_score": null,
+      "away_score": null,
+      "home_score_ht": null,
+      "away_score_ht": null,
+      "penalty_shootout": null,
+      "extra_time_score": null,
+      "is_local_derby": false,
+      "is_neutral_ground": false,
+      "travel_distance_km": null,
+      "weather": {
+        "code": null,
+        "description": null,
+        "wind_speed": null,
+        "temperature_c": null
+      },
+      "pitch_condition": null,
+      "attendance": null,
+      "live_websocket": false,
+      "websocket_plus": false,
+      "highlights": [],
+      "head_to_head": null,
       "has_xg": false,
       "previous_leg_event_id": null
     },
@@ -4819,7 +4969,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
         "total_matches": 5,
@@ -5152,6 +5302,100 @@
           }
         ]
       },
+      "has_xg": false,
+      "previous_leg_event_id": null
+    },
+    {
+      "id": 604447,
+      "league_id": 31,
+      "season_id": 133,
+      "home_team_id": 2219,
+      "home_team": "Gibraltar",
+      "away_team_id": 2273,
+      "away_team": "São Tomé and Príncipe",
+      "home_coach_id": 1762,
+      "away_coach_id": 1696,
+      "referee_id": null,
+      "venue_id": null,
+      "event_date": "2026-09-23T16:00:00+00:00",
+      "status": "notstarted",
+      "replaced_by": null,
+      "round_number": null,
+      "round_name": "",
+      "group_name": null,
+      "stage": "league-phase",
+      "stage_name": "League phase",
+      "round_label": "League phase",
+      "period": "",
+      "current_minute": null,
+      "home_score": null,
+      "away_score": null,
+      "home_score_ht": null,
+      "away_score_ht": null,
+      "penalty_shootout": null,
+      "extra_time_score": null,
+      "is_local_derby": false,
+      "is_neutral_ground": false,
+      "travel_distance_km": null,
+      "weather": {
+        "code": null,
+        "description": null,
+        "wind_speed": null,
+        "temperature_c": null
+      },
+      "pitch_condition": null,
+      "attendance": null,
+      "live_websocket": false,
+      "websocket_plus": false,
+      "highlights": [],
+      "head_to_head": null,
+      "has_xg": false,
+      "previous_leg_event_id": null
+    },
+    {
+      "id": 604446,
+      "league_id": 31,
+      "season_id": 133,
+      "home_team_id": 2092,
+      "home_team": "Azerbaijan",
+      "away_team_id": 2210,
+      "away_team": "Tajikistan",
+      "home_coach_id": 1684,
+      "away_coach_id": 1764,
+      "referee_id": null,
+      "venue_id": null,
+      "event_date": "2026-09-23T16:00:00+00:00",
+      "status": "notstarted",
+      "replaced_by": null,
+      "round_number": null,
+      "round_name": "",
+      "group_name": null,
+      "stage": "league-phase",
+      "stage_name": "League phase",
+      "round_label": "League phase",
+      "period": "",
+      "current_minute": null,
+      "home_score": null,
+      "away_score": null,
+      "home_score_ht": null,
+      "away_score_ht": null,
+      "penalty_shootout": null,
+      "extra_time_score": null,
+      "is_local_derby": false,
+      "is_neutral_ground": false,
+      "travel_distance_km": null,
+      "weather": {
+        "code": null,
+        "description": null,
+        "wind_speed": null,
+        "temperature_c": null
+      },
+      "pitch_condition": null,
+      "attendance": null,
+      "live_websocket": false,
+      "websocket_plus": false,
+      "highlights": [],
+      "head_to_head": null,
       "has_xg": false,
       "previous_leg_event_id": null
     },
@@ -6868,7 +7112,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
         "total_matches": 3,
@@ -7114,7 +7358,7 @@
       "away_coach_id": 347,
       "referee_id": null,
       "venue_id": 297,
-      "event_date": "2026-09-21T02:10:00+00:00",
+      "event_date": "2026-09-21T02:00:00+00:00",
       "status": "notstarted",
       "replaced_by": null,
       "round_number": 9,
@@ -8435,7 +8679,7 @@
       "away_team": "San Diego FC",
       "home_coach_id": 835,
       "away_coach_id": 356,
-      "referee_id": null,
+      "referee_id": 1774,
       "venue_id": 281,
       "event_date": "2026-09-20T23:00:00+00:00",
       "status": "notstarted",
@@ -14532,7 +14776,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": true,
+      "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
         "total_matches": 91,
@@ -22054,7 +22298,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": true,
+      "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
         "total_matches": 2,
@@ -22874,7 +23118,7 @@
       "away_team": "Bolton Wanderers",
       "home_coach_id": 181,
       "away_coach_id": 863,
-      "referee_id": null,
+      "referee_id": 2329,
       "venue_id": 204,
       "event_date": "2026-09-20T12:30:00+00:00",
       "status": "notstarted",
@@ -25522,7 +25766,7 @@
       "away_team": "West Bromwich Albion",
       "home_coach_id": 4,
       "away_coach_id": 174,
-      "referee_id": null,
+      "referee_id": 1905,
       "venue_id": 11,
       "event_date": "2026-09-20T11:00:00+00:00",
       "status": "notstarted",
@@ -25553,7 +25797,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
         "total_matches": 7,
@@ -27670,7 +27914,7 @@
       "away_team": "CD Guadalajara",
       "home_coach_id": 423,
       "away_coach_id": 444,
-      "referee_id": null,
+      "referee_id": 2354,
       "venue_id": 295,
       "event_date": "2026-09-20T03:15:00+00:00",
       "status": "notstarted",
@@ -28901,7 +29145,7 @@
       "away_team": "Cruz Azul",
       "home_coach_id": 1613,
       "away_coach_id": 1422,
-      "referee_id": null,
+      "referee_id": 2374,
       "venue_id": 304,
       "event_date": "2026-09-20T01:10:00+00:00",
       "status": "notstarted",
@@ -30113,7 +30357,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 849,
       "weather": {
         "code": 51,
         "description": null,
@@ -30122,7 +30366,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -30291,7 +30535,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -30396,7 +30640,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 754,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -30405,7 +30649,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -30565,7 +30809,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 675,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -30574,7 +30818,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -30734,7 +30978,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 530,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -30743,7 +30987,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -30892,7 +31136,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 1765,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -30901,7 +31145,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -31061,7 +31305,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 993,
       "weather": {
         "code": 1,
         "description": "clear",
@@ -31070,7 +31314,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -31399,7 +31643,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 653,
       "weather": {
         "code": 53,
         "description": null,
@@ -31408,7 +31652,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -31525,7 +31769,7 @@
       "away_team": "Club Necaxa",
       "home_coach_id": 1928,
       "away_coach_id": 209,
-      "referee_id": null,
+      "referee_id": 2261,
       "venue_id": 306,
       "event_date": "2026-09-19T23:00:00+00:00",
       "status": "notstarted",
@@ -31546,7 +31790,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 709,
       "weather": {
         "code": 2,
         "description": "cloudy",
@@ -31555,7 +31799,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -31694,7 +31938,7 @@
       "away_team": "Pumas UNAM",
       "home_coach_id": 2078,
       "away_coach_id": 350,
-      "referee_id": null,
+      "referee_id": 2372,
       "venue_id": 293,
       "event_date": "2026-09-19T23:00:00+00:00",
       "status": "notstarted",
@@ -31715,7 +31959,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 459,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -31724,7 +31968,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -31884,7 +32128,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 718,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -31893,7 +32137,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -32062,7 +32306,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -32145,7 +32389,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 335,
       "weather": {
         "code": 1,
         "description": "clear",
@@ -32154,7 +32398,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -32314,7 +32558,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 3827,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -32323,7 +32567,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -32404,7 +32648,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
@@ -32442,7 +32686,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 683,
       "weather": {
         "code": 2,
         "description": "cloudy",
@@ -32451,7 +32695,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -32611,7 +32855,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 12,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -32620,7 +32864,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -32789,7 +33033,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -32881,7 +33125,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -32984,7 +33228,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -33089,7 +33333,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 4073,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -33098,7 +33342,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -33267,7 +33511,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -33350,7 +33594,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 403,
       "weather": {
         "code": 2,
         "description": "cloudy",
@@ -33359,7 +33603,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -33519,7 +33763,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 254,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -33528,7 +33772,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -33688,7 +33932,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 2904,
       "weather": {
         "code": 2,
         "description": "cloudy",
@@ -33697,7 +33941,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -33938,7 +34182,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 128,
       "weather": {
         "code": 1,
         "description": "clear",
@@ -33947,7 +34191,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -34107,7 +34351,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 993,
       "weather": {
         "code": 2,
         "description": "cloudy",
@@ -34116,7 +34360,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -34276,7 +34520,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 827,
       "weather": {
         "code": 1,
         "description": "clear",
@@ -34285,7 +34529,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -34445,7 +34689,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 82,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -34454,7 +34698,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -34614,7 +34858,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 1207,
       "weather": {
         "code": 1,
         "description": "clear",
@@ -34623,7 +34867,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -34783,7 +35027,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 61,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -34792,7 +35036,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -34952,7 +35196,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 62,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -34961,7 +35205,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
@@ -34999,7 +35243,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 666,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -35008,7 +35252,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -35168,7 +35412,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 572,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -35177,7 +35421,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -35337,7 +35581,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 270,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -35346,7 +35590,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -35506,7 +35750,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 359,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -35515,7 +35759,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -35675,7 +35919,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 389,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -35684,7 +35928,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -35844,16 +36088,16 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 168,
       "weather": {
-        "code": null,
-        "description": null,
-        "wind_speed": null,
-        "temperature_c": null
+        "code": 2,
+        "description": "cloudy",
+        "wind_speed": 2.5,
+        "temperature_c": 18
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -35914,7 +36158,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 295,
       "weather": {
         "code": null,
         "description": null,
@@ -35923,7 +36167,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -36062,7 +36306,7 @@
       "away_team": "FC Zürich",
       "home_coach_id": 453,
       "away_coach_id": 1977,
-      "referee_id": null,
+      "referee_id": 2180,
       "venue_id": 238,
       "event_date": "2026-09-19T18:30:00+00:00",
       "status": "notstarted",
@@ -36083,7 +36327,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 154,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -36092,7 +36336,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -36252,7 +36496,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 367,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -36261,7 +36505,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -36353,9 +36597,9 @@
       "away_score_ht": null,
       "penalty_shootout": null,
       "extra_time_score": null,
-      "is_local_derby": false,
+      "is_local_derby": true,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 42,
       "weather": {
         "code": null,
         "description": null,
@@ -36364,7 +36608,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
@@ -36402,7 +36646,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 428,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -36411,7 +36655,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -36571,7 +36815,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 53,
       "weather": {
         "code": 1,
         "description": "clear",
@@ -36580,7 +36824,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -36810,7 +37054,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 985,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -36819,7 +37063,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -36880,7 +37124,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 45,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -36889,7 +37133,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -37049,7 +37293,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 278,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -37058,7 +37302,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -37312,7 +37556,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 895,
       "weather": {
         "code": 1,
         "description": "clear",
@@ -37321,7 +37565,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -37481,7 +37725,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 346,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -37490,7 +37734,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -37650,7 +37894,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 320,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -37659,7 +37903,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -37753,7 +37997,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 88,
       "weather": {
         "code": null,
         "description": null,
@@ -37762,7 +38006,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -37922,7 +38166,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 154,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -37931,7 +38175,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -38100,7 +38344,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": null,
@@ -38147,7 +38391,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -38307,7 +38551,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 544,
       "weather": {
         "code": 1,
         "description": "clear",
@@ -38316,7 +38560,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -38410,7 +38654,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 1965,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -38419,7 +38663,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -38579,7 +38823,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 327,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -38588,7 +38832,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -38917,7 +39161,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 72,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -38926,7 +39170,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -39086,7 +39330,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 125,
       "weather": {
         "code": 1,
         "description": "clear",
@@ -39095,7 +39339,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -39424,7 +39668,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 119,
       "weather": {
         "code": 2,
         "description": "cloudy",
@@ -39433,7 +39677,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -39602,7 +39846,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -39876,7 +40120,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 274,
       "weather": {
         "code": 51,
         "description": null,
@@ -39885,7 +40129,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -40024,7 +40268,7 @@
       "away_team": "Grasshopper Club Zürich",
       "home_coach_id": 2016,
       "away_coach_id": 275,
-      "referee_id": null,
+      "referee_id": 2226,
       "venue_id": 240,
       "event_date": "2026-09-19T16:00:00+00:00",
       "status": "notstarted",
@@ -40043,9 +40287,9 @@
       "away_score_ht": null,
       "penalty_shootout": null,
       "extra_time_score": null,
-      "is_local_derby": false,
+      "is_local_derby": true,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 42,
       "weather": {
         "code": 1,
         "description": "clear",
@@ -40054,7 +40298,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -40193,7 +40437,7 @@
       "away_team": "Servette FC",
       "home_coach_id": 310,
       "away_coach_id": 466,
-      "referee_id": null,
+      "referee_id": 2213,
       "venue_id": 146,
       "event_date": "2026-09-19T16:00:00+00:00",
       "status": "notstarted",
@@ -40214,7 +40458,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 135,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -40223,8 +40467,8 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
-      "websocket_plus": false,
+      "live_websocket": true,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
         "total_matches": 35,
@@ -40383,7 +40627,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 477,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -40392,7 +40636,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -40552,7 +40796,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 57,
       "weather": {
         "code": 53,
         "description": null,
@@ -40561,7 +40805,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -40721,7 +40965,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 70,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -40730,7 +40974,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -40835,7 +41079,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 405,
       "weather": {
         "code": 1,
         "description": "clear",
@@ -40844,7 +41088,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -40905,7 +41149,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 399,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -40914,7 +41158,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -41050,18 +41294,18 @@
       "away_score_ht": null,
       "penalty_shootout": null,
       "extra_time_score": null,
-      "is_local_derby": false,
+      "is_local_derby": true,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 8,
       "weather": {
-        "code": null,
-        "description": null,
-        "wind_speed": null,
-        "temperature_c": null
+        "code": 3,
+        "description": "rain",
+        "wind_speed": 7.5,
+        "temperature_c": 22
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
@@ -41321,7 +41565,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 256,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -41330,7 +41574,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -41659,7 +41903,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 1223,
       "weather": {
         "code": 53,
         "description": null,
@@ -41668,7 +41912,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -41806,7 +42050,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 160,
       "weather": {
         "code": null,
         "description": null,
@@ -41815,7 +42059,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -41931,7 +42175,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 594,
       "weather": {
         "code": 71,
         "description": null,
@@ -41940,7 +42184,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -42281,7 +42525,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
@@ -42328,7 +42572,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": null,
@@ -46344,7 +46588,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 167,
       "weather": {
         "code": null,
         "description": null,
@@ -46353,7 +46597,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -46513,7 +46757,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 409,
       "weather": {
         "code": null,
         "description": null,
@@ -46522,7 +46766,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -46669,7 +46913,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -46763,7 +47007,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 285,
       "weather": {
         "code": null,
         "description": null,
@@ -46772,7 +47016,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -46941,7 +47185,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -47013,7 +47257,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 273,
       "weather": {
         "code": null,
         "description": null,
@@ -47022,7 +47266,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -47127,7 +47371,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 361,
       "weather": {
         "code": null,
         "description": null,
@@ -47136,7 +47380,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -47296,7 +47540,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 56,
       "weather": {
         "code": null,
         "description": null,
@@ -47305,7 +47549,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -47399,7 +47643,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 220,
       "weather": {
         "code": null,
         "description": null,
@@ -47408,7 +47652,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -47568,7 +47812,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 136,
       "weather": {
         "code": null,
         "description": null,
@@ -47577,7 +47821,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -47737,7 +47981,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 275,
       "weather": {
         "code": null,
         "description": null,
@@ -47746,7 +47990,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -47906,7 +48150,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 219,
       "weather": {
         "code": null,
         "description": null,
@@ -47915,7 +48159,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -48075,7 +48319,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 296,
       "weather": {
         "code": null,
         "description": null,
@@ -48084,7 +48328,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -48242,9 +48486,9 @@
       "away_score_ht": null,
       "penalty_shootout": null,
       "extra_time_score": null,
-      "is_local_derby": false,
+      "is_local_derby": true,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 49,
       "weather": {
         "code": null,
         "description": null,
@@ -48253,7 +48497,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -48413,7 +48657,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 203,
       "weather": {
         "code": null,
         "description": null,
@@ -48422,7 +48666,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -48582,7 +48826,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 85,
       "weather": {
         "code": null,
         "description": null,
@@ -48591,7 +48835,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -48729,7 +48973,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 317,
       "weather": {
         "code": null,
         "description": null,
@@ -48738,7 +48982,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -48854,7 +49098,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 246,
       "weather": {
         "code": null,
         "description": null,
@@ -48863,7 +49107,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -49023,7 +49267,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 248,
       "weather": {
         "code": null,
         "description": null,
@@ -49032,7 +49276,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -49179,9 +49423,9 @@
       "away_score_ht": null,
       "penalty_shootout": null,
       "extra_time_score": null,
-      "is_local_derby": false,
+      "is_local_derby": true,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 44,
       "weather": {
         "code": null,
         "description": null,
@@ -49190,7 +49434,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -49251,7 +49495,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 170,
       "weather": {
         "code": null,
         "description": null,
@@ -49260,7 +49504,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
@@ -49298,7 +49542,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 120,
       "weather": {
         "code": null,
         "description": null,
@@ -49307,7 +49551,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -49467,7 +49711,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 109,
       "weather": {
         "code": null,
         "description": null,
@@ -49476,7 +49720,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -49636,7 +49880,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 232,
       "weather": {
         "code": null,
         "description": null,
@@ -49645,7 +49889,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -49759,9 +50003,9 @@
       "away_score_ht": null,
       "penalty_shootout": null,
       "extra_time_score": null,
-      "is_local_derby": false,
+      "is_local_derby": true,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 39,
       "weather": {
         "code": null,
         "description": null,
@@ -49770,7 +50014,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -49939,7 +50183,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
@@ -49977,7 +50221,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 388,
       "weather": {
         "code": null,
         "description": null,
@@ -49986,7 +50230,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -50155,7 +50399,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
@@ -50193,7 +50437,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 768,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -50202,7 +50446,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -50274,7 +50518,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 500,
       "weather": {
         "code": null,
         "description": null,
@@ -50283,7 +50527,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -50422,7 +50666,7 @@
       "away_team": "Southampton",
       "home_coach_id": 175,
       "away_coach_id": 191,
-      "referee_id": null,
+      "referee_id": 1654,
       "venue_id": 201,
       "event_date": "2026-09-19T14:00:00+00:00",
       "status": "notstarted",
@@ -50452,7 +50696,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -50503,7 +50747,7 @@
       "away_team": "Preston North End",
       "home_coach_id": 179,
       "away_coach_id": 178,
-      "referee_id": null,
+      "referee_id": 1979,
       "venue_id": 1161,
       "event_date": "2026-09-19T14:00:00+00:00",
       "status": "notstarted",
@@ -50672,7 +50916,7 @@
       "away_team": "Blackburn Rovers",
       "home_coach_id": 182,
       "away_coach_id": 1949,
-      "referee_id": null,
+      "referee_id": 2361,
       "venue_id": 1098,
       "event_date": "2026-09-19T14:00:00+00:00",
       "status": "notstarted",
@@ -50693,7 +50937,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 341,
       "weather": {
         "code": null,
         "description": null,
@@ -50702,7 +50946,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -50841,7 +51085,7 @@
       "away_team": "Swansea City",
       "home_coach_id": 1815,
       "away_coach_id": 171,
-      "referee_id": null,
+      "referee_id": 2330,
       "venue_id": 865,
       "event_date": "2026-09-19T14:00:00+00:00",
       "status": "notstarted",
@@ -50862,7 +51106,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 290,
       "weather": {
         "code": null,
         "description": null,
@@ -50871,7 +51115,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
@@ -50888,7 +51132,7 @@
       "away_team": "Derby County",
       "home_coach_id": 200,
       "away_coach_id": 204,
-      "referee_id": null,
+      "referee_id": 2909,
       "venue_id": 10,
       "event_date": "2026-09-19T14:00:00+00:00",
       "status": "notstarted",
@@ -50909,7 +51153,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 110,
       "weather": {
         "code": null,
         "description": null,
@@ -50918,7 +51162,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -51057,7 +51301,7 @@
       "away_team": "Middlesbrough",
       "home_coach_id": 176,
       "away_coach_id": 168,
-      "referee_id": null,
+      "referee_id": 2359,
       "venue_id": 194,
       "event_date": "2026-09-19T14:00:00+00:00",
       "status": "notstarted",
@@ -51078,7 +51322,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 238,
       "weather": {
         "code": null,
         "description": null,
@@ -51087,7 +51331,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -51256,7 +51500,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -51328,7 +51572,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 115,
       "weather": {
         "code": null,
         "description": null,
@@ -51337,7 +51581,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -51497,7 +51741,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 48,
       "weather": {
         "code": null,
         "description": null,
@@ -51506,7 +51750,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -51600,7 +51844,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 149,
       "weather": {
         "code": null,
         "description": null,
@@ -51609,7 +51853,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -51769,7 +52013,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 100,
       "weather": {
         "code": null,
         "description": null,
@@ -51778,7 +52022,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -51938,7 +52182,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 159,
       "weather": {
         "code": null,
         "description": null,
@@ -51947,7 +52191,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -52096,7 +52340,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 317,
       "weather": {
         "code": null,
         "description": null,
@@ -52105,7 +52349,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -52265,7 +52509,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 77,
       "weather": {
         "code": null,
         "description": null,
@@ -52274,7 +52518,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -52434,7 +52678,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 139,
       "weather": {
         "code": null,
         "description": null,
@@ -52443,7 +52687,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -52603,7 +52847,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 548,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -52612,7 +52856,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -52772,7 +53016,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 360,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -52781,7 +53025,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -52941,7 +53185,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 236,
       "weather": {
         "code": 2,
         "description": "cloudy",
@@ -52950,7 +53194,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -53110,7 +53354,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 186,
       "weather": {
         "code": null,
         "description": null,
@@ -53119,7 +53363,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -53279,7 +53523,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 132,
       "weather": {
         "code": 51,
         "description": null,
@@ -53288,7 +53532,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -53542,7 +53786,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 836,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -53551,7 +53795,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -53711,7 +53955,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 296,
       "weather": {
         "code": 80,
         "description": null,
@@ -53720,7 +53964,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -53880,7 +54124,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 498,
       "weather": {
         "code": null,
         "description": null,
@@ -53889,7 +54133,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -53972,7 +54216,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 388,
       "weather": {
         "code": null,
         "description": null,
@@ -53981,7 +54225,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -54141,7 +54385,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 105,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -54150,7 +54394,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -54310,7 +54554,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 144,
       "weather": {
         "code": 51,
         "description": null,
@@ -54319,7 +54563,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -54479,7 +54723,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 261,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -54488,7 +54732,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -54591,7 +54835,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -54694,7 +54938,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
@@ -54732,7 +54976,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 317,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -54741,7 +54985,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -54957,7 +55201,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -55060,7 +55304,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": null,
@@ -55098,7 +55342,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 56,
       "weather": {
         "code": null,
         "description": null,
@@ -55107,7 +55351,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -55265,9 +55509,9 @@
       "away_score_ht": null,
       "penalty_shootout": null,
       "extra_time_score": null,
-      "is_local_derby": false,
+      "is_local_derby": true,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 8,
       "weather": {
         "code": null,
         "description": null,
@@ -55276,7 +55520,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -55434,9 +55678,9 @@
       "away_score_ht": null,
       "penalty_shootout": null,
       "extra_time_score": null,
-      "is_local_derby": false,
+      "is_local_derby": true,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 45,
       "weather": {
         "code": null,
         "description": null,
@@ -55445,7 +55689,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -55605,7 +55849,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 106,
       "weather": {
         "code": null,
         "description": null,
@@ -55614,7 +55858,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -55753,7 +55997,7 @@
       "away_team": "Sheffield United",
       "home_coach_id": 172,
       "away_coach_id": 170,
-      "referee_id": null,
+      "referee_id": 1904,
       "venue_id": 207,
       "event_date": "2026-09-19T11:30:00+00:00",
       "status": "notstarted",
@@ -55774,7 +56018,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 63,
       "weather": {
         "code": 2,
         "description": "cloudy",
@@ -55783,7 +56027,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -55922,7 +56166,7 @@
       "away_team": "West Ham United",
       "home_coach_id": 169,
       "away_coach_id": 545,
-      "referee_id": null,
+      "referee_id": 1907,
       "venue_id": 205,
       "event_date": "2026-09-19T11:30:00+00:00",
       "status": "notstarted",
@@ -55941,9 +56185,9 @@
       "away_score_ht": null,
       "penalty_shootout": null,
       "extra_time_score": null,
-      "is_local_derby": false,
+      "is_local_derby": true,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 6,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -55952,7 +56196,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -56036,7 +56280,7 @@
       "away_team": "Charlton Athletic",
       "home_coach_id": 854,
       "away_coach_id": 183,
-      "referee_id": null,
+      "referee_id": 1902,
       "venue_id": 536,
       "event_date": "2026-09-19T11:30:00+00:00",
       "status": "notstarted",
@@ -56057,7 +56301,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 225,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -56066,7 +56310,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -56226,7 +56470,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 160,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -56235,7 +56479,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -56395,7 +56639,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 202,
       "weather": {
         "code": 2,
         "description": "cloudy",
@@ -56404,7 +56648,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -56564,16 +56808,16 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 268,
       "weather": {
-        "code": null,
-        "description": null,
-        "wind_speed": null,
-        "temperature_c": null
+        "code": 3,
+        "description": "rain",
+        "wind_speed": 25.6,
+        "temperature_c": 17
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
@@ -56611,16 +56855,16 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 372,
       "weather": {
-        "code": null,
-        "description": null,
-        "wind_speed": null,
-        "temperature_c": null
+        "code": 3,
+        "description": "rain",
+        "wind_speed": 12.2,
+        "temperature_c": 22
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -56780,7 +57024,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 207,
       "weather": {
         "code": 63,
         "description": null,
@@ -56789,7 +57033,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -56914,7 +57158,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -57044,7 +57288,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 398,
       "weather": {
         "code": null,
         "description": null,
@@ -57053,7 +57297,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -57213,7 +57457,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 168,
       "weather": {
         "code": 53,
         "description": null,
@@ -57222,7 +57466,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -57316,7 +57560,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 224,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -57325,7 +57569,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -57494,7 +57738,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -57610,7 +57854,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 545,
       "weather": {
         "code": 51,
         "description": null,
@@ -57619,7 +57863,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -57711,9 +57955,9 @@
       "away_score_ht": null,
       "penalty_shootout": null,
       "extra_time_score": null,
-      "is_local_derby": false,
+      "is_local_derby": true,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 32,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -57722,7 +57966,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -57882,7 +58126,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 163,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -57891,7 +58135,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -58007,7 +58251,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 100,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -58016,7 +58260,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -58176,7 +58420,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 202,
       "weather": {
         "code": 95,
         "description": null,
@@ -58185,7 +58429,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -58345,7 +58589,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 190,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -58354,7 +58598,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -58405,7 +58649,7 @@
       "away_team": "Tigres UANL",
       "home_coach_id": 518,
       "away_coach_id": 3556,
-      "referee_id": null,
+      "referee_id": 2262,
       "venue_id": 294,
       "event_date": "2026-09-19T03:00:00+00:00",
       "status": "notstarted",
@@ -58426,7 +58670,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 901,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -58435,7 +58679,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -58595,7 +58839,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 2125,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -58604,7 +58848,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -58753,7 +58997,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 281,
       "weather": {
         "code": 2,
         "description": "cloudy",
@@ -58762,7 +59006,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -58901,7 +59145,7 @@
       "away_team": "Atlante FC",
       "home_coach_id": 2838,
       "away_coach_id": 1910,
-      "referee_id": null,
+      "referee_id": 2883,
       "venue_id": 292,
       "event_date": "2026-09-19T01:00:00+00:00",
       "status": "notstarted",
@@ -58922,7 +59166,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 112,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -58931,7 +59175,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -60147,7 +60391,7 @@
       "away_team": "Watford",
       "home_coach_id": 857,
       "away_coach_id": 1814,
-      "referee_id": null,
+      "referee_id": 2331,
       "venue_id": 212,
       "event_date": "2026-09-18T19:00:00+00:00",
       "status": "notstarted",
@@ -63531,7 +63775,7 @@
       "away_team": "Konyaspor",
       "home_coach_id": 225,
       "away_coach_id": 364,
-      "referee_id": null,
+      "referee_id": 2949,
       "venue_id": 183,
       "event_date": "2026-09-18T17:00:00+00:00",
       "status": "notstarted",
@@ -65219,7 +65463,7 @@
       "referee_id": null,
       "venue_id": 455,
       "event_date": "2026-09-18T07:30:00+00:00",
-      "status": "canceled",
+      "status": "abandoned",
       "replaced_by": null,
       "round_number": 3,
       "round_name": "",
@@ -65388,7 +65632,7 @@
       "referee_id": 2120,
       "venue_id": 151,
       "event_date": "2026-09-18T00:30:00+00:00",
-      "status": "1st_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 27,
       "round_name": "Quarterfinals",
@@ -65396,39 +65640,65 @@
       "stage": "quarterfinals",
       "stage_name": "Quarterfinals",
       "round_label": "Quarterfinals",
-      "period": "1T",
-      "current_minute": 25,
-      "home_score": 0,
-      "away_score": 0,
+      "period": "FT",
+      "current_minute": 96,
+      "home_score": 1,
+      "away_score": 1,
       "home_score_ht": 0,
-      "away_score_ht": 0,
+      "away_score_ht": 1,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
       "travel_distance_km": 4568,
       "weather": {
-        "code": 51,
-        "description": null,
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 5.8,
         "temperature_c": 22
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "goals",
+          "title": "Flamengo 1 - 1 Ind. del Valle — All Goals",
+          "url": "https://www.youtube.com/watch?v=Jku6wak0WNs",
+          "thumbnail": "https://i.ytimg.com/vi/Jku6wak0WNs/hqdefault.jpg",
+          "published_at": "2026-09-18T02:55:56+00:00"
+        },
+        {
+          "kind": "full",
+          "title": "Flamengo 1 - 1 Ind. del Valle — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=1HNsKWRhNu4",
+          "thumbnail": "https://i.ytimg.com/vi/1HNsKWRhNu4/hqdefault.jpg",
+          "published_at": "2026-09-18T02:55:47+00:00"
+        }
+      ],
       "head_to_head": {
-        "total_matches": 3,
+        "total_matches": 4,
         "home_wins": 2,
-        "draws": 0,
+        "draws": 1,
         "away_wins": 1,
-        "home_goals": 6,
-        "away_goals": 5,
-        "avg_total_goals": 3.6666666666666665,
-        "home_win_rate": 0.6666666666666666,
-        "away_win_rate": 0.3333333333333333,
+        "home_goals": 7,
+        "away_goals": 6,
+        "avg_total_goals": 3.25,
+        "home_win_rate": 0.5,
+        "away_win_rate": 0.25,
         "recent_matches": [
+          {
+            "away": "Independiente del Valle",
+            "date": "2026-09-18T00:30:00+00:00",
+            "home": "Flamengo",
+            "score": "1-1",
+            "event_id": 601011,
+            "away_score": 1,
+            "home_score": 1,
+            "away_team_id": 793,
+            "home_team_id": 160
+          },
           {
             "away": "Flamengo",
             "date": "2026-09-11T00:30:00+00:00",
@@ -65480,7 +65750,7 @@
       "referee_id": 2287,
       "venue_id": 438,
       "event_date": "2026-09-18T00:30:00+00:00",
-      "status": "1st_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 27,
       "round_name": "Quarterfinals",
@@ -65488,11 +65758,11 @@
       "stage": "quarterfinals",
       "stage_name": "Quarterfinals",
       "round_label": "Quarterfinals",
-      "period": "1T",
-      "current_minute": 25,
-      "home_score": 0,
+      "period": "FT",
+      "current_minute": 97,
+      "home_score": 3,
       "away_score": 0,
-      "home_score_ht": 0,
+      "home_score_ht": 1,
       "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
@@ -65500,16 +65770,31 @@
       "is_neutral_ground": false,
       "travel_distance_km": null,
       "weather": {
-        "code": 0,
-        "description": "unknown",
+        "code": 1,
+        "description": "clear",
         "wind_speed": 9.4,
         "temperature_c": 12
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Torque 3 - 0 Cienciano — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=aLq0kNT8Xj4",
+          "thumbnail": "https://i.ytimg.com/vi/aLq0kNT8Xj4/hqdefault.jpg",
+          "published_at": "2026-09-18T02:55:29+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Torque 3 - 0 Cienciano — All Goals",
+          "url": "https://www.youtube.com/watch?v=Yztffi6uSBs",
+          "thumbnail": "https://i.ytimg.com/vi/Yztffi6uSBs/hqdefault.jpg",
+          "published_at": "2026-09-18T02:55:25+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 1,
         "home_wins": 0,
@@ -65550,7 +65835,7 @@
       "referee_id": 2098,
       "venue_id": 573,
       "event_date": "2026-09-18T00:00:00+00:00",
-      "status": "halftime",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 9,
       "round_name": "",
@@ -65558,10 +65843,10 @@
       "stage": "league-phase",
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 9",
-      "period": "HT",
-      "current_minute": 45,
+      "period": "FT",
+      "current_minute": 90,
       "home_score": 2,
-      "away_score": 1,
+      "away_score": 2,
       "home_score_ht": 2,
       "away_score_ht": 1,
       "penalty_shootout": null,
@@ -65570,27 +65855,67 @@
       "is_neutral_ground": false,
       "travel_distance_km": 291,
       "weather": {
-        "code": 53,
-        "description": null,
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 2.6,
         "temperature_c": 23
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "goals",
+          "title": "Bucaramanga 2 - 2 Ind. Medellín — 51' Juan Fernando Quintero, Penalty",
+          "url": "https://www.youtube.com/watch?v=4oTGsAfWQOk",
+          "thumbnail": "https://i.ytimg.com/vi/4oTGsAfWQOk/hqdefault.jpg",
+          "published_at": "2026-09-18T01:48:30+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Bucaramanga 2 - 0 Ind. Medellín — 40' Felix Charrupí",
+          "url": "https://www.youtube.com/watch?v=HB0GSWTUo8s",
+          "thumbnail": "https://i.ytimg.com/vi/HB0GSWTUo8s/hqdefault.jpg",
+          "published_at": "2026-09-18T01:16:14+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Bucaramanga 2 - 1 Ind. Medellín — 45'+4 Jeison Medina",
+          "url": "https://www.youtube.com/watch?v=uwEi3kWLDxI",
+          "thumbnail": "https://i.ytimg.com/vi/uwEi3kWLDxI/hqdefault.jpg",
+          "published_at": "2026-09-18T01:16:04+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Bucaramanga 1 - 0 Ind. Medellín — 26' Luciano Pons",
+          "url": "https://www.youtube.com/watch?v=C0lHKs9mEOE",
+          "thumbnail": "https://i.ytimg.com/vi/C0lHKs9mEOE/hqdefault.jpg",
+          "published_at": "2026-09-18T00:55:31+00:00"
+        }
+      ],
       "head_to_head": {
-        "total_matches": 12,
+        "total_matches": 13,
         "home_wins": 3,
-        "draws": 1,
+        "draws": 2,
         "away_wins": 8,
-        "home_goals": 13,
-        "away_goals": 22,
-        "avg_total_goals": 2.9166666666666665,
-        "home_win_rate": 0.25,
-        "away_win_rate": 0.6666666666666666,
+        "home_goals": 15,
+        "away_goals": 24,
+        "avg_total_goals": 3.0,
+        "home_win_rate": 0.23076923076923078,
+        "away_win_rate": 0.6153846153846154,
         "recent_matches": [
+          {
+            "away": "Independiente Medellín",
+            "date": "2026-09-18T00:00:00+00:00",
+            "home": "Atlético Bucaramanga",
+            "score": "2-2",
+            "event_id": 220126,
+            "away_score": 2,
+            "home_score": 2,
+            "away_team_id": 786,
+            "home_team_id": 771
+          },
           {
             "away": "Atlético Bucaramanga",
             "date": "2026-03-01T01:30:00+00:00",
@@ -65689,17 +66014,6 @@
             "home_score": 4,
             "away_team_id": 771,
             "home_team_id": 786
-          },
-          {
-            "away": "Independiente Medellín",
-            "date": "2018-04-21T23:00:00+00:00",
-            "home": "Atlético Bucaramanga",
-            "score": "2-4",
-            "event_id": 298035,
-            "away_score": 4,
-            "home_score": 2,
-            "away_team_id": 786,
-            "home_team_id": 771
           }
         ]
       },

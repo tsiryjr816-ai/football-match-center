@@ -191,6 +191,14 @@
     "id": 698,
     "name": "Nicaragua"
   },
+  "2295": {
+    "id": 2295,
+    "name": "Puerto Rico"
+  },
+  "705": {
+    "id": 705,
+    "name": "Guyana"
+  },
   "2212": {
     "id": 2212,
     "name": "Liechtenstein"
@@ -246,14 +254,6 @@
   "467": {
     "id": 467,
     "name": "Germany"
-  },
-  "2295": {
-    "id": 2295,
-    "name": "Puerto Rico"
-  },
-  "705": {
-    "id": 705,
-    "name": "Guyana"
   },
   "2064": {
     "id": 2064,
@@ -335,6 +335,14 @@
     "id": 572,
     "name": "Kun Khalifat FC"
   },
+  "664": {
+    "id": 664,
+    "name": "China"
+  },
+  "2259": {
+    "id": 2259,
+    "name": "Maldives"
+  },
   "453": {
     "id": 453,
     "name": "South Korea"
@@ -350,6 +358,14 @@
   "480": {
     "id": 480,
     "name": "Uruguay"
+  },
+  "692": {
+    "id": 692,
+    "name": "Palestine"
+  },
+  "482": {
+    "id": 482,
+    "name": "New Zealand"
   },
   "302": {
     "id": 302,
@@ -398,6 +414,22 @@
   "1375": {
     "id": 1375,
     "name": "Brøndby IF"
+  },
+  "2219": {
+    "id": 2219,
+    "name": "Gibraltar"
+  },
+  "2273": {
+    "id": 2273,
+    "name": "São Tomé and Príncipe"
+  },
+  "2092": {
+    "id": 2092,
+    "name": "Azerbaijan"
+  },
+  "2210": {
+    "id": 2210,
+    "name": "Tajikistan"
   },
   "2229": {
     "id": 2229,

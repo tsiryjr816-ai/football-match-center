@@ -1,5 +1,5 @@
 {
-  "count": 8430,
+  "count": 8474,
   "next": "https://sports.bzzoiro.com/api/v2/teams/?limit=50&offset=50",
   "previous": null,
   "results": [
@@ -49,6 +49,20 @@
       "id": 2846,
       "name": "1. FC Bocholt",
       "short_name": "FCB",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 8775,
+      "name": "1. FC Köln U19",
+      "short_name": "COL",
+      "country": "",
+      "venue_id": null
+    },
+    {
+      "id": 8776,
+      "name": "1. FC Magdeburg U19",
+      "short_name": "MAG",
       "country": "",
       "venue_id": null
     },
@@ -263,6 +277,13 @@
       "venue_id": null
     },
     {
+      "id": 8766,
+      "name": "Abu Qir Fertilizers SC",
+      "short_name": "AQS",
+      "country": "",
+      "venue_id": null
+    },
+    {
       "id": 2651,
       "name": "Abu Salim SC",
       "short_name": "ABU",
@@ -329,27 +350,6 @@
       "id": 2695,
       "name": "AC Sant'Angelo 1907",
       "short_name": "ASD",
-      "country": "",
-      "venue_id": null
-    },
-    {
-      "id": 2631,
-      "name": "AC Taipei",
-      "short_name": "ACA",
-      "country": "",
-      "venue_id": null
-    },
-    {
-      "id": 3739,
-      "name": "AD Alcorcón B",
-      "short_name": "ALC",
-      "country": "",
-      "venue_id": null
-    },
-    {
-      "id": 2742,
-      "name": "Adama City",
-      "short_name": "ADA",
       "country": "",
       "venue_id": null
     }
