@@ -200,7 +200,7 @@
           {
             "stage": "league-phase",
             "stage_name": "League phase",
-            "matches": 61,
+            "matches": 62,
             "rounds": 16,
             "start_date": "2026-01-22",
             "end_date": "2026-11-08"
@@ -414,7 +414,7 @@
           {
             "stage": "regular-season",
             "stage_name": "Regular season",
-            "matches": 387,
+            "matches": 388,
             "rounds": 38,
             "start_date": "2026-01-28",
             "end_date": "2026-12-02"
@@ -825,7 +825,7 @@
           {
             "stage": "regular-season",
             "stage_name": "Regular season",
-            "matches": 557,
+            "matches": 559,
             "rounds": 46,
             "start_date": "2026-08-15",
             "end_date": "2027-05-08"

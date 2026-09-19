@@ -191,22 +191,6 @@
     "id": 687,
     "name": "British Virgin Islands"
   },
-  "924": {
-    "id": 924,
-    "name": "Real Sociedad"
-  },
-  "926": {
-    "id": 926,
-    "name": "Real Madrid"
-  },
-  "916": {
-    "id": 916,
-    "name": "FC Badalona"
-  },
-  "914": {
-    "id": 914,
-    "name": "Granada Club de Fútbol"
-  },
   "725": {
     "id": 725,
     "name": "Slovakia"
@@ -662,6 +646,22 @@
   "1445": {
     "id": 1445,
     "name": "Barnet"
+  },
+  "924": {
+    "id": 924,
+    "name": "Real Sociedad"
+  },
+  "926": {
+    "id": 926,
+    "name": "Real Madrid"
+  },
+  "916": {
+    "id": 916,
+    "name": "FC Badalona"
+  },
+  "914": {
+    "id": 914,
+    "name": "Granada Club de Fútbol"
   },
   "689": {
     "id": 689,
@@ -1130,6 +1130,14 @@
   "1375": {
     "id": 1375,
     "name": "Brøndby IF"
+  },
+  "6240": {
+    "id": 6240,
+    "name": "SC Wiedenbrück"
+  },
+  "3853": {
+    "id": 3853,
+    "name": "VfL Osnabrück"
   },
   "2219": {
     "id": 2219,
@@ -4110,10 +4118,6 @@
   "1296": {
     "id": 1296,
     "name": "Holstein Kiel"
-  },
-  "3853": {
-    "id": 3853,
-    "name": "VfL Osnabrück"
   },
   "1288": {
     "id": 1288,
