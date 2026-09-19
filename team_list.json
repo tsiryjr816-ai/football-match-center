@@ -175,6 +175,14 @@
     "id": 159,
     "name": "Sport Recife"
   },
+  "2064": {
+    "id": 2064,
+    "name": "Wydad Casablanca"
+  },
+  "8617": {
+    "id": 8617,
+    "name": "Widad Temara"
+  },
   "2292": {
     "id": 2292,
     "name": "Montserrat"
@@ -239,6 +247,14 @@
     "id": 462,
     "name": "Switzerland"
   },
+  "2069": {
+    "id": 2069,
+    "name": "Difaâ Hassani El-Jadidi"
+  },
+  "2070": {
+    "id": 2070,
+    "name": "CODM Meknès"
+  },
   "1446": {
     "id": 1446,
     "name": "Oldham Athletic"
@@ -278,6 +294,14 @@
   "1270": {
     "id": 1270,
     "name": "Cádiz"
+  },
+  "2062": {
+    "id": 2062,
+    "name": "Union Touarga Sport"
+  },
+  "2066": {
+    "id": 2066,
+    "name": "Fath Union Sport"
   },
   "665": {
     "id": 665,
@@ -983,22 +1007,6 @@
     "id": 467,
     "name": "Germany"
   },
-  "2064": {
-    "id": 2064,
-    "name": "Wydad Casablanca"
-  },
-  "8617": {
-    "id": 8617,
-    "name": "Widad Temara"
-  },
-  "2062": {
-    "id": 2062,
-    "name": "Union Touarga Sport"
-  },
-  "2066": {
-    "id": 2066,
-    "name": "Fath Union Sport"
-  },
   "4771": {
     "id": 4771,
     "name": "Union Sportive Amal Tiznit"
@@ -1030,14 +1038,6 @@
   "2060": {
     "id": 2060,
     "name": "Hassania d'Agadir"
-  },
-  "2069": {
-    "id": 2069,
-    "name": "Difaâ Hassani El-Jadidi"
-  },
-  "2070": {
-    "id": 2070,
-    "name": "CODM Meknès"
   },
   "586": {
     "id": 586,
