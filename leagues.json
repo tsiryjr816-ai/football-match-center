@@ -192,7 +192,7 @@
           {
             "stage": "group-stage",
             "stage_name": "Group stage",
-            "matches": 427,
+            "matches": 428,
             "rounds": 15,
             "start_date": "2026-01-22",
             "end_date": "2026-11-08"
@@ -200,7 +200,7 @@
           {
             "stage": "league-phase",
             "stage_name": "League phase",
-            "matches": 62,
+            "matches": 61,
             "rounds": 16,
             "start_date": "2026-01-22",
             "end_date": "2026-11-08"
@@ -1630,7 +1630,7 @@
           {
             "stage": "league-phase",
             "stage_name": "League phase",
-            "matches": 309,
+            "matches": 311,
             "rounds": 0,
             "start_date": "2025-12-17",
             "end_date": "2026-10-07"
