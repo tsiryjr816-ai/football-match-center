@@ -15,6 +15,22 @@
     "id": 682,
     "name": "Martinique"
   },
+  "683": {
+    "id": 683,
+    "name": "Cuba"
+  },
+  "690": {
+    "id": 690,
+    "name": "Bonaire"
+  },
+  "2308": {
+    "id": 2308,
+    "name": "Guadeloupe"
+  },
+  "681": {
+    "id": 681,
+    "name": "Barbados"
+  },
   "731": {
     "id": 731,
     "name": "Sweden"
@@ -78,22 +94,6 @@
   "661": {
     "id": 661,
     "name": "Grenada"
-  },
-  "683": {
-    "id": 683,
-    "name": "Cuba"
-  },
-  "690": {
-    "id": 690,
-    "name": "Bonaire"
-  },
-  "2308": {
-    "id": 2308,
-    "name": "Guadeloupe"
-  },
-  "681": {
-    "id": 681,
-    "name": "Barbados"
   },
   "662": {
     "id": 662,
@@ -167,6 +167,14 @@
     "id": 4786,
     "name": "Rionegro Águilas Doradas"
   },
+  "666": {
+    "id": 666,
+    "name": "Trinidad and Tobago"
+  },
+  "688": {
+    "id": 688,
+    "name": "Dominican Republic"
+  },
   "318": {
     "id": 318,
     "name": "Club León"
@@ -174,6 +182,22 @@
   "306": {
     "id": 306,
     "name": "FC Juárez"
+  },
+  "706": {
+    "id": 706,
+    "name": "Dominica"
+  },
+  "2295": {
+    "id": 2295,
+    "name": "Puerto Rico"
+  },
+  "468": {
+    "id": 468,
+    "name": "Curaçao"
+  },
+  "698": {
+    "id": 698,
+    "name": "Nicaragua"
   },
   "4782": {
     "id": 4782,
@@ -302,30 +326,6 @@
   "2072": {
     "id": 2072,
     "name": "Renaissance Zemamra"
-  },
-  "706": {
-    "id": 706,
-    "name": "Dominica"
-  },
-  "2295": {
-    "id": 2295,
-    "name": "Puerto Rico"
-  },
-  "666": {
-    "id": 666,
-    "name": "Trinidad and Tobago"
-  },
-  "688": {
-    "id": 688,
-    "name": "Dominican Republic"
-  },
-  "468": {
-    "id": 468,
-    "name": "Curaçao"
-  },
-  "698": {
-    "id": 698,
-    "name": "Nicaragua"
   },
   "313": {
     "id": 313,
@@ -1698,14 +1698,6 @@
   "8436": {
     "id": 8436,
     "name": "Exmouth Town"
-  },
-  "1373": {
-    "id": 1373,
-    "name": "Randers FC"
-  },
-  "1375": {
-    "id": 1375,
-    "name": "Brøndby IF"
   },
   "6240": {
     "id": 6240,
