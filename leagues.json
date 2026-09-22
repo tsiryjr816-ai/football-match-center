@@ -804,6 +804,14 @@
             "rounds": 1,
             "start_date": "2026-09-18",
             "end_date": "2026-09-23"
+          },
+          {
+            "stage": "qualification-round-3",
+            "stage_name": "Qualification Round 3",
+            "matches": 29,
+            "rounds": 1,
+            "start_date": "2026-10-03",
+            "end_date": "2026-10-03"
           }
         ]
       }
@@ -1630,7 +1638,7 @@
           {
             "stage": "league-phase",
             "stage_name": "League phase",
-            "matches": 314,
+            "matches": 315,
             "rounds": 0,
             "start_date": "2025-12-17",
             "end_date": "2026-10-07"
