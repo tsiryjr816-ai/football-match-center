@@ -859,6 +859,22 @@
     "id": 912,
     "name": "Costa Adeje Tenerife"
   },
+  "321": {
+    "id": 321,
+    "name": "Tigres UANL"
+  },
+  "304": {
+    "id": 304,
+    "name": "Club Puebla"
+  },
+  "312": {
+    "id": 312,
+    "name": "Santos Laguna"
+  },
+  "316": {
+    "id": 316,
+    "name": "CF Pachuca"
+  },
   "298": {
     "id": 298,
     "name": "San Jose Earthquakes"
@@ -926,22 +942,6 @@
   "786": {
     "id": 786,
     "name": "Independiente Medellín"
-  },
-  "321": {
-    "id": 321,
-    "name": "Tigres UANL"
-  },
-  "304": {
-    "id": 304,
-    "name": "Club Puebla"
-  },
-  "312": {
-    "id": 312,
-    "name": "Santos Laguna"
-  },
-  "316": {
-    "id": 316,
-    "name": "CF Pachuca"
   },
   "2245": {
     "id": 2245,
@@ -1075,14 +1075,6 @@
     "id": 2290,
     "name": "Antigua and Barbuda"
   },
-  "314": {
-    "id": 314,
-    "name": "Cruz Azul"
-  },
-  "310": {
-    "id": 310,
-    "name": "CD Toluca"
-  },
   "2242": {
     "id": 2242,
     "name": "Indy Eleven"
@@ -1106,6 +1098,14 @@
   "2223": {
     "id": 2223,
     "name": "Rhode Island FC"
+  },
+  "314": {
+    "id": 314,
+    "name": "Cruz Azul"
+  },
+  "310": {
+    "id": 310,
+    "name": "CD Toluca"
   },
   "3926": {
     "id": 3926,
