@@ -619,14 +619,6 @@
     "id": 686,
     "name": "Cayman Islands"
   },
-  "911": {
-    "id": 911,
-    "name": "Athletic Club"
-  },
-  "920": {
-    "id": 920,
-    "name": "Club Atlético de Madrid"
-  },
   "42": {
     "id": 42,
     "name": "Real Oviedo"
@@ -771,9 +763,9 @@
     "id": 469,
     "name": "Netherlands"
   },
-  "8815": {
-    "id": 8815,
-    "name": "Cp Talayuela"
+  "8831": {
+    "id": 8831,
+    "name": "CP Talayuela"
   },
   "8816": {
     "id": 8816,
@@ -841,7 +833,7 @@
   },
   "8814": {
     "id": 8814,
-    "name": "Ibiza San Rafel"
+    "name": "CF Sant Rafel"
   },
   "6736": {
     "id": 6736,
@@ -927,17 +919,17 @@
     "id": 1265,
     "name": "Córdoba"
   },
-  "8812": {
-    "id": 8812,
-    "name": "Auriense Cented Academy"
+  "8830": {
+    "id": 8830,
+    "name": "Auriense CA"
   },
   "8813": {
     "id": 8813,
     "name": "C.D. San José"
   },
-  "8810": {
-    "id": 8810,
-    "name": "AD Sporting Hortaleza"
+  "8829": {
+    "id": 8829,
+    "name": "Sporting Hortaleza"
   },
   "8811": {
     "id": 8811,
@@ -958,6 +950,14 @@
   "912": {
     "id": 912,
     "name": "Costa Adeje Tenerife"
+  },
+  "911": {
+    "id": 911,
+    "name": "Athletic Club"
+  },
+  "920": {
+    "id": 920,
+    "name": "Club Atlético de Madrid"
   },
   "321": {
     "id": 321,
@@ -1227,9 +1227,9 @@
     "id": 2292,
     "name": "Montserrat"
   },
-  "8809": {
-    "id": 8809,
-    "name": "Atletico Pinatarense"
+  "8828": {
+    "id": 8828,
+    "name": "UD Pinatar"
   },
   "1498": {
     "id": 1498,
