@@ -47,14 +47,6 @@
     "id": 1885,
     "name": "Southend United"
   },
-  "1868": {
-    "id": 1868,
-    "name": "Boreham Wood"
-  },
-  "5632": {
-    "id": 5632,
-    "name": "Kidderminster Harriers"
-  },
   "573": {
     "id": 573,
     "name": "Katsina United"
@@ -318,6 +310,14 @@
   "462": {
     "id": 462,
     "name": "Switzerland"
+  },
+  "1868": {
+    "id": 1868,
+    "name": "Boreham Wood"
+  },
+  "5632": {
+    "id": 5632,
+    "name": "Kidderminster Harriers"
   },
   "697": {
     "id": 697,
@@ -1235,14 +1235,6 @@
     "id": 1498,
     "name": "Atletico Melilla CF"
   },
-  "2069": {
-    "id": 2069,
-    "name": "Difaâ Hassani El-Jadidi"
-  },
-  "2070": {
-    "id": 2070,
-    "name": "CODM Meknès"
-  },
   "8808": {
     "id": 8808,
     "name": "Ribadesella CF"
@@ -1727,6 +1719,14 @@
     "id": 95,
     "name": "Borussia M'gladbach"
   },
+  "2069": {
+    "id": 2069,
+    "name": "Difaâ Hassani El-Jadidi"
+  },
+  "2070": {
+    "id": 2070,
+    "name": "CODM Meknès"
+  },
   "497": {
     "id": 497,
     "name": "Uzbekistan"
@@ -1758,6 +1758,14 @@
   "1364": {
     "id": 1364,
     "name": "FC Aarau"
+  },
+  "2871": {
+    "id": 2871,
+    "name": "SC Austria Lustenau"
+  },
+  "8747": {
+    "id": 8747,
+    "name": "Schwarz-Weiß Bregenz"
   },
   "753": {
     "id": 753,
@@ -1798,6 +1806,14 @@
   "6834": {
     "id": 6834,
     "name": "Kabuscorp SCP"
+  },
+  "4608": {
+    "id": 4608,
+    "name": "Pogoń II Szczecin"
+  },
+  "1764": {
+    "id": 1764,
+    "name": "Świt Skolwin Szczecin"
   },
   "1930": {
     "id": 1930,
