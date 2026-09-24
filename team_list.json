@@ -963,6 +963,14 @@
     "id": 674,
     "name": "Lithuania"
   },
+  "2272": {
+    "id": 2272,
+    "name": "Seychelles"
+  },
+  "2289": {
+    "id": 2289,
+    "name": "Sri Lanka"
+  },
   "2035": {
     "id": 2035,
     "name": "Shanghai Shenhua"
@@ -978,6 +986,10 @@
   "1265": {
     "id": 1265,
     "name": "Córdoba"
+  },
+  "664": {
+    "id": 664,
+    "name": "China"
   },
   "8830": {
     "id": 8830,
@@ -1234,6 +1246,10 @@
   "819": {
     "id": 819,
     "name": "Atlético Goianiense"
+  },
+  "373": {
+    "id": 373,
+    "name": "Chapecoense"
   },
   "3181": {
     "id": 3181,
@@ -1747,6 +1763,14 @@
     "id": 2056,
     "name": "India"
   },
+  "246": {
+    "id": 246,
+    "name": "FC Zürich"
+  },
+  "1366": {
+    "id": 1366,
+    "name": "Neuchâtel Xamax"
+  },
   "4771": {
     "id": 4771,
     "name": "Union Sportive Amal Tiznit"
@@ -1790,10 +1814,6 @@
   "4667": {
     "id": 4667,
     "name": "Kapfenberger SV"
-  },
-  "664": {
-    "id": 664,
-    "name": "China"
   },
   "2259": {
     "id": 2259,
