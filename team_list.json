@@ -1695,14 +1695,6 @@
     "id": 1395,
     "name": "Albacete Balompié"
   },
-  "8827": {
-    "id": 8827,
-    "name": "Real Maldives FC"
-  },
-  "8245": {
-    "id": 8245,
-    "name": "Foresters FC"
-  },
   "84": {
     "id": 84,
     "name": "VfB Stuttgart"
@@ -1710,6 +1702,14 @@
   "81": {
     "id": 81,
     "name": "1. FC Heidenheim"
+  },
+  "8827": {
+    "id": 8827,
+    "name": "Real Maldives FC"
+  },
+  "8245": {
+    "id": 8245,
+    "name": "Foresters FC"
   },
   "2056": {
     "id": 2056,
@@ -1778,6 +1778,14 @@
   "8747": {
     "id": 8747,
     "name": "Schwarz-Weiß Bregenz"
+  },
+  "2300": {
+    "id": 2300,
+    "name": "Solomon Islands"
+  },
+  "2303": {
+    "id": 2303,
+    "name": "Vanuatu"
   },
   "753": {
     "id": 753,
