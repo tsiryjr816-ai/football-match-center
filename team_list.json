@@ -1323,6 +1323,14 @@
     "id": 1270,
     "name": "Cádiz"
   },
+  "434": {
+    "id": 434,
+    "name": "Pogoń Szczecin"
+  },
+  "75": {
+    "id": 75,
+    "name": "Udinese"
+  },
   "8807": {
     "id": 8807,
     "name": "UB Lebrijana"
@@ -1687,6 +1695,14 @@
     "id": 841,
     "name": "São Bernardo"
   },
+  "2350": {
+    "id": 2350,
+    "name": "Chaves"
+  },
+  "36": {
+    "id": 36,
+    "name": "Vitória SC"
+  },
   "39": {
     "id": 39,
     "name": "Girona FC"
@@ -1694,6 +1710,14 @@
   "1395": {
     "id": 1395,
     "name": "Albacete Balompié"
+  },
+  "3517": {
+    "id": 3517,
+    "name": "Penafiel"
+  },
+  "1260": {
+    "id": 1260,
+    "name": "Deportivo de A Coruña"
   },
   "84": {
     "id": 84,
@@ -1710,6 +1734,14 @@
   "8245": {
     "id": 8245,
     "name": "Foresters FC"
+  },
+  "8832": {
+    "id": 8832,
+    "name": "FK Gornji Rahić"
+  },
+  "3683": {
+    "id": 3683,
+    "name": "FK Sarajevo"
   },
   "2056": {
     "id": 2056,
@@ -1751,6 +1783,14 @@
     "id": 497,
     "name": "Uzbekistan"
   },
+  "1406": {
+    "id": 1406,
+    "name": "TSV Hartberg"
+  },
+  "4667": {
+    "id": 4667,
+    "name": "Kapfenberger SV"
+  },
   "664": {
     "id": 664,
     "name": "China"
@@ -1762,6 +1802,14 @@
   "692": {
     "id": 692,
     "name": "Palestine"
+  },
+  "1368": {
+    "id": 1368,
+    "name": "FC Stade-Lausanne-Ouchy"
+  },
+  "247": {
+    "id": 247,
+    "name": "FC Sion"
   },
   "249": {
     "id": 249,
