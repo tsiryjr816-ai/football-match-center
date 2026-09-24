@@ -1,4 +1,156 @@
 {
+  "843": {
+    "id": 843,
+    "name": "Athletic Club"
+  },
+  "159": {
+    "id": 159,
+    "name": "Sport Recife"
+  },
+  "685": {
+    "id": 685,
+    "name": "Anguilla"
+  },
+  "2290": {
+    "id": 2290,
+    "name": "Antigua and Barbuda"
+  },
+  "468": {
+    "id": 468,
+    "name": "Curaçao"
+  },
+  "666": {
+    "id": 666,
+    "name": "Trinidad and Tobago"
+  },
+  "706": {
+    "id": 706,
+    "name": "Dominica"
+  },
+  "705": {
+    "id": 705,
+    "name": "Guyana"
+  },
+  "2297": {
+    "id": 2297,
+    "name": "US Virgin Islands"
+  },
+  "934": {
+    "id": 934,
+    "name": "Saint Martin"
+  },
+  "687": {
+    "id": 687,
+    "name": "British Virgin Islands"
+  },
+  "2292": {
+    "id": 2292,
+    "name": "Montserrat"
+  },
+  "2089": {
+    "id": 2089,
+    "name": "Malta"
+  },
+  "2219": {
+    "id": 2219,
+    "name": "Gibraltar"
+  },
+  "679": {
+    "id": 679,
+    "name": "Israel"
+  },
+  "2211": {
+    "id": 2211,
+    "name": "Kosovo"
+  },
+  "729": {
+    "id": 729,
+    "name": "Ireland"
+  },
+  "483": {
+    "id": 483,
+    "name": "Austria"
+  },
+  "727": {
+    "id": 727,
+    "name": "Wales"
+  },
+  "488": {
+    "id": 488,
+    "name": "Norway"
+  },
+  "1327": {
+    "id": 1327,
+    "name": "Denmark"
+  },
+  "491": {
+    "id": 491,
+    "name": "Portugal"
+  },
+  "702": {
+    "id": 702,
+    "name": "Greece"
+  },
+  "469": {
+    "id": 469,
+    "name": "Netherlands"
+  },
+  "467": {
+    "id": 467,
+    "name": "Germany"
+  },
+  "675": {
+    "id": 675,
+    "name": "Serbia"
+  },
+  "2092": {
+    "id": 2092,
+    "name": "Azerbaijan"
+  },
+  "2212": {
+    "id": 2212,
+    "name": "Liechtenstein"
+  },
+  "470": {
+    "id": 470,
+    "name": "Japan"
+  },
+  "472": {
+    "id": 472,
+    "name": "Ecuador"
+  },
+  "496": {
+    "id": 496,
+    "name": "Panama"
+  },
+  "482": {
+    "id": 482,
+    "name": "New Zealand"
+  },
+  "2239": {
+    "id": 2239,
+    "name": "Sacramento Republic FC"
+  },
+  "2238": {
+    "id": 2238,
+    "name": "Las Vegas Lights"
+  },
+  "766": {
+    "id": 766,
+    "name": "Atlético Nacional"
+  },
+  "789": {
+    "id": 789,
+    "name": "Junior Barranquilla"
+  },
+  "2240": {
+    "id": 2240,
+    "name": "FC Tulsa"
+  },
+  "2245": {
+    "id": 2245,
+    "name": "New Mexico United"
+  },
   "282": {
     "id": 282,
     "name": "DC United"
@@ -119,10 +271,6 @@
     "id": 936,
     "name": "Chile"
   },
-  "685": {
-    "id": 685,
-    "name": "Anguilla"
-  },
   "2058": {
     "id": 2058,
     "name": "Aruba"
@@ -167,17 +315,9 @@
     "id": 4783,
     "name": "Alianza Valledupar FC"
   },
-  "2297": {
-    "id": 2297,
-    "name": "US Virgin Islands"
-  },
   "684": {
     "id": 684,
     "name": "Bahamas"
-  },
-  "687": {
-    "id": 687,
-    "name": "British Virgin Islands"
   },
   "2296": {
     "id": 2296,
@@ -503,10 +643,6 @@
     "id": 480,
     "name": "Uruguay"
   },
-  "470": {
-    "id": 470,
-    "name": "Japan"
-  },
   "2057": {
     "id": 2057,
     "name": "Venezuela"
@@ -527,10 +663,6 @@
     "id": 4786,
     "name": "Rionegro Águilas Doradas"
   },
-  "666": {
-    "id": 666,
-    "name": "Trinidad and Tobago"
-  },
   "688": {
     "id": 688,
     "name": "Dominican Republic"
@@ -543,17 +675,9 @@
     "id": 306,
     "name": "FC Juárez"
   },
-  "706": {
-    "id": 706,
-    "name": "Dominica"
-  },
   "2295": {
     "id": 2295,
     "name": "Puerto Rico"
-  },
-  "468": {
-    "id": 468,
-    "name": "Curaçao"
   },
   "698": {
     "id": 698,
@@ -595,10 +719,6 @@
     "id": 152,
     "name": "Fortaleza"
   },
-  "843": {
-    "id": 843,
-    "name": "Athletic Club"
-  },
   "4785": {
     "id": 4785,
     "name": "Jaguares de Córdoba"
@@ -618,10 +738,6 @@
   "2060": {
     "id": 2060,
     "name": "Hassania d'Agadir"
-  },
-  "705": {
-    "id": 705,
-    "name": "Guyana"
   },
   "686": {
     "id": 686,
@@ -643,30 +759,6 @@
     "id": 863,
     "name": "Cuiabá"
   },
-  "679": {
-    "id": 679,
-    "name": "Israel"
-  },
-  "729": {
-    "id": 729,
-    "name": "Ireland"
-  },
-  "488": {
-    "id": 488,
-    "name": "Norway"
-  },
-  "491": {
-    "id": 491,
-    "name": "Portugal"
-  },
-  "467": {
-    "id": 467,
-    "name": "Germany"
-  },
-  "702": {
-    "id": 702,
-    "name": "Greece"
-  },
   "2071": {
     "id": 2071,
     "name": "MAS de Fès"
@@ -682,14 +774,6 @@
   "319": {
     "id": 319,
     "name": "Atlético San Luis"
-  },
-  "2089": {
-    "id": 2089,
-    "name": "Malta"
-  },
-  "2212": {
-    "id": 2212,
-    "name": "Liechtenstein"
   },
   "1397": {
     "id": 1397,
@@ -739,37 +823,9 @@
     "id": 919,
     "name": "RCD Espanyol de Barcelona"
   },
-  "2219": {
-    "id": 2219,
-    "name": "Gibraltar"
-  },
   "701": {
     "id": 701,
     "name": "Andorra"
-  },
-  "483": {
-    "id": 483,
-    "name": "Austria"
-  },
-  "2211": {
-    "id": 2211,
-    "name": "Kosovo"
-  },
-  "1327": {
-    "id": 1327,
-    "name": "Denmark"
-  },
-  "727": {
-    "id": 727,
-    "name": "Wales"
-  },
-  "675": {
-    "id": 675,
-    "name": "Serbia"
-  },
-  "469": {
-    "id": 469,
-    "name": "Netherlands"
   },
   "8831": {
     "id": 8831,
@@ -907,10 +963,6 @@
     "id": 674,
     "name": "Lithuania"
   },
-  "2092": {
-    "id": 2092,
-    "name": "Azerbaijan"
-  },
   "2035": {
     "id": 2035,
     "name": "Shanghai Shenhua"
@@ -1035,21 +1087,9 @@
     "id": 285,
     "name": "New England Revolution"
   },
-  "789": {
-    "id": 789,
-    "name": "Junior Barranquilla"
-  },
   "498": {
     "id": 498,
     "name": "Colombia"
-  },
-  "2245": {
-    "id": 2245,
-    "name": "New Mexico United"
-  },
-  "2239": {
-    "id": 2239,
-    "name": "Sacramento Republic FC"
   },
   "3927": {
     "id": 3927,
@@ -1163,10 +1203,6 @@
     "id": 455,
     "name": "Canada"
   },
-  "2290": {
-    "id": 2290,
-    "name": "Antigua and Barbuda"
-  },
   "2234": {
     "id": 2234,
     "name": "Colorado Springs Switchbacks FC"
@@ -1211,10 +1247,6 @@
     "id": 8617,
     "name": "Widad Temara"
   },
-  "934": {
-    "id": 934,
-    "name": "Saint Martin"
-  },
   "828": {
     "id": 828,
     "name": "Operário-PR"
@@ -1226,14 +1258,6 @@
   "928": {
     "id": 928,
     "name": "Náutico"
-  },
-  "159": {
-    "id": 159,
-    "name": "Sport Recife"
-  },
-  "2292": {
-    "id": 2292,
-    "name": "Montserrat"
   },
   "8828": {
     "id": 8828,
@@ -1603,10 +1627,6 @@
     "id": 2233,
     "name": "El Paso Locomotive FC"
   },
-  "2240": {
-    "id": 2240,
-    "name": "FC Tulsa"
-  },
   "3939": {
     "id": 3939,
     "name": "Seattle Reign FC"
@@ -1695,14 +1715,6 @@
     "id": 2056,
     "name": "India"
   },
-  "496": {
-    "id": 496,
-    "name": "Panama"
-  },
-  "766": {
-    "id": 766,
-    "name": "Atlético Nacional"
-  },
   "4771": {
     "id": 4771,
     "name": "Union Sportive Amal Tiznit"
@@ -1747,17 +1759,9 @@
     "id": 2259,
     "name": "Maldives"
   },
-  "472": {
-    "id": 472,
-    "name": "Ecuador"
-  },
   "692": {
     "id": 692,
     "name": "Palestine"
-  },
-  "482": {
-    "id": 482,
-    "name": "New Zealand"
   },
   "249": {
     "id": 249,
@@ -1778,97 +1782,5 @@
   "753": {
     "id": 753,
     "name": "América de Cali"
-  },
-  "8436": {
-    "id": 8436,
-    "name": "Exmouth Town"
-  },
-  "7447": {
-    "id": 7447,
-    "name": "Thame United"
-  },
-  "6240": {
-    "id": 6240,
-    "name": "SC Wiedenbrück"
-  },
-  "3853": {
-    "id": 3853,
-    "name": "VfL Osnabrück"
-  },
-  "2273": {
-    "id": 2273,
-    "name": "São Tomé and Príncipe"
-  },
-  "2210": {
-    "id": 2210,
-    "name": "Tajikistan"
-  },
-  "2229": {
-    "id": 2229,
-    "name": "Birmingham Legion FC"
-  },
-  "5189": {
-    "id": 5189,
-    "name": "Sagrada Esperança"
-  },
-  "6834": {
-    "id": 6834,
-    "name": "Kabuscorp SCP"
-  },
-  "4608": {
-    "id": 4608,
-    "name": "Pogoń II Szczecin"
-  },
-  "1764": {
-    "id": 1764,
-    "name": "Świt Skolwin Szczecin"
-  },
-  "1930": {
-    "id": 1930,
-    "name": "Kyoto Sanga FC"
-  },
-  "1973": {
-    "id": 1973,
-    "name": "Fujieda MYFC"
-  },
-  "1945": {
-    "id": 1945,
-    "name": "Kashiwa Reysol"
-  },
-  "2026": {
-    "id": 2026,
-    "name": "FC Imabari"
-  },
-  "1929": {
-    "id": 1929,
-    "name": "Machida Zelvia"
-  },
-  "3871": {
-    "id": 3871,
-    "name": "Tochigi City FC"
-  },
-  "1939": {
-    "id": 1939,
-    "name": "Gamba Osaka"
-  },
-  "1962": {
-    "id": 1962,
-    "name": "Tokushima Vortis"
-  },
-  "1937": {
-    "id": 1937,
-    "name": "Kashima Antlers"
-  },
-  "1975": {
-    "id": 1975,
-    "name": "Ventforet Kofu"
-  },
-  "1931": {
-    "id": 1931,
-    "name": "Vissel Kobe"
-  },
-  "1967": {
-    "id": 1967,
-    "name": "Sagan Tosu"
   }
 }
