@@ -520,7 +520,7 @@
           {
             "stage": "semifinals",
             "stage_name": "Semifinals",
-            "matches": 5,
+            "matches": 4,
             "rounds": 1,
             "start_date": "2026-11-01",
             "end_date": "2026-11-08"
@@ -808,7 +808,7 @@
           {
             "stage": "qualification-round-3",
             "stage_name": "Qualification Round 3",
-            "matches": 39,
+            "matches": 40,
             "rounds": 1,
             "start_date": "2026-10-03",
             "end_date": "2026-10-03"
@@ -1505,7 +1505,7 @@
           {
             "stage": "regular-season",
             "stage_name": "Regular season",
-            "matches": 307,
+            "matches": 308,
             "rounds": 34,
             "start_date": "2026-08-08",
             "end_date": "2027-05-22"
@@ -1638,7 +1638,7 @@
           {
             "stage": "league-phase",
             "stage_name": "League phase",
-            "matches": 322,
+            "matches": 321,
             "rounds": 0,
             "start_date": "2025-12-17",
             "end_date": "2026-10-07"

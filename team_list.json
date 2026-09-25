@@ -1767,14 +1767,6 @@
     "id": 1260,
     "name": "Deportivo de A Coruña"
   },
-  "84": {
-    "id": 84,
-    "name": "VfB Stuttgart"
-  },
-  "81": {
-    "id": 81,
-    "name": "1. FC Heidenheim"
-  },
   "8827": {
     "id": 8827,
     "name": "Real Maldives FC"
@@ -1782,6 +1774,14 @@
   "8245": {
     "id": 8245,
     "name": "Foresters FC"
+  },
+  "84": {
+    "id": 84,
+    "name": "VfB Stuttgart"
+  },
+  "81": {
+    "id": 81,
+    "name": "1. FC Heidenheim"
   },
   "8832": {
     "id": 8832,
