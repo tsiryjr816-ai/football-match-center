@@ -1,4 +1,228 @@
 {
+  "156": {
+    "id": 156,
+    "name": "Juventude"
+  },
+  "828": {
+    "id": 828,
+    "name": "Operário-PR"
+  },
+  "821": {
+    "id": 821,
+    "name": "Londrina"
+  },
+  "929": {
+    "id": 929,
+    "name": "Criciúma"
+  },
+  "158": {
+    "id": 158,
+    "name": "São Paulo"
+  },
+  "165": {
+    "id": 165,
+    "name": "Santos"
+  },
+  "841": {
+    "id": 841,
+    "name": "São Bernardo"
+  },
+  "831": {
+    "id": 831,
+    "name": "CRB"
+  },
+  "2291": {
+    "id": 2291,
+    "name": "Suriname"
+  },
+  "660": {
+    "id": 660,
+    "name": "Guatemala"
+  },
+  "2294": {
+    "id": 2294,
+    "name": "Saint Kitts and Nevis"
+  },
+  "683": {
+    "id": 683,
+    "name": "Cuba"
+  },
+  "2059": {
+    "id": 2059,
+    "name": "Ittihad Tanger"
+  },
+  "5186": {
+    "id": 5186,
+    "name": "Moghreb Atlético Tetuán"
+  },
+  "2293": {
+    "id": 2293,
+    "name": "Saint Lucia"
+  },
+  "2308": {
+    "id": 2308,
+    "name": "Guadeloupe"
+  },
+  "711": {
+    "id": 711,
+    "name": "Faroe Islands"
+  },
+  "725": {
+    "id": 725,
+    "name": "Slovakia"
+  },
+  "2028": {
+    "id": 2028,
+    "name": "Poland"
+  },
+  "726": {
+    "id": 726,
+    "name": "Romania"
+  },
+  "931": {
+    "id": 931,
+    "name": "Bosnia & Herzegovina"
+  },
+  "731": {
+    "id": 731,
+    "name": "Sweden"
+  },
+  "723": {
+    "id": 723,
+    "name": "Ukraine"
+  },
+  "728": {
+    "id": 728,
+    "name": "Northern Ireland"
+  },
+  "714": {
+    "id": 714,
+    "name": "Hungary"
+  },
+  "678": {
+    "id": 678,
+    "name": "Georgia"
+  },
+  "485": {
+    "id": 485,
+    "name": "France"
+  },
+  "1326": {
+    "id": 1326,
+    "name": "Italy"
+  },
+  "477": {
+    "id": 477,
+    "name": "Belgium"
+  },
+  "932": {
+    "id": 932,
+    "name": "Türkiye"
+  },
+  "8617": {
+    "id": 8617,
+    "name": "Widad Temara"
+  },
+  "2062": {
+    "id": 2062,
+    "name": "Union Touarga Sport"
+  },
+  "3567": {
+    "id": 3567,
+    "name": "FK Teplice"
+  },
+  "1865": {
+    "id": 1865,
+    "name": "SG Dynamo Dresden"
+  },
+  "2262": {
+    "id": 2262,
+    "name": "Latvia"
+  },
+  "700": {
+    "id": 700,
+    "name": "Montenegro"
+  },
+  "676": {
+    "id": 676,
+    "name": "Cyprus"
+  },
+  "717": {
+    "id": 717,
+    "name": "Armenia"
+  },
+  "2066": {
+    "id": 2066,
+    "name": "Fath Union Sport"
+  },
+  "4771": {
+    "id": 4771,
+    "name": "Union Sportive Amal Tiznit"
+  },
+  "1364": {
+    "id": 1364,
+    "name": "FC Aarau"
+  },
+  "148": {
+    "id": 148,
+    "name": "BSC Young Boys"
+  },
+  "2209": {
+    "id": 2209,
+    "name": "Kazakhstan"
+  },
+  "673": {
+    "id": 673,
+    "name": "Moldova"
+  },
+  "453": {
+    "id": 453,
+    "name": "South Korea"
+  },
+  "2057": {
+    "id": 2057,
+    "name": "Venezuela"
+  },
+  "698": {
+    "id": 698,
+    "name": "Nicaragua"
+  },
+  "699": {
+    "id": 699,
+    "name": "Costa Rica"
+  },
+  "302": {
+    "id": 302,
+    "name": "Seattle Sounders FC"
+  },
+  "299": {
+    "id": 299,
+    "name": "Sporting Kansas City"
+  },
+  "686": {
+    "id": 686,
+    "name": "Cayman Islands"
+  },
+  "2295": {
+    "id": 2295,
+    "name": "Puerto Rico"
+  },
+  "688": {
+    "id": 688,
+    "name": "Dominican Republic"
+  },
+  "465": {
+    "id": 465,
+    "name": "Haiti"
+  },
+  "836": {
+    "id": 836,
+    "name": "Grêmio Novorizontino"
+  },
+  "809": {
+    "id": 809,
+    "name": "Goiás"
+  },
   "843": {
     "id": 843,
     "name": "Athletic Club"
@@ -411,14 +635,6 @@
     "id": 2208,
     "name": "Estonia"
   },
-  "725": {
-    "id": 725,
-    "name": "Slovakia"
-  },
-  "2209": {
-    "id": 2209,
-    "name": "Kazakhstan"
-  },
   "710": {
     "id": 710,
     "name": "San Marino"
@@ -475,14 +691,6 @@
     "id": 481,
     "name": "Iran"
   },
-  "673": {
-    "id": 673,
-    "name": "Moldova"
-  },
-  "711": {
-    "id": 711,
-    "name": "Faroe Islands"
-  },
   "721": {
     "id": 721,
     "name": "Finland"
@@ -499,25 +707,13 @@
     "id": 463,
     "name": "Brazil"
   },
-  "660": {
-    "id": 660,
-    "name": "Guatemala"
-  },
   "689": {
     "id": 689,
     "name": "El Salvador"
   },
-  "2294": {
-    "id": 2294,
-    "name": "Saint Kitts and Nevis"
-  },
   "661": {
     "id": 661,
     "name": "Grenada"
-  },
-  "2293": {
-    "id": 2293,
-    "name": "Saint Lucia"
   },
   "668": {
     "id": 668,
@@ -535,73 +731,17 @@
     "id": 838,
     "name": "América Mineiro"
   },
-  "156": {
-    "id": 156,
-    "name": "Juventude"
-  },
-  "2291": {
-    "id": 2291,
-    "name": "Suriname"
-  },
   "682": {
     "id": 682,
     "name": "Martinique"
-  },
-  "683": {
-    "id": 683,
-    "name": "Cuba"
   },
   "690": {
     "id": 690,
     "name": "Bonaire"
   },
-  "2308": {
-    "id": 2308,
-    "name": "Guadeloupe"
-  },
   "681": {
     "id": 681,
     "name": "Barbados"
-  },
-  "731": {
-    "id": 731,
-    "name": "Sweden"
-  },
-  "2028": {
-    "id": 2028,
-    "name": "Poland"
-  },
-  "726": {
-    "id": 726,
-    "name": "Romania"
-  },
-  "931": {
-    "id": 931,
-    "name": "Bosnia & Herzegovina"
-  },
-  "728": {
-    "id": 728,
-    "name": "Northern Ireland"
-  },
-  "714": {
-    "id": 714,
-    "name": "Hungary"
-  },
-  "932": {
-    "id": 932,
-    "name": "Türkiye"
-  },
-  "1326": {
-    "id": 1326,
-    "name": "Italy"
-  },
-  "477": {
-    "id": 477,
-    "name": "Belgium"
-  },
-  "485": {
-    "id": 485,
-    "name": "France"
   },
   "1268": {
     "id": 1268,
@@ -611,41 +751,9 @@
     "id": 1398,
     "name": "CD Castellón"
   },
-  "2262": {
-    "id": 2262,
-    "name": "Latvia"
-  },
-  "676": {
-    "id": 676,
-    "name": "Cyprus"
-  },
-  "717": {
-    "id": 717,
-    "name": "Armenia"
-  },
-  "700": {
-    "id": 700,
-    "name": "Montenegro"
-  },
-  "678": {
-    "id": 678,
-    "name": "Georgia"
-  },
-  "723": {
-    "id": 723,
-    "name": "Ukraine"
-  },
-  "453": {
-    "id": 453,
-    "name": "South Korea"
-  },
   "480": {
     "id": 480,
     "name": "Uruguay"
-  },
-  "2057": {
-    "id": 2057,
-    "name": "Venezuela"
   },
   "311": {
     "id": 311,
@@ -663,10 +771,6 @@
     "id": 4786,
     "name": "Rionegro Águilas Doradas"
   },
-  "688": {
-    "id": 688,
-    "name": "Dominican Republic"
-  },
   "318": {
     "id": 318,
     "name": "Club León"
@@ -675,14 +779,6 @@
     "id": 306,
     "name": "FC Juárez"
   },
-  "2295": {
-    "id": 2295,
-    "name": "Puerto Rico"
-  },
-  "698": {
-    "id": 698,
-    "name": "Nicaragua"
-  },
   "4782": {
     "id": 4782,
     "name": "Fortaleza FC"
@@ -690,14 +786,6 @@
   "781": {
     "id": 781,
     "name": "Deportes Tolima"
-  },
-  "465": {
-    "id": 465,
-    "name": "Haiti"
-  },
-  "699": {
-    "id": 699,
-    "name": "Costa Rica"
   },
   "3931": {
     "id": 3931,
@@ -739,10 +827,6 @@
     "id": 2060,
     "name": "Hassania d'Agadir"
   },
-  "686": {
-    "id": 686,
-    "name": "Cayman Islands"
-  },
   "42": {
     "id": 42,
     "name": "Real Oviedo"
@@ -750,10 +834,6 @@
   "1267": {
     "id": 1267,
     "name": "Sporting Gijón"
-  },
-  "831": {
-    "id": 831,
-    "name": "CRB"
   },
   "863": {
     "id": 863,
@@ -798,10 +878,6 @@
   "8817": {
     "id": 8817,
     "name": "UE Tavernes"
-  },
-  "5186": {
-    "id": 5186,
-    "name": "Moghreb Atlético Tetuán"
   },
   "594": {
     "id": 594,
@@ -942,10 +1018,6 @@
   "921": {
     "id": 921,
     "name": "SD Eibar"
-  },
-  "929": {
-    "id": 929,
-    "name": "Criciúma"
   },
   "860": {
     "id": 860,
@@ -1119,10 +1191,6 @@
     "id": 288,
     "name": "Houston Dynamo"
   },
-  "299": {
-    "id": 299,
-    "name": "Sporting Kansas City"
-  },
   "290": {
     "id": 290,
     "name": "Austin FC"
@@ -1138,10 +1206,6 @@
   "287": {
     "id": 287,
     "name": "Toronto FC"
-  },
-  "302": {
-    "id": 302,
-    "name": "Seattle Sounders FC"
   },
   "291": {
     "id": 291,
@@ -1239,10 +1303,6 @@
     "id": 3940,
     "name": "Angel City FC"
   },
-  "809": {
-    "id": 809,
-    "name": "Goiás"
-  },
   "819": {
     "id": 819,
     "name": "Atlético Goianiense"
@@ -1258,14 +1318,6 @@
   "2064": {
     "id": 2064,
     "name": "Wydad Casablanca"
-  },
-  "8617": {
-    "id": 8617,
-    "name": "Widad Temara"
-  },
-  "828": {
-    "id": 828,
-    "name": "Operário-PR"
   },
   "169": {
     "id": 169,
@@ -1370,14 +1422,6 @@
   "8806": {
     "id": 8806,
     "name": "CD Tedeon"
-  },
-  "2062": {
-    "id": 2062,
-    "name": "Union Touarga Sport"
-  },
-  "2066": {
-    "id": 2066,
-    "name": "Fath Union Sport"
   },
   "567": {
     "id": 567,
@@ -1675,10 +1719,6 @@
     "id": 826,
     "name": "Vila Nova FC"
   },
-  "821": {
-    "id": 821,
-    "name": "Londrina"
-  },
   "3419": {
     "id": 3419,
     "name": "Deportivo Pasto"
@@ -1702,14 +1742,6 @@
   "3936": {
     "id": 3936,
     "name": "San Diego Wave FC"
-  },
-  "836": {
-    "id": 836,
-    "name": "Grêmio Novorizontino"
-  },
-  "841": {
-    "id": 841,
-    "name": "São Bernardo"
   },
   "2350": {
     "id": 2350,
@@ -1770,93 +1802,5 @@
   "1366": {
     "id": 1366,
     "name": "Neuchâtel Xamax"
-  },
-  "4771": {
-    "id": 4771,
-    "name": "Union Sportive Amal Tiznit"
-  },
-  "2059": {
-    "id": 2059,
-    "name": "Ittihad Tanger"
-  },
-  "4247": {
-    "id": 4247,
-    "name": "SC Rot-Weiß Oberhausen"
-  },
-  "1290": {
-    "id": 1290,
-    "name": "FC Schalke 04"
-  },
-  "586": {
-    "id": 586,
-    "name": "AS FAR Rabat"
-  },
-  "2067": {
-    "id": 2067,
-    "name": "Raja Club Athletic"
-  },
-  "2875": {
-    "id": 2875,
-    "name": "SF Siegen"
-  },
-  "95": {
-    "id": 95,
-    "name": "Borussia M'gladbach"
-  },
-  "497": {
-    "id": 497,
-    "name": "Uzbekistan"
-  },
-  "1406": {
-    "id": 1406,
-    "name": "TSV Hartberg"
-  },
-  "4667": {
-    "id": 4667,
-    "name": "Kapfenberger SV"
-  },
-  "2259": {
-    "id": 2259,
-    "name": "Maldives"
-  },
-  "692": {
-    "id": 692,
-    "name": "Palestine"
-  },
-  "1368": {
-    "id": 1368,
-    "name": "FC Stade-Lausanne-Ouchy"
-  },
-  "247": {
-    "id": 247,
-    "name": "FC Sion"
-  },
-  "249": {
-    "id": 249,
-    "name": "Grasshopper Club Zürich"
-  },
-  "1364": {
-    "id": 1364,
-    "name": "FC Aarau"
-  },
-  "2871": {
-    "id": 2871,
-    "name": "SC Austria Lustenau"
-  },
-  "8747": {
-    "id": 8747,
-    "name": "Schwarz-Weiß Bregenz"
-  },
-  "2300": {
-    "id": 2300,
-    "name": "Solomon Islands"
-  },
-  "2303": {
-    "id": 2303,
-    "name": "Vanuatu"
-  },
-  "753": {
-    "id": 753,
-    "name": "América de Cali"
   }
 }
