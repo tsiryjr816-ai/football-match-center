@@ -739,6 +739,14 @@
     "id": 677,
     "name": "Belarus"
   },
+  "420": {
+    "id": 420,
+    "name": "Jagiellonia Białystok"
+  },
+  "3576": {
+    "id": 3576,
+    "name": "FK Sūduva Marijampolė"
+  },
   "459": {
     "id": 459,
     "name": "Australia"
@@ -790,6 +798,14 @@
   "1398": {
     "id": 1398,
     "name": "CD Castellón"
+  },
+  "1335": {
+    "id": 1335,
+    "name": "NK Maribor"
+  },
+  "4071": {
+    "id": 4071,
+    "name": "HNK Gorica"
   },
   "667": {
     "id": 667,
@@ -878,6 +894,14 @@
   "3938": {
     "id": 3938,
     "name": "Orlando Pride"
+  },
+  "874": {
+    "id": 874,
+    "name": "Uberlândia EC"
+  },
+  "151": {
+    "id": 151,
+    "name": "Mirassol"
   },
   "2065": {
     "id": 2065,
@@ -1031,6 +1055,14 @@
     "id": 1264,
     "name": "Almería"
   },
+  "3898": {
+    "id": 3898,
+    "name": "Nea Salamina Famagusta"
+  },
+  "404": {
+    "id": 404,
+    "name": "AEK Larnaca"
+  },
   "8814": {
     "id": 8814,
     "name": "CF Sant Rafel"
@@ -1082,6 +1114,22 @@
   "860": {
     "id": 860,
     "name": "Avaí"
+  },
+  "413": {
+    "id": 413,
+    "name": "FK Partizan"
+  },
+  "4564": {
+    "id": 4564,
+    "name": "Rodina Moscow"
+  },
+  "70": {
+    "id": 70,
+    "name": "Lazio"
+  },
+  "3887": {
+    "id": 3887,
+    "name": "Arezzo"
   },
   "8653": {
     "id": 8653,
@@ -1407,6 +1455,14 @@
     "id": 2070,
     "name": "CODM Meknès"
   },
+  "385": {
+    "id": 385,
+    "name": "HNK Rijeka"
+  },
+  "83": {
+    "id": 83,
+    "name": "1. FC Union Berlin"
+  },
   "8808": {
     "id": 8808,
     "name": "Ribadesella CF"
@@ -1455,14 +1511,6 @@
     "id": 1270,
     "name": "Cádiz"
   },
-  "434": {
-    "id": 434,
-    "name": "Pogoń Szczecin"
-  },
-  "75": {
-    "id": 75,
-    "name": "Udinese"
-  },
   "8807": {
     "id": 8807,
     "name": "UB Lebrijana"
@@ -1487,6 +1535,14 @@
     "id": 8806,
     "name": "CD Tedeon"
   },
+  "434": {
+    "id": 434,
+    "name": "Pogoń Szczecin"
+  },
+  "75": {
+    "id": 75,
+    "name": "Udinese"
+  },
   "567": {
     "id": 567,
     "name": "Barau FC"
@@ -1507,6 +1563,30 @@
     "id": 1460,
     "name": "FC Andorra"
   },
+  "3272": {
+    "id": 3272,
+    "name": "Dinamo City"
+  },
+  "3234": {
+    "id": 3234,
+    "name": "FK Otrant-Olympic"
+  },
+  "8835": {
+    "id": 8835,
+    "name": "KF Kamjani Kamenjane"
+  },
+  "384": {
+    "id": 384,
+    "name": "KF Shkëndija"
+  },
+  "2399": {
+    "id": 2399,
+    "name": "Aris Limassol"
+  },
+  "7936": {
+    "id": 7936,
+    "name": "ALS Omonia"
+  },
   "3248": {
     "id": 3248,
     "name": "Real SC"
@@ -1514,6 +1594,14 @@
   "8307": {
     "id": 8307,
     "name": "FC Serpa"
+  },
+  "3541": {
+    "id": 3541,
+    "name": "Bohemian FC"
+  },
+  "3680": {
+    "id": 3680,
+    "name": "Bohemians Praha 1905"
   },
   "1892": {
     "id": 1892,
@@ -1691,13 +1779,29 @@
     "id": 1414,
     "name": "Barnsley"
   },
-  "3541": {
-    "id": 3541,
-    "name": "Bohemian FC"
+  "8834": {
+    "id": 8834,
+    "name": "Dalin Myślenice"
   },
-  "3680": {
-    "id": 3680,
-    "name": "Bohemians Praha 1905"
+  "1772": {
+    "id": 1772,
+    "name": "Wisła Kraków"
+  },
+  "423": {
+    "id": 423,
+    "name": "Widzew Łódź"
+  },
+  "1810": {
+    "id": 1810,
+    "name": "Górnik Łęczna"
+  },
+  "1818": {
+    "id": 1818,
+    "name": "Zagłębie Sosnowiec"
+  },
+  "403": {
+    "id": 403,
+    "name": "Legia Warszawa"
   },
   "1458": {
     "id": 1458,
@@ -1715,6 +1819,30 @@
     "id": 1445,
     "name": "Barnet"
   },
+  "2876": {
+    "id": 2876,
+    "name": "FK Panevėžys"
+  },
+  "7992": {
+    "id": 7992,
+    "name": "Baltijos Futbolo Akademija"
+  },
+  "342": {
+    "id": 342,
+    "name": "Cherno More Varna"
+  },
+  "3841": {
+    "id": 3841,
+    "name": "FK Dunav Ruse"
+  },
+  "1286": {
+    "id": 1286,
+    "name": "Monza"
+  },
+  "64": {
+    "id": 64,
+    "name": "Cremonese"
+  },
   "924": {
     "id": 924,
     "name": "Real Sociedad"
@@ -1730,6 +1858,14 @@
   "914": {
     "id": 914,
     "name": "Granada Club de Fútbol"
+  },
+  "3882": {
+    "id": 3882,
+    "name": "Sepsi OSK Sfântu Gheorghe"
+  },
+  "4064": {
+    "id": 4064,
+    "name": "CS Gloria Bistrița"
   },
   "308": {
     "id": 308,
