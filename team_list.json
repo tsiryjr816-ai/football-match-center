@@ -423,14 +423,6 @@
     "id": 4037,
     "name": "FC United of Manchester"
   },
-  "4672": {
-    "id": 4672,
-    "name": "Brentwood Town"
-  },
-  "2525": {
-    "id": 2525,
-    "name": "Dagenham & Redbridge"
-  },
   "3483": {
     "id": 3483,
     "name": "Dorking Wanderers"
@@ -990,6 +982,14 @@
   "1397": {
     "id": 1397,
     "name": "Eibar"
+  },
+  "4672": {
+    "id": 4672,
+    "name": "Brentwood Town"
+  },
+  "2525": {
+    "id": 2525,
+    "name": "Dagenham & Redbridge"
   },
   "1434": {
     "id": 1434,
@@ -2274,6 +2274,14 @@
   "3841": {
     "id": 3841,
     "name": "FK Dunav Ruse"
+  },
+  "1619": {
+    "id": 1619,
+    "name": "Le Mans"
+  },
+  "113": {
+    "id": 113,
+    "name": "Nantes"
   },
   "1286": {
     "id": 1286,
