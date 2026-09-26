@@ -1,4 +1,1092 @@
 {
+  "2230": {
+    "id": 2230,
+    "name": "FC Tampa Bay Rowdies"
+  },
+  "2244": {
+    "id": 2244,
+    "name": "Miami FC"
+  },
+  "4801": {
+    "id": 4801,
+    "name": "Barranquilla FC"
+  },
+  "736": {
+    "id": 736,
+    "name": "Millonarios"
+  },
+  "2221": {
+    "id": 2221,
+    "name": "Lexington SC"
+  },
+  "2233": {
+    "id": 2233,
+    "name": "El Paso Locomotive FC"
+  },
+  "2228": {
+    "id": 2228,
+    "name": "Hartford Athletic"
+  },
+  "2225": {
+    "id": 2225,
+    "name": "Charleston Battery"
+  },
+  "2243": {
+    "id": 2243,
+    "name": "Detroit City FC"
+  },
+  "2229": {
+    "id": 2229,
+    "name": "Birmingham Legion FC"
+  },
+  "2241": {
+    "id": 2241,
+    "name": "Brooklyn FC"
+  },
+  "2223": {
+    "id": 2223,
+    "name": "Rhode Island FC"
+  },
+  "3930": {
+    "id": 3930,
+    "name": "Kansas City Current"
+  },
+  "3932": {
+    "id": 3932,
+    "name": "Bay FC"
+  },
+  "806": {
+    "id": 806,
+    "name": "Argentinos Juniors"
+  },
+  "739": {
+    "id": 739,
+    "name": "Tigre"
+  },
+  "2224": {
+    "id": 2224,
+    "name": "Loudoun United FC"
+  },
+  "2242": {
+    "id": 2242,
+    "name": "Indy Eleven"
+  },
+  "155": {
+    "id": 155,
+    "name": "Atlético Mineiro"
+  },
+  "168": {
+    "id": 168,
+    "name": "Red Bull Bragantino"
+  },
+  "927": {
+    "id": 927,
+    "name": "Botafogo-SP"
+  },
+  "826": {
+    "id": 826,
+    "name": "Vila Nova FC"
+  },
+  "781": {
+    "id": 781,
+    "name": "Deportes Tolima"
+  },
+  "4784": {
+    "id": 4784,
+    "name": "Boyacá Chicó FC"
+  },
+  "680": {
+    "id": 680,
+    "name": "Sint Maarten"
+  },
+  "691": {
+    "id": 691,
+    "name": "Saint Vincent and the Grenadines"
+  },
+  "489": {
+    "id": 489,
+    "name": "Argentina"
+  },
+  "654": {
+    "id": 654,
+    "name": "Burkina Faso"
+  },
+  "2067": {
+    "id": 2067,
+    "name": "Raja Club Athletic"
+  },
+  "2072": {
+    "id": 2072,
+    "name": "Renaissance Zemamra"
+  },
+  "4997": {
+    "id": 4997,
+    "name": "Newell's Old Boys"
+  },
+  "785": {
+    "id": 785,
+    "name": "CA Lanús"
+  },
+  "3132": {
+    "id": 3132,
+    "name": "Atlético Tucumán"
+  },
+  "734": {
+    "id": 734,
+    "name": "Barracas Central"
+  },
+  "3935": {
+    "id": 3935,
+    "name": "Racing Louisville"
+  },
+  "3931": {
+    "id": 3931,
+    "name": "Utah Royals FC"
+  },
+  "863": {
+    "id": 863,
+    "name": "Cuiabá"
+  },
+  "844": {
+    "id": 844,
+    "name": "Ponte Preta"
+  },
+  "4786": {
+    "id": 4786,
+    "name": "Rionegro Águilas Doradas"
+  },
+  "4785": {
+    "id": 4785,
+    "name": "Jaguares de Córdoba"
+  },
+  "922": {
+    "id": 922,
+    "name": "Sevilla FC"
+  },
+  "916": {
+    "id": 916,
+    "name": "FC Badalona"
+  },
+  "819": {
+    "id": 819,
+    "name": "Atlético Goianiense"
+  },
+  "838": {
+    "id": 838,
+    "name": "América Mineiro"
+  },
+  "475": {
+    "id": 475,
+    "name": "Spain"
+  },
+  "930": {
+    "id": 930,
+    "name": "Czechia"
+  },
+  "462": {
+    "id": 462,
+    "name": "Switzerland"
+  },
+  "715": {
+    "id": 715,
+    "name": "Slovenia"
+  },
+  "730": {
+    "id": 730,
+    "name": "North Macedonia"
+  },
+  "466": {
+    "id": 466,
+    "name": "Scotland"
+  },
+  "455": {
+    "id": 455,
+    "name": "Canada"
+  },
+  "713": {
+    "id": 713,
+    "name": "Peru"
+  },
+  "2069": {
+    "id": 2069,
+    "name": "Difaâ Hassani El-Jadidi"
+  },
+  "2064": {
+    "id": 2064,
+    "name": "Wydad Casablanca"
+  },
+  "2070": {
+    "id": 2070,
+    "name": "CODM Meknès"
+  },
+  "2065": {
+    "id": 2065,
+    "name": "Kawkab Athletic Club Marrakech"
+  },
+  "3136": {
+    "id": 3136,
+    "name": "Defensa y Justicia"
+  },
+  "742": {
+    "id": 742,
+    "name": "San Lorenzo"
+  },
+  "1270": {
+    "id": 1270,
+    "name": "Cádiz"
+  },
+  "1268": {
+    "id": 1268,
+    "name": "Leganés"
+  },
+  "1467": {
+    "id": 1467,
+    "name": "CE Sabadell"
+  },
+  "1460": {
+    "id": 1460,
+    "name": "FC Andorra"
+  },
+  "5243": {
+    "id": 5243,
+    "name": "CD 6 de Junio"
+  },
+  "8807": {
+    "id": 8807,
+    "name": "UB Lebrijana"
+  },
+  "8806": {
+    "id": 8806,
+    "name": "CD Tedeon"
+  },
+  "6158": {
+    "id": 6158,
+    "name": "CD Anaitasuna FT"
+  },
+  "2060": {
+    "id": 2060,
+    "name": "Hassania d'Agadir"
+  },
+  "2071": {
+    "id": 2071,
+    "name": "MAS de Fès"
+  },
+  "923": {
+    "id": 923,
+    "name": "Madrid CFF"
+  },
+  "911": {
+    "id": 911,
+    "name": "Athletic Club"
+  },
+  "665": {
+    "id": 665,
+    "name": "Iceland"
+  },
+  "2090": {
+    "id": 2090,
+    "name": "Bulgaria"
+  },
+  "2208": {
+    "id": 2208,
+    "name": "Estonia"
+  },
+  "2091": {
+    "id": 2091,
+    "name": "Luxembourg"
+  },
+  "677": {
+    "id": 677,
+    "name": "Belarus"
+  },
+  "710": {
+    "id": 710,
+    "name": "San Marino"
+  },
+  "494": {
+    "id": 494,
+    "name": "Croatia"
+  },
+  "493": {
+    "id": 493,
+    "name": "England"
+  },
+  "5244": {
+    "id": 5244,
+    "name": "CD Baztan"
+  },
+  "1526": {
+    "id": 1526,
+    "name": "Atlético Calatayud"
+  },
+  "5648": {
+    "id": 5648,
+    "name": "Doma United FC"
+  },
+  "574": {
+    "id": 574,
+    "name": "Warri Wolves FC"
+  },
+  "566": {
+    "id": 566,
+    "name": "Kano Pillars"
+  },
+  "5649": {
+    "id": 5649,
+    "name": "Sporting Lagos FC"
+  },
+  "1264": {
+    "id": 1264,
+    "name": "Almería"
+  },
+  "1401": {
+    "id": 1401,
+    "name": "Burgos Club de Fútbol"
+  },
+  "2056": {
+    "id": 2056,
+    "name": "India"
+  },
+  "463": {
+    "id": 463,
+    "name": "Brazil"
+  },
+  "7447": {
+    "id": 7447,
+    "name": "Thame United"
+  },
+  "6268": {
+    "id": 6268,
+    "name": "Eastbourne Borough FC"
+  },
+  "8532": {
+    "id": 8532,
+    "name": "Crowborough Athletic"
+  },
+  "3344": {
+    "id": 3344,
+    "name": "Wimborne Town"
+  },
+  "2444": {
+    "id": 2444,
+    "name": "Uxbridge"
+  },
+  "7188": {
+    "id": 7188,
+    "name": "Hungerford Town"
+  },
+  "1874": {
+    "id": 1874,
+    "name": "Gainsborough Trinity"
+  },
+  "8523": {
+    "id": 8523,
+    "name": "Anstey Nomads"
+  },
+  "3374": {
+    "id": 3374,
+    "name": "Bedford Town"
+  },
+  "2919": {
+    "id": 2919,
+    "name": "Wingate & Finchley"
+  },
+  "7331": {
+    "id": 7331,
+    "name": "Cray Wanderers"
+  },
+  "4049": {
+    "id": 4049,
+    "name": "Chippenham Town"
+  },
+  "7192": {
+    "id": 7192,
+    "name": "AFC Rushden & Diamonds"
+  },
+  "1894": {
+    "id": 1894,
+    "name": "Braintree Town"
+  },
+  "4693": {
+    "id": 4693,
+    "name": "Truro City"
+  },
+  "7173": {
+    "id": 7173,
+    "name": "Cirencester Town"
+  },
+  "5635": {
+    "id": 5635,
+    "name": "Worksop Town FC"
+  },
+  "4037": {
+    "id": 4037,
+    "name": "FC United of Manchester"
+  },
+  "4672": {
+    "id": 4672,
+    "name": "Brentwood Town"
+  },
+  "2525": {
+    "id": 2525,
+    "name": "Dagenham & Redbridge"
+  },
+  "3483": {
+    "id": 3483,
+    "name": "Dorking Wanderers"
+  },
+  "1895": {
+    "id": 1895,
+    "name": "Chatham Town"
+  },
+  "7186": {
+    "id": 7186,
+    "name": "Trafford FC"
+  },
+  "2915": {
+    "id": 2915,
+    "name": "Atherton Collieries"
+  },
+  "6708": {
+    "id": 6708,
+    "name": "Leatherhead"
+  },
+  "7430": {
+    "id": 7430,
+    "name": "Hanworth Villa"
+  },
+  "3243": {
+    "id": 3243,
+    "name": "Sheppey United"
+  },
+  "3375": {
+    "id": 3375,
+    "name": "Chertsey Town"
+  },
+  "2529": {
+    "id": 2529,
+    "name": "Leiston"
+  },
+  "8529": {
+    "id": 8529,
+    "name": "Coventry United"
+  },
+  "4059": {
+    "id": 4059,
+    "name": "Stafford Rangers"
+  },
+  "4942": {
+    "id": 4942,
+    "name": "Halesowen Town"
+  },
+  "5852": {
+    "id": 5852,
+    "name": "Weymouth FC"
+  },
+  "8657": {
+    "id": 8657,
+    "name": "SE Døns FC"
+  },
+  "7535": {
+    "id": 7535,
+    "name": "Redditch United"
+  },
+  "2777": {
+    "id": 2777,
+    "name": "Berkhamsted Town"
+  },
+  "4121": {
+    "id": 4121,
+    "name": "Cambridge City"
+  },
+  "5853": {
+    "id": 5853,
+    "name": "Alvechurch FC"
+  },
+  "8552": {
+    "id": 8552,
+    "name": "Tadley Calleva FC"
+  },
+  "4195": {
+    "id": 4195,
+    "name": "Dartford"
+  },
+  "4095": {
+    "id": 4095,
+    "name": "Guiseley"
+  },
+  "5025": {
+    "id": 5025,
+    "name": "Bradford Park Avenue"
+  },
+  "8550": {
+    "id": 8550,
+    "name": "Mulbarton Wanderers"
+  },
+  "3314": {
+    "id": 3314,
+    "name": "Gloucester City"
+  },
+  "8489": {
+    "id": 8489,
+    "name": "Barton Town"
+  },
+  "4012": {
+    "id": 4012,
+    "name": "Chorley FC"
+  },
+  "7167": {
+    "id": 7167,
+    "name": "Bury Town FC"
+  },
+  "4694": {
+    "id": 4694,
+    "name": "Spalding United"
+  },
+  "3818": {
+    "id": 3818,
+    "name": "Salisbury"
+  },
+  "6430": {
+    "id": 6430,
+    "name": "Dulwich Hamlet"
+  },
+  "4747": {
+    "id": 4747,
+    "name": "Bury FC"
+  },
+  "2534": {
+    "id": 2534,
+    "name": "Bromsgrove Sporting"
+  },
+  "4104": {
+    "id": 4104,
+    "name": "Plymouth Parkway"
+  },
+  "4157": {
+    "id": 4157,
+    "name": "Horsham FC"
+  },
+  "4921": {
+    "id": 4921,
+    "name": "Hanwell Town"
+  },
+  "2781": {
+    "id": 2781,
+    "name": "Dover Athletic"
+  },
+  "1891": {
+    "id": 1891,
+    "name": "Ebbsfleet United"
+  },
+  "4235": {
+    "id": 4235,
+    "name": "Sholing FC"
+  },
+  "3547": {
+    "id": 3547,
+    "name": "Marine AFC"
+  },
+  "4698": {
+    "id": 4698,
+    "name": "Warrington Town FC"
+  },
+  "5397": {
+    "id": 5397,
+    "name": "Chesham United"
+  },
+  "4060": {
+    "id": 4060,
+    "name": "Real Bedford"
+  },
+  "4737": {
+    "id": 4737,
+    "name": "Kettering Town"
+  },
+  "6912": {
+    "id": 6912,
+    "name": "Worcester City"
+  },
+  "2522": {
+    "id": 2522,
+    "name": "Harborough Town FC"
+  },
+  "1887": {
+    "id": 1887,
+    "name": "St Albans City"
+  },
+  "4032": {
+    "id": 4032,
+    "name": "Oxford City"
+  },
+  "4154": {
+    "id": 4154,
+    "name": "Enfield Town"
+  },
+  "4035": {
+    "id": 4035,
+    "name": "Tonbridge Angels"
+  },
+  "2773": {
+    "id": 2773,
+    "name": "Torquay United"
+  },
+  "1886": {
+    "id": 1886,
+    "name": "Spennymoor Town"
+  },
+  "1888": {
+    "id": 1888,
+    "name": "Chester FC"
+  },
+  "1870": {
+    "id": 1870,
+    "name": "Brackley Town"
+  },
+  "1876": {
+    "id": 1876,
+    "name": "Chelmsford City"
+  },
+  "1867": {
+    "id": 1867,
+    "name": "Macclesfield FC"
+  },
+  "4732": {
+    "id": 4732,
+    "name": "Scarborough Athletic"
+  },
+  "1877": {
+    "id": 1877,
+    "name": "Buxton FC"
+  },
+  "1871": {
+    "id": 1871,
+    "name": "South Shields"
+  },
+  "4756": {
+    "id": 4756,
+    "name": "Morecambe"
+  },
+  "4677": {
+    "id": 4677,
+    "name": "Darlington"
+  },
+  "1255": {
+    "id": 1255,
+    "name": "Yeovil Town"
+  },
+  "3876": {
+    "id": 3876,
+    "name": "Boston United"
+  },
+  "1885": {
+    "id": 1885,
+    "name": "Southend United"
+  },
+  "4103": {
+    "id": 4103,
+    "name": "AFC Fylde"
+  },
+  "4744": {
+    "id": 4744,
+    "name": "Solihull Moors"
+  },
+  "1889": {
+    "id": 1889,
+    "name": "FC Halifax Town"
+  },
+  "1252": {
+    "id": 1252,
+    "name": "Scunthorpe United"
+  },
+  "1893": {
+    "id": 1893,
+    "name": "Forest Green Rovers"
+  },
+  "5632": {
+    "id": 5632,
+    "name": "Kidderminster Harriers"
+  },
+  "1879": {
+    "id": 1879,
+    "name": "Sutton United"
+  },
+  "2778": {
+    "id": 2778,
+    "name": "Hartlepool United"
+  },
+  "1875": {
+    "id": 1875,
+    "name": "Tamworth"
+  },
+  "1431": {
+    "id": 1431,
+    "name": "Harrogate Town"
+  },
+  "4722": {
+    "id": 4722,
+    "name": "Hornchurch"
+  },
+  "1881": {
+    "id": 1881,
+    "name": "Gateshead"
+  },
+  "5399": {
+    "id": 5399,
+    "name": "Worthing FC"
+  },
+  "1872": {
+    "id": 1872,
+    "name": "Eastleigh"
+  },
+  "4058": {
+    "id": 4058,
+    "name": "Woking"
+  },
+  "1868": {
+    "id": 1868,
+    "name": "Boreham Wood"
+  },
+  "1896": {
+    "id": 1896,
+    "name": "Altrincham FC"
+  },
+  "1428": {
+    "id": 1428,
+    "name": "Barrow AFC"
+  },
+  "1878": {
+    "id": 1878,
+    "name": "Wealdstone"
+  },
+  "1883": {
+    "id": 1883,
+    "name": "Aldershot Town"
+  },
+  "1882": {
+    "id": 1882,
+    "name": "Carlisle United"
+  },
+  "1441": {
+    "id": 1441,
+    "name": "Walsall"
+  },
+  "1447": {
+    "id": 1447,
+    "name": "Crawley Town"
+  },
+  "1436": {
+    "id": 1436,
+    "name": "Salford City"
+  },
+  "1444": {
+    "id": 1444,
+    "name": "Fleetwood Town"
+  },
+  "3702": {
+    "id": 3702,
+    "name": "Rochdale"
+  },
+  "1440": {
+    "id": 1440,
+    "name": "Swindon Town"
+  },
+  "1442": {
+    "id": 1442,
+    "name": "Northampton Town"
+  },
+  "1446": {
+    "id": 1446,
+    "name": "Oldham Athletic"
+  },
+  "1418": {
+    "id": 1418,
+    "name": "Grimsby Town"
+  },
+  "1430": {
+    "id": 1430,
+    "name": "Shrewsbury Town"
+  },
+  "1433": {
+    "id": 1433,
+    "name": "Gillingham"
+  },
+  "1429": {
+    "id": 1429,
+    "name": "Newport County"
+  },
+  "1443": {
+    "id": 1443,
+    "name": "Exeter City"
+  },
+  "1425": {
+    "id": 1425,
+    "name": "Rotherham United"
+  },
+  "1448": {
+    "id": 1448,
+    "name": "Crewe Alexandra"
+  },
+  "1432": {
+    "id": 1432,
+    "name": "Bristol Rovers"
+  },
+  "1438": {
+    "id": 1438,
+    "name": "Colchester United"
+  },
+  "1417": {
+    "id": 1417,
+    "name": "Port Vale"
+  },
+  "1445": {
+    "id": 1445,
+    "name": "Barnet"
+  },
+  "1892": {
+    "id": 1892,
+    "name": "York City"
+  },
+  "1422": {
+    "id": 1422,
+    "name": "Accrington Stanley"
+  },
+  "1426": {
+    "id": 1426,
+    "name": "Cheltenham Town"
+  },
+  "1245": {
+    "id": 1245,
+    "name": "Wigan Athletic"
+  },
+  "1427": {
+    "id": 1427,
+    "name": "Mansfield Town"
+  },
+  "222": {
+    "id": 222,
+    "name": "Sheffield Wednesday"
+  },
+  "1413": {
+    "id": 1413,
+    "name": "Cambridge United"
+  },
+  "1248": {
+    "id": 1248,
+    "name": "Reading"
+  },
+  "1416": {
+    "id": 1416,
+    "name": "Bradford City"
+  },
+  "1254": {
+    "id": 1254,
+    "name": "Peterborough United"
+  },
+  "1437": {
+    "id": 1437,
+    "name": "Notts County"
+  },
+  "211": {
+    "id": 211,
+    "name": "Oxford United"
+  },
+  "1423": {
+    "id": 1423,
+    "name": "Stockport County"
+  },
+  "1251": {
+    "id": 1251,
+    "name": "Luton Town"
+  },
+  "1253": {
+    "id": 1253,
+    "name": "Doncaster Rovers"
+  },
+  "1439": {
+    "id": 1439,
+    "name": "Leyton Orient"
+  },
+  "1258": {
+    "id": 1258,
+    "name": "Plymouth Argyle"
+  },
+  "1420": {
+    "id": 1420,
+    "name": "Burton Albion"
+  },
+  "1250": {
+    "id": 1250,
+    "name": "Huddersfield Town"
+  },
+  "1424": {
+    "id": 1424,
+    "name": "Bromley"
+  },
+  "1257": {
+    "id": 1257,
+    "name": "Wycombe Wanderers"
+  },
+  "1246": {
+    "id": 1246,
+    "name": "Blackpool"
+  },
+  "221": {
+    "id": 221,
+    "name": "Leicester City"
+  },
+  "1414": {
+    "id": 1414,
+    "name": "Barnsley"
+  },
+  "1256": {
+    "id": 1256,
+    "name": "Milton Keynes Dons"
+  },
+  "1421": {
+    "id": 1421,
+    "name": "AFC Wimbledon"
+  },
+  "1435": {
+    "id": 1435,
+    "name": "Stevenage"
+  },
+  "915": {
+    "id": 915,
+    "name": "Real Club Deportivo de A Coruña"
+  },
+  "920": {
+    "id": 920,
+    "name": "Club Atlético de Madrid"
+  },
+  "860": {
+    "id": 860,
+    "name": "Avaí"
+  },
+  "169": {
+    "id": 169,
+    "name": "Ceará"
+  },
+  "721": {
+    "id": 721,
+    "name": "Finland"
+  },
+  "724": {
+    "id": 724,
+    "name": "Albania"
+  },
+  "6301": {
+    "id": 6301,
+    "name": "Fomboni FC"
+  },
+  "8238": {
+    "id": 8238,
+    "name": "FC 15 de Agosto de Akonibe"
+  },
+  "1395": {
+    "id": 1395,
+    "name": "Albacete Balompié"
+  },
+  "1397": {
+    "id": 1397,
+    "name": "Eibar"
+  },
+  "1434": {
+    "id": 1434,
+    "name": "Chesterfield"
+  },
+  "1419": {
+    "id": 1419,
+    "name": "Tranmere Rovers"
+  },
+  "442": {
+    "id": 442,
+    "name": "Halmstads BK"
+  },
+  "445": {
+    "id": 445,
+    "name": "Östers IF"
+  },
+  "919": {
+    "id": 919,
+    "name": "RCD Espanyol de Barcelona"
+  },
+  "3884": {
+    "id": 3884,
+    "name": "Deportivo Alavés"
+  },
+  "689": {
+    "id": 689,
+    "name": "El Salvador"
+  },
+  "662": {
+    "id": 662,
+    "name": "Jamaica"
+  },
+  "3939": {
+    "id": 3939,
+    "name": "Seattle Reign FC"
+  },
+  "3934": {
+    "id": 3934,
+    "name": "North Carolina Courage"
+  },
+  "3733": {
+    "id": 3733,
+    "name": "Deportivo Cali"
+  },
+  "4783": {
+    "id": 4783,
+    "name": "Alianza Valledupar FC"
+  },
+  "152": {
+    "id": 152,
+    "name": "Fortaleza"
+  },
+  "928": {
+    "id": 928,
+    "name": "Náutico"
+  },
+  "774": {
+    "id": 774,
+    "name": "Independiente Rivadavia"
+  },
+  "4998": {
+    "id": 4998,
+    "name": "Gimnasia y Esgrima"
+  },
+  "690": {
+    "id": 690,
+    "name": "Bonaire"
+  },
+  "661": {
+    "id": 661,
+    "name": "Grenada"
+  },
+  "681": {
+    "id": 681,
+    "name": "Barbados"
+  },
+  "668": {
+    "id": 668,
+    "name": "Bermuda"
+  },
+  "682": {
+    "id": 682,
+    "name": "Martinique"
+  },
+  "722": {
+    "id": 722,
+    "name": "Honduras"
+  },
+  "3938": {
+    "id": 3938,
+    "name": "Orlando Pride"
+  },
+  "3936": {
+    "id": 3936,
+    "name": "San Diego Wave FC"
+  },
   "156": {
     "id": 156,
     "name": "Juventude"
@@ -423,53 +1511,13 @@
     "id": 1293,
     "name": "SC Paderborn 07"
   },
-  "2223": {
-    "id": 2223,
-    "name": "Rhode Island FC"
-  },
-  "2242": {
-    "id": 2242,
-    "name": "Indy Eleven"
-  },
-  "2244": {
-    "id": 2244,
-    "name": "Miami FC"
-  },
   "2227": {
     "id": 2227,
     "name": "SC Jacksonville"
   },
-  "2241": {
-    "id": 2241,
-    "name": "Brooklyn FC"
-  },
-  "2243": {
-    "id": 2243,
-    "name": "Detroit City FC"
-  },
-  "489": {
-    "id": 489,
-    "name": "Argentina"
-  },
   "663": {
     "id": 663,
     "name": "Bolivia"
-  },
-  "1875": {
-    "id": 1875,
-    "name": "Tamworth"
-  },
-  "1879": {
-    "id": 1879,
-    "name": "Sutton United"
-  },
-  "1872": {
-    "id": 1872,
-    "name": "Eastleigh"
-  },
-  "1885": {
-    "id": 1885,
-    "name": "Southend United"
   },
   "573": {
     "id": 573,
@@ -487,17 +1535,9 @@
     "id": 577,
     "name": "Shooting Stars"
   },
-  "574": {
-    "id": 574,
-    "name": "Warri Wolves FC"
-  },
   "571": {
     "id": 571,
     "name": "Enugu Rangers International"
-  },
-  "5649": {
-    "id": 5649,
-    "name": "Sporting Lagos FC"
   },
   "576": {
     "id": 576,
@@ -507,17 +1547,9 @@
     "id": 707,
     "name": "Belize"
   },
-  "691": {
-    "id": 691,
-    "name": "Saint Vincent and the Grenadines"
-  },
   "786": {
     "id": 786,
     "name": "Independiente Medellín"
-  },
-  "736": {
-    "id": 736,
-    "name": "Millonarios"
   },
   "2231": {
     "id": 2231,
@@ -539,21 +1571,9 @@
     "id": 2058,
     "name": "Aruba"
   },
-  "927": {
-    "id": 927,
-    "name": "Botafogo-SP"
-  },
-  "844": {
-    "id": 844,
-    "name": "Ponte Preta"
-  },
   "2309": {
     "id": 2309,
     "name": "French Guiana"
-  },
-  "680": {
-    "id": 680,
-    "name": "Sint Maarten"
   },
   "4780": {
     "id": 4780,
@@ -567,18 +1587,6 @@
     "id": 451,
     "name": "Mexico"
   },
-  "713": {
-    "id": 713,
-    "name": "Peru"
-  },
-  "4784": {
-    "id": 4784,
-    "name": "Boyacá Chicó FC"
-  },
-  "4783": {
-    "id": 4783,
-    "name": "Alianza Valledupar FC"
-  },
   "684": {
     "id": 684,
     "name": "Bahamas"
@@ -587,142 +1595,6 @@
     "id": 2296,
     "name": "Turks and Caicos Islands"
   },
-  "1255": {
-    "id": 1255,
-    "name": "Yeovil Town"
-  },
-  "5399": {
-    "id": 5399,
-    "name": "Worthing FC"
-  },
-  "4058": {
-    "id": 4058,
-    "name": "Woking"
-  },
-  "4744": {
-    "id": 4744,
-    "name": "Solihull Moors"
-  },
-  "4722": {
-    "id": 4722,
-    "name": "Hornchurch"
-  },
-  "1883": {
-    "id": 1883,
-    "name": "Aldershot Town"
-  },
-  "2778": {
-    "id": 2778,
-    "name": "Hartlepool United"
-  },
-  "1431": {
-    "id": 1431,
-    "name": "Harrogate Town"
-  },
-  "1881": {
-    "id": 1881,
-    "name": "Gateshead"
-  },
-  "1896": {
-    "id": 1896,
-    "name": "Altrincham FC"
-  },
-  "1893": {
-    "id": 1893,
-    "name": "Forest Green Rovers"
-  },
-  "1878": {
-    "id": 1878,
-    "name": "Wealdstone"
-  },
-  "1889": {
-    "id": 1889,
-    "name": "FC Halifax Town"
-  },
-  "3876": {
-    "id": 3876,
-    "name": "Boston United"
-  },
-  "1428": {
-    "id": 1428,
-    "name": "Barrow AFC"
-  },
-  "1252": {
-    "id": 1252,
-    "name": "Scunthorpe United"
-  },
-  "4103": {
-    "id": 4103,
-    "name": "AFC Fylde"
-  },
-  "1882": {
-    "id": 1882,
-    "name": "Carlisle United"
-  },
-  "2091": {
-    "id": 2091,
-    "name": "Luxembourg"
-  },
-  "665": {
-    "id": 665,
-    "name": "Iceland"
-  },
-  "2090": {
-    "id": 2090,
-    "name": "Bulgaria"
-  },
-  "2208": {
-    "id": 2208,
-    "name": "Estonia"
-  },
-  "710": {
-    "id": 710,
-    "name": "San Marino"
-  },
-  "724": {
-    "id": 724,
-    "name": "Albania"
-  },
-  "475": {
-    "id": 475,
-    "name": "Spain"
-  },
-  "494": {
-    "id": 494,
-    "name": "Croatia"
-  },
-  "930": {
-    "id": 930,
-    "name": "Czechia"
-  },
-  "493": {
-    "id": 493,
-    "name": "England"
-  },
-  "715": {
-    "id": 715,
-    "name": "Slovenia"
-  },
-  "730": {
-    "id": 730,
-    "name": "North Macedonia"
-  },
-  "466": {
-    "id": 466,
-    "name": "Scotland"
-  },
-  "462": {
-    "id": 462,
-    "name": "Switzerland"
-  },
-  "1868": {
-    "id": 1868,
-    "name": "Boreham Wood"
-  },
-  "5632": {
-    "id": 5632,
-    "name": "Kidderminster Harriers"
-  },
   "697": {
     "id": 697,
     "name": "Russia"
@@ -730,14 +1602,6 @@
   "481": {
     "id": 481,
     "name": "Iran"
-  },
-  "721": {
-    "id": 721,
-    "name": "Finland"
-  },
-  "677": {
-    "id": 677,
-    "name": "Belarus"
   },
   "420": {
     "id": 420,
@@ -750,50 +1614,6 @@
   "459": {
     "id": 459,
     "name": "Australia"
-  },
-  "463": {
-    "id": 463,
-    "name": "Brazil"
-  },
-  "689": {
-    "id": 689,
-    "name": "El Salvador"
-  },
-  "661": {
-    "id": 661,
-    "name": "Grenada"
-  },
-  "668": {
-    "id": 668,
-    "name": "Bermuda"
-  },
-  "662": {
-    "id": 662,
-    "name": "Jamaica"
-  },
-  "722": {
-    "id": 722,
-    "name": "Honduras"
-  },
-  "838": {
-    "id": 838,
-    "name": "América Mineiro"
-  },
-  "682": {
-    "id": 682,
-    "name": "Martinique"
-  },
-  "690": {
-    "id": 690,
-    "name": "Bonaire"
-  },
-  "681": {
-    "id": 681,
-    "name": "Barbados"
-  },
-  "1268": {
-    "id": 1268,
-    "name": "Leganés"
   },
   "1398": {
     "id": 1398,
@@ -835,14 +1655,6 @@
     "id": 307,
     "name": "Club América"
   },
-  "3733": {
-    "id": 3733,
-    "name": "Deportivo Cali"
-  },
-  "4786": {
-    "id": 4786,
-    "name": "Rionegro Águilas Doradas"
-  },
   "318": {
     "id": 318,
     "name": "Club León"
@@ -854,18 +1666,6 @@
   "4782": {
     "id": 4782,
     "name": "Fortaleza FC"
-  },
-  "781": {
-    "id": 781,
-    "name": "Deportes Tolima"
-  },
-  "3931": {
-    "id": 3931,
-    "name": "Utah Royals FC"
-  },
-  "3934": {
-    "id": 3934,
-    "name": "North Carolina Courage"
   },
   "295": {
     "id": 295,
@@ -879,22 +1679,6 @@
     "id": 458,
     "name": "Paraguay"
   },
-  "152": {
-    "id": 152,
-    "name": "Fortaleza"
-  },
-  "4785": {
-    "id": 4785,
-    "name": "Jaguares de Córdoba"
-  },
-  "3932": {
-    "id": 3932,
-    "name": "Bay FC"
-  },
-  "3938": {
-    "id": 3938,
-    "name": "Orlando Pride"
-  },
   "874": {
     "id": 874,
     "name": "Uberlândia EC"
@@ -903,29 +1687,9 @@
     "id": 151,
     "name": "Mirassol"
   },
-  "2065": {
-    "id": 2065,
-    "name": "Kawkab Athletic Club Marrakech"
-  },
-  "2060": {
-    "id": 2060,
-    "name": "Hassania d'Agadir"
-  },
   "1267": {
     "id": 1267,
     "name": "Sporting Gijón"
-  },
-  "863": {
-    "id": 863,
-    "name": "Cuiabá"
-  },
-  "2071": {
-    "id": 2071,
-    "name": "MAS de Fès"
-  },
-  "2072": {
-    "id": 2072,
-    "name": "Renaissance Zemamra"
   },
   "313": {
     "id": 313,
@@ -943,17 +1707,9 @@
     "id": 2214,
     "name": "Syria"
   },
-  "1397": {
-    "id": 1397,
-    "name": "Eibar"
-  },
   "1266": {
     "id": 1266,
     "name": "UD Las Palmas"
-  },
-  "1401": {
-    "id": 1401,
-    "name": "Burgos Club de Fútbol"
   },
   "1501": {
     "id": 1501,
@@ -974,14 +1730,6 @@
   "8306": {
     "id": 8306,
     "name": "Rebordosa AC"
-  },
-  "915": {
-    "id": 915,
-    "name": "Real Club Deportivo de A Coruña"
-  },
-  "919": {
-    "id": 919,
-    "name": "RCD Espanyol de Barcelona"
   },
   "701": {
     "id": 701,
@@ -1015,10 +1763,6 @@
     "id": 8255,
     "name": "Inter Lagos FC"
   },
-  "5648": {
-    "id": 5648,
-    "name": "Doma United FC"
-  },
   "582": {
     "id": 582,
     "name": "Nasarawa United"
@@ -1035,10 +1779,6 @@
     "id": 570,
     "name": "Bendel Insurance FC"
   },
-  "566": {
-    "id": 566,
-    "name": "Kano Pillars"
-  },
   "8392": {
     "id": 8392,
     "name": "SC Mineiro Aljustrelense"
@@ -1050,10 +1790,6 @@
   "43": {
     "id": 43,
     "name": "Mallorca"
-  },
-  "1264": {
-    "id": 1264,
-    "name": "Almería"
   },
   "3898": {
     "id": 3898,
@@ -1103,17 +1839,9 @@
     "id": 8721,
     "name": "AD Fazendense"
   },
-  "922": {
-    "id": 922,
-    "name": "Sevilla FC"
-  },
   "921": {
     "id": 921,
     "name": "SD Eibar"
-  },
-  "860": {
-    "id": 860,
-    "name": "Avaí"
   },
   "413": {
     "id": 413,
@@ -1203,14 +1931,6 @@
     "id": 912,
     "name": "Costa Adeje Tenerife"
   },
-  "911": {
-    "id": 911,
-    "name": "Athletic Club"
-  },
-  "920": {
-    "id": 920,
-    "name": "Club Atlético de Madrid"
-  },
   "2305": {
     "id": 2305,
     "name": "Cook Islands"
@@ -1275,10 +1995,6 @@
     "id": 2235,
     "name": "Monterey Bay FC"
   },
-  "2221": {
-    "id": 2221,
-    "name": "Lexington SC"
-  },
   "279": {
     "id": 279,
     "name": "Real Salt Lake"
@@ -1298,10 +2014,6 @@
   "3937": {
     "id": 3937,
     "name": "Houston Dash"
-  },
-  "2230": {
-    "id": 2230,
-    "name": "FC Tampa Bay Rowdies"
   },
   "288": {
     "id": 288,
@@ -1391,17 +2103,9 @@
     "id": 309,
     "name": "Querétaro FC"
   },
-  "455": {
-    "id": 455,
-    "name": "Canada"
-  },
   "2234": {
     "id": 2234,
     "name": "Colorado Springs Switchbacks FC"
-  },
-  "2225": {
-    "id": 2225,
-    "name": "Charleston Battery"
   },
   "314": {
     "id": 314,
@@ -1419,25 +2123,9 @@
     "id": 3940,
     "name": "Angel City FC"
   },
-  "819": {
-    "id": 819,
-    "name": "Atlético Goianiense"
-  },
   "373": {
     "id": 373,
     "name": "Chapecoense"
-  },
-  "2064": {
-    "id": 2064,
-    "name": "Wydad Casablanca"
-  },
-  "169": {
-    "id": 169,
-    "name": "Ceará"
-  },
-  "928": {
-    "id": 928,
-    "name": "Náutico"
   },
   "8828": {
     "id": 8828,
@@ -1446,14 +2134,6 @@
   "1498": {
     "id": 1498,
     "name": "Atletico Melilla CF"
-  },
-  "2069": {
-    "id": 2069,
-    "name": "Difaâ Hassani El-Jadidi"
-  },
-  "2070": {
-    "id": 2070,
-    "name": "CODM Meknès"
   },
   "385": {
     "id": 385,
@@ -1471,69 +2151,17 @@
     "id": 7257,
     "name": "Noja SD"
   },
-  "1446": {
-    "id": 1446,
-    "name": "Oldham Athletic"
-  },
-  "1436": {
-    "id": 1436,
-    "name": "Salford City"
-  },
-  "3930": {
-    "id": 3930,
-    "name": "Kansas City Current"
-  },
   "3933": {
     "id": 3933,
     "name": "Denver Summit FC"
-  },
-  "923": {
-    "id": 923,
-    "name": "Madrid CFF"
-  },
-  "3884": {
-    "id": 3884,
-    "name": "Deportivo Alavés"
   },
   "3883": {
     "id": 3883,
     "name": "Celta Fortuna"
   },
-  "1467": {
-    "id": 1467,
-    "name": "CE Sabadell"
-  },
   "1388": {
     "id": 1388,
     "name": "CD Tenerife"
-  },
-  "1270": {
-    "id": 1270,
-    "name": "Cádiz"
-  },
-  "8807": {
-    "id": 8807,
-    "name": "UB Lebrijana"
-  },
-  "5243": {
-    "id": 5243,
-    "name": "CD 6 de Junio"
-  },
-  "1526": {
-    "id": 1526,
-    "name": "Atlético Calatayud"
-  },
-  "5244": {
-    "id": 5244,
-    "name": "CD Baztan"
-  },
-  "6158": {
-    "id": 6158,
-    "name": "CD Anaitasuna FT"
-  },
-  "8806": {
-    "id": 8806,
-    "name": "CD Tedeon"
   },
   "434": {
     "id": 434,
@@ -1558,10 +2186,6 @@
   "1261": {
     "id": 1261,
     "name": "Granada"
-  },
-  "1460": {
-    "id": 1460,
-    "name": "FC Andorra"
   },
   "3272": {
     "id": 3272,
@@ -1603,182 +2227,6 @@
     "id": 3680,
     "name": "Bohemians Praha 1905"
   },
-  "1892": {
-    "id": 1892,
-    "name": "York City"
-  },
-  "1433": {
-    "id": 1433,
-    "name": "Gillingham"
-  },
-  "1419": {
-    "id": 1419,
-    "name": "Tranmere Rovers"
-  },
-  "1441": {
-    "id": 1441,
-    "name": "Walsall"
-  },
-  "1440": {
-    "id": 1440,
-    "name": "Swindon Town"
-  },
-  "1422": {
-    "id": 1422,
-    "name": "Accrington Stanley"
-  },
-  "1430": {
-    "id": 1430,
-    "name": "Shrewsbury Town"
-  },
-  "1438": {
-    "id": 1438,
-    "name": "Colchester United"
-  },
-  "1425": {
-    "id": 1425,
-    "name": "Rotherham United"
-  },
-  "1448": {
-    "id": 1448,
-    "name": "Crewe Alexandra"
-  },
-  "1417": {
-    "id": 1417,
-    "name": "Port Vale"
-  },
-  "1442": {
-    "id": 1442,
-    "name": "Northampton Town"
-  },
-  "1429": {
-    "id": 1429,
-    "name": "Newport County"
-  },
-  "1418": {
-    "id": 1418,
-    "name": "Grimsby Town"
-  },
-  "1444": {
-    "id": 1444,
-    "name": "Fleetwood Town"
-  },
-  "3702": {
-    "id": 3702,
-    "name": "Rochdale"
-  },
-  "1426": {
-    "id": 1426,
-    "name": "Cheltenham Town"
-  },
-  "1434": {
-    "id": 1434,
-    "name": "Chesterfield"
-  },
-  "1432": {
-    "id": 1432,
-    "name": "Bristol Rovers"
-  },
-  "1443": {
-    "id": 1443,
-    "name": "Exeter City"
-  },
-  "1257": {
-    "id": 1257,
-    "name": "Wycombe Wanderers"
-  },
-  "1248": {
-    "id": 1248,
-    "name": "Reading"
-  },
-  "1423": {
-    "id": 1423,
-    "name": "Stockport County"
-  },
-  "1254": {
-    "id": 1254,
-    "name": "Peterborough United"
-  },
-  "1435": {
-    "id": 1435,
-    "name": "Stevenage"
-  },
-  "222": {
-    "id": 222,
-    "name": "Sheffield Wednesday"
-  },
-  "1258": {
-    "id": 1258,
-    "name": "Plymouth Argyle"
-  },
-  "1420": {
-    "id": 1420,
-    "name": "Burton Albion"
-  },
-  "1437": {
-    "id": 1437,
-    "name": "Notts County"
-  },
-  "1246": {
-    "id": 1246,
-    "name": "Blackpool"
-  },
-  "1256": {
-    "id": 1256,
-    "name": "Milton Keynes Dons"
-  },
-  "1424": {
-    "id": 1424,
-    "name": "Bromley"
-  },
-  "1427": {
-    "id": 1427,
-    "name": "Mansfield Town"
-  },
-  "1439": {
-    "id": 1439,
-    "name": "Leyton Orient"
-  },
-  "221": {
-    "id": 221,
-    "name": "Leicester City"
-  },
-  "1245": {
-    "id": 1245,
-    "name": "Wigan Athletic"
-  },
-  "1250": {
-    "id": 1250,
-    "name": "Huddersfield Town"
-  },
-  "1251": {
-    "id": 1251,
-    "name": "Luton Town"
-  },
-  "1253": {
-    "id": 1253,
-    "name": "Doncaster Rovers"
-  },
-  "211": {
-    "id": 211,
-    "name": "Oxford United"
-  },
-  "1413": {
-    "id": 1413,
-    "name": "Cambridge United"
-  },
-  "1421": {
-    "id": 1421,
-    "name": "AFC Wimbledon"
-  },
-  "1416": {
-    "id": 1416,
-    "name": "Bradford City"
-  },
-  "1414": {
-    "id": 1414,
-    "name": "Barnsley"
-  },
   "8834": {
     "id": 8834,
     "name": "Dalin Myślenice"
@@ -1810,14 +2258,6 @@
   "1829": {
     "id": 1829,
     "name": "Real Sociedad B"
-  },
-  "1447": {
-    "id": 1447,
-    "name": "Crawley Town"
-  },
-  "1445": {
-    "id": 1445,
-    "name": "Barnet"
   },
   "2876": {
     "id": 2876,
@@ -1851,10 +2291,6 @@
     "id": 926,
     "name": "Real Madrid"
   },
-  "916": {
-    "id": 916,
-    "name": "FC Badalona"
-  },
   "914": {
     "id": 914,
     "name": "Granada Club de Fútbol"
@@ -1887,14 +2323,6 @@
     "id": 317,
     "name": "CF Monterrey"
   },
-  "2233": {
-    "id": 2233,
-    "name": "El Paso Locomotive FC"
-  },
-  "3939": {
-    "id": 3939,
-    "name": "Seattle Reign FC"
-  },
   "3928": {
     "id": 3928,
     "name": "Boston Legacy FC"
@@ -1906,97 +2334,5 @@
   "3941": {
     "id": 3941,
     "name": "Chicago Stars FC"
-  },
-  "2224": {
-    "id": 2224,
-    "name": "Loudoun United FC"
-  },
-  "826": {
-    "id": 826,
-    "name": "Vila Nova FC"
-  },
-  "3419": {
-    "id": 3419,
-    "name": "Deportivo Pasto"
-  },
-  "4797": {
-    "id": 4797,
-    "name": "Unión Magdalena"
-  },
-  "2228": {
-    "id": 2228,
-    "name": "Hartford Athletic"
-  },
-  "2222": {
-    "id": 2222,
-    "name": "Louisville City FC"
-  },
-  "3935": {
-    "id": 3935,
-    "name": "Racing Louisville"
-  },
-  "3936": {
-    "id": 3936,
-    "name": "San Diego Wave FC"
-  },
-  "2350": {
-    "id": 2350,
-    "name": "Chaves"
-  },
-  "36": {
-    "id": 36,
-    "name": "Vitória SC"
-  },
-  "39": {
-    "id": 39,
-    "name": "Girona FC"
-  },
-  "1395": {
-    "id": 1395,
-    "name": "Albacete Balompié"
-  },
-  "3517": {
-    "id": 3517,
-    "name": "Penafiel"
-  },
-  "1260": {
-    "id": 1260,
-    "name": "Deportivo de A Coruña"
-  },
-  "8827": {
-    "id": 8827,
-    "name": "Real Maldives FC"
-  },
-  "8245": {
-    "id": 8245,
-    "name": "Foresters FC"
-  },
-  "84": {
-    "id": 84,
-    "name": "VfB Stuttgart"
-  },
-  "81": {
-    "id": 81,
-    "name": "1. FC Heidenheim"
-  },
-  "8832": {
-    "id": 8832,
-    "name": "FK Gornji Rahić"
-  },
-  "3683": {
-    "id": 3683,
-    "name": "FK Sarajevo"
-  },
-  "2056": {
-    "id": 2056,
-    "name": "India"
-  },
-  "246": {
-    "id": 246,
-    "name": "FC Zürich"
-  },
-  "1366": {
-    "id": 1366,
-    "name": "Neuchâtel Xamax"
   }
 }
