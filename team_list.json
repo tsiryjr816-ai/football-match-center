@@ -1511,6 +1511,14 @@
     "id": 2245,
     "name": "New Mexico United"
   },
+  "281": {
+    "id": 281,
+    "name": "New York Red Bulls"
+  },
+  "274": {
+    "id": 274,
+    "name": "St.Louis City"
+  },
   "282": {
     "id": 282,
     "name": "DC United"
@@ -2054,14 +2062,6 @@
   "292": {
     "id": 292,
     "name": "Los Angeles FC"
-  },
-  "281": {
-    "id": 281,
-    "name": "New York Red Bulls"
-  },
-  "274": {
-    "id": 274,
-    "name": "St.Louis City"
   },
   "275": {
     "id": 275,
