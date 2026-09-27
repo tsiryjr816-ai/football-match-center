@@ -8,6 +8,7 @@
       "name": "1A",
       "short_name": "",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -15,6 +16,7 @@
       "name": "1B",
       "short_name": "1B",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -22,6 +24,7 @@
       "name": "1C",
       "short_name": "",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -29,6 +32,7 @@
       "name": "1D",
       "short_name": "",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -36,6 +40,7 @@
       "name": "1E",
       "short_name": "",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -43,6 +48,7 @@
       "name": "1F",
       "short_name": "",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -50,6 +56,7 @@
       "name": "1. FC Bocholt",
       "short_name": "FCB",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -57,6 +64,7 @@
       "name": "1. FC Köln U19",
       "short_name": "COL",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -64,6 +72,7 @@
       "name": "1. FC Magdeburg U19",
       "short_name": "MAG",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -71,6 +80,7 @@
       "name": "1. FC Slovácko B",
       "short_name": "SLO",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -78,6 +88,7 @@
       "name": "1. FC Tatran Prešov U19",
       "short_name": "TPR",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -85,6 +96,7 @@
       "name": "1I",
       "short_name": "",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -92,6 +104,7 @@
       "name": "1J",
       "short_name": "",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -99,6 +112,7 @@
       "name": "1K",
       "short_name": "",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -106,6 +120,7 @@
       "name": "1L",
       "short_name": "",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -113,6 +128,7 @@
       "name": "2A",
       "short_name": "",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -120,6 +136,7 @@
       "name": "2B",
       "short_name": "",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -127,6 +144,7 @@
       "name": "2C",
       "short_name": "",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -134,6 +152,7 @@
       "name": "2D",
       "short_name": "",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -141,6 +160,7 @@
       "name": "2E",
       "short_name": "",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -148,6 +168,7 @@
       "name": "2F",
       "short_name": "",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -155,6 +176,7 @@
       "name": "2I",
       "short_name": "",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -162,6 +184,7 @@
       "name": "2J",
       "short_name": "",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -169,6 +192,7 @@
       "name": "2K",
       "short_name": "",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -176,6 +200,7 @@
       "name": "2L",
       "short_name": "",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -183,6 +208,7 @@
       "name": "3A/3B/3C/3D/3F",
       "short_name": "",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -190,6 +216,7 @@
       "name": "3A/3E/3H/3I/3J",
       "short_name": "",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -197,6 +224,7 @@
       "name": "3B/3E/3F/3I/3J",
       "short_name": "",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -204,6 +232,7 @@
       "name": "3C/3D/3F/3G/3H",
       "short_name": "",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -211,6 +240,7 @@
       "name": "3C/3E/3F/3H/3I",
       "short_name": "",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -218,6 +248,7 @@
       "name": "3D/3E/3I/3J/3L",
       "short_name": "",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -225,6 +256,7 @@
       "name": "3E/3F/3G/3I/3J",
       "short_name": "",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -232,6 +264,7 @@
       "name": "3E/3H/3I/3J/3K",
       "short_name": "",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -239,6 +272,7 @@
       "name": "AaB U19",
       "short_name": "AAB",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -246,6 +280,7 @@
       "name": "Aalesund FK II",
       "short_name": "AA2",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -253,6 +288,7 @@
       "name": "A'ali",
       "short_name": "AAL",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -260,6 +296,7 @@
       "name": "Abahani Limited Dhaka",
       "short_name": "ALD",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -267,6 +304,7 @@
       "name": "ABM Galaxy FC",
       "short_name": "ABM",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -274,6 +312,7 @@
       "name": "Abu Muslim",
       "short_name": "AMU",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -281,6 +320,7 @@
       "name": "Abu Qir Fertilizers SC",
       "short_name": "AQS",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -288,6 +328,7 @@
       "name": "Abu Salim SC",
       "short_name": "ABU",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -295,6 +336,7 @@
       "name": "Academia Quintana",
       "short_name": "AQU",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -302,6 +344,7 @@
       "name": "Academy Eagles",
       "short_name": "AEA",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -309,6 +352,7 @@
       "name": "AC Alta Anaunia",
       "short_name": "",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -316,6 +360,7 @@
       "name": "AC Barracuda",
       "short_name": "ABA",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -323,6 +368,7 @@
       "name": "Accra Great Olympics",
       "short_name": "AGO",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -330,6 +376,7 @@
       "name": "ACD Pinzolo Valrendena",
       "short_name": "Pinzolo Valrendena",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -337,6 +384,7 @@
       "name": "Acireale",
       "short_name": "ACI",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -344,6 +392,7 @@
       "name": "AC Port Of Spain",
       "short_name": "POR",
       "country": "",
+      "country_code": "",
       "venue_id": null
     },
     {
@@ -351,6 +400,7 @@
       "name": "AC Sant'Angelo 1907",
       "short_name": "ASD",
       "country": "",
+      "country_code": "",
       "venue_id": null
     }
   ]
