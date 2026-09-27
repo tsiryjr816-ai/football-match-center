@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T02:59:46.631624+00:00",
+  "updated_at": "2026-09-27T09:05:53.737445+00:00",
   "source": "BSD Football API",
   "date_from": "2026-09-27",
   "date_to": "2026-10-04",
@@ -2358,131 +2358,6 @@
             "home_score": 4,
             "away_team_id": 3419,
             "home_team_id": 4782
-          }
-        ]
-      },
-      "has_xg": false,
-      "previous_leg_event_id": null
-    },
-    {
-      "id": 215270,
-      "league_id": 36,
-      "season_id": 1308,
-      "home_team_id": 914,
-      "home_team": "Granada Club de Fútbol",
-      "away_team_id": 921,
-      "away_team": "SD Eibar",
-      "home_coach_id": 3608,
-      "away_coach_id": 166,
-      "referee_id": null,
-      "venue_id": 695,
-      "event_date": "2026-10-04T19:00:00+00:00",
-      "status": "notstarted",
-      "replaced_by": null,
-      "round_number": 6,
-      "round_name": "",
-      "group_name": null,
-      "stage": "regular-season",
-      "stage_name": "Regular season",
-      "round_label": "Regular season · Matchday 6",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
-      "penalty_shootout": null,
-      "extra_time_score": null,
-      "is_local_derby": false,
-      "is_neutral_ground": false,
-      "travel_distance_km": null,
-      "weather": {
-        "code": null,
-        "description": null,
-        "wind_speed": null,
-        "temperature_c": null
-      },
-      "pitch_condition": null,
-      "attendance": null,
-      "live_websocket": false,
-      "websocket_plus": false,
-      "highlights": [],
-      "head_to_head": {
-        "total_matches": 6,
-        "home_wins": 4,
-        "draws": 1,
-        "away_wins": 1,
-        "home_goals": 10,
-        "away_goals": 3,
-        "avg_total_goals": 2.1666666666666665,
-        "home_win_rate": 0.6666666666666666,
-        "away_win_rate": 0.16666666666666666,
-        "recent_matches": [
-          {
-            "away": "Granada Club de Fútbol",
-            "date": "2026-02-07T11:00:00+00:00",
-            "home": "SD Eibar",
-            "score": "0-2",
-            "event_id": 9758,
-            "away_score": 2,
-            "home_score": 0,
-            "away_team_id": 914,
-            "home_team_id": 921
-          },
-          {
-            "away": "SD Eibar",
-            "date": "2025-09-20T10:00:00+00:00",
-            "home": "Granada Club de Fútbol",
-            "score": "3-1",
-            "event_id": 9638,
-            "away_score": 1,
-            "home_score": 3,
-            "away_team_id": 921,
-            "home_team_id": 914
-          },
-          {
-            "away": "Granada Club de Fútbol",
-            "date": "2025-01-25T17:00:00+00:00",
-            "home": "SD Eibar",
-            "score": "0-0",
-            "event_id": 235796,
-            "away_score": 0,
-            "home_score": 0,
-            "away_team_id": 914,
-            "home_team_id": 921
-          },
-          {
-            "away": "SD Eibar",
-            "date": "2024-09-21T10:00:00+00:00",
-            "home": "Granada Club de Fútbol",
-            "score": "2-0",
-            "event_id": 235683,
-            "away_score": 0,
-            "home_score": 2,
-            "away_team_id": 921,
-            "home_team_id": 914
-          },
-          {
-            "away": "Granada Club de Fútbol",
-            "date": "2024-06-15T10:00:00+00:00",
-            "home": "SD Eibar",
-            "score": "0-2",
-            "event_id": 245493,
-            "away_score": 2,
-            "home_score": 0,
-            "away_team_id": 914,
-            "home_team_id": 921
-          },
-          {
-            "away": "SD Eibar",
-            "date": "2023-09-30T10:00:00+00:00",
-            "home": "Granada Club de Fútbol",
-            "score": "1-2",
-            "event_id": 245273,
-            "away_score": 2,
-            "home_score": 1,
-            "away_team_id": 921,
-            "home_team_id": 914
           }
         ]
       },
@@ -5055,7 +4930,7 @@
       "away_team_id": 3883,
       "away_team": "Celta Fortuna",
       "home_coach_id": 349,
-      "away_coach_id": 4026,
+      "away_coach_id": 3470,
       "referee_id": null,
       "venue_id": 734,
       "event_date": "2026-10-04T14:15:00+00:00",
@@ -5782,6 +5657,131 @@
             "home_score": 1,
             "away_team_id": 2350,
             "home_team_id": 1316
+          }
+        ]
+      },
+      "has_xg": false,
+      "previous_leg_event_id": null
+    },
+    {
+      "id": 215270,
+      "league_id": 36,
+      "season_id": 1308,
+      "home_team_id": 914,
+      "home_team": "Granada Club de Fútbol",
+      "away_team_id": 921,
+      "away_team": "SD Eibar",
+      "home_coach_id": 3608,
+      "away_coach_id": 166,
+      "referee_id": null,
+      "venue_id": 695,
+      "event_date": "2026-10-04T10:00:00+00:00",
+      "status": "notstarted",
+      "replaced_by": null,
+      "round_number": 6,
+      "round_name": "",
+      "group_name": null,
+      "stage": "regular-season",
+      "stage_name": "Regular season",
+      "round_label": "Regular season · Matchday 6",
+      "period": "",
+      "current_minute": null,
+      "home_score": null,
+      "away_score": null,
+      "home_score_ht": null,
+      "away_score_ht": null,
+      "penalty_shootout": null,
+      "extra_time_score": null,
+      "is_local_derby": false,
+      "is_neutral_ground": false,
+      "travel_distance_km": null,
+      "weather": {
+        "code": null,
+        "description": null,
+        "wind_speed": null,
+        "temperature_c": null
+      },
+      "pitch_condition": null,
+      "attendance": null,
+      "live_websocket": false,
+      "websocket_plus": false,
+      "highlights": [],
+      "head_to_head": {
+        "total_matches": 6,
+        "home_wins": 4,
+        "draws": 1,
+        "away_wins": 1,
+        "home_goals": 10,
+        "away_goals": 3,
+        "avg_total_goals": 2.1666666666666665,
+        "home_win_rate": 0.6666666666666666,
+        "away_win_rate": 0.16666666666666666,
+        "recent_matches": [
+          {
+            "away": "Granada Club de Fútbol",
+            "date": "2026-02-07T11:00:00+00:00",
+            "home": "SD Eibar",
+            "score": "0-2",
+            "event_id": 9758,
+            "away_score": 2,
+            "home_score": 0,
+            "away_team_id": 914,
+            "home_team_id": 921
+          },
+          {
+            "away": "SD Eibar",
+            "date": "2025-09-20T10:00:00+00:00",
+            "home": "Granada Club de Fútbol",
+            "score": "3-1",
+            "event_id": 9638,
+            "away_score": 1,
+            "home_score": 3,
+            "away_team_id": 921,
+            "home_team_id": 914
+          },
+          {
+            "away": "Granada Club de Fútbol",
+            "date": "2025-01-25T17:00:00+00:00",
+            "home": "SD Eibar",
+            "score": "0-0",
+            "event_id": 235796,
+            "away_score": 0,
+            "home_score": 0,
+            "away_team_id": 914,
+            "home_team_id": 921
+          },
+          {
+            "away": "SD Eibar",
+            "date": "2024-09-21T10:00:00+00:00",
+            "home": "Granada Club de Fútbol",
+            "score": "2-0",
+            "event_id": 235683,
+            "away_score": 0,
+            "home_score": 2,
+            "away_team_id": 921,
+            "home_team_id": 914
+          },
+          {
+            "away": "Granada Club de Fútbol",
+            "date": "2024-06-15T10:00:00+00:00",
+            "home": "SD Eibar",
+            "score": "0-2",
+            "event_id": 245493,
+            "away_score": 2,
+            "home_score": 0,
+            "away_team_id": 914,
+            "home_team_id": 921
+          },
+          {
+            "away": "SD Eibar",
+            "date": "2023-09-30T10:00:00+00:00",
+            "home": "Granada Club de Fútbol",
+            "score": "1-2",
+            "event_id": 245273,
+            "away_score": 2,
+            "home_score": 1,
+            "away_team_id": 921,
+            "home_team_id": 914
           }
         ]
       },
@@ -18786,76 +18786,6 @@
       "previous_leg_event_id": null
     },
     {
-      "id": 604923,
-      "league_id": 29,
-      "season_id": 1900,
-      "home_team_id": 6301,
-      "home_team": "Fomboni FC",
-      "away_team_id": 8238,
-      "away_team": "FC 15 de Agosto de Akonibe",
-      "home_coach_id": null,
-      "away_coach_id": 3433,
-      "referee_id": null,
-      "venue_id": null,
-      "event_date": "2026-10-03T12:00:00+00:00",
-      "status": "notstarted",
-      "replaced_by": null,
-      "round_number": 1,
-      "round_name": "Qualification Round 1",
-      "group_name": null,
-      "stage": "qualification-round-1",
-      "stage_name": "Qualification Round 1",
-      "round_label": "Qualification Round 1",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
-      "penalty_shootout": null,
-      "extra_time_score": null,
-      "is_local_derby": false,
-      "is_neutral_ground": false,
-      "travel_distance_km": null,
-      "weather": {
-        "code": null,
-        "description": null,
-        "wind_speed": null,
-        "temperature_c": null
-      },
-      "pitch_condition": null,
-      "attendance": null,
-      "live_websocket": false,
-      "websocket_plus": false,
-      "highlights": [],
-      "head_to_head": {
-        "total_matches": 1,
-        "home_wins": 0,
-        "draws": 0,
-        "away_wins": 1,
-        "home_goals": 0,
-        "away_goals": 4,
-        "avg_total_goals": 4.0,
-        "home_win_rate": 0.0,
-        "away_win_rate": 1.0,
-        "recent_matches": [
-          {
-            "away": "FC 15 de Agosto de Akonibe",
-            "date": "2026-10-03T12:00:00+00:00",
-            "home": "Fomboni FC",
-            "score": "0-4",
-            "event_id": 587747,
-            "away_score": 4,
-            "home_score": 0,
-            "away_team_id": 8238,
-            "home_team_id": 6301
-          }
-        ]
-      },
-      "has_xg": false,
-      "previous_leg_event_id": null
-    },
-    {
       "id": 587747,
       "league_id": 29,
       "season_id": 1900,
@@ -21519,7 +21449,7 @@
       "home_team": "Saint Lucia",
       "away_team_id": 2308,
       "away_team": "Guadeloupe",
-      "home_coach_id": 1714,
+      "home_coach_id": 4058,
       "away_coach_id": 4049,
       "referee_id": null,
       "venue_id": null,
@@ -26926,7 +26856,7 @@
       "home_team": "Belize",
       "away_team_id": 691,
       "away_team": "Saint Vincent and the Grenadines",
-      "home_coach_id": 54,
+      "home_coach_id": 4070,
       "away_coach_id": 798,
       "referee_id": null,
       "venue_id": 525,
@@ -38577,6 +38507,53 @@
       "previous_leg_event_id": null
     },
     {
+      "id": 605016,
+      "league_id": 79,
+      "season_id": 1552,
+      "home_team_id": 2035,
+      "home_team": "Shanghai Shenhua",
+      "away_team_id": 1331,
+      "away_team": "Zenit St. Petersburg",
+      "home_coach_id": null,
+      "away_coach_id": null,
+      "referee_id": null,
+      "venue_id": null,
+      "event_date": "2026-09-27T12:00:00+00:00",
+      "status": "notstarted",
+      "replaced_by": null,
+      "round_number": null,
+      "round_name": "",
+      "group_name": null,
+      "stage": "regular-season",
+      "stage_name": "Regular season",
+      "round_label": "Regular season",
+      "period": "",
+      "current_minute": null,
+      "home_score": null,
+      "away_score": null,
+      "home_score_ht": null,
+      "away_score_ht": null,
+      "penalty_shootout": null,
+      "extra_time_score": null,
+      "is_local_derby": false,
+      "is_neutral_ground": false,
+      "travel_distance_km": null,
+      "weather": {
+        "code": null,
+        "description": null,
+        "wind_speed": null,
+        "temperature_c": null
+      },
+      "pitch_condition": null,
+      "attendance": null,
+      "live_websocket": false,
+      "websocket_plus": false,
+      "highlights": [],
+      "head_to_head": null,
+      "has_xg": false,
+      "previous_leg_event_id": null
+    },
+    {
       "id": 604950,
       "league_id": 31,
       "season_id": 133,
@@ -39601,7 +39578,7 @@
       "referee_id": null,
       "venue_id": null,
       "event_date": "2026-09-27T04:00:00+00:00",
-      "status": "notstarted",
+      "status": "finished",
       "replaced_by": null,
       "round_number": null,
       "round_name": "",
@@ -39609,12 +39586,12 @@
       "stage": "league-phase",
       "stage_name": "League phase",
       "round_label": "League phase",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 1,
+      "away_score": 3,
+      "home_score_ht": 0,
+      "away_score_ht": 2,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -39648,7 +39625,7 @@
       "referee_id": 2313,
       "venue_id": 308,
       "event_date": "2026-09-27T03:10:00+00:00",
-      "status": "notstarted",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 10,
       "round_name": "",
@@ -39656,12 +39633,12 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 10",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 1,
+      "away_score": 0,
+      "home_score_ht": 0,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -39677,7 +39654,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Tigres 1 - 0 Puebla — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=mmO7fR6k6kk",
+          "thumbnail": "https://i.ytimg.com/vi/mmO7fR6k6kk/hqdefault.jpg",
+          "published_at": "2026-09-27T05:53:53+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 39,
         "home_wins": 18,
@@ -39817,7 +39802,7 @@
       "referee_id": 2242,
       "venue_id": 300,
       "event_date": "2026-09-27T03:05:00+00:00",
-      "status": "notstarted",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 10,
       "round_name": "",
@@ -39825,28 +39810,36 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 10",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 1,
+      "away_score": 0,
+      "home_score_ht": 1,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
       "travel_distance_km": 777,
       "weather": {
-        "code": 0,
-        "description": "unknown",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 18.1,
         "temperature_c": 31
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "goals",
+          "title": "Santos 1 - 0 Pachuca — 45'+3 Fran Villalba, Penalty",
+          "url": "https://www.youtube.com/watch?v=Pucx3h1CBOw&pp=0gcJCS8MAYcqIYzv",
+          "thumbnail": "https://i.ytimg.com/vi/Pucx3h1CBOw/hqdefault.jpg",
+          "published_at": "2026-09-27T04:02:58+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 42,
         "home_wins": 12,
@@ -39986,7 +39979,7 @@
       "referee_id": 1772,
       "venue_id": 286,
       "event_date": "2026-09-27T02:30:00+00:00",
-      "status": "1st_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": null,
       "round_name": "",
@@ -39994,11 +39987,11 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season",
-      "period": "1T",
-      "current_minute": 18,
-      "home_score": 1,
-      "away_score": 0,
-      "home_score_ht": 1,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 3,
+      "away_score": 1,
+      "home_score_ht": 3,
       "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
@@ -40015,7 +40008,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "San Jose 3 - 1 Portland — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=XHEVJA0HF84",
+          "thumbnail": "https://i.ytimg.com/vi/XHEVJA0HF84/hqdefault.jpg",
+          "published_at": "2026-09-27T05:15:56+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 38,
         "home_wins": 8,
@@ -40155,7 +40156,7 @@
       "referee_id": 1831,
       "venue_id": 266,
       "event_date": "2026-09-27T02:30:00+00:00",
-      "status": "1st_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": null,
       "round_name": "",
@@ -40163,11 +40164,11 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season",
-      "period": "1T",
-      "current_minute": 18,
-      "home_score": 0,
-      "away_score": 1,
-      "home_score_ht": 0,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 3,
+      "away_score": 3,
+      "home_score_ht": 2,
       "away_score_ht": 1,
       "penalty_shootout": null,
       "extra_time_score": null,
@@ -40180,11 +40181,19 @@
         "wind_speed": 7.1,
         "temperature_c": 18
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Vancouver 3 - 3 DC United — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=OwN4Br6JJRA",
+          "thumbnail": "https://i.ytimg.com/vi/OwN4Br6JJRA/hqdefault.jpg",
+          "published_at": "2026-09-27T04:58:22+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 11,
         "home_wins": 3,
@@ -40324,7 +40333,7 @@
       "referee_id": 2040,
       "venue_id": 288,
       "event_date": "2026-09-27T02:30:00+00:00",
-      "status": "1st_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": null,
       "round_name": "",
@@ -40332,28 +40341,36 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season",
-      "period": "1T",
-      "current_minute": 18,
-      "home_score": 0,
-      "away_score": 1,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 3,
+      "away_score": 2,
       "home_score_ht": 0,
-      "away_score_ht": 1,
+      "away_score_ht": 2,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
       "travel_distance_km": 1362,
       "weather": {
-        "code": 0,
-        "description": "unknown",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 13.1,
         "temperature_c": 24
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "LA Galaxy 3 - 2 Colorado — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=NbYOpZ8otwg&pp=0gcJCS8MAYcqIYzv",
+          "thumbnail": "https://i.ytimg.com/vi/NbYOpZ8otwg/hqdefault.jpg",
+          "published_at": "2026-09-27T05:15:41+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 45,
         "home_wins": 20,
@@ -40493,7 +40510,7 @@
       "referee_id": null,
       "venue_id": null,
       "event_date": "2026-09-27T02:00:00+00:00",
-      "status": "halftime",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 1,
       "round_name": "",
@@ -40501,10 +40518,10 @@
       "stage": "group-stage",
       "stage_name": "Group stage",
       "round_label": "League B, Group D · Matchday 1",
-      "period": "HT",
-      "current_minute": 45,
+      "period": "FT",
+      "current_minute": 90,
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "home_score_ht": 0,
       "away_score_ht": 0,
       "penalty_shootout": null,
@@ -40513,16 +40530,24 @@
       "is_neutral_ground": false,
       "travel_distance_km": null,
       "weather": {
-        "code": null,
-        "description": null,
+        "code": 1,
+        "description": "clear",
         "wind_speed": null,
         "temperature_c": null
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Sint Maarten 0 - 1 Belize — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=uvsIkMGuEwk",
+          "thumbnail": "https://i.ytimg.com/vi/uvsIkMGuEwk/hqdefault.jpg",
+          "published_at": "2026-09-27T04:47:28+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 1,
         "home_wins": 1,
@@ -40563,7 +40588,7 @@
       "referee_id": null,
       "venue_id": 1319,
       "event_date": "2026-09-27T02:00:00+00:00",
-      "status": "halftime",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 1,
       "round_name": "",
@@ -40571,9 +40596,9 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 1",
-      "period": "HT",
-      "current_minute": 45,
-      "home_score": 0,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 1,
       "away_score": 0,
       "home_score_ht": 0,
       "away_score_ht": 0,
@@ -40583,16 +40608,24 @@
       "is_neutral_ground": false,
       "travel_distance_km": 3412,
       "weather": {
-        "code": 0,
-        "description": "unknown",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 7.8,
         "temperature_c": 25
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Orange County SC 1 - 0 Pittsburgh — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=kBzg_Ez6he0",
+          "thumbnail": "https://i.ytimg.com/vi/kBzg_Ez6he0/hqdefault.jpg",
+          "published_at": "2026-09-27T04:08:38+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 4,
         "home_wins": 2,
@@ -40666,7 +40699,7 @@
       "referee_id": null,
       "venue_id": 1334,
       "event_date": "2026-09-27T02:00:00+00:00",
-      "status": "halftime",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 1,
       "round_name": "",
@@ -40674,9 +40707,9 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 1",
-      "period": "HT",
-      "current_minute": 45,
-      "home_score": 2,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 3,
       "away_score": 0,
       "home_score_ht": 2,
       "away_score_ht": 0,
@@ -40691,11 +40724,19 @@
         "wind_speed": 8.1,
         "temperature_c": 18
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Oakland Roots 3 - 0 Phoenix Rising — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=uVrSD0KyJxg",
+          "thumbnail": "https://i.ytimg.com/vi/uVrSD0KyJxg/hqdefault.jpg",
+          "published_at": "2026-09-27T04:08:50+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 14,
         "home_wins": 3,
@@ -40835,7 +40876,7 @@
       "referee_id": null,
       "venue_id": 1318,
       "event_date": "2026-09-27T02:00:00+00:00",
-      "status": "halftime",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 1,
       "round_name": "",
@@ -40843,10 +40884,10 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 1",
-      "period": "HT",
-      "current_minute": 45,
-      "home_score": 1,
-      "away_score": 1,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 2,
+      "away_score": 3,
       "home_score_ht": 1,
       "away_score_ht": 1,
       "penalty_shootout": null,
@@ -40855,16 +40896,24 @@
       "is_neutral_ground": false,
       "travel_distance_km": null,
       "weather": {
-        "code": 0,
-        "description": "unknown",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 4.0,
         "temperature_c": 17
       },
-      "pitch_condition": null,
+      "pitch_condition": 3,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Monterey Bay 2 - 3 Lexington SC — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=uggGPdMigW4",
+          "thumbnail": "https://i.ytimg.com/vi/uggGPdMigW4/hqdefault.jpg",
+          "published_at": "2026-09-27T04:15:09+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 4,
         "home_wins": 1,
@@ -40938,7 +40987,7 @@
       "referee_id": 2049,
       "venue_id": 267,
       "event_date": "2026-09-27T01:30:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": null,
       "round_name": "",
@@ -40946,9 +40995,9 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season",
-      "period": "2T",
-      "current_minute": 61,
-      "home_score": 1,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 3,
       "away_score": 0,
       "home_score_ht": 1,
       "away_score_ht": 0,
@@ -40958,16 +41007,24 @@
       "is_neutral_ground": false,
       "travel_distance_km": 3371,
       "weather": {
-        "code": 3,
-        "description": "rain",
+        "code": 1,
+        "description": "clear",
         "wind_speed": 12.3,
         "temperature_c": 20
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Salt Lake 3 - 0 New England — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=S4Wq474RtHo&pp=0gcJCS8MAYcqIYzv",
+          "thumbnail": "https://i.ytimg.com/vi/S4Wq474RtHo/hqdefault.jpg",
+          "published_at": "2026-09-27T05:31:44+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 18,
         "home_wins": 11,
@@ -41107,7 +41164,7 @@
       "referee_id": 2097,
       "venue_id": 586,
       "event_date": "2026-09-27T01:20:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 12,
       "round_name": "",
@@ -41115,9 +41172,9 @@
       "stage": "league-phase",
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 12",
-      "period": "2T",
-      "current_minute": 78,
-      "home_score": 1,
+      "period": "FT",
+      "current_minute": 99,
+      "home_score": 2,
       "away_score": 0,
       "home_score_ht": 0,
       "away_score_ht": 0,
@@ -41127,16 +41184,38 @@
       "is_neutral_ground": false,
       "travel_distance_km": 528,
       "weather": {
-        "code": 0,
-        "description": "unknown",
+        "code": 1,
+        "description": "clear",
         "wind_speed": 6.0,
         "temperature_c": 26
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "goals",
+          "title": "Junior Barranquilla 2 - 0 Ind. Medellín — All Goals",
+          "url": "https://www.youtube.com/watch?v=fHB_bGPj2g8",
+          "thumbnail": "https://i.ytimg.com/vi/fHB_bGPj2g8/hqdefault.jpg",
+          "published_at": "2026-09-27T03:29:23+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Junior Barranquilla 2 - 0 Ind. Medellín — 79' Hayen Palacios, Own goal",
+          "url": "https://www.youtube.com/watch?v=P_3Gww-FJ2E",
+          "thumbnail": "https://i.ytimg.com/vi/P_3Gww-FJ2E/hqdefault.jpg",
+          "published_at": "2026-09-27T03:12:03+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Junior Barranquilla 1 - 0 Ind. Medellín — 75' Teófilo Gutiérrez, Penalty",
+          "url": "https://www.youtube.com/watch?v=6SdjAO_b-Fs",
+          "thumbnail": "https://i.ytimg.com/vi/6SdjAO_b-Fs/hqdefault.jpg",
+          "published_at": "2026-09-27T03:05:47+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 32,
         "home_wins": 15,
@@ -41260,7 +41339,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -41296,16 +41375,31 @@
       "is_neutral_ground": false,
       "travel_distance_km": null,
       "weather": {
-        "code": null,
-        "description": null,
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": null,
         "temperature_c": null
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "goals",
+          "title": "Mexico 1 - 1 Colombia — 62' Gilberto Mora",
+          "url": "https://www.youtube.com/watch?v=bQKbVnr8zu4",
+          "thumbnail": "https://i.ytimg.com/vi/bQKbVnr8zu4/hqdefault.jpg",
+          "published_at": "2026-09-27T02:37:10+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Mexico 0 - 1 Colombia — 9' Luis Javier Suárez",
+          "url": "https://www.youtube.com/watch?v=-9VMsEX0Zdo",
+          "thumbnail": "https://i.ytimg.com/vi/-9VMsEX0Zdo/hqdefault.jpg",
+          "published_at": "2026-09-27T02:21:03+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 7,
         "home_wins": 1,
@@ -41412,7 +41506,7 @@
       "referee_id": null,
       "venue_id": 1330,
       "event_date": "2026-09-27T01:00:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 1,
       "round_name": "",
@@ -41420,7 +41514,7 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 1",
-      "period": "2T",
+      "period": "FT",
       "current_minute": 90,
       "home_score": 2,
       "away_score": 3,
@@ -41432,16 +41526,24 @@
       "is_neutral_ground": false,
       "travel_distance_km": 1376,
       "weather": {
-        "code": 3,
-        "description": "rain",
+        "code": 1,
+        "description": "clear",
         "wind_speed": 11.3,
         "temperature_c": 18
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "New Mexico United 2 - 3 Sacramento Republic — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=rJtKqOVJ1PU",
+          "thumbnail": "https://i.ytimg.com/vi/rJtKqOVJ1PU/hqdefault.jpg",
+          "published_at": "2026-09-27T03:17:06+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 14,
         "home_wins": 4,
@@ -41610,7 +41712,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Portland Thorns 1 - 1 Houston — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=sMA0KUwJ87I",
+          "thumbnail": "https://i.ytimg.com/vi/sMA0KUwJ87I/hqdefault.jpg",
+          "published_at": "2026-09-27T03:00:28+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 27,
         "home_wins": 17,
@@ -41901,7 +42011,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Houston 0 - 2 Kansas City — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=fL2PNuJTonE",
+          "thumbnail": "https://i.ytimg.com/vi/fL2PNuJTonE/hqdefault.jpg",
+          "published_at": "2026-09-27T03:02:08+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 51,
         "home_wins": 17,
@@ -42070,7 +42188,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Austin 3 - 3 San Diego — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=Eyk-ZLNrzzY&pp=0gcJCS8MAYcqIYzv",
+          "thumbnail": "https://i.ytimg.com/vi/Eyk-ZLNrzzY/hqdefault.jpg",
+          "published_at": "2026-09-27T03:02:27+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 3,
         "home_wins": 1,
@@ -42162,7 +42288,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Nashville 2 - 0 Toronto — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=lVWRn6HZa_Q",
+          "thumbnail": "https://i.ytimg.com/vi/lVWRn6HZa_Q/hqdefault.jpg",
+          "published_at": "2026-09-27T03:02:40+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 13,
         "home_wins": 7,
@@ -42331,7 +42465,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Seattle 3 - 1 Minnesota — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=XKFtmuDAGEo",
+          "thumbnail": "https://i.ytimg.com/vi/XKFtmuDAGEo/hqdefault.jpg",
+          "published_at": "2026-09-27T03:01:07+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 23,
         "home_wins": 15,
@@ -42500,7 +42642,15 @@
       "attendance": null,
       "live_websocket": false,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Dallas 1 - 0 Los Angeles — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=D5ETr8Ih3GA",
+          "thumbnail": "https://i.ytimg.com/vi/D5ETr8Ih3GA/hqdefault.jpg",
+          "published_at": "2026-09-27T03:00:52+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 16,
         "home_wins": 5,

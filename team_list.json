@@ -167,14 +167,6 @@
     "id": 4782,
     "name": "Fortaleza FC"
   },
-  "914": {
-    "id": 914,
-    "name": "Granada Club de Fútbol"
-  },
-  "921": {
-    "id": 921,
-    "name": "SD Eibar"
-  },
   "39": {
     "id": 39,
     "name": "Girona FC"
@@ -462,6 +454,14 @@
   "2350": {
     "id": 2350,
     "name": "Chaves"
+  },
+  "914": {
+    "id": 914,
+    "name": "Granada Club de Fútbol"
+  },
+  "921": {
+    "id": 921,
+    "name": "SD Eibar"
   },
   "912": {
     "id": 912,
@@ -2131,14 +2131,6 @@
     "id": 5002,
     "name": "CD Cinfães"
   },
-  "2272": {
-    "id": 2272,
-    "name": "Seychelles"
-  },
-  "2289": {
-    "id": 2289,
-    "name": "Sri Lanka"
-  },
   "2035": {
     "id": 2035,
     "name": "Shanghai Shenhua"
@@ -2146,6 +2138,14 @@
   "1331": {
     "id": 1331,
     "name": "Zenit St. Petersburg"
+  },
+  "2272": {
+    "id": 2272,
+    "name": "Seychelles"
+  },
+  "2289": {
+    "id": 2289,
+    "name": "Sri Lanka"
   },
   "1265": {
     "id": 1265,
