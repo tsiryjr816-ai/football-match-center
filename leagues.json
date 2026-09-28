@@ -85,7 +85,7 @@
           {
             "stage": "qualification-round-1",
             "stage_name": "Qualification Round 1",
-            "matches": 58,
+            "matches": 59,
             "rounds": 1,
             "start_date": "2026-09-04",
             "end_date": "2026-10-03"
@@ -95,8 +95,8 @@
             "stage_name": "Qualification Round 2",
             "matches": 20,
             "rounds": 1,
-            "start_date": "2026-10-17",
-            "end_date": "2026-10-24"
+            "start_date": "2026-10-16",
+            "end_date": "2026-10-25"
           }
         ]
       }
@@ -1770,8 +1770,8 @@
             "stage_name": "Round of 16",
             "matches": 8,
             "rounds": 1,
-            "start_date": "2026-12-02",
-            "end_date": "2026-12-03"
+            "start_date": "2026-12-01",
+            "end_date": "2027-01-26"
           }
         ]
       }
