@@ -1,5 +1,5 @@
 {
-  "count": 8564,
+  "count": 8622,
   "next": "https://sports.bzzoiro.com/api/v2/teams/?limit=50&offset=50",
   "previous": null,
   "results": [
@@ -87,6 +87,14 @@
       "id": 3976,
       "name": "1. FC Tatran Prešov U19",
       "short_name": "TPR",
+      "country": "",
+      "country_code": "",
+      "venue_id": null
+    },
+    {
+      "id": 8907,
+      "name": "1. FC Union Berlin U19",
+      "short_name": "FCU",
       "country": "",
       "country_code": "",
       "venue_id": null
@@ -391,14 +399,6 @@
       "id": 2510,
       "name": "AC Port Of Spain",
       "short_name": "POR",
-      "country": "",
-      "country_code": "",
-      "venue_id": null
-    },
-    {
-      "id": 2695,
-      "name": "AC Sant'Angelo 1907",
-      "short_name": "ASD",
       "country": "",
       "country_code": "",
       "venue_id": null

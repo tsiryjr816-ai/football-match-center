@@ -1,4 +1,228 @@
 {
+  "826": {
+    "id": 826,
+    "name": "Vila Nova FC"
+  },
+  "863": {
+    "id": 863,
+    "name": "Cuiabá"
+  },
+  "831": {
+    "id": 831,
+    "name": "CRB"
+  },
+  "819": {
+    "id": 819,
+    "name": "Atlético Goianiense"
+  },
+  "838": {
+    "id": 838,
+    "name": "América Mineiro"
+  },
+  "152": {
+    "id": 152,
+    "name": "Fortaleza"
+  },
+  "163": {
+    "id": 163,
+    "name": "Botafogo"
+  },
+  "164": {
+    "id": 164,
+    "name": "Vasco da Gama"
+  },
+  "157": {
+    "id": 157,
+    "name": "Vitória"
+  },
+  "373": {
+    "id": 373,
+    "name": "Chapecoense"
+  },
+  "4999": {
+    "id": 4999,
+    "name": "Sarmiento"
+  },
+  "755": {
+    "id": 755,
+    "name": "River Plate"
+  },
+  "828": {
+    "id": 828,
+    "name": "Operário-PR"
+  },
+  "927": {
+    "id": 927,
+    "name": "Botafogo-SP"
+  },
+  "860": {
+    "id": 860,
+    "name": "Avaí"
+  },
+  "821": {
+    "id": 821,
+    "name": "Londrina"
+  },
+  "372": {
+    "id": 372,
+    "name": "Remo"
+  },
+  "154": {
+    "id": 154,
+    "name": "Grêmio"
+  },
+  "168": {
+    "id": 168,
+    "name": "Red Bull Bragantino"
+  },
+  "151": {
+    "id": 151,
+    "name": "Mirassol"
+  },
+  "161": {
+    "id": 161,
+    "name": "Internacional"
+  },
+  "167": {
+    "id": 167,
+    "name": "Corinthians"
+  },
+  "2095": {
+    "id": 2095,
+    "name": "IF Gnistan"
+  },
+  "2098": {
+    "id": 2098,
+    "name": "Inter Turku"
+  },
+  "5189": {
+    "id": 5189,
+    "name": "Sagrada Esperança"
+  },
+  "6834": {
+    "id": 6834,
+    "name": "Kabuscorp SCP"
+  },
+  "577": {
+    "id": 577,
+    "name": "Shooting Stars"
+  },
+  "566": {
+    "id": 566,
+    "name": "Kano Pillars"
+  },
+  "2007": {
+    "id": 2007,
+    "name": "Gainare Tottori"
+  },
+  "1946": {
+    "id": 1946,
+    "name": "Tokyo Verdy"
+  },
+  "1941": {
+    "id": 1941,
+    "name": "Fagiano Okayama"
+  },
+  "1934": {
+    "id": 1934,
+    "name": "JEF United Chiba"
+  },
+  "1943": {
+    "id": 1943,
+    "name": "Shimizu S-Pulse"
+  },
+  "1932": {
+    "id": 1932,
+    "name": "V-Varen Nagasaki"
+  },
+  "1936": {
+    "id": 1936,
+    "name": "FC Tokyo"
+  },
+  "1966": {
+    "id": 1966,
+    "name": "Shonan Bellmare"
+  },
+  "1928": {
+    "id": 1928,
+    "name": "Yokohama F. Marinos"
+  },
+  "1978": {
+    "id": 1978,
+    "name": "Kyoto Sangyo University"
+  },
+  "1944": {
+    "id": 1944,
+    "name": "Kawasaki Frontale"
+  },
+  "3869": {
+    "id": 3869,
+    "name": "Tegevajaro Miyazaki"
+  },
+  "1938": {
+    "id": 1938,
+    "name": "Cerezo Osaka"
+  },
+  "1983": {
+    "id": 1983,
+    "name": "Kagoshima United"
+  },
+  "1940": {
+    "id": 1940,
+    "name": "Avispa Fukuoka"
+  },
+  "1972": {
+    "id": 1972,
+    "name": "Yokohama FC"
+  },
+  "1933": {
+    "id": 1933,
+    "name": "Sanfrecce Hiroshima"
+  },
+  "1984": {
+    "id": 1984,
+    "name": "Iwaki FC"
+  },
+  "1935": {
+    "id": 1935,
+    "name": "Urawa Red Diamonds"
+  },
+  "2027": {
+    "id": 2027,
+    "name": "RB Omiya Ardija"
+  },
+  "2309": {
+    "id": 2309,
+    "name": "French Guiana"
+  },
+  "707": {
+    "id": 707,
+    "name": "Belize"
+  },
+  "844": {
+    "id": 844,
+    "name": "Ponte Preta"
+  },
+  "156": {
+    "id": 156,
+    "name": "Juventude"
+  },
+  "289": {
+    "id": 289,
+    "name": "Chicago Fire"
+  },
+  "278": {
+    "id": 278,
+    "name": "Vancouver Whitecaps"
+  },
+  "457": {
+    "id": 457,
+    "name": "USA"
+  },
+  "455": {
+    "id": 455,
+    "name": "Canada"
+  },
   "809": {
     "id": 809,
     "name": "Goiás"
@@ -379,14 +603,6 @@
     "id": 3926,
     "name": "Washington Spirit"
   },
-  "4999": {
-    "id": 4999,
-    "name": "Sarmiento"
-  },
-  "755": {
-    "id": 755,
-    "name": "River Plate"
-  },
   "780": {
     "id": 780,
     "name": "Boca Juniors"
@@ -635,10 +851,6 @@
     "id": 567,
     "name": "Barau FC"
   },
-  "566": {
-    "id": 566,
-    "name": "Kano Pillars"
-  },
   "5649": {
     "id": 5649,
     "name": "Sporting Lagos FC"
@@ -658,10 +870,6 @@
   "580": {
     "id": 580,
     "name": "Plateau United"
-  },
-  "577": {
-    "id": 577,
-    "name": "Shooting Stars"
   },
   "582": {
     "id": 582,
@@ -827,21 +1035,9 @@
     "id": 2231,
     "name": "San Antonio FC"
   },
-  "457": {
-    "id": 457,
-    "name": "USA"
-  },
   "451": {
     "id": 451,
     "name": "Mexico"
-  },
-  "707": {
-    "id": 707,
-    "name": "Belize"
-  },
-  "2309": {
-    "id": 2309,
-    "name": "French Guiana"
   },
   "2237": {
     "id": 2237,
@@ -955,18 +1151,6 @@
     "id": 155,
     "name": "Atlético Mineiro"
   },
-  "168": {
-    "id": 168,
-    "name": "Red Bull Bragantino"
-  },
-  "927": {
-    "id": 927,
-    "name": "Botafogo-SP"
-  },
-  "826": {
-    "id": 826,
-    "name": "Vila Nova FC"
-  },
   "781": {
     "id": 781,
     "name": "Deportes Tolima"
@@ -1007,14 +1191,6 @@
     "id": 3931,
     "name": "Utah Royals FC"
   },
-  "863": {
-    "id": 863,
-    "name": "Cuiabá"
-  },
-  "844": {
-    "id": 844,
-    "name": "Ponte Preta"
-  },
   "4786": {
     "id": 4786,
     "name": "Rionegro Águilas Doradas"
@@ -1022,18 +1198,6 @@
   "4785": {
     "id": 4785,
     "name": "Jaguares de Córdoba"
-  },
-  "819": {
-    "id": 819,
-    "name": "Atlético Goianiense"
-  },
-  "838": {
-    "id": 838,
-    "name": "América Mineiro"
-  },
-  "455": {
-    "id": 455,
-    "name": "Canada"
   },
   "713": {
     "id": 713,
@@ -1791,10 +1955,6 @@
     "id": 920,
     "name": "Club Atlético de Madrid"
   },
-  "860": {
-    "id": 860,
-    "name": "Avaí"
-  },
   "169": {
     "id": 169,
     "name": "Ceará"
@@ -1879,6 +2039,14 @@
     "id": 1606,
     "name": "Juve Stabia"
   },
+  "6301": {
+    "id": 6301,
+    "name": "Fomboni FC"
+  },
+  "8238": {
+    "id": 8238,
+    "name": "FC 15 de Agosto de Akonibe"
+  },
   "362": {
     "id": 362,
     "name": "FC Petrolul Ploiești"
@@ -1950,14 +2118,6 @@
   "94": {
     "id": 94,
     "name": "1. FC Köln"
-  },
-  "6301": {
-    "id": 6301,
-    "name": "Fomboni FC"
-  },
-  "8238": {
-    "id": 8238,
-    "name": "FC 15 de Agosto de Akonibe"
   },
   "1395": {
     "id": 1395,
@@ -2119,10 +2279,6 @@
     "id": 4783,
     "name": "Alianza Valledupar FC"
   },
-  "152": {
-    "id": 152,
-    "name": "Fortaleza"
-  },
   "928": {
     "id": 928,
     "name": "Náutico"
@@ -2143,18 +2299,6 @@
     "id": 3936,
     "name": "San Diego Wave FC"
   },
-  "156": {
-    "id": 156,
-    "name": "Juventude"
-  },
-  "828": {
-    "id": 828,
-    "name": "Operário-PR"
-  },
-  "821": {
-    "id": 821,
-    "name": "Londrina"
-  },
   "929": {
     "id": 929,
     "name": "Criciúma"
@@ -2166,10 +2310,6 @@
   "165": {
     "id": 165,
     "name": "Santos"
-  },
-  "831": {
-    "id": 831,
-    "name": "CRB"
   },
   "2390": {
     "id": 2390,
@@ -2762,25 +2902,5 @@
   "936": {
     "id": 936,
     "name": "Chile"
-  },
-  "481": {
-    "id": 481,
-    "name": "Iran"
-  },
-  "4133": {
-    "id": 4133,
-    "name": "FC Hertha 03"
-  },
-  "1832": {
-    "id": 1832,
-    "name": "Hertha BSC"
-  },
-  "3576": {
-    "id": 3576,
-    "name": "FK Sūduva Marijampolė"
-  },
-  "459": {
-    "id": 459,
-    "name": "Australia"
   }
 }
