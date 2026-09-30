@@ -2291,6 +2291,14 @@
     "id": 4998,
     "name": "Gimnasia y Esgrima"
   },
+  "498": {
+    "id": 498,
+    "name": "Colombia"
+  },
+  "458": {
+    "id": 458,
+    "name": "Paraguay"
+  },
   "3938": {
     "id": 3938,
     "name": "Orlando Pride"
@@ -2699,6 +2707,22 @@
     "id": 76,
     "name": "Hellas Verona"
   },
+  "3549": {
+    "id": 3549,
+    "name": "FC Corvinul Hunedoara"
+  },
+  "8955": {
+    "id": 8955,
+    "name": "CSC 1599 Șelimbăr"
+  },
+  "3839": {
+    "id": 3839,
+    "name": "NK Aluminij Kidričevo"
+  },
+  "3642": {
+    "id": 3642,
+    "name": "NK Varaždin"
+  },
   "1608": {
     "id": 1608,
     "name": "Südtirol"
@@ -2774,6 +2798,10 @@
   "2214": {
     "id": 2214,
     "name": "Syria"
+  },
+  "8954": {
+    "id": 8954,
+    "name": "Palmese 1914"
   },
   "1858": {
     "id": 1858,
@@ -2874,6 +2902,14 @@
   "1409": {
     "id": 1409,
     "name": "Grazer AK 1902"
+  },
+  "82": {
+    "id": 82,
+    "name": "VfL Wolfsburg"
+  },
+  "4052": {
+    "id": 4052,
+    "name": "TSV Havelse"
   },
   "8893": {
     "id": 8893,
