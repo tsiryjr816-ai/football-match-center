@@ -2039,14 +2039,6 @@
     "id": 1606,
     "name": "Juve Stabia"
   },
-  "6301": {
-    "id": 6301,
-    "name": "Fomboni FC"
-  },
-  "8238": {
-    "id": 8238,
-    "name": "FC 15 de Agosto de Akonibe"
-  },
   "362": {
     "id": 362,
     "name": "FC Petrolul Ploiești"
@@ -2118,6 +2110,14 @@
   "94": {
     "id": 94,
     "name": "1. FC Köln"
+  },
+  "6301": {
+    "id": 6301,
+    "name": "Fomboni FC"
+  },
+  "8238": {
+    "id": 8238,
+    "name": "FC 15 de Agosto de Akonibe"
   },
   "1395": {
     "id": 1395,
@@ -2827,6 +2827,14 @@
     "id": 1292,
     "name": "SpVgg Greuther Fürth"
   },
+  "82": {
+    "id": 82,
+    "name": "VfL Wolfsburg"
+  },
+  "4052": {
+    "id": 4052,
+    "name": "TSV Havelse"
+  },
   "2214": {
     "id": 2214,
     "name": "Syria"
@@ -2946,14 +2954,6 @@
   "1409": {
     "id": 1409,
     "name": "Grazer AK 1902"
-  },
-  "82": {
-    "id": 82,
-    "name": "VfL Wolfsburg"
-  },
-  "4052": {
-    "id": 4052,
-    "name": "TSV Havelse"
   },
   "8893": {
     "id": 8893,
