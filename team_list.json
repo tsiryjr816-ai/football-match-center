@@ -2151,6 +2151,14 @@
     "id": 1419,
     "name": "Tranmere Rovers"
   },
+  "4130": {
+    "id": 4130,
+    "name": "Star Starachowice"
+  },
+  "423": {
+    "id": 423,
+    "name": "Widzew Łódź"
+  },
   "433": {
     "id": 433,
     "name": "Radomiak Radom"
@@ -2359,6 +2367,14 @@
     "id": 2062,
     "name": "Union Touarga Sport"
   },
+  "48": {
+    "id": 48,
+    "name": "Real Sociedad"
+  },
+  "51": {
+    "id": 51,
+    "name": "Athletic Club"
+  },
   "1613": {
     "id": 1613,
     "name": "Stade Lavallois"
@@ -2438,6 +2454,14 @@
   "2289": {
     "id": 2289,
     "name": "Sri Lanka"
+  },
+  "381": {
+    "id": 381,
+    "name": "HŠK Zrinjski Mostar"
+  },
+  "4610": {
+    "id": 4610,
+    "name": "NK Jadran Luka Ploče"
   },
   "1364": {
     "id": 1364,
@@ -2783,6 +2807,14 @@
     "id": 56,
     "name": "Real Betis"
   },
+  "197": {
+    "id": 197,
+    "name": "Trabzonspor"
+  },
+  "4937": {
+    "id": 4937,
+    "name": "Drogheda United"
+  },
   "2212": {
     "id": 2212,
     "name": "Liechtenstein"
@@ -2798,6 +2830,14 @@
   "2214": {
     "id": 2214,
     "name": "Syria"
+  },
+  "3128": {
+    "id": 3128,
+    "name": "DAC 1904"
+  },
+  "1590": {
+    "id": 1590,
+    "name": "Puskás Akadémia"
   },
   "8954": {
     "id": 8954,
@@ -2890,6 +2930,10 @@
   "1293": {
     "id": 1293,
     "name": "SC Paderborn 07"
+  },
+  "8956": {
+    "id": 8956,
+    "name": "FC Seuzach"
   },
   "192": {
     "id": 192,
