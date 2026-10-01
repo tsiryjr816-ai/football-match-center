@@ -175,14 +175,6 @@
     "id": 2098,
     "name": "Inter Turku"
   },
-  "5189": {
-    "id": 5189,
-    "name": "Sagrada Esperança"
-  },
-  "6834": {
-    "id": 6834,
-    "name": "Kabuscorp SCP"
-  },
   "577": {
     "id": 577,
     "name": "Shooting Stars"
@@ -190,6 +182,14 @@
   "566": {
     "id": 566,
     "name": "Kano Pillars"
+  },
+  "5189": {
+    "id": 5189,
+    "name": "Sagrada Esperança"
+  },
+  "6834": {
+    "id": 6834,
+    "name": "Kabuscorp SCP"
   },
   "2007": {
     "id": 2007,
@@ -1001,11 +1001,11 @@
   },
   "8813": {
     "id": 8813,
-    "name": "C.D. San José"
+    "name": "CD San José de Soria"
   },
   "8830": {
     "id": 8830,
-    "name": "Auriense CA"
+    "name": "Auriense Cented Academy"
   },
   "7257": {
     "id": 7257,
@@ -1497,7 +1497,7 @@
   },
   "2915": {
     "id": 2915,
-    "name": "Atherton Collieries"
+    "name": "Atherton Collieries AFC"
   },
   "6708": {
     "id": 6708,
@@ -1525,7 +1525,7 @@
   },
   "4059": {
     "id": 4059,
-    "name": "Stafford Rangers"
+    "name": "Stafford Rangers FC"
   },
   "4942": {
     "id": 4942,
@@ -1565,11 +1565,11 @@
   },
   "4095": {
     "id": 4095,
-    "name": "Guiseley"
+    "name": "Guiseley AFC"
   },
   "5025": {
     "id": 5025,
-    "name": "Bradford Park Avenue"
+    "name": "Bradford Park Avenue AFC"
   },
   "8550": {
     "id": 8550,
@@ -2531,6 +2531,14 @@
     "id": 4014,
     "name": "Dinamo Batumi"
   },
+  "87": {
+    "id": 87,
+    "name": "Eintracht Frankfurt"
+  },
+  "8957": {
+    "id": 8957,
+    "name": "Eintracht Braunschweig II"
+  },
   "411": {
     "id": 411,
     "name": "Wolfsberger AC"
@@ -2538,10 +2546,6 @@
   "7817": {
     "id": 7817,
     "name": "ASK Voitsberg"
-  },
-  "87": {
-    "id": 87,
-    "name": "Eintracht Frankfurt"
   },
   "1830": {
     "id": 1830,
@@ -2595,6 +2599,22 @@
     "id": 4080,
     "name": "First Vienna FC"
   },
+  "405": {
+    "id": 405,
+    "name": "SK Sigma Olomouc"
+  },
+  "3771": {
+    "id": 3771,
+    "name": "MŠK Žilina"
+  },
+  "1831": {
+    "id": 1831,
+    "name": "SV Wehen Wiesbaden"
+  },
+  "1835": {
+    "id": 1835,
+    "name": "Karlsruher SC"
+  },
   "3220": {
     "id": 3220,
     "name": "Mladost DG"
@@ -2623,30 +2643,6 @@
     "id": 2598,
     "name": "NK Bravo"
   },
-  "405": {
-    "id": 405,
-    "name": "SK Sigma Olomouc"
-  },
-  "3771": {
-    "id": 3771,
-    "name": "MŠK Žilina"
-  },
-  "1831": {
-    "id": 1831,
-    "name": "SV Wehen Wiesbaden"
-  },
-  "1835": {
-    "id": 1835,
-    "name": "Karlsruher SC"
-  },
-  "435": {
-    "id": 435,
-    "name": "Piast Gliwice"
-  },
-  "1772": {
-    "id": 1772,
-    "name": "Wisła Kraków"
-  },
   "106": {
     "id": 106,
     "name": "Lille"
@@ -2671,14 +2667,6 @@
     "id": 692,
     "name": "Palestine"
   },
-  "1562": {
-    "id": 1562,
-    "name": "Debreceni VSC"
-  },
-  "3772": {
-    "id": 3772,
-    "name": "FC Košice"
-  },
   "81": {
     "id": 81,
     "name": "1. FC Heidenheim"
@@ -2686,6 +2674,22 @@
   "3340": {
     "id": 3340,
     "name": "FC Würzburger Kickers"
+  },
+  "90": {
+    "id": 90,
+    "name": "FC Augsburg"
+  },
+  "1832": {
+    "id": 1832,
+    "name": "Hertha BSC"
+  },
+  "1562": {
+    "id": 1562,
+    "name": "Debreceni VSC"
+  },
+  "3772": {
+    "id": 3772,
+    "name": "FC Košice"
   },
   "128": {
     "id": 128,
@@ -2695,10 +2699,6 @@
     "id": 4866,
     "name": "Floridsdorfer AC"
   },
-  "90": {
-    "id": 90,
-    "name": "FC Augsburg"
-  },
   "8895": {
     "id": 8895,
     "name": "Hertha Berlin U19"
@@ -2706,6 +2706,22 @@
   "2057": {
     "id": 2057,
     "name": "Venezuela"
+  },
+  "440": {
+    "id": 440,
+    "name": "IF Elfsborg"
+  },
+  "407": {
+    "id": 407,
+    "name": "BK Häcken"
+  },
+  "435": {
+    "id": 435,
+    "name": "Piast Gliwice"
+  },
+  "1772": {
+    "id": 1772,
+    "name": "Wisła Kraków"
   },
   "1797": {
     "id": 1797,
@@ -2743,14 +2759,6 @@
     "id": 3454,
     "name": "Vendsyssel FF"
   },
-  "440": {
-    "id": 440,
-    "name": "IF Elfsborg"
-  },
-  "407": {
-    "id": 407,
-    "name": "BK Häcken"
-  },
   "1340": {
     "id": 1340,
     "name": "AC Sparta Praha"
@@ -2758,6 +2766,14 @@
   "4305": {
     "id": 4305,
     "name": "Vysočina Jihlava"
+  },
+  "254": {
+    "id": 254,
+    "name": "FC Lugano"
+  },
+  "76": {
+    "id": 76,
+    "name": "Hellas Verona"
   },
   "428": {
     "id": 428,
@@ -2767,13 +2783,13 @@
     "id": 1753,
     "name": "Polonia Bytom"
   },
-  "254": {
-    "id": 254,
-    "name": "FC Lugano"
+  "4172": {
+    "id": 4172,
+    "name": "Admira Wacker"
   },
-  "76": {
-    "id": 76,
-    "name": "Hellas Verona"
+  "1410": {
+    "id": 1410,
+    "name": "FK Austria Wien"
   },
   "3549": {
     "id": 3549,
@@ -2798,14 +2814,6 @@
   "7742": {
     "id": 7742,
     "name": "FC Wacker Innsbruck"
-  },
-  "4172": {
-    "id": 4172,
-    "name": "Admira Wacker"
-  },
-  "1410": {
-    "id": 1410,
-    "name": "FK Austria Wien"
   },
   "1300": {
     "id": 1300,
