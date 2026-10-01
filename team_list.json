@@ -715,6 +715,14 @@
     "id": 2232,
     "name": "Phoenix Rising FC"
   },
+  "3181": {
+    "id": 3181,
+    "name": "Internacional de Bogotá"
+  },
+  "3891": {
+    "id": 3891,
+    "name": "Once Caldas"
+  },
   "4635": {
     "id": 4635,
     "name": "Cúcuta Deportivo"
@@ -2907,14 +2915,6 @@
     "id": 4476,
     "name": "1. SK Prostějov"
   },
-  "3839": {
-    "id": 3839,
-    "name": "NK Aluminij Kidričevo"
-  },
-  "3642": {
-    "id": 3642,
-    "name": "NK Varaždin"
-  },
   "1608": {
     "id": 1608,
     "name": "Südtirol"
@@ -2947,6 +2947,14 @@
     "id": 1766,
     "name": "OKS Odra Opole"
   },
+  "3839": {
+    "id": 3839,
+    "name": "NK Aluminij Kidričevo"
+  },
+  "3642": {
+    "id": 3642,
+    "name": "NK Varaždin"
+  },
   "302": {
     "id": 302,
     "name": "Seattle Sounders FC"
@@ -2954,14 +2962,6 @@
   "299": {
     "id": 299,
     "name": "Sporting Kansas City"
-  },
-  "3181": {
-    "id": 3181,
-    "name": "Internacional de Bogotá"
-  },
-  "3891": {
-    "id": 3891,
-    "name": "Once Caldas"
   },
   "2219": {
     "id": 2219,
