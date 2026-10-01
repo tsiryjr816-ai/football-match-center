@@ -967,6 +967,14 @@
     "id": 576,
     "name": "Ikorodu City"
   },
+  "5648": {
+    "id": 5648,
+    "name": "Doma United FC"
+  },
+  "574": {
+    "id": 574,
+    "name": "Warri Wolves FC"
+  },
   "917": {
     "id": 917,
     "name": "Fútbol Club Barcelona"
@@ -1390,14 +1398,6 @@
   "2264": {
     "id": 2264,
     "name": "Namibia"
-  },
-  "5648": {
-    "id": 5648,
-    "name": "Doma United FC"
-  },
-  "574": {
-    "id": 574,
-    "name": "Warri Wolves FC"
   },
   "1264": {
     "id": 1264,
@@ -2599,6 +2599,30 @@
     "id": 2343,
     "name": "HNK Hajduk Split"
   },
+  "5066": {
+    "id": 5066,
+    "name": "FK Rabotnički Skopje"
+  },
+  "4003": {
+    "id": 4003,
+    "name": "Tikveš Kavadarci"
+  },
+  "2481": {
+    "id": 2481,
+    "name": "FK Partizani"
+  },
+  "4603": {
+    "id": 4603,
+    "name": "KF Drenica"
+  },
+  "1277": {
+    "id": 1277,
+    "name": "Frosinone"
+  },
+  "1281": {
+    "id": 1281,
+    "name": "Benevento"
+  },
   "1811": {
     "id": 1811,
     "name": "Podbeskidzie Bielsko-Biała"
@@ -2638,6 +2662,14 @@
   "4080": {
     "id": 4080,
     "name": "First Vienna FC"
+  },
+  "2083": {
+    "id": 2083,
+    "name": "IK Start"
+  },
+  "141": {
+    "id": 141,
+    "name": "SK Brann"
   },
   "3220": {
     "id": 3220,
@@ -2707,6 +2739,14 @@
     "id": 692,
     "name": "Palestine"
   },
+  "3318": {
+    "id": 3318,
+    "name": "Kolding IF"
+  },
+  "3120": {
+    "id": 3120,
+    "name": "Odense Boldklub"
+  },
   "90": {
     "id": 90,
     "name": "FC Augsburg"
@@ -2754,6 +2794,18 @@
   "2057": {
     "id": 2057,
     "name": "Venezuela"
+  },
+  "719": {
+    "id": 719,
+    "name": "Turkmenistan"
+  },
+  "1822": {
+    "id": 1822,
+    "name": "Wieczysta Kraków"
+  },
+  "1383": {
+    "id": 1383,
+    "name": "Puszcza Niepołomice"
   },
   "435": {
     "id": 435,
@@ -2830,6 +2882,22 @@
   "76": {
     "id": 76,
     "name": "Hellas Verona"
+  },
+  "2731": {
+    "id": 2731,
+    "name": "FK Pardubice"
+  },
+  "8770": {
+    "id": 8770,
+    "name": "FK Viktoria Žižkov"
+  },
+  "4024": {
+    "id": 4024,
+    "name": "Mladá Boleslav"
+  },
+  "4450": {
+    "id": 4450,
+    "name": "1.FK Příbram"
   },
   "2840": {
     "id": 2840,
