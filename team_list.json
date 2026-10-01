@@ -1,4 +1,84 @@
 {
+  "371": {
+    "id": 371,
+    "name": "Athletico"
+  },
+  "155": {
+    "id": 155,
+    "name": "Atlético Mineiro"
+  },
+  "928": {
+    "id": 928,
+    "name": "Náutico"
+  },
+  "836": {
+    "id": 836,
+    "name": "Grêmio Novorizontino"
+  },
+  "169": {
+    "id": 169,
+    "name": "Ceará"
+  },
+  "929": {
+    "id": 929,
+    "name": "Criciúma"
+  },
+  "165": {
+    "id": 165,
+    "name": "Santos"
+  },
+  "160": {
+    "id": 160,
+    "name": "Flamengo"
+  },
+  "4786": {
+    "id": 4786,
+    "name": "Rionegro Águilas Doradas"
+  },
+  "4780": {
+    "id": 4780,
+    "name": "Deportivo Pereira"
+  },
+  "363": {
+    "id": 363,
+    "name": "CFR 1907 Cluj"
+  },
+  "355": {
+    "id": 355,
+    "name": "FC Universitatea Cluj"
+  },
+  "377": {
+    "id": 377,
+    "name": "Kuopion Palloseura"
+  },
+  "2097": {
+    "id": 2097,
+    "name": "AC Oulu"
+  },
+  "2096": {
+    "id": 2096,
+    "name": "HJK"
+  },
+  "2093": {
+    "id": 2093,
+    "name": "VPS"
+  },
+  "766": {
+    "id": 766,
+    "name": "Atlético Nacional"
+  },
+  "781": {
+    "id": 781,
+    "name": "Deportes Tolima"
+  },
+  "150": {
+    "id": 150,
+    "name": "Cruzeiro"
+  },
+  "158": {
+    "id": 158,
+    "name": "São Paulo"
+  },
   "826": {
     "id": 826,
     "name": "Vila Nova FC"
@@ -603,13 +683,13 @@
     "id": 3926,
     "name": "Washington Spirit"
   },
-  "780": {
-    "id": 780,
-    "name": "Boca Juniors"
+  "806": {
+    "id": 806,
+    "name": "Argentinos Juniors"
   },
-  "4620": {
-    "id": 4620,
-    "name": "Club Atlético Unión de Santa Fe"
+  "739": {
+    "id": 739,
+    "name": "Tigre"
   },
   "2295": {
     "id": 2295,
@@ -638,10 +718,6 @@
   "4635": {
     "id": 4635,
     "name": "Cúcuta Deportivo"
-  },
-  "4780": {
-    "id": 4780,
-    "name": "Deportivo Pereira"
   },
   "2227": {
     "id": 2227,
@@ -1131,14 +1207,6 @@
     "id": 3932,
     "name": "Bay FC"
   },
-  "806": {
-    "id": 806,
-    "name": "Argentinos Juniors"
-  },
-  "739": {
-    "id": 739,
-    "name": "Tigre"
-  },
   "2224": {
     "id": 2224,
     "name": "Loudoun United FC"
@@ -1146,14 +1214,6 @@
   "2242": {
     "id": 2242,
     "name": "Indy Eleven"
-  },
-  "155": {
-    "id": 155,
-    "name": "Atlético Mineiro"
-  },
-  "781": {
-    "id": 781,
-    "name": "Deportes Tolima"
   },
   "4784": {
     "id": 4784,
@@ -1190,10 +1250,6 @@
   "3931": {
     "id": 3931,
     "name": "Utah Royals FC"
-  },
-  "4786": {
-    "id": 4786,
-    "name": "Rionegro Águilas Doradas"
   },
   "4785": {
     "id": 4785,
@@ -1955,10 +2011,6 @@
     "id": 920,
     "name": "Club Atlético de Madrid"
   },
-  "169": {
-    "id": 169,
-    "name": "Ceará"
-  },
   "3853": {
     "id": 3853,
     "name": "VfL Osnabrück"
@@ -2287,10 +2339,6 @@
     "id": 4783,
     "name": "Alianza Valledupar FC"
   },
-  "928": {
-    "id": 928,
-    "name": "Náutico"
-  },
   "774": {
     "id": 774,
     "name": "Independiente Rivadavia"
@@ -2298,6 +2346,14 @@
   "4998": {
     "id": 4998,
     "name": "Gimnasia y Esgrima"
+  },
+  "780": {
+    "id": 780,
+    "name": "Boca Juniors"
+  },
+  "4620": {
+    "id": 4620,
+    "name": "Club Atlético Unión de Santa Fe"
   },
   "498": {
     "id": 498,
@@ -2314,18 +2370,6 @@
   "3936": {
     "id": 3936,
     "name": "San Diego Wave FC"
-  },
-  "929": {
-    "id": 929,
-    "name": "Criciúma"
-  },
-  "158": {
-    "id": 158,
-    "name": "São Paulo"
-  },
-  "165": {
-    "id": 165,
-    "name": "Santos"
   },
   "2390": {
     "id": 2390,
@@ -2795,10 +2839,6 @@
     "id": 3891,
     "name": "Once Caldas"
   },
-  "836": {
-    "id": 836,
-    "name": "Grêmio Novorizontino"
-  },
   "2219": {
     "id": 2219,
     "name": "Gibraltar"
@@ -2915,72 +2955,8 @@
     "id": 744,
     "name": "Palestino"
   },
-  "766": {
-    "id": 766,
-    "name": "Atlético Nacional"
-  },
   "663": {
     "id": 663,
     "name": "Bolivia"
-  },
-  "281": {
-    "id": 281,
-    "name": "New York Red Bulls"
-  },
-  "274": {
-    "id": 274,
-    "name": "St.Louis City"
-  },
-  "282": {
-    "id": 282,
-    "name": "DC United"
-  },
-  "1293": {
-    "id": 1293,
-    "name": "SC Paderborn 07"
-  },
-  "8956": {
-    "id": 8956,
-    "name": "FC Seuzach"
-  },
-  "192": {
-    "id": 192,
-    "name": "Konyaspor"
-  },
-  "4177": {
-    "id": 4177,
-    "name": "SC Kalsdorf"
-  },
-  "1409": {
-    "id": 1409,
-    "name": "Grazer AK 1902"
-  },
-  "8893": {
-    "id": 8893,
-    "name": "HNK Segesta"
-  },
-  "133": {
-    "id": 133,
-    "name": "GNK Dinamo Zagreb"
-  },
-  "2272": {
-    "id": 2272,
-    "name": "Seychelles"
-  },
-  "2276": {
-    "id": 2276,
-    "name": "Djibouti"
-  },
-  "8894": {
-    "id": 8894,
-    "name": "CSM Deva"
-  },
-  "1295": {
-    "id": 1295,
-    "name": "Darmstadt 98"
-  },
-  "936": {
-    "id": 936,
-    "name": "Chile"
   }
 }
