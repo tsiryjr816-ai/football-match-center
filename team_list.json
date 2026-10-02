@@ -819,6 +819,14 @@
     "id": 715,
     "name": "Slovenia"
   },
+  "484": {
+    "id": 484,
+    "name": "Jordan"
+  },
+  "2057": {
+    "id": 2057,
+    "name": "Venezuela"
+  },
   "697": {
     "id": 697,
     "name": "Russia"
@@ -1491,14 +1499,6 @@
     "id": 8829,
     "name": "Sporting Hortaleza"
   },
-  "1498": {
-    "id": 1498,
-    "name": "Atletico Melilla CF"
-  },
-  "8828": {
-    "id": 8828,
-    "name": "UD Pinatar"
-  },
   "1316": {
     "id": 1316,
     "name": "SC Farense"
@@ -1670,6 +1670,14 @@
   "713": {
     "id": 713,
     "name": "Peru"
+  },
+  "1498": {
+    "id": 1498,
+    "name": "Atletico Melilla CF"
+  },
+  "8828": {
+    "id": 8828,
+    "name": "UD Pinatar"
   },
   "2069": {
     "id": 2069,
@@ -2499,6 +2507,14 @@
     "id": 384,
     "name": "KF Shkëndija"
   },
+  "3569": {
+    "id": 3569,
+    "name": "FC Koper"
+  },
+  "1601": {
+    "id": 1601,
+    "name": "L.R. Vicenza"
+  },
   "2289": {
     "id": 2289,
     "name": "Sri Lanka"
@@ -2506,14 +2522,6 @@
   "2276": {
     "id": 2276,
     "name": "Djibouti"
-  },
-  "362": {
-    "id": 362,
-    "name": "FC Petrolul Ploiești"
-  },
-  "2216": {
-    "id": 2216,
-    "name": "Chindia Târgoviște"
   },
   "4397": {
     "id": 4397,
@@ -2583,6 +2591,22 @@
     "id": 1397,
     "name": "Eibar"
   },
+  "375": {
+    "id": 375,
+    "name": "Lech Poznań"
+  },
+  "1836": {
+    "id": 1836,
+    "name": "Energie Cottbus"
+  },
+  "14": {
+    "id": 14,
+    "name": "Crystal Palace"
+  },
+  "220": {
+    "id": 220,
+    "name": "Bristol City"
+  },
   "438": {
     "id": 438,
     "name": "Hammarby IF"
@@ -2602,6 +2626,14 @@
   "1419": {
     "id": 1419,
     "name": "Tranmere Rovers"
+  },
+  "2084": {
+    "id": 2084,
+    "name": "Vålerenga IF"
+  },
+  "2075": {
+    "id": 2075,
+    "name": "HamKam"
   },
   "1289": {
     "id": 1289,
@@ -2683,6 +2715,30 @@
     "id": 445,
     "name": "Östers IF"
   },
+  "4226": {
+    "id": 4226,
+    "name": "Ludogorets II"
+  },
+  "3841": {
+    "id": 3841,
+    "name": "FK Dunav Ruse"
+  },
+  "1816": {
+    "id": 1816,
+    "name": "Chrobry Głogów"
+  },
+  "1379": {
+    "id": 1379,
+    "name": "Warta Poznań"
+  },
+  "403": {
+    "id": 403,
+    "name": "Legia Warszawa"
+  },
+  "426": {
+    "id": 426,
+    "name": "MKS Korona Kielce"
+  },
   "392": {
     "id": 392,
     "name": "FK Žalgiris"
@@ -2715,13 +2771,49 @@
     "id": 2733,
     "name": "AS Trenčín"
   },
-  "346": {
-    "id": 346,
-    "name": "Slavia Sofia"
+  "424": {
+    "id": 424,
+    "name": "Zagłębie Lubin"
+  },
+  "1779": {
+    "id": 1779,
+    "name": "Miedź Legnica"
+  },
+  "104": {
+    "id": 104,
+    "name": "Toulouse"
+  },
+  "101": {
+    "id": 101,
+    "name": "AS Monaco"
+  },
+  "72": {
+    "id": 72,
+    "name": "Pisa"
+  },
+  "77": {
+    "id": 77,
+    "name": "Inter"
+  },
+  "4988": {
+    "id": 4988,
+    "name": "Lumezzane"
+  },
+  "361": {
+    "id": 361,
+    "name": "SC Oțelul Galați"
+  },
+  "4150": {
+    "id": 4150,
+    "name": "ACS FC Bacău"
   },
   "347": {
     "id": 347,
     "name": "Botev Vratsa"
+  },
+  "346": {
+    "id": 346,
+    "name": "Slavia Sofia"
   },
   "356": {
     "id": 356,
@@ -2730,6 +2822,22 @@
   "3429": {
     "id": 3429,
     "name": "CSM Slatina"
+  },
+  "362": {
+    "id": 362,
+    "name": "FC Petrolul Ploiești"
+  },
+  "2216": {
+    "id": 2216,
+    "name": "Chindia Târgoviște"
+  },
+  "3399": {
+    "id": 3399,
+    "name": "FC Ararat"
+  },
+  "3298": {
+    "id": 3298,
+    "name": "FC Ararat-Armenia"
   },
   "3939": {
     "id": 3939,
@@ -2831,6 +2939,18 @@
     "id": 1840,
     "name": "1. FC Saarbrücken"
   },
+  "1619": {
+    "id": 1619,
+    "name": "Le Mans"
+  },
+  "1305": {
+    "id": 1305,
+    "name": "Dijon"
+  },
+  "1303": {
+    "id": 1303,
+    "name": "Troyes"
+  },
   "357": {
     "id": 357,
     "name": "FC Rapid București"
@@ -2863,6 +2983,14 @@
     "id": 1865,
     "name": "SG Dynamo Dresden"
   },
+  "1375": {
+    "id": 1375,
+    "name": "Brøndby IF"
+  },
+  "447": {
+    "id": 447,
+    "name": "IK Sirius"
+  },
   "147": {
     "id": 147,
     "name": "Red Bull Salzburg"
@@ -2870,6 +2998,10 @@
   "1412": {
     "id": 1412,
     "name": "FC Blau Weiss Linz"
+  },
+  "5020": {
+    "id": 5020,
+    "name": "HNK Orijent"
   },
   "2271": {
     "id": 2271,
@@ -2999,6 +3131,14 @@
     "id": 343,
     "name": "FK Septemvri Sofia"
   },
+  "4071": {
+    "id": 4071,
+    "name": "HNK Gorica"
+  },
+  "2598": {
+    "id": 2598,
+    "name": "NK Bravo"
+  },
   "249": {
     "id": 249,
     "name": "Grasshopper Club Zürich"
@@ -3026,14 +3166,6 @@
   "1366": {
     "id": 1366,
     "name": "Neuchâtel Xamax"
-  },
-  "3569": {
-    "id": 3569,
-    "name": "FC Koper"
-  },
-  "5020": {
-    "id": 5020,
-    "name": "HNK Orijent"
   },
   "251": {
     "id": 251,
@@ -3070,14 +3202,6 @@
   "4465": {
     "id": 4465,
     "name": "CS Afumați"
-  },
-  "4071": {
-    "id": 4071,
-    "name": "HNK Gorica"
-  },
-  "2598": {
-    "id": 2598,
-    "name": "NK Bravo"
   },
   "405": {
     "id": 405,
@@ -3118,6 +3242,10 @@
   "692": {
     "id": 692,
     "name": "Palestine"
+  },
+  "178": {
+    "id": 178,
+    "name": "FC Twente"
   },
   "1834": {
     "id": 1834,
@@ -3166,10 +3294,6 @@
   "8895": {
     "id": 8895,
     "name": "Hertha Berlin U19"
-  },
-  "2057": {
-    "id": 2057,
-    "name": "Venezuela"
   },
   "719": {
     "id": 719,
