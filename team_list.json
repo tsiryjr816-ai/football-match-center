@@ -2431,14 +2431,6 @@
     "id": 436,
     "name": "Djurgårdens IF"
   },
-  "2871": {
-    "id": 2871,
-    "name": "SC Austria Lustenau"
-  },
-  "1290": {
-    "id": 1290,
-    "name": "FC Schalke 04"
-  },
   "5064": {
     "id": 5064,
     "name": "Torpedo-BelAZ Zhodino"
@@ -2494,6 +2486,14 @@
   "2838": {
     "id": 2838,
     "name": "Riga FC"
+  },
+  "2871": {
+    "id": 2871,
+    "name": "SC Austria Lustenau"
+  },
+  "1290": {
+    "id": 1290,
+    "name": "FC Schalke 04"
   },
   "70": {
     "id": 70,
