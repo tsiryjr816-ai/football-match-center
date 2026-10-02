@@ -7,6 +7,14 @@
     "id": 2240,
     "name": "FC Tulsa"
   },
+  "4783": {
+    "id": 4783,
+    "name": "Alianza Valledupar FC"
+  },
+  "4786": {
+    "id": 4786,
+    "name": "Rionegro Águilas Doradas"
+  },
   "4996": {
     "id": 4996,
     "name": "Instituto De Córdoba"
@@ -422,10 +430,6 @@
   "160": {
     "id": 160,
     "name": "Flamengo"
-  },
-  "4786": {
-    "id": 4786,
-    "name": "Rionegro Águilas Doradas"
   },
   "4780": {
     "id": 4780,
@@ -2427,6 +2431,14 @@
     "id": 436,
     "name": "Djurgårdens IF"
   },
+  "2871": {
+    "id": 2871,
+    "name": "SC Austria Lustenau"
+  },
+  "1290": {
+    "id": 1290,
+    "name": "FC Schalke 04"
+  },
   "5064": {
     "id": 5064,
     "name": "Torpedo-BelAZ Zhodino"
@@ -2482,14 +2494,6 @@
   "2838": {
     "id": 2838,
     "name": "Riga FC"
-  },
-  "2871": {
-    "id": 2871,
-    "name": "SC Austria Lustenau"
-  },
-  "1290": {
-    "id": 1290,
-    "name": "FC Schalke 04"
   },
   "70": {
     "id": 70,
@@ -2554,14 +2558,6 @@
   "1866": {
     "id": 1866,
     "name": "Rot-Weiss Essen"
-  },
-  "420": {
-    "id": 420,
-    "name": "Jagiellonia Białystok"
-  },
-  "1804": {
-    "id": 1804,
-    "name": "Polonia Warszawa"
   },
   "1376": {
     "id": 1376,
@@ -2715,6 +2711,14 @@
     "id": 445,
     "name": "Östers IF"
   },
+  "420": {
+    "id": 420,
+    "name": "Jagiellonia Białystok"
+  },
+  "1804": {
+    "id": 1804,
+    "name": "Polonia Warszawa"
+  },
   "4226": {
     "id": 4226,
     "name": "Ludogorets II"
@@ -2815,6 +2819,14 @@
     "id": 346,
     "name": "Slavia Sofia"
   },
+  "2216": {
+    "id": 2216,
+    "name": "Chindia Târgoviște"
+  },
+  "362": {
+    "id": 362,
+    "name": "FC Petrolul Ploiești"
+  },
   "356": {
     "id": 356,
     "name": "FC Argeș Pitești"
@@ -2822,14 +2834,6 @@
   "3429": {
     "id": 3429,
     "name": "CSM Slatina"
-  },
-  "362": {
-    "id": 362,
-    "name": "FC Petrolul Ploiești"
-  },
-  "2216": {
-    "id": 2216,
-    "name": "Chindia Târgoviște"
   },
   "3399": {
     "id": 3399,
@@ -2850,10 +2854,6 @@
   "3733": {
     "id": 3733,
     "name": "Deportivo Cali"
-  },
-  "4783": {
-    "id": 4783,
-    "name": "Alianza Valledupar FC"
   },
   "774": {
     "id": 774,
