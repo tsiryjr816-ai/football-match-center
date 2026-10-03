@@ -2943,6 +2943,22 @@
     "id": 925,
     "name": "Logroño United"
   },
+  "388": {
+    "id": 388,
+    "name": "Dinamo Minsk"
+  },
+  "8961": {
+    "id": 8961,
+    "name": "Uni X Labs Minsk"
+  },
+  "3429": {
+    "id": 3429,
+    "name": "CSM Slatina"
+  },
+  "359": {
+    "id": 359,
+    "name": "Universitatea Craiova"
+  },
   "2238": {
     "id": 2238,
     "name": "Las Vegas Lights"
@@ -2986,6 +3002,10 @@
   "2239": {
     "id": 2239,
     "name": "Sacramento Republic FC"
+  },
+  "317": {
+    "id": 317,
+    "name": "CF Monterrey"
   },
   "4801": {
     "id": 4801,
@@ -3079,6 +3099,14 @@
     "id": 742,
     "name": "San Lorenzo"
   },
+  "432": {
+    "id": 432,
+    "name": "Arka Gdynia"
+  },
+  "2860": {
+    "id": 2860,
+    "name": "Al Ahly Benghazi"
+  },
   "1270": {
     "id": 1270,
     "name": "Cádiz"
@@ -3090,6 +3118,14 @@
   "1460": {
     "id": 1460,
     "name": "FC Andorra"
+  },
+  "404": {
+    "id": 404,
+    "name": "AEK Larnaca"
+  },
+  "2345": {
+    "id": 2345,
+    "name": "Apollon Limassol"
   },
   "1286": {
     "id": 1286,
@@ -3515,6 +3551,14 @@
     "id": 436,
     "name": "Djurgårdens IF"
   },
+  "3551": {
+    "id": 3551,
+    "name": "FC Kharkiv"
+  },
+  "3273": {
+    "id": 3273,
+    "name": "Polissya Zhytomyr"
+  },
   "5064": {
     "id": 5064,
     "name": "Torpedo-BelAZ Zhodino"
@@ -3635,6 +3679,10 @@
     "id": 1866,
     "name": "Rot-Weiss Essen"
   },
+  "1804": {
+    "id": 1804,
+    "name": "Polonia Warszawa"
+  },
   "1376": {
     "id": 1376,
     "name": "Viborg FF"
@@ -3727,10 +3775,6 @@
     "id": 445,
     "name": "Östers IF"
   },
-  "1804": {
-    "id": 1804,
-    "name": "Polonia Warszawa"
-  },
   "4226": {
     "id": 4226,
     "name": "Ludogorets II"
@@ -3806,10 +3850,6 @@
   "362": {
     "id": 362,
     "name": "FC Petrolul Ploiești"
-  },
-  "3429": {
-    "id": 3429,
-    "name": "CSM Slatina"
   },
   "3399": {
     "id": 3399,
