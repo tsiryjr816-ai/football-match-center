@@ -135,6 +135,14 @@
     "id": 2229,
     "name": "Birmingham Legion FC"
   },
+  "4995": {
+    "id": 4995,
+    "name": "Central Córdoba"
+  },
+  "787": {
+    "id": 787,
+    "name": "Estudiantes de La Plata"
+  },
   "164": {
     "id": 164,
     "name": "Vasco da Gama"
@@ -1463,14 +1471,6 @@
     "id": 1942,
     "name": "Nagoya Grampus"
   },
-  "1945": {
-    "id": 1945,
-    "name": "Kashiwa Reysol"
-  },
-  "1931": {
-    "id": 1931,
-    "name": "Vissel Kobe"
-  },
   "1934": {
     "id": 1934,
     "name": "JEF United Chiba"
@@ -1542,6 +1542,14 @@
   "318": {
     "id": 318,
     "name": "Club León"
+  },
+  "4620": {
+    "id": 4620,
+    "name": "Club Atlético Unión de Santa Fe"
+  },
+  "3136": {
+    "id": 3136,
+    "name": "Defensa y Justicia"
   },
   "2221": {
     "id": 2221,
@@ -1647,14 +1655,6 @@
     "id": 4853,
     "name": "KAS Eupen"
   },
-  "1825": {
-    "id": 1825,
-    "name": "Patro Eisden Maasmechelen"
-  },
-  "3729": {
-    "id": 3729,
-    "name": "Jong KRC Genk U23"
-  },
   "3972": {
     "id": 3972,
     "name": "KAA Gent Reserve U23"
@@ -1758,6 +1758,14 @@
   "26": {
     "id": 26,
     "name": "AVS - Futebol SAD"
+  },
+  "1332": {
+    "id": 1332,
+    "name": "FC Nordsjælland"
+  },
+  "3120": {
+    "id": 3120,
+    "name": "Odense Boldklub"
   },
   "125": {
     "id": 125,
@@ -1886,6 +1894,14 @@
   "2038": {
     "id": 2038,
     "name": "Henan FC"
+  },
+  "1945": {
+    "id": 1945,
+    "name": "Kashiwa Reysol"
+  },
+  "1931": {
+    "id": 1931,
+    "name": "Vissel Kobe"
   },
   "1937": {
     "id": 1937,
@@ -2387,10 +2403,6 @@
     "id": 796,
     "name": "Club Atlético Platense"
   },
-  "787": {
-    "id": 787,
-    "name": "Estudiantes de La Plata"
-  },
   "3125": {
     "id": 3125,
     "name": "Gimnasia y Esgrima Mendoza"
@@ -2414,10 +2426,6 @@
   "743": {
     "id": 743,
     "name": "Deportivo Riestra"
-  },
-  "4995": {
-    "id": 4995,
-    "name": "Central Córdoba"
   },
   "2308": {
     "id": 2308,
@@ -2494,6 +2502,14 @@
   "2262": {
     "id": 2262,
     "name": "Latvia"
+  },
+  "470": {
+    "id": 470,
+    "name": "Japan"
+  },
+  "482": {
+    "id": 482,
+    "name": "New Zealand"
   },
   "698": {
     "id": 698,
@@ -3059,10 +3075,6 @@
     "id": 2065,
     "name": "Kawkab Athletic Club Marrakech"
   },
-  "3136": {
-    "id": 3136,
-    "name": "Defensa y Justicia"
-  },
   "742": {
     "id": 742,
     "name": "San Lorenzo"
@@ -3483,6 +3495,14 @@
     "id": 920,
     "name": "Club Atlético de Madrid"
   },
+  "1406": {
+    "id": 1406,
+    "name": "TSV Hartberg"
+  },
+  "1335": {
+    "id": 1335,
+    "name": "NK Maribor"
+  },
   "91": {
     "id": 91,
     "name": "FC St. Pauli"
@@ -3563,6 +3583,14 @@
     "id": 384,
     "name": "KF Shkëndija"
   },
+  "8827": {
+    "id": 8827,
+    "name": "Real Maldives FC"
+  },
+  "8245": {
+    "id": 8245,
+    "name": "Foresters FC"
+  },
   "3569": {
     "id": 3569,
     "name": "FC Koper"
@@ -3618,14 +3646,6 @@
   "94": {
     "id": 94,
     "name": "1. FC Köln"
-  },
-  "6301": {
-    "id": 6301,
-    "name": "Fomboni FC"
-  },
-  "8238": {
-    "id": 8238,
-    "name": "FC 15 de Agosto de Akonibe"
   },
   "1395": {
     "id": 1395,
@@ -3694,10 +3714,6 @@
   "135": {
     "id": 135,
     "name": "Malmö FF"
-  },
-  "1332": {
-    "id": 1332,
-    "name": "FC Nordsjælland"
   },
   "89": {
     "id": 89,
@@ -3818,10 +3834,6 @@
   "774": {
     "id": 774,
     "name": "Independiente Rivadavia"
-  },
-  "4620": {
-    "id": 4620,
-    "name": "Club Atlético Unión de Santa Fe"
   },
   "498": {
     "id": 498,
