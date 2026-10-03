@@ -2523,6 +2523,14 @@
     "id": 753,
     "name": "América de Cali"
   },
+  "320": {
+    "id": 320,
+    "name": "CD Guadalajara"
+  },
+  "307": {
+    "id": 307,
+    "name": "Club América"
+  },
   "5000": {
     "id": 5000,
     "name": "Estudiantes de Río Cuarto"
@@ -2715,6 +2723,14 @@
     "id": 1398,
     "name": "CD Castellón"
   },
+  "1331": {
+    "id": 1331,
+    "name": "Zenit St. Petersburg"
+  },
+  "3902": {
+    "id": 3902,
+    "name": "BATE Borisov"
+  },
   "8817": {
     "id": 8817,
     "name": "UE Tavernes"
@@ -2823,14 +2839,6 @@
     "id": 926,
     "name": "Real Madrid"
   },
-  "8718": {
-    "id": 8718,
-    "name": "Santa Clara Azores B"
-  },
-  "3248": {
-    "id": 3248,
-    "name": "Real SC"
-  },
   "1267": {
     "id": 1267,
     "name": "Sporting Gijón"
@@ -2918,6 +2926,14 @@
   "8829": {
     "id": 8829,
     "name": "Sporting Hortaleza"
+  },
+  "8718": {
+    "id": 8718,
+    "name": "Santa Clara Azores B"
+  },
+  "3248": {
+    "id": 3248,
+    "name": "Real SC"
   },
   "1316": {
     "id": 1316,
