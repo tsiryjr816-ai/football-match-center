@@ -263,6 +263,14 @@
     "id": 743,
     "name": "Deportivo Riestra"
   },
+  "1597": {
+    "id": 1597,
+    "name": "Modena"
+  },
+  "76": {
+    "id": 76,
+    "name": "Hellas Verona"
+  },
   "3972": {
     "id": 3972,
     "name": "KAA Gent Reserve U23"
@@ -414,6 +422,14 @@
   "4909": {
     "id": 4909,
     "name": "Al Faisaly"
+  },
+  "1600": {
+    "id": 1600,
+    "name": "Padova"
+  },
+  "1596": {
+    "id": 1596,
+    "name": "Carrarese"
   },
   "97": {
     "id": 97,
@@ -894,6 +910,14 @@
   "95": {
     "id": 95,
     "name": "Borussia M'gladbach"
+  },
+  "1605": {
+    "id": 1605,
+    "name": "Catanzaro"
+  },
+  "1607": {
+    "id": 1607,
+    "name": "Mantova"
   },
   "3567": {
     "id": 3567,
@@ -1671,6 +1695,14 @@
     "id": 2352,
     "name": "Huracán"
   },
+  "3887": {
+    "id": 3887,
+    "name": "Arezzo"
+  },
+  "64": {
+    "id": 64,
+    "name": "Cremonese"
+  },
   "1410": {
     "id": 1410,
     "name": "FK Austria Wien"
@@ -1870,6 +1902,14 @@
   "443": {
     "id": 443,
     "name": "Degerfors IF"
+  },
+  "1601": {
+    "id": 1601,
+    "name": "L.R. Vicenza"
+  },
+  "72": {
+    "id": 72,
+    "name": "Pisa"
   },
   "106": {
     "id": 106,
@@ -2503,6 +2543,38 @@
     "id": 1833,
     "name": "SV 07 Elversberg"
   },
+  "1598": {
+    "id": 1598,
+    "name": "Virtus Entella"
+  },
+  "1606": {
+    "id": 1606,
+    "name": "Juve Stabia"
+  },
+  "1608": {
+    "id": 1608,
+    "name": "Südtirol"
+  },
+  "3889": {
+    "id": 3889,
+    "name": "Ascoli"
+  },
+  "1276": {
+    "id": 1276,
+    "name": "Empoli"
+  },
+  "1393": {
+    "id": 1393,
+    "name": "Palermo"
+  },
+  "1281": {
+    "id": 1281,
+    "name": "Benevento"
+  },
+  "1275": {
+    "id": 1275,
+    "name": "Cesena"
+  },
   "2557": {
     "id": 2557,
     "name": "FC Zbrojovka Brno"
@@ -2974,6 +3046,14 @@
   "100": {
     "id": 100,
     "name": "Olympique Lyonnais"
+  },
+  "1602": {
+    "id": 1602,
+    "name": "US Avellino 1912"
+  },
+  "1271": {
+    "id": 1271,
+    "name": "Sampdoria"
   },
   "92": {
     "id": 92,
