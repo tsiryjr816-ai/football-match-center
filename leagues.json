@@ -833,10 +833,10 @@
           {
             "stage": "qualification-round-3",
             "stage_name": "Qualification Round 3",
-            "matches": 40,
+            "matches": 45,
             "rounds": 1,
             "start_date": "2026-10-03",
-            "end_date": "2026-10-03"
+            "end_date": "2026-10-06"
           }
         ]
       }
