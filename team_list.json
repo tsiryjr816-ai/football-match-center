@@ -743,6 +743,14 @@
     "id": 6729,
     "name": "Recreativo do Libolo"
   },
+  "8755": {
+    "id": 8755,
+    "name": "Desportivo da Huíla"
+  },
+  "8757": {
+    "id": 8757,
+    "name": "CD São Salvador"
+  },
   "8756": {
     "id": 8756,
     "name": "1º de Maio de Benguela"
@@ -2215,14 +2223,6 @@
     "id": 265,
     "name": "Al-Khaleej"
   },
-  "8755": {
-    "id": 8755,
-    "name": "Desportivo da Huíla"
-  },
-  "8757": {
-    "id": 8757,
-    "name": "CD São Salvador"
-  },
   "3334": {
     "id": 3334,
     "name": "Leixões SC"
@@ -3443,14 +3443,6 @@
     "id": 120,
     "name": "SK Slavia Praha"
   },
-  "597": {
-    "id": 597,
-    "name": "Atlético Petróleos de Luanda"
-  },
-  "8760": {
-    "id": 8760,
-    "name": "Recreativo da Caala"
-  },
   "425": {
     "id": 425,
     "name": "Wisła Płock"
@@ -3478,6 +3470,14 @@
   "258": {
     "id": 258,
     "name": "Al-Ahli"
+  },
+  "597": {
+    "id": 597,
+    "name": "Atlético Petróleos de Luanda"
+  },
+  "8760": {
+    "id": 8760,
+    "name": "Recreativo da Caala"
   },
   "261": {
     "id": 261,
@@ -3798,6 +3798,10 @@
   "715": {
     "id": 715,
     "name": "Slovenia"
+  },
+  "1452": {
+    "id": 1452,
+    "name": "CF Talavera"
   },
   "490": {
     "id": 490,
