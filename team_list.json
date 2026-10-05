@@ -383,14 +383,6 @@
     "id": 47,
     "name": "Valencia"
   },
-  "55": {
-    "id": 55,
-    "name": "Elche"
-  },
-  "49": {
-    "id": 49,
-    "name": "Celta Vigo"
-  },
   "156": {
     "id": 156,
     "name": "Juventude"
@@ -438,22 +430,6 @@
   "266": {
     "id": 266,
     "name": "Al-Taawoun"
-  },
-  "4823": {
-    "id": 4823,
-    "name": "UD Santarém"
-  },
-  "4824": {
-    "id": 4824,
-    "name": "Lusitano Ginásio Clube"
-  },
-  "4124": {
-    "id": 4124,
-    "name": "Atletico CP"
-  },
-  "4821": {
-    "id": 4821,
-    "name": "Caldas SC"
   },
   "118": {
     "id": 118,
@@ -1055,6 +1031,22 @@
     "id": 1370,
     "name": "Lyngby"
   },
+  "4823": {
+    "id": 4823,
+    "name": "UD Santarém"
+  },
+  "4824": {
+    "id": 4824,
+    "name": "Lusitano Ginásio Clube"
+  },
+  "4124": {
+    "id": 4124,
+    "name": "Atletico CP"
+  },
+  "4821": {
+    "id": 4821,
+    "name": "Caldas SC"
+  },
   "4286": {
     "id": 4286,
     "name": "SC São João Ver"
@@ -1078,6 +1070,14 @@
   "326": {
     "id": 326,
     "name": "GFS Panetolikos"
+  },
+  "116": {
+    "id": 116,
+    "name": "Royale Union Saint-Gilloise"
+  },
+  "242": {
+    "id": 242,
+    "name": "Oud-Heverlee Leuven"
   },
   "269": {
     "id": 269,
@@ -1295,6 +1295,14 @@
     "id": 1398,
     "name": "CD Castellón"
   },
+  "55": {
+    "id": 55,
+    "name": "Elche"
+  },
+  "49": {
+    "id": 49,
+    "name": "Celta Vigo"
+  },
   "343": {
     "id": 343,
     "name": "FK Septemvri Sofia"
@@ -1447,6 +1455,22 @@
     "id": 2036,
     "name": "Dalian Yingbo FC"
   },
+  "1944": {
+    "id": 1944,
+    "name": "Kawasaki Frontale"
+  },
+  "1942": {
+    "id": 1942,
+    "name": "Nagoya Grampus"
+  },
+  "1946": {
+    "id": 1946,
+    "name": "Tokyo Verdy"
+  },
+  "1933": {
+    "id": 1933,
+    "name": "Sanfrecce Hiroshima"
+  },
   "1947": {
     "id": 1947,
     "name": "Mito Hollyhock"
@@ -1454,6 +1478,14 @@
   "1943": {
     "id": 1943,
     "name": "Shimizu S-Pulse"
+  },
+  "1934": {
+    "id": 1934,
+    "name": "JEF United Chiba"
+  },
+  "1932": {
+    "id": 1932,
+    "name": "V-Varen Nagasaki"
   },
   "1957": {
     "id": 1957,
@@ -3071,14 +3103,6 @@
     "id": 4825,
     "name": "AD Marco 09"
   },
-  "1946": {
-    "id": 1946,
-    "name": "Tokyo Verdy"
-  },
-  "1933": {
-    "id": 1933,
-    "name": "Sanfrecce Hiroshima"
-  },
   "1930": {
     "id": 1930,
     "name": "Kyoto Sanga FC"
@@ -3086,22 +3110,6 @@
   "1929": {
     "id": 1929,
     "name": "Machida Zelvia"
-  },
-  "1944": {
-    "id": 1944,
-    "name": "Kawasaki Frontale"
-  },
-  "1942": {
-    "id": 1942,
-    "name": "Nagoya Grampus"
-  },
-  "1934": {
-    "id": 1934,
-    "name": "JEF United Chiba"
-  },
-  "1932": {
-    "id": 1932,
-    "name": "V-Varen Nagasaki"
   },
   "1952": {
     "id": 1952,
@@ -3442,14 +3450,6 @@
   "8760": {
     "id": 8760,
     "name": "Recreativo da Caala"
-  },
-  "116": {
-    "id": 116,
-    "name": "Royale Union Saint-Gilloise"
-  },
-  "242": {
-    "id": 242,
-    "name": "Oud-Heverlee Leuven"
   },
   "425": {
     "id": 425,
