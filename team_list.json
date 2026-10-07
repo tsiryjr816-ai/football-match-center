@@ -843,6 +843,10 @@
     "id": 159,
     "name": "Sport Recife"
   },
+  "4782": {
+    "id": 4782,
+    "name": "Fortaleza FC"
+  },
   "1270": {
     "id": 1270,
     "name": "Cádiz"
@@ -1146,14 +1150,6 @@
   "571": {
     "id": 571,
     "name": "Enugu Rangers International"
-  },
-  "573": {
-    "id": 573,
-    "name": "Katsina United"
-  },
-  "568": {
-    "id": 568,
-    "name": "Enyimba"
   },
   "565": {
     "id": 565,
@@ -3559,6 +3555,14 @@
     "id": 2840,
     "name": "FC Zlín"
   },
+  "573": {
+    "id": 573,
+    "name": "Katsina United"
+  },
+  "568": {
+    "id": 568,
+    "name": "Enyimba"
+  },
   "425": {
     "id": 425,
     "name": "Wisła Płock"
@@ -3666,10 +3670,6 @@
   "1954": {
     "id": 1954,
     "name": "Jeonbuk Hyundai Motors"
-  },
-  "4782": {
-    "id": 4782,
-    "name": "Fortaleza FC"
   },
   "8617": {
     "id": 8617,

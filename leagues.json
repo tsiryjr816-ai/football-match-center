@@ -595,7 +595,7 @@
           {
             "stage": "league-phase",
             "stage_name": "League phase",
-            "matches": 424,
+            "matches": 425,
             "rounds": 19,
             "start_date": "2026-01-16",
             "end_date": "2026-11-08"
@@ -660,10 +660,18 @@
           {
             "stage": "round-of-16",
             "stage_name": "Round of 16",
-            "matches": 19,
+            "matches": 20,
             "rounds": 1,
             "start_date": "2026-08-13",
-            "end_date": "2026-10-03"
+            "end_date": "2026-10-11"
+          },
+          {
+            "stage": "quarterfinals",
+            "stage_name": "Quarterfinals",
+            "matches": 2,
+            "rounds": 1,
+            "start_date": "2026-10-15",
+            "end_date": "2026-10-15"
           }
         ]
       }
@@ -866,7 +874,7 @@
           {
             "stage": "regular-season",
             "stage_name": "Regular season",
-            "matches": 563,
+            "matches": 564,
             "rounds": 46,
             "start_date": "2026-08-15",
             "end_date": "2027-05-08"
