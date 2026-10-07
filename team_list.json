@@ -1103,14 +1103,6 @@
     "id": 8255,
     "name": "Inter Lagos FC"
   },
-  "8256": {
-    "id": 8256,
-    "name": "Ranchers Bees"
-  },
-  "581": {
-    "id": 581,
-    "name": "Niger Tornadoes"
-  },
   "582": {
     "id": 582,
     "name": "Nasarawa United"
@@ -2486,6 +2478,14 @@
   "102": {
     "id": 102,
     "name": "Le Havre"
+  },
+  "8256": {
+    "id": 8256,
+    "name": "Ranchers Bees"
+  },
+  "581": {
+    "id": 581,
+    "name": "Niger Tornadoes"
   },
   "576": {
     "id": 576,
