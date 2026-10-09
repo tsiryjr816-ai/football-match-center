@@ -291,14 +291,6 @@
     "id": 266,
     "name": "Al-Taawoun"
   },
-  "267": {
-    "id": 267,
-    "name": "Al-Nassr"
-  },
-  "259": {
-    "id": 259,
-    "name": "Neom SC"
-  },
   "3256": {
     "id": 3256,
     "name": "Diriyah"
@@ -458,6 +450,10 @@
   "258": {
     "id": 258,
     "name": "Al-Ahli"
+  },
+  "267": {
+    "id": 267,
+    "name": "Al-Nassr"
   },
   "377": {
     "id": 377,
@@ -1119,14 +1115,6 @@
     "id": 22,
     "name": "Sporting CP"
   },
-  "4784": {
-    "id": 4784,
-    "name": "Boyacá Chicó FC"
-  },
-  "4635": {
-    "id": 4635,
-    "name": "Cúcuta Deportivo"
-  },
   "927": {
     "id": 927,
     "name": "Botafogo-SP"
@@ -1382,6 +1370,14 @@
   "2390": {
     "id": 2390,
     "name": "CA Independiente"
+  },
+  "4784": {
+    "id": 4784,
+    "name": "Boyacá Chicó FC"
+  },
+  "4635": {
+    "id": 4635,
+    "name": "Cúcuta Deportivo"
   },
   "316": {
     "id": 316,
@@ -3195,6 +3191,10 @@
     "id": 2079,
     "name": "Kristiansund BK"
   },
+  "259": {
+    "id": 259,
+    "name": "Neom SC"
+  },
   "1909": {
     "id": 1909,
     "name": "US Ben Guerdane"
@@ -3667,14 +3667,6 @@
     "id": 1054,
     "name": "Västerås SK"
   },
-  "573": {
-    "id": 573,
-    "name": "Katsina United"
-  },
-  "568": {
-    "id": 568,
-    "name": "Enyimba"
-  },
   "1830": {
     "id": 1830,
     "name": "Eintracht Braunschweig"
@@ -3690,6 +3682,14 @@
   "2840": {
     "id": 2840,
     "name": "FC Zlín"
+  },
+  "573": {
+    "id": 573,
+    "name": "Katsina United"
+  },
+  "568": {
+    "id": 568,
+    "name": "Enyimba"
   },
   "425": {
     "id": 425,
