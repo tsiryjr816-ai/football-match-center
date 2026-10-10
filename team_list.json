@@ -975,14 +975,6 @@
     "id": 1434,
     "name": "Chesterfield"
   },
-  "1446": {
-    "id": 1446,
-    "name": "Oldham Athletic"
-  },
-  "1426": {
-    "id": 1426,
-    "name": "Cheltenham Town"
-  },
   "1429": {
     "id": 1429,
     "name": "Newport County"
@@ -3771,6 +3763,10 @@
     "id": 4922,
     "name": "AD Machico"
   },
+  "1426": {
+    "id": 1426,
+    "name": "Cheltenham Town"
+  },
   "4831": {
     "id": 4831,
     "name": "GD Vitória Sernache"
@@ -3866,6 +3862,10 @@
   "2029": {
     "id": 2029,
     "name": "Chengdu Rongcheng"
+  },
+  "1446": {
+    "id": 1446,
+    "name": "Oldham Athletic"
   },
   "19": {
     "id": 19,
