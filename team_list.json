@@ -71,6 +71,22 @@
     "id": 4785,
     "name": "Jaguares de Córdoba"
   },
+  "2397": {
+    "id": 2397,
+    "name": "Vélez Sarsfield"
+  },
+  "3125": {
+    "id": 3125,
+    "name": "Gimnasia y Esgrima Mendoza"
+  },
+  "3132": {
+    "id": 3132,
+    "name": "Atlético Tucumán"
+  },
+  "792": {
+    "id": 792,
+    "name": "Rosario Central"
+  },
   "3934": {
     "id": 3934,
     "name": "North Carolina Courage"
@@ -150,6 +166,22 @@
   "373": {
     "id": 373,
     "name": "Chapecoense"
+  },
+  "774": {
+    "id": 774,
+    "name": "Independiente Rivadavia"
+  },
+  "739": {
+    "id": 739,
+    "name": "Tigre"
+  },
+  "796": {
+    "id": 796,
+    "name": "Club Atlético Platense"
+  },
+  "785": {
+    "id": 785,
+    "name": "CA Lanús"
   },
   "291": {
     "id": 291,
@@ -318,6 +350,14 @@
   "1300": {
     "id": 1300,
     "name": "Saint-Étienne"
+  },
+  "4994": {
+    "id": 4994,
+    "name": "Banfield"
+  },
+  "806": {
+    "id": 806,
+    "name": "Argentinos Juniors"
   },
   "3256": {
     "id": 3256,
@@ -534,6 +574,14 @@
   "34": {
     "id": 34,
     "name": "CF Estrela Amadora"
+  },
+  "6729": {
+    "id": 6729,
+    "name": "Recreativo do Libolo"
+  },
+  "8758": {
+    "id": 8758,
+    "name": "Interclube Luanda"
   },
   "911": {
     "id": 911,
@@ -846,14 +894,6 @@
   "8760": {
     "id": 8760,
     "name": "Recreativo da Caala"
-  },
-  "6729": {
-    "id": 6729,
-    "name": "Recreativo do Libolo"
-  },
-  "8758": {
-    "id": 8758,
-    "name": "Interclube Luanda"
   },
   "3294": {
     "id": 3294,
@@ -1591,22 +1631,6 @@
     "id": 191,
     "name": "Eyüpspor"
   },
-  "1946": {
-    "id": 1946,
-    "name": "Tokyo Verdy"
-  },
-  "1936": {
-    "id": 1936,
-    "name": "FC Tokyo"
-  },
-  "1933": {
-    "id": 1933,
-    "name": "Sanfrecce Hiroshima"
-  },
-  "1930": {
-    "id": 1930,
-    "name": "Kyoto Sanga FC"
-  },
   "1945": {
     "id": 1945,
     "name": "Kashiwa Reysol"
@@ -1614,22 +1638,6 @@
   "1942": {
     "id": 1942,
     "name": "Nagoya Grampus"
-  },
-  "1934": {
-    "id": 1934,
-    "name": "JEF United Chiba"
-  },
-  "1928": {
-    "id": 1928,
-    "name": "Yokohama F. Marinos"
-  },
-  "1938": {
-    "id": 1938,
-    "name": "Cerezo Osaka"
-  },
-  "1944": {
-    "id": 1944,
-    "name": "Kawasaki Frontale"
   },
   "1950": {
     "id": 1950,
@@ -1654,6 +1662,38 @@
   "1932": {
     "id": 1932,
     "name": "V-Varen Nagasaki"
+  },
+  "1938": {
+    "id": 1938,
+    "name": "Cerezo Osaka"
+  },
+  "1944": {
+    "id": 1944,
+    "name": "Kawasaki Frontale"
+  },
+  "1946": {
+    "id": 1946,
+    "name": "Tokyo Verdy"
+  },
+  "1936": {
+    "id": 1936,
+    "name": "FC Tokyo"
+  },
+  "1933": {
+    "id": 1933,
+    "name": "Sanfrecce Hiroshima"
+  },
+  "1930": {
+    "id": 1930,
+    "name": "Kyoto Sanga FC"
+  },
+  "1934": {
+    "id": 1934,
+    "name": "JEF United Chiba"
+  },
+  "1928": {
+    "id": 1928,
+    "name": "Yokohama F. Marinos"
   },
   "1943": {
     "id": 1943,
@@ -1687,6 +1727,14 @@
     "id": 305,
     "name": "Atlas FC"
   },
+  "780": {
+    "id": 780,
+    "name": "Boca Juniors"
+  },
+  "2391": {
+    "id": 2391,
+    "name": "CA Talleres"
+  },
   "3928": {
     "id": 3928,
     "name": "Boston Legacy FC"
@@ -1718,6 +1766,14 @@
   "819": {
     "id": 819,
     "name": "Atlético Goianiense"
+  },
+  "3136": {
+    "id": 3136,
+    "name": "Defensa y Justicia"
+  },
+  "4996": {
+    "id": 4996,
+    "name": "Instituto De Córdoba"
   },
   "10": {
     "id": 10,
@@ -1982,6 +2038,14 @@
   "753": {
     "id": 753,
     "name": "América de Cali"
+  },
+  "2352": {
+    "id": 2352,
+    "name": "Huracán"
+  },
+  "4998": {
+    "id": 4998,
+    "name": "Gimnasia y Esgrima"
   },
   "244": {
     "id": 244,
@@ -2463,10 +2527,6 @@
     "id": 3891,
     "name": "Once Caldas"
   },
-  "780": {
-    "id": 780,
-    "name": "Boca Juniors"
-  },
   "164": {
     "id": 164,
     "name": "Vasco da Gama"
@@ -2531,10 +2591,6 @@
     "id": 836,
     "name": "Grêmio Novorizontino"
   },
-  "3125": {
-    "id": 3125,
-    "name": "Gimnasia y Esgrima Mendoza"
-  },
   "4997": {
     "id": 4997,
     "name": "Newell's Old Boys"
@@ -2550,14 +2606,6 @@
   "30": {
     "id": 30,
     "name": "FC Alverca"
-  },
-  "785": {
-    "id": 785,
-    "name": "CA Lanús"
-  },
-  "2397": {
-    "id": 2397,
-    "name": "Vélez Sarsfield"
   },
   "1388": {
     "id": 1388,
@@ -2679,10 +2727,6 @@
     "id": 314,
     "name": "Cruz Azul"
   },
-  "2391": {
-    "id": 2391,
-    "name": "CA Talleres"
-  },
   "2390": {
     "id": 2390,
     "name": "CA Independiente"
@@ -2746,22 +2790,6 @@
   "2064": {
     "id": 2064,
     "name": "Wydad Casablanca"
-  },
-  "792": {
-    "id": 792,
-    "name": "Rosario Central"
-  },
-  "774": {
-    "id": 774,
-    "name": "Independiente Rivadavia"
-  },
-  "796": {
-    "id": 796,
-    "name": "Club Atlético Platense"
-  },
-  "806": {
-    "id": 806,
-    "name": "Argentinos Juniors"
   },
   "25": {
     "id": 25,
@@ -3471,22 +3499,6 @@
     "id": 306,
     "name": "FC Juárez"
   },
-  "739": {
-    "id": 739,
-    "name": "Tigre"
-  },
-  "4994": {
-    "id": 4994,
-    "name": "Banfield"
-  },
-  "2227": {
-    "id": 2227,
-    "name": "SC Jacksonville"
-  },
-  "2229": {
-    "id": 2229,
-    "name": "Birmingham Legion FC"
-  },
   "372": {
     "id": 372,
     "name": "Remo"
@@ -3507,6 +3519,14 @@
     "id": 5023,
     "name": "Sporting CP B"
   },
+  "21": {
+    "id": 21,
+    "name": "Casa Pia"
+  },
+  "28": {
+    "id": 28,
+    "name": "Santa Clara"
+  },
   "3402": {
     "id": 3402,
     "name": "Académico Viseu FC"
@@ -3526,10 +3546,6 @@
   "734": {
     "id": 734,
     "name": "Barracas Central"
-  },
-  "2352": {
-    "id": 2352,
-    "name": "Huracán"
   },
   "236": {
     "id": 236,
@@ -3594,6 +3610,14 @@
   "346": {
     "id": 346,
     "name": "Slavia Sofia"
+  },
+  "2227": {
+    "id": 2227,
+    "name": "SC Jacksonville"
+  },
+  "2229": {
+    "id": 2229,
+    "name": "Birmingham Legion FC"
   },
   "4822": {
     "id": 4822,
@@ -3690,14 +3714,6 @@
   "3317": {
     "id": 3317,
     "name": "FC Porto B"
-  },
-  "21": {
-    "id": 21,
-    "name": "Casa Pia"
-  },
-  "28": {
-    "id": 28,
-    "name": "Santa Clara"
   },
   "341": {
     "id": 341,
@@ -3918,9 +3934,5 @@
   "4620": {
     "id": 4620,
     "name": "Club Atlético Unión de Santa Fe"
-  },
-  "3136": {
-    "id": 3136,
-    "name": "Defensa y Justicia"
   }
 }
