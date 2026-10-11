@@ -233,7 +233,7 @@
   },
   "2071": {
     "id": 2071,
-    "name": "MAS de Fès"
+    "name": "Maghreb Fez"
   },
   "634": {
     "id": 634,
@@ -2215,10 +2215,6 @@
     "id": 8753,
     "name": "CD Lunda Sul"
   },
-  "6834": {
-    "id": 6834,
-    "name": "Kabuscorp SCP"
-  },
   "1419": {
     "id": 1419,
     "name": "Tranmere Rovers"
@@ -3542,6 +3538,10 @@
   "22": {
     "id": 22,
     "name": "Sporting CP"
+  },
+  "6834": {
+    "id": 6834,
+    "name": "Kabuscorp SCP"
   },
   "2060": {
     "id": 2060,
