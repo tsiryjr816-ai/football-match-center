@@ -319,6 +319,22 @@
     "id": 92,
     "name": "Borussia Dortmund"
   },
+  "266": {
+    "id": 266,
+    "name": "Al-Taawoun"
+  },
+  "272": {
+    "id": 272,
+    "name": "Al-Qadsiah"
+  },
+  "3256": {
+    "id": 3256,
+    "name": "Diriyah"
+  },
+  "263": {
+    "id": 263,
+    "name": "Al-Riyadh"
+  },
   "3419": {
     "id": 3419,
     "name": "Deportivo Pasto"
@@ -2011,14 +2027,6 @@
     "id": 156,
     "name": "Juventude"
   },
-  "3517": {
-    "id": 3517,
-    "name": "Penafiel"
-  },
-  "4029": {
-    "id": 4029,
-    "name": "Leça FC"
-  },
   "4028": {
     "id": 4028,
     "name": "Académica Coimbra"
@@ -2026,6 +2034,14 @@
   "4829": {
     "id": 4829,
     "name": "Amarante FC"
+  },
+  "3517": {
+    "id": 3517,
+    "name": "Penafiel"
+  },
+  "4029": {
+    "id": 4029,
+    "name": "Leça FC"
   },
   "1266": {
     "id": 1266,
@@ -2142,14 +2158,6 @@
   "806": {
     "id": 806,
     "name": "Argentinos Juniors"
-  },
-  "3256": {
-    "id": 3256,
-    "name": "Diriyah"
-  },
-  "266": {
-    "id": 266,
-    "name": "Al-Taawoun"
   },
   "179": {
     "id": 179,
@@ -3507,10 +3515,6 @@
     "id": 2357,
     "name": "Zamalek SC"
   },
-  "263": {
-    "id": 263,
-    "name": "Al-Riyadh"
-  },
   "361": {
     "id": 361,
     "name": "SC Oțelul Galați"
@@ -3518,10 +3522,6 @@
   "367": {
     "id": 367,
     "name": "FK Csíkszereda Miercurea Ciuc"
-  },
-  "272": {
-    "id": 272,
-    "name": "Al-Qadsiah"
   },
   "2674": {
     "id": 2674,
