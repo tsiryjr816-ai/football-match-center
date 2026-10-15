@@ -1495,14 +1495,6 @@
     "id": 576,
     "name": "Ikorodu City"
   },
-  "575": {
-    "id": 575,
-    "name": "Kwara United"
-  },
-  "565": {
-    "id": 565,
-    "name": "Abia Warriors"
-  },
   "577": {
     "id": 577,
     "name": "Shooting Stars"
@@ -2578,6 +2570,14 @@
   "29": {
     "id": 29,
     "name": "Moreirense"
+  },
+  "575": {
+    "id": 575,
+    "name": "Kwara United"
+  },
+  "565": {
+    "id": 565,
+    "name": "Abia Warriors"
   },
   "5648": {
     "id": 5648,
