@@ -375,14 +375,6 @@
     "id": 3733,
     "name": "Deportivo Cali"
   },
-  "4801": {
-    "id": 4801,
-    "name": "Barranquilla FC"
-  },
-  "753": {
-    "id": 753,
-    "name": "América de Cali"
-  },
   "276": {
     "id": 276,
     "name": "FC Cincinnati"
@@ -414,6 +406,14 @@
   "2222": {
     "id": 2222,
     "name": "Louisville City FC"
+  },
+  "4801": {
+    "id": 4801,
+    "name": "Barranquilla FC"
+  },
+  "753": {
+    "id": 753,
+    "name": "América de Cali"
   },
   "22": {
     "id": 22,
