@@ -2607,14 +2607,6 @@
     "id": 34,
     "name": "CF Estrela Amadora"
   },
-  "6729": {
-    "id": 6729,
-    "name": "Recreativo do Libolo"
-  },
-  "8758": {
-    "id": 8758,
-    "name": "Interclube Luanda"
-  },
   "911": {
     "id": 911,
     "name": "Athletic Club"
@@ -2942,6 +2934,14 @@
   "8760": {
     "id": 8760,
     "name": "Recreativo da Caala"
+  },
+  "6729": {
+    "id": 6729,
+    "name": "Recreativo do Libolo"
+  },
+  "8758": {
+    "id": 8758,
+    "name": "Interclube Luanda"
   },
   "3294": {
     "id": 3294,
