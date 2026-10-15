@@ -327,6 +327,14 @@
     "id": 314,
     "name": "Cruz Azul"
   },
+  "797": {
+    "id": 797,
+    "name": "Independiente Santa Fe"
+  },
+  "4785": {
+    "id": 4785,
+    "name": "Jaguares de Córdoba"
+  },
   "304": {
     "id": 304,
     "name": "Club Puebla"
@@ -583,14 +591,6 @@
     "id": 1939,
     "name": "Gamba Osaka"
   },
-  "320": {
-    "id": 320,
-    "name": "CD Guadalajara"
-  },
-  "311": {
-    "id": 311,
-    "name": "Club Necaxa"
-  },
   "321": {
     "id": 321,
     "name": "Tigres UANL"
@@ -598,6 +598,14 @@
   "318": {
     "id": 318,
     "name": "Club León"
+  },
+  "736": {
+    "id": 736,
+    "name": "Millonarios"
+  },
+  "3891": {
+    "id": 3891,
+    "name": "Once Caldas"
   },
   "306": {
     "id": 306,
@@ -623,13 +631,13 @@
     "id": 780,
     "name": "Boca Juniors"
   },
-  "736": {
-    "id": 736,
-    "name": "Millonarios"
+  "320": {
+    "id": 320,
+    "name": "CD Guadalajara"
   },
-  "3891": {
-    "id": 3891,
-    "name": "Once Caldas"
+  "311": {
+    "id": 311,
+    "name": "Club Necaxa"
   },
   "4635": {
     "id": 4635,
@@ -975,10 +983,6 @@
     "id": 4620,
     "name": "Club Atlético Unión de Santa Fe"
   },
-  "4785": {
-    "id": 4785,
-    "name": "Jaguares de Córdoba"
-  },
   "167": {
     "id": 167,
     "name": "Corinthians"
@@ -1122,10 +1126,6 @@
   "755": {
     "id": 755,
     "name": "River Plate"
-  },
-  "797": {
-    "id": 797,
-    "name": "Independiente Santa Fe"
   },
   "3941": {
     "id": 3941,
