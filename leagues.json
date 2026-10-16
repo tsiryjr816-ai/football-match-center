@@ -1,5 +1,5 @@
 {
-  "count": 90,
+  "count": 95,
   "next": "https://sports.bzzoiro.com/api/v2/leagues/?limit=50&offset=50",
   "previous": null,
   "results": [
@@ -272,6 +272,31 @@
       "is_women": false,
       "is_active": true,
       "current_season": null
+    },
+    {
+      "id": 104,
+      "name": "A-League Men",
+      "country": "Australia",
+      "is_women": false,
+      "is_active": true,
+      "current_season": {
+        "id": 2144,
+        "name": "A-League 26/27",
+        "year": 2026,
+        "start_date": "2026-07-01",
+        "end_date": "2027-06-30",
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "regular-season",
+            "stage_name": "Regular season",
+            "matches": 153,
+            "rounds": 28,
+            "start_date": "2026-10-16",
+            "end_date": "2027-05-09"
+          }
+        ]
+      }
     },
     {
       "id": 70,
@@ -1555,6 +1580,31 @@
       }
     },
     {
+      "id": 105,
+      "name": "Ligue 3",
+      "country": "France",
+      "is_women": false,
+      "is_active": true,
+      "current_season": {
+        "id": 2163,
+        "name": "Ligue 3 26/27",
+        "year": 2026,
+        "start_date": "2026-07-01",
+        "end_date": "2027-06-30",
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "regular-season",
+            "stage_name": "Regular season",
+            "matches": 306,
+            "rounds": 34,
+            "start_date": "2026-08-07",
+            "end_date": "2027-05-21"
+          }
+        ]
+      }
+    },
+    {
       "id": 94,
       "name": "2. Bundesliga",
       "country": "Germany",
@@ -1838,72 +1888,6 @@
             "rounds": 38,
             "start_date": "2026-08-22",
             "end_date": "2027-05-29"
-          }
-        ]
-      }
-    },
-    {
-      "id": 100,
-      "name": "Serie B",
-      "country": "Italy",
-      "is_women": false,
-      "is_active": true,
-      "current_season": {
-        "id": 2084,
-        "name": "Serie B 26/27",
-        "year": 2026,
-        "start_date": "2026-07-01",
-        "end_date": "2027-06-30",
-        "is_current": true,
-        "stages": [
-          {
-            "stage": "regular-season",
-            "stage_name": "Regular season",
-            "matches": 380,
-            "rounds": 38,
-            "start_date": "2026-08-21",
-            "end_date": "2027-05-14"
-          }
-        ]
-      }
-    },
-    {
-      "id": 51,
-      "name": "Emperor Cup",
-      "country": "Japan",
-      "is_women": false,
-      "is_active": true,
-      "current_season": {
-        "id": 1249,
-        "name": "Emperor Cup 2026",
-        "year": 2026,
-        "start_date": "2026-01-01",
-        "end_date": "2026-12-31",
-        "is_current": true,
-        "stages": [
-          {
-            "stage": "round-1",
-            "stage_name": "Round 1",
-            "matches": 24,
-            "rounds": 1,
-            "start_date": "2026-08-19",
-            "end_date": "2026-08-19"
-          },
-          {
-            "stage": "round-2",
-            "stage_name": "Round 2",
-            "matches": 32,
-            "rounds": 1,
-            "start_date": "2026-08-26",
-            "end_date": "2026-08-26"
-          },
-          {
-            "stage": "round-3",
-            "stage_name": "Round 3",
-            "matches": 16,
-            "rounds": 1,
-            "start_date": "2026-09-23",
-            "end_date": "2026-10-07"
           }
         ]
       }
