@@ -1,5 +1,5 @@
 {
-  "count": 8758,
+  "count": 8733,
   "next": "https://sports.bzzoiro.com/api/v2/teams/?limit=50&offset=50",
   "previous": null,
   "results": [
@@ -108,14 +108,6 @@
       "venue_id": null
     },
     {
-      "id": 527,
-      "name": "1J",
-      "short_name": "",
-      "country": "",
-      "country_code": "",
-      "venue_id": null
-    },
-    {
       "id": 529,
       "name": "1K",
       "short_name": "",
@@ -206,70 +198,6 @@
     {
       "id": 522,
       "name": "2L",
-      "short_name": "",
-      "country": "",
-      "country_code": "",
-      "venue_id": null
-    },
-    {
-      "id": 504,
-      "name": "3A/3B/3C/3D/3F",
-      "short_name": "",
-      "country": "",
-      "country_code": "",
-      "venue_id": null
-    },
-    {
-      "id": 516,
-      "name": "3A/3E/3H/3I/3J",
-      "short_name": "",
-      "country": "",
-      "country_code": "",
-      "venue_id": null
-    },
-    {
-      "id": 518,
-      "name": "3B/3E/3F/3I/3J",
-      "short_name": "",
-      "country": "",
-      "country_code": "",
-      "venue_id": null
-    },
-    {
-      "id": 510,
-      "name": "3C/3D/3F/3G/3H",
-      "short_name": "",
-      "country": "",
-      "country_code": "",
-      "venue_id": null
-    },
-    {
-      "id": 512,
-      "name": "3C/3E/3F/3H/3I",
-      "short_name": "",
-      "country": "",
-      "country_code": "",
-      "venue_id": null
-    },
-    {
-      "id": 530,
-      "name": "3D/3E/3I/3J/3L",
-      "short_name": "",
-      "country": "",
-      "country_code": "",
-      "venue_id": null
-    },
-    {
-      "id": 524,
-      "name": "3E/3F/3G/3I/3J",
-      "short_name": "",
-      "country": "",
-      "country_code": "",
-      "venue_id": null
-    },
-    {
-      "id": 514,
-      "name": "3E/3H/3I/3J/3K",
       "short_name": "",
       "country": "",
       "country_code": "",
@@ -399,6 +327,78 @@
       "id": 3586,
       "name": "Acireale",
       "short_name": "ACI",
+      "country": "",
+      "country_code": "",
+      "venue_id": null
+    },
+    {
+      "id": 2510,
+      "name": "AC Port Of Spain",
+      "short_name": "POR",
+      "country": "",
+      "country_code": "",
+      "venue_id": null
+    },
+    {
+      "id": 2695,
+      "name": "AC Sant'Angelo 1907",
+      "short_name": "ASD",
+      "country": "",
+      "country_code": "",
+      "venue_id": null
+    },
+    {
+      "id": 2631,
+      "name": "AC Taipei",
+      "short_name": "ACA",
+      "country": "",
+      "country_code": "",
+      "venue_id": null
+    },
+    {
+      "id": 3739,
+      "name": "AD Alcorcón B",
+      "short_name": "ALC",
+      "country": "",
+      "country_code": "",
+      "venue_id": null
+    },
+    {
+      "id": 2742,
+      "name": "Adama City",
+      "short_name": "ADA",
+      "country": "",
+      "country_code": "",
+      "venue_id": null
+    },
+    {
+      "id": 8126,
+      "name": "Adana 01 FK",
+      "short_name": "ADA",
+      "country": "",
+      "country_code": "",
+      "venue_id": null
+    },
+    {
+      "id": 2476,
+      "name": "AD Cartaya",
+      "short_name": "CAR",
+      "country": "",
+      "country_code": "",
+      "venue_id": null
+    },
+    {
+      "id": 8357,
+      "name": "Adc Proenca A Nova",
+      "short_name": "",
+      "country": "",
+      "country_code": "",
+      "venue_id": null
+    },
+    {
+      "id": 2660,
+      "name": "ADR Jicaral Sercoba",
+      "short_name": "JIC",
       "country": "",
       "country_code": "",
       "venue_id": null
