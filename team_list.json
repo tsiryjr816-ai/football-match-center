@@ -151,14 +151,6 @@
     "id": 293,
     "name": "Inter Miami CF"
   },
-  "4783": {
-    "id": 4783,
-    "name": "Alianza Valledupar FC"
-  },
-  "3181": {
-    "id": 3181,
-    "name": "Internacional de Bogotá"
-  },
   "2224": {
     "id": 2224,
     "name": "Loudoun United FC"
@@ -2891,6 +2883,10 @@
     "id": 320,
     "name": "CD Guadalajara"
   },
+  "3181": {
+    "id": 3181,
+    "name": "Internacional de Bogotá"
+  },
   "4782": {
     "id": 4782,
     "name": "Fortaleza FC"
@@ -2938,6 +2934,10 @@
   "596": {
     "id": 596,
     "name": "Simba SC"
+  },
+  "4783": {
+    "id": 4783,
+    "name": "Alianza Valledupar FC"
   },
   "743": {
     "id": 743,
