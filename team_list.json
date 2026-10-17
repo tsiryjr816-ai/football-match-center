@@ -663,6 +663,14 @@
     "id": 260,
     "name": "Al-Ettifaq"
   },
+  "4397": {
+    "id": 4397,
+    "name": "IK Brage"
+  },
+  "445": {
+    "id": 445,
+    "name": "Östers IF"
+  },
   "5649": {
     "id": 5649,
     "name": "Sporting Lagos FC"
@@ -1607,6 +1615,22 @@
     "id": 12,
     "name": "Manchester City"
   },
+  "5907": {
+    "id": 5907,
+    "name": "Östersunds FK"
+  },
+  "2566": {
+    "id": 2566,
+    "name": "Nordic United FC"
+  },
+  "446": {
+    "id": 446,
+    "name": "IFK Värnamo"
+  },
+  "4391": {
+    "id": 4391,
+    "name": "Sandvikens IF"
+  },
   "1832": {
     "id": 1832,
     "name": "Hertha BSC"
@@ -2238,6 +2262,14 @@
   "3885": {
     "id": 3885,
     "name": "Valencia"
+  },
+  "3561": {
+    "id": 3561,
+    "name": "IK Oddevold"
+  },
+  "2634": {
+    "id": 2634,
+    "name": "GIF Sundsvall"
   },
   "1373": {
     "id": 1373,
@@ -2919,6 +2951,14 @@
     "id": 44,
     "name": "FC Barcelona"
   },
+  "444": {
+    "id": 444,
+    "name": "IFK Norrköping"
+  },
+  "3131": {
+    "id": 3131,
+    "name": "Örebro SK"
+  },
   "134": {
     "id": 134,
     "name": "Fenerbahçe"
@@ -2994,6 +3034,14 @@
   "1388": {
     "id": 1388,
     "name": "CD Tenerife"
+  },
+  "4411": {
+    "id": 4411,
+    "name": "Varbergs BoIS"
+  },
+  "3337": {
+    "id": 3337,
+    "name": "Helsingborgs IF"
   },
   "1376": {
     "id": 1376,
@@ -3434,6 +3482,10 @@
   "3853": {
     "id": 3853,
     "name": "VfL Osnabrück"
+  },
+  "4403": {
+    "id": 4403,
+    "name": "Norrby IF"
   },
   "4223": {
     "id": 4223,
@@ -3975,6 +4027,14 @@
     "id": 2080,
     "name": "Aalesunds FK"
   },
+  "6142": {
+    "id": 6142,
+    "name": "Falkenbergs FF"
+  },
+  "3387": {
+    "id": 3387,
+    "name": "Landskrona BoIS"
+  },
   "1596": {
     "id": 1596,
     "name": "Carrarese"
@@ -4114,6 +4174,10 @@
   "4747": {
     "id": 4747,
     "name": "Bury FC"
+  },
+  "4431": {
+    "id": 4431,
+    "name": "Ljungskile SK"
   },
   "1292": {
     "id": 1292,
