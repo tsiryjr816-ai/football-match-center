@@ -15,6 +15,14 @@
     "id": 3928,
     "name": "Boston Legacy FC"
   },
+  "755": {
+    "id": 755,
+    "name": "River Plate"
+  },
+  "733": {
+    "id": 733,
+    "name": "Racing Club"
+  },
   "4783": {
     "id": 4783,
     "name": "Alianza Valledupar FC"
@@ -39,14 +47,6 @@
     "id": 3402,
     "name": "Académico Viseu FC"
   },
-  "755": {
-    "id": 755,
-    "name": "River Plate"
-  },
-  "733": {
-    "id": 733,
-    "name": "Racing Club"
-  },
   "2390": {
     "id": 2390,
     "name": "CA Independiente"
@@ -62,14 +62,6 @@
   "5000": {
     "id": 5000,
     "name": "Estudiantes de Río Cuarto"
-  },
-  "4993": {
-    "id": 4993,
-    "name": "Aldosivi"
-  },
-  "3299": {
-    "id": 3299,
-    "name": "Club Atlético Belgrano"
   },
   "44": {
     "id": 44,
@@ -166,6 +158,14 @@
   "31": {
     "id": 31,
     "name": "Sporting Braga"
+  },
+  "4993": {
+    "id": 4993,
+    "name": "Aldosivi"
+  },
+  "3299": {
+    "id": 3299,
+    "name": "Club Atlético Belgrano"
   },
   "327": {
     "id": 327,
@@ -342,6 +342,14 @@
   "110": {
     "id": 110,
     "name": "Lorient"
+  },
+  "2094": {
+    "id": 2094,
+    "name": "FF Jaro"
+  },
+  "2108": {
+    "id": 2108,
+    "name": "PK-35"
   },
   "634": {
     "id": 634,
@@ -823,6 +831,14 @@
     "id": 244,
     "name": "Sint-Truidense VV"
   },
+  "8755": {
+    "id": 8755,
+    "name": "Desportivo da Huíla"
+  },
+  "6729": {
+    "id": 6729,
+    "name": "Recreativo do Libolo"
+  },
   "86": {
     "id": 86,
     "name": "TSG Hoffenheim"
@@ -854,6 +870,14 @@
   "4223": {
     "id": 4223,
     "name": "1. FC Slovácko"
+  },
+  "8753": {
+    "id": 8753,
+    "name": "CD Lunda Sul"
+  },
+  "8758": {
+    "id": 8758,
+    "name": "Interclube Luanda"
   },
   "8722": {
     "id": 8722,
@@ -1143,6 +1167,14 @@
     "id": 4078,
     "name": "FK Jablonec"
   },
+  "229": {
+    "id": 229,
+    "name": "Hibernian"
+  },
+  "132": {
+    "id": 132,
+    "name": "Celtic"
+  },
   "915": {
     "id": 915,
     "name": "Real Club Deportivo de A Coruña"
@@ -1375,6 +1407,14 @@
     "id": 278,
     "name": "Vancouver Whitecaps"
   },
+  "3891": {
+    "id": 3891,
+    "name": "Once Caldas"
+  },
+  "4780": {
+    "id": 4780,
+    "name": "Deportivo Pereira"
+  },
   "317": {
     "id": 317,
     "name": "CF Monterrey"
@@ -1430,14 +1470,6 @@
   "291": {
     "id": 291,
     "name": "Minnesota United"
-  },
-  "3891": {
-    "id": 3891,
-    "name": "Once Caldas"
-  },
-  "4780": {
-    "id": 4780,
-    "name": "Deportivo Pereira"
   },
   "2233": {
     "id": 2233,
@@ -2279,22 +2311,6 @@
     "id": 597,
     "name": "Atlético Petróleos de Luanda"
   },
-  "8755": {
-    "id": 8755,
-    "name": "Desportivo da Huíla"
-  },
-  "6729": {
-    "id": 6729,
-    "name": "Recreativo do Libolo"
-  },
-  "8753": {
-    "id": 8753,
-    "name": "CD Lunda Sul"
-  },
-  "8758": {
-    "id": 8758,
-    "name": "Interclube Luanda"
-  },
   "8761": {
     "id": 8761,
     "name": "Académica Petróleos do Lobito"
@@ -2670,14 +2686,6 @@
   "1362": {
     "id": 1362,
     "name": "St. Johnstone"
-  },
-  "229": {
-    "id": 229,
-    "name": "Hibernian"
-  },
-  "132": {
-    "id": 132,
-    "name": "Celtic"
   },
   "226": {
     "id": 226,

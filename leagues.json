@@ -1438,12 +1438,20 @@
         "is_current": true,
         "stages": [
           {
-            "stage": "regular-season",
-            "stage_name": "Regular season",
+            "stage": "league-phase",
+            "stage_name": "League phase",
             "matches": 177,
             "rounds": 0,
             "start_date": "2026-04-04",
             "end_date": "2026-11-08"
+          },
+          {
+            "stage": "final",
+            "stage_name": "Final",
+            "matches": 2,
+            "rounds": 1,
+            "start_date": "2026-10-21",
+            "end_date": "2026-10-25"
           }
         ]
       }
