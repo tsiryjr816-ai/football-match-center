@@ -3823,10 +3823,6 @@
     "id": 3256,
     "name": "Diriyah"
   },
-  "8244": {
-    "id": 8244,
-    "name": "Scottland FC"
-  },
   "365": {
     "id": 365,
     "name": "FC Botoșani"
@@ -3834,6 +3830,10 @@
   "362": {
     "id": 362,
     "name": "FC Petrolul Ploiești"
+  },
+  "8244": {
+    "id": 8244,
+    "name": "Scottland FC"
   },
   "1909": {
     "id": 1909,
