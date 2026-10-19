@@ -135,6 +135,14 @@
     "id": 3120,
     "name": "Odense Boldklub"
   },
+  "3882": {
+    "id": 3882,
+    "name": "Sepsi OSK Sfântu Gheorghe"
+  },
+  "359": {
+    "id": 359,
+    "name": "Universitatea Craiova"
+  },
   "189": {
     "id": 189,
     "name": "Çaykur Rizespor"
@@ -199,6 +207,14 @@
     "id": 2397,
     "name": "Vélez Sarsfield"
   },
+  "734": {
+    "id": 734,
+    "name": "Barracas Central"
+  },
+  "5000": {
+    "id": 5000,
+    "name": "Estudiantes de Río Cuarto"
+  },
   "305": {
     "id": 305,
     "name": "Atlas FC"
@@ -262,14 +278,6 @@
   "780": {
     "id": 780,
     "name": "Boca Juniors"
-  },
-  "734": {
-    "id": 734,
-    "name": "Barracas Central"
-  },
-  "5000": {
-    "id": 5000,
-    "name": "Estudiantes de Río Cuarto"
   },
   "44": {
     "id": 44,
@@ -3071,14 +3079,6 @@
     "id": 1346,
     "name": "Erzurumspor FK"
   },
-  "3882": {
-    "id": 3882,
-    "name": "Sepsi OSK Sfântu Gheorghe"
-  },
-  "359": {
-    "id": 359,
-    "name": "Universitatea Craiova"
-  },
   "69": {
     "id": 69,
     "name": "Como"
@@ -3843,6 +3843,14 @@
     "id": 3735,
     "name": "Koninklijke Lierse Sportkring"
   },
+  "608": {
+    "id": 608,
+    "name": "Orlando Pirates"
+  },
+  "621": {
+    "id": 621,
+    "name": "African Stars FC"
+  },
   "587": {
     "id": 587,
     "name": "Mamelodi Sundowns"
@@ -3926,14 +3934,6 @@
   "1410": {
     "id": 1410,
     "name": "FK Austria Wien"
-  },
-  "608": {
-    "id": 608,
-    "name": "Orlando Pirates"
-  },
-  "621": {
-    "id": 621,
-    "name": "African Stars FC"
   },
   "920": {
     "id": 920,
