@@ -327,6 +327,14 @@
     "id": 1825,
     "name": "Patro Eisden Maasmechelen"
   },
+  "116": {
+    "id": 116,
+    "name": "Royale Union Saint-Gilloise"
+  },
+  "235": {
+    "id": 235,
+    "name": "Cercle Brugge"
+  },
   "2077": {
     "id": 2077,
     "name": "Molde FK"
@@ -3990,14 +3998,6 @@
   "91": {
     "id": 91,
     "name": "FC St. Pauli"
-  },
-  "116": {
-    "id": 116,
-    "name": "Royale Union Saint-Gilloise"
-  },
-  "235": {
-    "id": 235,
-    "name": "Cercle Brugge"
   },
   "431": {
     "id": 431,

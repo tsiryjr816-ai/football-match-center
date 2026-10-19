@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T01:41:38.391965+00:00",
+  "updated_at": "2026-10-19T06:50:44.323927+00:00",
   "source": "BSD Football API",
   "date_from": "2026-10-19",
   "date_to": "2026-10-26",
@@ -431,7 +431,7 @@
       "home_team": "América Mineiro",
       "away_team_id": 863,
       "away_team": "Cuiabá",
-      "home_coach_id": 3582,
+      "home_coach_id": 734,
       "away_coach_id": 121,
       "referee_id": null,
       "venue_id": 630,
@@ -4193,7 +4193,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
         "total_matches": 24,
@@ -5920,6 +5920,175 @@
       "previous_leg_event_id": null
     },
     {
+      "id": 212798,
+      "league_id": 14,
+      "season_id": 1327,
+      "home_team_id": 116,
+      "home_team": "Royale Union Saint-Gilloise",
+      "away_team_id": 235,
+      "away_team": "Cercle Brugge",
+      "home_coach_id": 311,
+      "away_coach_id": 250,
+      "referee_id": null,
+      "venue_id": 114,
+      "event_date": "2026-10-25T18:15:00+00:00",
+      "status": "notstarted",
+      "replaced_by": null,
+      "round_number": 9,
+      "round_name": "",
+      "group_name": null,
+      "stage": "regular-season",
+      "stage_name": "Regular season",
+      "round_label": "Regular season · Matchday 9",
+      "period": "",
+      "current_minute": null,
+      "home_score": null,
+      "away_score": null,
+      "home_score_ht": null,
+      "away_score_ht": null,
+      "penalty_shootout": null,
+      "extra_time_score": null,
+      "is_local_derby": false,
+      "is_neutral_ground": false,
+      "travel_distance_km": null,
+      "weather": {
+        "code": 3,
+        "description": "rain",
+        "wind_speed": 14.1,
+        "temperature_c": 11
+      },
+      "pitch_condition": null,
+      "attendance": null,
+      "live_websocket": false,
+      "websocket_plus": true,
+      "highlights": [],
+      "head_to_head": {
+        "total_matches": 14,
+        "home_wins": 9,
+        "draws": 3,
+        "away_wins": 2,
+        "home_goals": 27,
+        "away_goals": 16,
+        "avg_total_goals": 3.0714285714285716,
+        "home_win_rate": 0.6428571428571429,
+        "away_win_rate": 0.14285714285714285,
+        "recent_matches": [
+          {
+            "away": "Royale Union Saint-Gilloise",
+            "date": "2025-12-26T15:00:00+00:00",
+            "home": "Cercle Brugge",
+            "score": "1-1",
+            "event_id": 4290,
+            "away_score": 1,
+            "home_score": 1,
+            "away_team_id": 116,
+            "home_team_id": 235
+          },
+          {
+            "away": "Cercle Brugge",
+            "date": "2025-11-22T15:00:00+00:00",
+            "home": "Royale Union Saint-Gilloise",
+            "score": "2-0",
+            "event_id": 4250,
+            "away_score": 0,
+            "home_score": 2,
+            "away_team_id": 235,
+            "home_team_id": 116
+          },
+          {
+            "away": "Royale Union Saint-Gilloise",
+            "date": "2024-12-08T15:00:00+00:00",
+            "home": "Cercle Brugge",
+            "score": "0-0",
+            "event_id": 238102,
+            "away_score": 0,
+            "home_score": 0,
+            "away_team_id": 116,
+            "home_team_id": 235
+          },
+          {
+            "away": "Cercle Brugge",
+            "date": "2024-10-27T18:15:00+00:00",
+            "home": "Royale Union Saint-Gilloise",
+            "score": "1-3",
+            "event_id": 238064,
+            "away_score": 3,
+            "home_score": 1,
+            "away_team_id": 235,
+            "home_team_id": 116
+          },
+          {
+            "away": "Royale Union Saint-Gilloise",
+            "date": "2024-05-19T11:30:00+00:00",
+            "home": "Cercle Brugge",
+            "score": "1-2",
+            "event_id": 248045,
+            "away_score": 2,
+            "home_score": 1,
+            "away_team_id": 116,
+            "home_team_id": 235
+          },
+          {
+            "away": "Cercle Brugge",
+            "date": "2024-04-07T11:30:00+00:00",
+            "home": "Royale Union Saint-Gilloise",
+            "score": "2-3",
+            "event_id": 247993,
+            "away_score": 3,
+            "home_score": 2,
+            "away_team_id": 235,
+            "home_team_id": 116
+          },
+          {
+            "away": "Cercle Brugge",
+            "date": "2023-12-03T18:15:00+00:00",
+            "home": "Royale Union Saint-Gilloise",
+            "score": "2-1",
+            "event_id": 247869,
+            "away_score": 1,
+            "home_score": 2,
+            "away_team_id": 235,
+            "home_team_id": 116
+          },
+          {
+            "away": "Royale Union Saint-Gilloise",
+            "date": "2023-09-24T14:00:00+00:00",
+            "home": "Cercle Brugge",
+            "score": "0-2",
+            "event_id": 247803,
+            "away_score": 2,
+            "home_score": 0,
+            "away_team_id": 116,
+            "home_team_id": 235
+          },
+          {
+            "away": "Royale Union Saint-Gilloise",
+            "date": "2023-01-18T17:30:00+00:00",
+            "home": "Cercle Brugge",
+            "score": "1-1",
+            "event_id": 258770,
+            "away_score": 1,
+            "home_score": 1,
+            "away_team_id": 116,
+            "home_team_id": 235
+          },
+          {
+            "away": "Cercle Brugge",
+            "date": "2022-10-09T19:00:00+00:00",
+            "home": "Royale Union Saint-Gilloise",
+            "score": "2-1",
+            "event_id": 258685,
+            "away_score": 1,
+            "home_score": 2,
+            "away_team_id": 235,
+            "home_team_id": 116
+          }
+        ]
+      },
+      "has_xg": false,
+      "previous_leg_event_id": null
+    },
+    {
       "id": 207419,
       "league_id": 54,
       "season_id": 1230,
@@ -6805,7 +6974,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
         "total_matches": 6,
@@ -10123,7 +10292,30 @@
       "live_websocket": false,
       "websocket_plus": false,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 1,
+        "home_wins": 0,
+        "draws": 1,
+        "away_wins": 0,
+        "home_goals": 1,
+        "away_goals": 1,
+        "avg_total_goals": 2.0,
+        "home_win_rate": 0.0,
+        "away_win_rate": 0.0,
+        "recent_matches": [
+          {
+            "away": "ASEC Mimosas",
+            "date": "2026-10-18T18:00:00+00:00",
+            "home": "Maghreb Fes",
+            "score": "1-1",
+            "event_id": 605991,
+            "away_score": 1,
+            "home_score": 1,
+            "away_team_id": 634,
+            "home_team_id": 2071
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": 605991
     },
@@ -12737,7 +12929,30 @@
       "live_websocket": false,
       "websocket_plus": false,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 1,
+        "home_wins": 1,
+        "draws": 0,
+        "away_wins": 0,
+        "home_goals": 2,
+        "away_goals": 0,
+        "avg_total_goals": 2.0,
+        "home_win_rate": 1.0,
+        "away_win_rate": 0.0,
+        "recent_matches": [
+          {
+            "away": "Colombe FC",
+            "date": "2026-10-18T17:00:00+00:00",
+            "home": "Teungueth FC",
+            "score": "0-2",
+            "event_id": 605992,
+            "away_score": 2,
+            "home_score": 0,
+            "away_team_id": 599,
+            "home_team_id": 5198
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": 605992
     },
@@ -12784,7 +12999,30 @@
       "live_websocket": false,
       "websocket_plus": false,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 1,
+        "home_wins": 1,
+        "draws": 0,
+        "away_wins": 0,
+        "home_goals": 2,
+        "away_goals": 0,
+        "avg_total_goals": 2.0,
+        "home_win_rate": 1.0,
+        "away_win_rate": 0.0,
+        "recent_matches": [
+          {
+            "away": "Al-Hilal Omdurman",
+            "date": "2026-10-18T13:00:00+00:00",
+            "home": "Sidama Bunna FC",
+            "score": "0-2",
+            "event_id": 605004,
+            "away_score": 2,
+            "home_score": 0,
+            "away_team_id": 583,
+            "home_team_id": 2740
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": 605004
     },
@@ -16856,7 +17094,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": true,
+      "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
         "total_matches": 55,
@@ -21470,7 +21708,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
         "total_matches": 52,
@@ -33752,7 +33990,30 @@
       "live_websocket": false,
       "websocket_plus": false,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 1,
+        "home_wins": 0,
+        "draws": 0,
+        "away_wins": 1,
+        "home_goals": 0,
+        "away_goals": 1,
+        "avg_total_goals": 1.0,
+        "home_win_rate": 0.0,
+        "away_win_rate": 1.0,
+        "recent_matches": [
+          {
+            "away": "Al-Merrikh Khartoum Club",
+            "date": "2026-10-18T16:00:00+00:00",
+            "home": "Horoya",
+            "score": "1-0",
+            "event_id": 605005,
+            "away_score": 0,
+            "home_score": 1,
+            "away_team_id": 616,
+            "home_team_id": 611
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": 605005
     },
@@ -35584,7 +35845,30 @@
       "live_websocket": false,
       "websocket_plus": false,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 1,
+        "home_wins": 0,
+        "draws": 0,
+        "away_wins": 1,
+        "home_goals": 0,
+        "away_goals": 1,
+        "avg_total_goals": 1.0,
+        "home_win_rate": 0.0,
+        "away_win_rate": 1.0,
+        "recent_matches": [
+          {
+            "away": "Espérance Sportive De Tunis",
+            "date": "2026-10-18T17:00:00+00:00",
+            "home": "Swehly SC",
+            "score": "1-0",
+            "event_id": 605989,
+            "away_score": 0,
+            "home_score": 1,
+            "away_team_id": 591,
+            "home_team_id": 2858
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": 605989
     },
@@ -54137,7 +54421,7 @@
       "home_team": "Wuhan Three Towns",
       "away_team_id": 2031,
       "away_team": "Shandong Taishan",
-      "home_coach_id": 1391,
+      "home_coach_id": 3892,
       "away_coach_id": 3171,
       "referee_id": null,
       "venue_id": 1245,
@@ -58776,7 +59060,30 @@
       "live_websocket": false,
       "websocket_plus": false,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 1,
+        "home_wins": 0,
+        "draws": 0,
+        "away_wins": 1,
+        "home_goals": 0,
+        "away_goals": 2,
+        "avg_total_goals": 2.0,
+        "home_win_rate": 0.0,
+        "away_win_rate": 1.0,
+        "recent_matches": [
+          {
+            "away": "MC Alger",
+            "date": "2026-10-18T13:00:00+00:00",
+            "home": "Enugu Rangers International",
+            "score": "2-0",
+            "event_id": 603728,
+            "away_score": 0,
+            "home_score": 2,
+            "away_team_id": 584,
+            "home_team_id": 571
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": 603728
     },
@@ -61326,7 +61633,30 @@
       "live_websocket": false,
       "websocket_plus": false,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 1,
+        "home_wins": 0,
+        "draws": 1,
+        "away_wins": 0,
+        "home_goals": 0,
+        "away_goals": 0,
+        "avg_total_goals": 0.0,
+        "home_win_rate": 0.0,
+        "away_win_rate": 0.0,
+        "recent_matches": [
+          {
+            "away": "Mamelodi Sundowns",
+            "date": "2026-10-18T15:30:00+00:00",
+            "home": "Wiliete SC",
+            "score": "0-0",
+            "event_id": 603662,
+            "away_score": 0,
+            "home_score": 0,
+            "away_team_id": 587,
+            "home_team_id": 619
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": 603662
     },
@@ -63947,175 +64277,6 @@
       "previous_leg_event_id": null
     },
     {
-      "id": 212798,
-      "league_id": 14,
-      "season_id": 1327,
-      "home_team_id": 116,
-      "home_team": "Royale Union Saint-Gilloise",
-      "away_team_id": 235,
-      "away_team": "Cercle Brugge",
-      "home_coach_id": 311,
-      "away_coach_id": 250,
-      "referee_id": null,
-      "venue_id": 114,
-      "event_date": "2026-10-23T16:00:00+00:00",
-      "status": "notstarted",
-      "replaced_by": null,
-      "round_number": 9,
-      "round_name": "",
-      "group_name": null,
-      "stage": "regular-season",
-      "stage_name": "Regular season",
-      "round_label": "Regular season · Matchday 9",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
-      "penalty_shootout": null,
-      "extra_time_score": null,
-      "is_local_derby": false,
-      "is_neutral_ground": false,
-      "travel_distance_km": null,
-      "weather": {
-        "code": null,
-        "description": null,
-        "wind_speed": null,
-        "temperature_c": null
-      },
-      "pitch_condition": null,
-      "attendance": null,
-      "live_websocket": false,
-      "websocket_plus": false,
-      "highlights": [],
-      "head_to_head": {
-        "total_matches": 14,
-        "home_wins": 9,
-        "draws": 3,
-        "away_wins": 2,
-        "home_goals": 27,
-        "away_goals": 16,
-        "avg_total_goals": 3.0714285714285716,
-        "home_win_rate": 0.6428571428571429,
-        "away_win_rate": 0.14285714285714285,
-        "recent_matches": [
-          {
-            "away": "Royale Union Saint-Gilloise",
-            "date": "2025-12-26T15:00:00+00:00",
-            "home": "Cercle Brugge",
-            "score": "1-1",
-            "event_id": 4290,
-            "away_score": 1,
-            "home_score": 1,
-            "away_team_id": 116,
-            "home_team_id": 235
-          },
-          {
-            "away": "Cercle Brugge",
-            "date": "2025-11-22T15:00:00+00:00",
-            "home": "Royale Union Saint-Gilloise",
-            "score": "2-0",
-            "event_id": 4250,
-            "away_score": 0,
-            "home_score": 2,
-            "away_team_id": 235,
-            "home_team_id": 116
-          },
-          {
-            "away": "Royale Union Saint-Gilloise",
-            "date": "2024-12-08T15:00:00+00:00",
-            "home": "Cercle Brugge",
-            "score": "0-0",
-            "event_id": 238102,
-            "away_score": 0,
-            "home_score": 0,
-            "away_team_id": 116,
-            "home_team_id": 235
-          },
-          {
-            "away": "Cercle Brugge",
-            "date": "2024-10-27T18:15:00+00:00",
-            "home": "Royale Union Saint-Gilloise",
-            "score": "1-3",
-            "event_id": 238064,
-            "away_score": 3,
-            "home_score": 1,
-            "away_team_id": 235,
-            "home_team_id": 116
-          },
-          {
-            "away": "Royale Union Saint-Gilloise",
-            "date": "2024-05-19T11:30:00+00:00",
-            "home": "Cercle Brugge",
-            "score": "1-2",
-            "event_id": 248045,
-            "away_score": 2,
-            "home_score": 1,
-            "away_team_id": 116,
-            "home_team_id": 235
-          },
-          {
-            "away": "Cercle Brugge",
-            "date": "2024-04-07T11:30:00+00:00",
-            "home": "Royale Union Saint-Gilloise",
-            "score": "2-3",
-            "event_id": 247993,
-            "away_score": 3,
-            "home_score": 2,
-            "away_team_id": 235,
-            "home_team_id": 116
-          },
-          {
-            "away": "Cercle Brugge",
-            "date": "2023-12-03T18:15:00+00:00",
-            "home": "Royale Union Saint-Gilloise",
-            "score": "2-1",
-            "event_id": 247869,
-            "away_score": 1,
-            "home_score": 2,
-            "away_team_id": 235,
-            "home_team_id": 116
-          },
-          {
-            "away": "Royale Union Saint-Gilloise",
-            "date": "2023-09-24T14:00:00+00:00",
-            "home": "Cercle Brugge",
-            "score": "0-2",
-            "event_id": 247803,
-            "away_score": 2,
-            "home_score": 0,
-            "away_team_id": 116,
-            "home_team_id": 235
-          },
-          {
-            "away": "Royale Union Saint-Gilloise",
-            "date": "2023-01-18T17:30:00+00:00",
-            "home": "Cercle Brugge",
-            "score": "1-1",
-            "event_id": 258770,
-            "away_score": 1,
-            "home_score": 1,
-            "away_team_id": 116,
-            "home_team_id": 235
-          },
-          {
-            "away": "Cercle Brugge",
-            "date": "2022-10-09T19:00:00+00:00",
-            "home": "Royale Union Saint-Gilloise",
-            "score": "2-1",
-            "event_id": 258685,
-            "away_score": 1,
-            "home_score": 2,
-            "away_team_id": 235,
-            "home_team_id": 116
-          }
-        ]
-      },
-      "has_xg": false,
-      "previous_leg_event_id": null
-    },
-    {
       "id": 211935,
       "league_id": 25,
       "season_id": 1229,
@@ -64657,7 +64818,30 @@
       "live_websocket": false,
       "websocket_plus": false,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 1,
+        "home_wins": 0,
+        "draws": 0,
+        "away_wins": 1,
+        "home_goals": 0,
+        "away_goals": 2,
+        "avg_total_goals": 2.0,
+        "home_win_rate": 0.0,
+        "away_win_rate": 1.0,
+        "recent_matches": [
+          {
+            "away": "Atlético Petróleos de Luanda",
+            "date": "2026-10-18T13:00:00+00:00",
+            "home": "Scottland FC",
+            "score": "2-0",
+            "event_id": 603730,
+            "away_score": 0,
+            "home_score": 2,
+            "away_team_id": 597,
+            "home_team_id": 8244
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": 603730
     },
@@ -65438,7 +65622,7 @@
       "away_team_id": 3176,
       "away_team": "Perth Glory",
       "home_coach_id": 3848,
-      "away_coach_id": 4367,
+      "away_coach_id": 4428,
       "referee_id": null,
       "venue_id": 2940,
       "event_date": "2026-10-23T09:00:00+00:00",
@@ -69377,7 +69561,7 @@
       "home_team": "Llaneros FC",
       "away_team_id": 3733,
       "away_team": "Deportivo Cali",
-      "home_coach_id": 3041,
+      "home_coach_id": 4458,
       "away_coach_id": 2156,
       "referee_id": null,
       "venue_id": 1657,
@@ -69699,7 +69883,7 @@
       "away_team": "Atlético Mineiro",
       "home_coach_id": 520,
       "away_coach_id": 159,
-      "referee_id": null,
+      "referee_id": 2119,
       "venue_id": 438,
       "event_date": "2026-10-21T22:00:00+00:00",
       "status": "notstarted",
@@ -72955,7 +73139,7 @@
       "away_team": "Boca Juniors",
       "home_coach_id": 290,
       "away_coach_id": 1822,
-      "referee_id": null,
+      "referee_id": 2118,
       "venue_id": 151,
       "event_date": "2026-10-21T00:30:00+00:00",
       "status": "notstarted",
@@ -73394,7 +73578,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": true,
-      "websocket_plus": true,
+      "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
         "total_matches": 7,
@@ -78955,10 +79139,10 @@
       "is_neutral_ground": false,
       "travel_distance_km": 94,
       "weather": {
-        "code": null,
-        "description": null,
-        "wind_speed": null,
-        "temperature_c": null
+        "code": 3,
+        "description": "rain",
+        "wind_speed": 14.4,
+        "temperature_c": 8
       },
       "pitch_condition": null,
       "attendance": null,
@@ -83189,7 +83373,7 @@
       "venue_id": 246,
       "event_date": "2026-10-19T15:20:00+00:00",
       "status": "postponed",
-      "replaced_by": null,
+      "replaced_by": 642911,
       "round_number": 10,
       "round_name": "",
       "group_name": null,
@@ -83528,6 +83712,87 @@
       "previous_leg_event_id": null
     },
     {
+      "id": 604574,
+      "league_id": 28,
+      "season_id": 1901,
+      "home_team_id": 564,
+      "home_team": "Rivers United",
+      "away_team_id": 567,
+      "away_team": "Barau FC",
+      "home_coach_id": 4038,
+      "away_coach_id": 20,
+      "referee_id": null,
+      "venue_id": 450,
+      "event_date": "2026-10-19T07:00:00+00:00",
+      "status": "abandoned",
+      "replaced_by": null,
+      "round_number": 9,
+      "round_name": "",
+      "group_name": null,
+      "stage": "regular-season",
+      "stage_name": "Regular season",
+      "round_label": "Regular season · Matchday 9",
+      "period": "2T",
+      "current_minute": 71,
+      "home_score": 0,
+      "away_score": 0,
+      "home_score_ht": 0,
+      "away_score_ht": 0,
+      "penalty_shootout": null,
+      "extra_time_score": null,
+      "is_local_derby": false,
+      "is_neutral_ground": false,
+      "travel_distance_km": null,
+      "weather": {
+        "code": null,
+        "description": null,
+        "wind_speed": null,
+        "temperature_c": null
+      },
+      "pitch_condition": null,
+      "attendance": null,
+      "live_websocket": false,
+      "websocket_plus": false,
+      "highlights": [],
+      "head_to_head": {
+        "total_matches": 2,
+        "home_wins": 1,
+        "draws": 0,
+        "away_wins": 1,
+        "home_goals": 2,
+        "away_goals": 4,
+        "avg_total_goals": 3.0,
+        "home_win_rate": 0.5,
+        "away_win_rate": 0.5,
+        "recent_matches": [
+          {
+            "away": "Barau FC",
+            "date": "2026-02-25T15:00:00+00:00",
+            "home": "Rivers United",
+            "score": "1-0",
+            "event_id": 8667,
+            "away_score": 0,
+            "home_score": 1,
+            "away_team_id": 567,
+            "home_team_id": 564
+          },
+          {
+            "away": "Rivers United",
+            "date": "2025-12-19T15:00:00+00:00",
+            "home": "Barau FC",
+            "score": "4-1",
+            "event_id": 8446,
+            "away_score": 1,
+            "home_score": 4,
+            "away_team_id": 564,
+            "home_team_id": 567
+          }
+        ]
+      },
+      "has_xg": false,
+      "previous_leg_event_id": null
+    },
+    {
       "id": 220247,
       "league_id": 80,
       "season_id": 1570,
@@ -83539,8 +83804,8 @@
       "away_coach_id": 3862,
       "referee_id": 2111,
       "venue_id": 1658,
-      "event_date": "2026-10-19T01:10:00+00:00",
-      "status": "1st_half",
+      "event_date": "2026-10-19T01:20:00+00:00",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 15,
       "round_name": "",
@@ -83548,8 +83813,8 @@
       "stage": "league-phase",
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 15",
-      "period": "1T",
-      "current_minute": 20,
+      "period": "FT",
+      "current_minute": 98,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -83560,16 +83825,24 @@
       "is_neutral_ground": false,
       "travel_distance_km": 844,
       "weather": {
-        "code": 53,
-        "description": null,
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 6.4,
         "temperature_c": 20
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Dep. Cali 0 - 0 Junior Barranquilla — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=o8OoBEJJ7EQ",
+          "thumbnail": "https://i.ytimg.com/vi/o8OoBEJJ7EQ/hqdefault.jpg",
+          "published_at": "2026-10-19T03:41:35+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 21,
         "home_wins": 6,
@@ -83693,7 +83966,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -83709,7 +83982,7 @@
       "referee_id": 2168,
       "venue_id": 304,
       "event_date": "2026-10-19T01:00:00+00:00",
-      "status": "1st_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 12,
       "round_name": "",
@@ -83717,10 +83990,10 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 12",
-      "period": "1T",
-      "current_minute": 39,
+      "period": "FT",
+      "current_minute": 90,
       "home_score": 2,
-      "away_score": 0,
+      "away_score": 1,
       "home_score_ht": 2,
       "away_score_ht": 0,
       "penalty_shootout": null,
@@ -83729,16 +84002,24 @@
       "is_neutral_ground": false,
       "travel_distance_km": 639,
       "weather": {
-        "code": 0,
-        "description": "unknown",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 11.9,
         "temperature_c": 26
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Monterrey 2 - 1 Pachuca — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=F4giHW8PCTc",
+          "thumbnail": "https://i.ytimg.com/vi/F4giHW8PCTc/hqdefault.jpg",
+          "published_at": "2026-10-19T03:24:19+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 44,
         "home_wins": 20,
@@ -83862,7 +84143,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     }
   ]
