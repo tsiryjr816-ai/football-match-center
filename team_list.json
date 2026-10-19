@@ -1503,14 +1503,6 @@
     "id": 4834,
     "name": "CF União de Lamas"
   },
-  "3387": {
-    "id": 3387,
-    "name": "Landskrona BoIS"
-  },
-  "4411": {
-    "id": 4411,
-    "name": "Varbergs BoIS"
-  },
   "1944": {
     "id": 1944,
     "name": "Kawasaki Frontale"
@@ -4278,5 +4270,9 @@
   "809": {
     "id": 809,
     "name": "Goiás"
+  },
+  "4411": {
+    "id": 4411,
+    "name": "Varbergs BoIS"
   }
 }

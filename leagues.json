@@ -878,6 +878,14 @@
             "rounds": 1,
             "start_date": "2026-10-17",
             "end_date": "2026-10-20"
+          },
+          {
+            "stage": "round-1",
+            "stage_name": "Round 1",
+            "matches": 29,
+            "rounds": 1,
+            "start_date": "2026-11-07",
+            "end_date": "2026-11-07"
           }
         ]
       }
