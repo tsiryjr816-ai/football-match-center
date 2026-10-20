@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T20:53:40.437588+00:00",
+  "updated_at": "2026-10-20T23:34:31.368510+00:00",
   "source": "BSD Football API",
   "date_from": "2026-10-20",
   "date_to": "2026-10-27",
@@ -77326,7 +77326,7 @@
       "referee_id": null,
       "venue_id": 1657,
       "event_date": "2026-10-21T23:15:00+00:00",
-      "status": "notstarted",
+      "status": "postponed",
       "replaced_by": null,
       "round_number": 9,
       "round_name": "",
@@ -77404,7 +77404,7 @@
       "away_team": "DC United",
       "home_coach_id": 340,
       "away_coach_id": 331,
-      "referee_id": null,
+      "referee_id": 1770,
       "venue_id": 264,
       "event_date": "2026-10-21T23:00:00+00:00",
       "status": "notstarted",
@@ -78671,7 +78671,7 @@
       "away_team": "Athletic Club",
       "home_coach_id": 230,
       "away_coach_id": 1992,
-      "referee_id": null,
+      "referee_id": 1649,
       "venue_id": 46,
       "event_date": "2026-10-21T18:00:00+00:00",
       "status": "notstarted",
@@ -81456,7 +81456,7 @@
       "referee_id": 1584,
       "venue_id": 1656,
       "event_date": "2026-10-20T23:30:00+00:00",
-      "status": "notstarted",
+      "status": "1st_half",
       "replaced_by": null,
       "round_number": 15,
       "round_name": "",
@@ -81464,12 +81464,12 @@
       "stage": "league-phase",
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 15",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "1T",
+      "current_minute": 3,
+      "home_score": 0,
+      "away_score": 0,
+      "home_score_ht": 0,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -81592,7 +81592,7 @@
       "referee_id": 2994,
       "venue_id": null,
       "event_date": "2026-10-20T23:15:00+00:00",
-      "status": "notstarted",
+      "status": "1st_half",
       "replaced_by": null,
       "round_number": 15,
       "round_name": "",
@@ -81600,12 +81600,12 @@
       "stage": "league-phase",
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 15",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "1T",
+      "current_minute": 18,
+      "home_score": 1,
+      "away_score": 0,
+      "home_score_ht": 1,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -81646,7 +81646,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -81662,7 +81662,7 @@
       "referee_id": 1590,
       "venue_id": 614,
       "event_date": "2026-10-20T22:30:00+00:00",
-      "status": "notstarted",
+      "status": "halftime",
       "replaced_by": null,
       "round_number": 34,
       "round_name": "",
@@ -81670,12 +81670,12 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 34",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "HT",
+      "current_minute": 45,
+      "home_score": 1,
+      "away_score": 0,
+      "home_score_ht": 1,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -81754,7 +81754,7 @@
       "referee_id": 2722,
       "venue_id": 1652,
       "event_date": "2026-10-20T21:30:00+00:00",
-      "status": "notstarted",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 15,
       "round_name": "",
@@ -81762,12 +81762,12 @@
       "stage": "league-phase",
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 15",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 2,
+      "away_score": 0,
+      "home_score_ht": 1,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -81783,7 +81783,22 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "goals",
+          "title": "Deportivo Pereira 2 - 0 Boyacá Chicó — 86' Manuel Alejandro Diaz Hernandez",
+          "url": "https://youtu.be/7zF7vzgRhOo",
+          "thumbnail": "https://i.ytimg.com/vi/7zF7vzgRhOo/hqdefault.jpg",
+          "published_at": "2026-10-20T23:27:59+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Deportivo Pereira 1 - 0 Boyacá Chicó — 40' Jhon Largacha",
+          "url": "https://www.youtube.com/watch?v=0z_IzGoVpVE",
+          "thumbnail": "https://i.ytimg.com/vi/0z_IzGoVpVE/hqdefault.jpg",
+          "published_at": "2026-10-20T22:17:55+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 6,
         "home_wins": 2,
@@ -81879,7 +81894,7 @@
       "referee_id": 1781,
       "venue_id": 62,
       "event_date": "2026-10-20T19:00:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 3,
       "round_name": "",
@@ -81887,10 +81902,10 @@
       "stage": "league-phase",
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 3",
-      "period": "2T",
-      "current_minute": 92,
+      "period": "FT",
+      "current_minute": 90,
       "home_score": 4,
-      "away_score": 2,
+      "away_score": 3,
       "home_score_ht": 2,
       "away_score_ht": 1,
       "penalty_shootout": null,
@@ -81899,12 +81914,12 @@
       "is_neutral_ground": false,
       "travel_distance_km": null,
       "weather": {
-        "code": 81,
-        "description": null,
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 26.8,
         "temperature_c": 19
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
@@ -82074,12 +82089,12 @@
       "is_neutral_ground": false,
       "travel_distance_km": 1570,
       "weather": {
-        "code": 1,
-        "description": "clear",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 4.7,
         "temperature_c": 20
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": false,
@@ -82121,12 +82136,12 @@
       "is_neutral_ground": false,
       "travel_distance_km": 1518,
       "weather": {
-        "code": 3,
-        "description": "rain",
+        "code": 1,
+        "description": "clear",
         "wind_speed": 7.8,
         "temperature_c": 12
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
@@ -82204,7 +82219,7 @@
       "referee_id": 1756,
       "venue_id": 112,
       "event_date": "2026-10-20T19:00:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 3,
       "round_name": "",
@@ -82212,8 +82227,8 @@
       "stage": "league-phase",
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 3",
-      "period": "2T",
-      "current_minute": 89,
+      "period": "FT",
+      "current_minute": 90,
       "home_score": 4,
       "away_score": 2,
       "home_score_ht": 1,
@@ -82589,7 +82604,7 @@
       "referee_id": null,
       "venue_id": null,
       "event_date": "2026-10-20T18:45:00+00:00",
-      "status": "extratime",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 4,
       "round_name": "Qualification Round 4",
@@ -82597,10 +82612,10 @@
       "stage": "qualification-round-4",
       "stage_name": "Qualification Round 4",
       "round_label": "Qualification Round 4",
-      "period": "ET1",
-      "current_minute": 100,
-      "home_score": 1,
-      "away_score": 1,
+      "period": "PEN",
+      "current_minute": 120,
+      "home_score": 2,
+      "away_score": 2,
       "home_score_ht": 1,
       "away_score_ht": 1,
       "penalty_shootout": null,
@@ -83388,7 +83403,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Wolverhampton 1-1 Portsmouth — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=6EzJZDU6yEE",
+          "thumbnail": "https://i.ytimg.com/vi/6EzJZDU6yEE/maxresdefault.jpg",
+          "published_at": "2026-10-20T21:43:15+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 4,
         "home_wins": 0,
@@ -83649,7 +83672,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Walsall 3 - 0 Oldham — Full Highlights",
+          "url": "https://youtu.be/Ggu6itoUR-c",
+          "thumbnail": "https://i.ytimg.com/vi/Ggu6itoUR-c/hqdefault.jpg",
+          "published_at": "2026-10-20T23:06:08+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 27,
         "home_wins": 11,
@@ -84317,7 +84348,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Crawley 2 - 3 Shrewsbury — Full Highlights",
+          "url": "https://youtu.be/xdR7lmgTyBA",
+          "thumbnail": "https://i.ytimg.com/vi/xdR7lmgTyBA/hqdefault.jpg",
+          "published_at": "2026-10-20T23:29:48+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 10,
         "home_wins": 2,
@@ -84927,7 +84966,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Barnet 1 - 3 Swindon — Full Highlights",
+          "url": "https://youtu.be/kiYwZnragR0",
+          "thumbnail": "https://i.ytimg.com/vi/kiYwZnragR0/hqdefault.jpg",
+          "published_at": "2026-10-20T23:04:12+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 6,
         "home_wins": 2,
@@ -85482,7 +85529,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": false,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Luton 2 - 1 Barnsley — Full Highlights",
+          "url": "https://youtu.be/n1oa6pTmJnY",
+          "thumbnail": "https://i.ytimg.com/vi/n1oa6pTmJnY/hqdefault.jpg",
+          "published_at": "2026-10-20T23:04:40+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 10,
         "home_wins": 5,
@@ -86294,7 +86349,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Bromley 0 - 4 Leicester — Full Highlights",
+          "url": "https://youtu.be/52pHGzMxRZA",
+          "thumbnail": "https://i.ytimg.com/vi/52pHGzMxRZA/hqdefault.jpg",
+          "published_at": "2026-10-20T23:06:42+00:00"
+        }
+      ],
       "head_to_head": null,
       "has_xg": false,
       "previous_leg_event_id": null
@@ -87339,7 +87402,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Sabah 1 - 2 Dortmund — Full Highlights",
+          "url": "https://youtu.be/vpUbdpaccEo",
+          "thumbnail": "https://i.ytimg.com/vi/vpUbdpaccEo/hqdefault.jpg",
+          "published_at": "2026-10-20T22:05:10+00:00"
+        }
+      ],
       "head_to_head": null,
       "has_xg": true,
       "previous_leg_event_id": null
