@@ -693,7 +693,7 @@
           {
             "stage": "quarterfinals",
             "stage_name": "Quarterfinals",
-            "matches": 3,
+            "matches": 4,
             "rounds": 1,
             "start_date": "2026-10-15",
             "end_date": "2026-10-22"
@@ -803,7 +803,7 @@
             "matches": 8,
             "rounds": 1,
             "start_date": "2026-10-27",
-            "end_date": "2026-10-28"
+            "end_date": "2026-10-29"
           }
         ]
       }
@@ -1745,10 +1745,10 @@
           {
             "stage": "league-phase",
             "stage_name": "League phase",
-            "matches": 362,
+            "matches": 364,
             "rounds": 0,
             "start_date": "2025-12-17",
-            "end_date": "2026-11-13"
+            "end_date": "2026-11-15"
           },
           {
             "stage": "semifinals",

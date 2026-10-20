@@ -79,6 +79,14 @@
     "id": 41,
     "name": "Villarreal"
   },
+  "1444": {
+    "id": 1444,
+    "name": "Fleetwood Town"
+  },
+  "18": {
+    "id": 18,
+    "name": "Arsenal"
+  },
   "1256": {
     "id": 1256,
     "name": "Milton Keynes Dons"
@@ -263,6 +271,14 @@
     "id": 1471,
     "name": "CD Extremadura"
   },
+  "4972": {
+    "id": 4972,
+    "name": "CE Manresa"
+  },
+  "1470": {
+    "id": 1470,
+    "name": "UE Sant Andreu"
+  },
   "435": {
     "id": 435,
     "name": "Piast Gliwice"
@@ -367,14 +383,6 @@
     "id": 1264,
     "name": "Almería"
   },
-  "4972": {
-    "id": 4972,
-    "name": "CE Manresa"
-  },
-  "1470": {
-    "id": 1470,
-    "name": "UE Sant Andreu"
-  },
   "3387": {
     "id": 3387,
     "name": "Landskrona BoIS"
@@ -431,6 +439,14 @@
     "id": 39,
     "name": "Girona FC"
   },
+  "340": {
+    "id": 340,
+    "name": "Arda Kardzhali"
+  },
+  "348": {
+    "id": 348,
+    "name": "Levski Sofia"
+  },
   "61": {
     "id": 61,
     "name": "Sassuolo"
@@ -479,53 +495,13 @@
     "id": 428,
     "name": "Raków Częstochowa"
   },
-  "12": {
-    "id": 12,
-    "name": "Manchester City"
+  "342": {
+    "id": 342,
+    "name": "Cherno More Varna"
   },
-  "5": {
-    "id": 5,
-    "name": "Brighton & Hove Albion"
-  },
-  "7": {
-    "id": 7,
-    "name": "Sunderland"
-  },
-  "16": {
-    "id": 16,
-    "name": "Brentford"
-  },
-  "6": {
-    "id": 6,
-    "name": "Fulham"
-  },
-  "14": {
-    "id": 14,
-    "name": "Crystal Palace"
-  },
-  "20": {
-    "id": 20,
-    "name": "Everton"
-  },
-  "4": {
-    "id": 4,
-    "name": "Newcastle United"
-  },
-  "1444": {
-    "id": 1444,
-    "name": "Fleetwood Town"
-  },
-  "18": {
-    "id": 18,
-    "name": "Arsenal"
-  },
-  "1": {
-    "id": 1,
-    "name": "Liverpool FC"
-  },
-  "13": {
-    "id": 13,
-    "name": "Chelsea"
+  "343": {
+    "id": 343,
+    "name": "FK Septemvri Sofia"
   },
   "3955": {
     "id": 3955,
@@ -739,6 +715,14 @@
     "id": 359,
     "name": "Universitatea Craiova"
   },
+  "345": {
+    "id": 345,
+    "name": "CSKA Sofia"
+  },
+  "136": {
+    "id": 136,
+    "name": "Ludogorets"
+  },
   "189": {
     "id": 189,
     "name": "Çaykur Rizespor"
@@ -754,6 +738,14 @@
   "194": {
     "id": 194,
     "name": "Başakşehir FK"
+  },
+  "350": {
+    "id": 350,
+    "name": "Lokomotiv Plovdiv"
+  },
+  "346": {
+    "id": 346,
+    "name": "Slavia Sofia"
   },
   "308": {
     "id": 308,
@@ -870,6 +862,14 @@
   "780": {
     "id": 780,
     "name": "Boca Juniors"
+  },
+  "4823": {
+    "id": 4823,
+    "name": "UD Santarém"
+  },
+  "4831": {
+    "id": 4831,
+    "name": "GD Vitória Sernache"
   },
   "44": {
     "id": 44,
@@ -1102,6 +1102,10 @@
   "375": {
     "id": 375,
     "name": "Lech Poznań"
+  },
+  "7": {
+    "id": 7,
+    "name": "Sunderland"
   },
   "19": {
     "id": 19,
@@ -1347,14 +1351,6 @@
     "id": 581,
     "name": "Niger Tornadoes"
   },
-  "574": {
-    "id": 574,
-    "name": "Warri Wolves FC"
-  },
-  "566": {
-    "id": 566,
-    "name": "Kano Pillars"
-  },
   "573": {
     "id": 573,
     "name": "Katsina United"
@@ -1595,14 +1591,6 @@
     "id": 1378,
     "name": "Sønderjyske Fodbold"
   },
-  "4823": {
-    "id": 4823,
-    "name": "UD Santarém"
-  },
-  "4831": {
-    "id": 4831,
-    "name": "GD Vitória Sernache"
-  },
   "4833": {
     "id": 4833,
     "name": "Louletano DC"
@@ -1658,6 +1646,14 @@
   "4431": {
     "id": 4431,
     "name": "Ljungskile SK"
+  },
+  "1274": {
+    "id": 1274,
+    "name": "Catania"
+  },
+  "5045": {
+    "id": 5045,
+    "name": "Giugliano"
   },
   "1393": {
     "id": 1393,
@@ -1755,9 +1751,29 @@
     "id": 2,
     "name": "Bournemouth"
   },
+  "1": {
+    "id": 1,
+    "name": "Liverpool FC"
+  },
+  "5": {
+    "id": 5,
+    "name": "Brighton & Hove Albion"
+  },
   "204": {
     "id": 204,
     "name": "Hull City"
+  },
+  "16": {
+    "id": 16,
+    "name": "Brentford"
+  },
+  "14": {
+    "id": 14,
+    "name": "Crystal Palace"
+  },
+  "4": {
+    "id": 4,
+    "name": "Newcastle United"
   },
   "420": {
     "id": 420,
@@ -1982,14 +1998,6 @@
   "4809": {
     "id": 4809,
     "name": "Cavese"
-  },
-  "1274": {
-    "id": 1274,
-    "name": "Catania"
-  },
-  "5045": {
-    "id": 5045,
-    "name": "Giugliano"
   },
   "4712": {
     "id": 4712,
@@ -2691,14 +2699,6 @@
     "id": 1324,
     "name": "SC Cambuur"
   },
-  "7115": {
-    "id": 7115,
-    "name": "Savoia 1908"
-  },
-  "3604": {
-    "id": 3604,
-    "name": "Cosenza"
-  },
   "325": {
     "id": 325,
     "name": "Asteras Aktor"
@@ -2718,6 +2718,10 @@
   "47": {
     "id": 47,
     "name": "Valencia"
+  },
+  "13": {
+    "id": 13,
+    "name": "Chelsea"
   },
   "9": {
     "id": 9,
@@ -2807,6 +2811,14 @@
     "id": 3886,
     "name": "Ravenna"
   },
+  "7115": {
+    "id": 7115,
+    "name": "Savoia 1908"
+  },
+  "3604": {
+    "id": 3604,
+    "name": "Cosenza"
+  },
   "3888": {
     "id": 3888,
     "name": "Union Brescia"
@@ -2871,6 +2883,14 @@
     "id": 445,
     "name": "Östers IF"
   },
+  "574": {
+    "id": 574,
+    "name": "Warri Wolves FC"
+  },
+  "566": {
+    "id": 566,
+    "name": "Kano Pillars"
+  },
   "5649": {
     "id": 5649,
     "name": "Sporting Lagos FC"
@@ -2910,38 +2930,6 @@
   "358": {
     "id": 358,
     "name": "UTA Arad"
-  },
-  "350": {
-    "id": 350,
-    "name": "Lokomotiv Plovdiv"
-  },
-  "346": {
-    "id": 346,
-    "name": "Slavia Sofia"
-  },
-  "342": {
-    "id": 342,
-    "name": "Cherno More Varna"
-  },
-  "343": {
-    "id": 343,
-    "name": "FK Septemvri Sofia"
-  },
-  "345": {
-    "id": 345,
-    "name": "CSKA Sofia"
-  },
-  "136": {
-    "id": 136,
-    "name": "Ludogorets"
-  },
-  "340": {
-    "id": 340,
-    "name": "Arda Kardzhali"
-  },
-  "348": {
-    "id": 348,
-    "name": "Levski Sofia"
   },
   "34": {
     "id": 34,
@@ -3295,6 +3283,14 @@
     "id": 203,
     "name": "Coventry City"
   },
+  "6": {
+    "id": 6,
+    "name": "Fulham"
+  },
+  "20": {
+    "id": 20,
+    "name": "Everton"
+  },
   "121": {
     "id": 121,
     "name": "Bodø/Glimt"
@@ -3526,6 +3522,10 @@
   "3": {
     "id": 3,
     "name": "Aston Villa"
+  },
+  "12": {
+    "id": 12,
+    "name": "Manchester City"
   },
   "5907": {
     "id": 5907,
