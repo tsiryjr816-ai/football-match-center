@@ -1295,6 +1295,14 @@
     "id": 58,
     "name": "Osasuna"
   },
+  "1301": {
+    "id": 1301,
+    "name": "Montpellier"
+  },
+  "1686": {
+    "id": 1686,
+    "name": "Red Star FC"
+  },
   "1688": {
     "id": 1688,
     "name": "US Boulogne Côte-d'Opale"
@@ -1726,6 +1734,14 @@
   "19": {
     "id": 19,
     "name": "Leeds United"
+  },
+  "104": {
+    "id": 104,
+    "name": "Toulouse"
+  },
+  "1303": {
+    "id": 1303,
+    "name": "Troyes"
   },
   "97": {
     "id": 97,
@@ -2343,6 +2359,14 @@
     "id": 9067,
     "name": "Pianese"
   },
+  "5545": {
+    "id": 5545,
+    "name": "Foggia"
+  },
+  "4809": {
+    "id": 4809,
+    "name": "Cavese"
+  },
   "9066": {
     "id": 9066,
     "name": "Calcio Desenzano"
@@ -2494,14 +2518,6 @@
   "1595": {
     "id": 1595,
     "name": "Audace Cerignola"
-  },
-  "5545": {
-    "id": 5545,
-    "name": "Foggia"
-  },
-  "4809": {
-    "id": 4809,
-    "name": "Cavese"
   },
   "4712": {
     "id": 4712,
@@ -3259,14 +3275,6 @@
     "id": 450,
     "name": "Örgryte IS"
   },
-  "104": {
-    "id": 104,
-    "name": "Toulouse"
-  },
-  "1303": {
-    "id": 1303,
-    "name": "Troyes"
-  },
   "261": {
     "id": 261,
     "name": "Al-Kholood"
@@ -3747,14 +3755,6 @@
     "id": 2217,
     "name": "FC Voluntari"
   },
-  "1301": {
-    "id": 1301,
-    "name": "Montpellier"
-  },
-  "1686": {
-    "id": 1686,
-    "name": "Red Star FC"
-  },
   "1305": {
     "id": 1305,
     "name": "Dijon"
@@ -4167,6 +4167,14 @@
     "id": 36,
     "name": "Vitória SC"
   },
+  "1315": {
+    "id": 1315,
+    "name": "Paços de Ferreira"
+  },
+  "4029": {
+    "id": 4029,
+    "name": "Leça FC"
+  },
   "584": {
     "id": 584,
     "name": "MC Alger"
@@ -4242,14 +4250,6 @@
   "1594": {
     "id": 1594,
     "name": "Bari"
-  },
-  "1315": {
-    "id": 1315,
-    "name": "Paços de Ferreira"
-  },
-  "4029": {
-    "id": 4029,
-    "name": "Leça FC"
   },
   "423": {
     "id": 423,
