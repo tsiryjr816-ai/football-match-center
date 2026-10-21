@@ -535,6 +535,14 @@
     "id": 66,
     "name": "Bologna"
   },
+  "586": {
+    "id": 586,
+    "name": "AS FAR Rabat"
+  },
+  "2059": {
+    "id": 2059,
+    "name": "Ittihad Tanger"
+  },
   "3959": {
     "id": 3959,
     "name": "Atalanta U23"
@@ -598,6 +606,22 @@
   "2093": {
     "id": 2093,
     "name": "VPS"
+  },
+  "2067": {
+    "id": 2067,
+    "name": "Raja Club Athletic"
+  },
+  "2060": {
+    "id": 2060,
+    "name": "Hassania d'Agadir"
+  },
+  "619": {
+    "id": 619,
+    "name": "Wiliete SC"
+  },
+  "8757": {
+    "id": 8757,
+    "name": "CD São Salvador"
   },
   "3857": {
     "id": 3857,
@@ -1611,6 +1635,14 @@
     "id": 240,
     "name": "RSC Anderlecht"
   },
+  "2065": {
+    "id": 2065,
+    "name": "Kawkab Athletic Club Marrakech"
+  },
+  "2069": {
+    "id": 2069,
+    "name": "Difaâ Hassani El-Jadidi"
+  },
   "612": {
     "id": 612,
     "name": "FC Nouadhibou"
@@ -1866,6 +1898,14 @@
   "1403": {
     "id": 1403,
     "name": "CD Eldense"
+  },
+  "2072": {
+    "id": 2072,
+    "name": "Renaissance Zemamra"
+  },
+  "2066": {
+    "id": 2066,
+    "name": "Fath Union Sport"
   },
   "599": {
     "id": 599,
@@ -2883,6 +2923,14 @@
     "id": 295,
     "name": "Columbus Crew"
   },
+  "5186": {
+    "id": 5186,
+    "name": "Moghreb Atlético Tetuán"
+  },
+  "8617": {
+    "id": 8617,
+    "name": "Wydad Sportive Témara"
+  },
   "594": {
     "id": 594,
     "name": "RS Berkane"
@@ -3010,6 +3058,14 @@
   "284": {
     "id": 284,
     "name": "Nashville SC"
+  },
+  "2062": {
+    "id": 2062,
+    "name": "Union Touarga Sport"
+  },
+  "2064": {
+    "id": 2064,
+    "name": "Wydad Casablanca"
   },
   "593": {
     "id": 593,
@@ -3219,6 +3275,14 @@
     "id": 260,
     "name": "Al-Ettifaq"
   },
+  "4771": {
+    "id": 4771,
+    "name": "Union Sportive Amal Tiznit"
+  },
+  "2070": {
+    "id": 2070,
+    "name": "CODM Meknès"
+  },
   "4397": {
     "id": 4397,
     "name": "IK Brage"
@@ -3294,14 +3358,6 @@
   "1400": {
     "id": 1400,
     "name": "Real Racing Club"
-  },
-  "619": {
-    "id": 619,
-    "name": "Wiliete SC"
-  },
-  "8757": {
-    "id": 8757,
-    "name": "CD São Salvador"
   },
   "5189": {
     "id": 5189,
