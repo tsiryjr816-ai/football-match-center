@@ -2291,14 +2291,6 @@
     "id": 2740,
     "name": "Sidama Bunna FC"
   },
-  "8256": {
-    "id": 8256,
-    "name": "Ranchers Bees"
-  },
-  "5648": {
-    "id": 5648,
-    "name": "Doma United FC"
-  },
   "572": {
     "id": 572,
     "name": "Kun Khalifat FC"
@@ -2315,13 +2307,13 @@
     "id": 581,
     "name": "Niger Tornadoes"
   },
-  "573": {
-    "id": 573,
-    "name": "Katsina United"
+  "574": {
+    "id": 574,
+    "name": "Warri Wolves FC"
   },
-  "580": {
-    "id": 580,
-    "name": "Plateau United"
+  "566": {
+    "id": 566,
+    "name": "Kano Pillars"
   },
   "567": {
     "id": 567,
@@ -3479,13 +3471,21 @@
     "id": 445,
     "name": "Östers IF"
   },
-  "574": {
-    "id": 574,
-    "name": "Warri Wolves FC"
+  "8256": {
+    "id": 8256,
+    "name": "Ranchers Bees"
   },
-  "566": {
-    "id": 566,
-    "name": "Kano Pillars"
+  "5648": {
+    "id": 5648,
+    "name": "Doma United FC"
+  },
+  "573": {
+    "id": 573,
+    "name": "Katsina United"
+  },
+  "580": {
+    "id": 580,
+    "name": "Plateau United"
   },
   "5649": {
     "id": 5649,
