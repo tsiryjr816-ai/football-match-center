@@ -1055,6 +1055,14 @@
     "id": 2060,
     "name": "Hassania d'Agadir"
   },
+  "8754": {
+    "id": 8754,
+    "name": "FC Cabinda"
+  },
+  "6834": {
+    "id": 6834,
+    "name": "Kabuscorp SCP"
+  },
   "619": {
     "id": 619,
     "name": "Wiliete SC"
@@ -1967,6 +1975,14 @@
     "id": 410,
     "name": "Fredrikstad FK"
   },
+  "2065": {
+    "id": 2065,
+    "name": "Kawkab Athletic Club Marrakech"
+  },
+  "2069": {
+    "id": 2069,
+    "name": "Difaâ Hassani El-Jadidi"
+  },
   "3648": {
     "id": 3648,
     "name": "Varzim SC"
@@ -2018,14 +2034,6 @@
   "240": {
     "id": 240,
     "name": "RSC Anderlecht"
-  },
-  "2065": {
-    "id": 2065,
-    "name": "Kawkab Athletic Club Marrakech"
-  },
-  "2069": {
-    "id": 2069,
-    "name": "Difaâ Hassani El-Jadidi"
   },
   "612": {
     "id": 612,
@@ -2378,14 +2386,6 @@
   "8290": {
     "id": 8290,
     "name": "Imortal Deportivo Clube"
-  },
-  "8328": {
-    "id": 8328,
-    "name": "GD Lagoa"
-  },
-  "8326": {
-    "id": 8326,
-    "name": "JD Lajense"
   },
   "8394": {
     "id": 8394,
@@ -2859,6 +2859,14 @@
     "id": 172,
     "name": "Excelsior"
   },
+  "8328": {
+    "id": 8328,
+    "name": "GD Lagoa"
+  },
+  "8326": {
+    "id": 8326,
+    "name": "JD Lajense"
+  },
   "8224": {
     "id": 8224,
     "name": "Guarda FC"
@@ -3119,6 +3127,14 @@
     "id": 2241,
     "name": "Brooklyn FC"
   },
+  "5186": {
+    "id": 5186,
+    "name": "Moghreb Atlético Tetuán"
+  },
+  "8617": {
+    "id": 8617,
+    "name": "Wydad Sportive Témara"
+  },
   "2391": {
     "id": 2391,
     "name": "CA Talleres"
@@ -3154,14 +3170,6 @@
   "151": {
     "id": 151,
     "name": "Mirassol"
-  },
-  "5186": {
-    "id": 5186,
-    "name": "Moghreb Atlético Tetuán"
-  },
-  "8617": {
-    "id": 8617,
-    "name": "Wydad Sportive Témara"
   },
   "8239": {
     "id": 8239,
@@ -3239,6 +3247,14 @@
     "id": 1772,
     "name": "Wisła Kraków"
   },
+  "2062": {
+    "id": 2062,
+    "name": "Union Touarga Sport"
+  },
+  "2064": {
+    "id": 2064,
+    "name": "Wydad Casablanca"
+  },
   "2554": {
     "id": 2554,
     "name": "KSC Lokeren"
@@ -3270,14 +3286,6 @@
   "2871": {
     "id": 2871,
     "name": "SC Austria Lustenau"
-  },
-  "2062": {
-    "id": 2062,
-    "name": "Union Touarga Sport"
-  },
-  "2064": {
-    "id": 2064,
-    "name": "Wydad Casablanca"
   },
   "593": {
     "id": 593,
@@ -3371,6 +3379,14 @@
     "id": 1827,
     "name": "Lommel SK"
   },
+  "4771": {
+    "id": 4771,
+    "name": "Union Sportive Amal Tiznit"
+  },
+  "2070": {
+    "id": 2070,
+    "name": "CODM Meknès"
+  },
   "2858": {
     "id": 2858,
     "name": "Swehly SC"
@@ -3454,14 +3470,6 @@
   "434": {
     "id": 434,
     "name": "Pogoń Szczecin"
-  },
-  "4771": {
-    "id": 4771,
-    "name": "Union Sportive Amal Tiznit"
-  },
-  "2070": {
-    "id": 2070,
-    "name": "CODM Meknès"
   },
   "4397": {
     "id": 4397,
@@ -3558,14 +3566,6 @@
   "3294": {
     "id": 3294,
     "name": "Primeiro de Agosto"
-  },
-  "8754": {
-    "id": 8754,
-    "name": "FC Cabinda"
-  },
-  "6834": {
-    "id": 6834,
-    "name": "Kabuscorp SCP"
   },
   "5021": {
     "id": 5021,
@@ -4471,6 +4471,10 @@
     "id": 1299,
     "name": "Guingamp"
   },
+  "258": {
+    "id": 258,
+    "name": "Al-Ahli"
+  },
   "3549": {
     "id": 3549,
     "name": "FC Corvinul Hunedoara"
@@ -4626,10 +4630,6 @@
   "406": {
     "id": 406,
     "name": "NK Celje"
-  },
-  "258": {
-    "id": 258,
-    "name": "Al-Ahli"
   },
   "119": {
     "id": 119,
