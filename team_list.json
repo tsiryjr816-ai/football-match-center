@@ -3187,6 +3187,14 @@
     "id": 927,
     "name": "Botafogo-SP"
   },
+  "1300": {
+    "id": 1300,
+    "name": "Saint-Étienne"
+  },
+  "113": {
+    "id": 113,
+    "name": "Nantes"
+  },
   "238": {
     "id": 238,
     "name": "RAAL La Louvière"
@@ -3238,14 +3246,6 @@
   "3972": {
     "id": 3972,
     "name": "KAA Gent Reserve U23"
-  },
-  "1300": {
-    "id": 1300,
-    "name": "Saint-Étienne"
-  },
-  "113": {
-    "id": 113,
-    "name": "Nantes"
   },
   "140": {
     "id": 140,
