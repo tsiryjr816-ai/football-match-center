@@ -2043,6 +2043,10 @@
     "id": 1284,
     "name": "US Salernitana 1919"
   },
+  "100": {
+    "id": 100,
+    "name": "Olympique Lyonnais"
+  },
   "28": {
     "id": 28,
     "name": "Santa Clara"
@@ -2195,10 +2199,6 @@
     "id": 57,
     "name": "Real Madrid"
   },
-  "100": {
-    "id": 100,
-    "name": "Olympique Lyonnais"
-  },
   "3733": {
     "id": 3733,
     "name": "Deportivo Cali"
@@ -2238,6 +2238,10 @@
   "410": {
     "id": 410,
     "name": "Fredrikstad FK"
+  },
+  "2065": {
+    "id": 2065,
+    "name": "Kawkab Athletic Club Marrakech"
   },
   "3648": {
     "id": 3648,
@@ -2290,10 +2294,6 @@
   "240": {
     "id": 240,
     "name": "RSC Anderlecht"
-  },
-  "2065": {
-    "id": 2065,
-    "name": "Kawkab Athletic Club Marrakech"
   },
   "612": {
     "id": 612,
@@ -2846,14 +2846,6 @@
   "8753": {
     "id": 8753,
     "name": "CD Lunda Sul"
-  },
-  "8722": {
-    "id": 8722,
-    "name": "GD Portel"
-  },
-  "8718": {
-    "id": 8718,
-    "name": "Santa Clara Azores B"
   },
   "8328": {
     "id": 8328,
@@ -3531,6 +3523,14 @@
     "id": 1827,
     "name": "Lommel SK"
   },
+  "4771": {
+    "id": 4771,
+    "name": "Union Sportive Amal Tiznit"
+  },
+  "2070": {
+    "id": 2070,
+    "name": "CODM Meknès"
+  },
   "2858": {
     "id": 2858,
     "name": "Swehly SC"
@@ -3614,14 +3614,6 @@
   "434": {
     "id": 434,
     "name": "Pogoń Szczecin"
-  },
-  "4771": {
-    "id": 4771,
-    "name": "Union Sportive Amal Tiznit"
-  },
-  "2070": {
-    "id": 2070,
-    "name": "CODM Meknès"
   },
   "445": {
     "id": 445,
@@ -3970,6 +3962,14 @@
   "409": {
     "id": 409,
     "name": "Baník Ostrava"
+  },
+  "8722": {
+    "id": 8722,
+    "name": "GD Portel"
+  },
+  "8718": {
+    "id": 8718,
+    "name": "Santa Clara Azores B"
   },
   "1312": {
     "id": 1312,
