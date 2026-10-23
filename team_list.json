@@ -2847,14 +2847,6 @@
     "id": 8753,
     "name": "CD Lunda Sul"
   },
-  "8328": {
-    "id": 8328,
-    "name": "GD Lagoa"
-  },
-  "8326": {
-    "id": 8326,
-    "name": "JD Lajense"
-  },
   "2910": {
     "id": 2910,
     "name": "Lusitânia Lourosa"
@@ -3062,6 +3054,14 @@
   "172": {
     "id": 172,
     "name": "Excelsior"
+  },
+  "8328": {
+    "id": 8328,
+    "name": "GD Lagoa"
+  },
+  "8326": {
+    "id": 8326,
+    "name": "JD Lajense"
   },
   "8224": {
     "id": 8224,
