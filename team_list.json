@@ -891,6 +891,14 @@
     "id": 3402,
     "name": "Académico Viseu FC"
   },
+  "586": {
+    "id": 586,
+    "name": "AS FAR Rabat"
+  },
+  "2059": {
+    "id": 2059,
+    "name": "Ittihad Tanger"
+  },
   "1389": {
     "id": 1389,
     "name": "Xerez CD"
@@ -1203,6 +1211,14 @@
     "id": 3887,
     "name": "Arezzo"
   },
+  "2067": {
+    "id": 2067,
+    "name": "Raja Club Athletic"
+  },
+  "2060": {
+    "id": 2060,
+    "name": "Hassania d'Agadir"
+  },
   "1455": {
     "id": 1455,
     "name": "Club Portugalete"
@@ -1347,14 +1363,6 @@
     "id": 66,
     "name": "Bologna"
   },
-  "586": {
-    "id": 586,
-    "name": "AS FAR Rabat"
-  },
-  "2059": {
-    "id": 2059,
-    "name": "Ittihad Tanger"
-  },
   "3959": {
     "id": 3959,
     "name": "Atalanta U23"
@@ -1418,14 +1426,6 @@
   "2093": {
     "id": 2093,
     "name": "VPS"
-  },
-  "2067": {
-    "id": 2067,
-    "name": "Raja Club Athletic"
-  },
-  "2060": {
-    "id": 2060,
-    "name": "Hassania d'Agadir"
   },
   "8754": {
     "id": 8754,
@@ -2239,10 +2239,6 @@
     "id": 410,
     "name": "Fredrikstad FK"
   },
-  "2065": {
-    "id": 2065,
-    "name": "Kawkab Athletic Club Marrakech"
-  },
   "3648": {
     "id": 3648,
     "name": "Varzim SC"
@@ -2294,6 +2290,10 @@
   "240": {
     "id": 240,
     "name": "RSC Anderlecht"
+  },
+  "2065": {
+    "id": 2065,
+    "name": "Kawkab Athletic Club Marrakech"
   },
   "612": {
     "id": 612,
@@ -2399,13 +2399,13 @@
     "id": 110,
     "name": "Lorient"
   },
-  "2094": {
-    "id": 2094,
-    "name": "FF Jaro"
+  "2072": {
+    "id": 2072,
+    "name": "Renaissance Zemamra"
   },
-  "2108": {
-    "id": 2108,
-    "name": "PK-35"
+  "2066": {
+    "id": 2066,
+    "name": "Fath Union Sport"
   },
   "634": {
     "id": 634,
@@ -2530,14 +2530,6 @@
   "249": {
     "id": 249,
     "name": "Grasshopper Club Zürich"
-  },
-  "2072": {
-    "id": 2072,
-    "name": "Renaissance Zemamra"
-  },
-  "2066": {
-    "id": 2066,
-    "name": "Fath Union Sport"
   },
   "599": {
     "id": 599,
@@ -3014,6 +3006,14 @@
   "239": {
     "id": 239,
     "name": "Standard Liège"
+  },
+  "2094": {
+    "id": 2094,
+    "name": "FF Jaro"
+  },
+  "2108": {
+    "id": 2108,
+    "name": "PK-35"
   },
   "4403": {
     "id": 4403,
@@ -3531,14 +3531,6 @@
     "id": 1827,
     "name": "Lommel SK"
   },
-  "4771": {
-    "id": 4771,
-    "name": "Union Sportive Amal Tiznit"
-  },
-  "2070": {
-    "id": 2070,
-    "name": "CODM Meknès"
-  },
   "2858": {
     "id": 2858,
     "name": "Swehly SC"
@@ -3622,6 +3614,14 @@
   "434": {
     "id": 434,
     "name": "Pogoń Szczecin"
+  },
+  "4771": {
+    "id": 4771,
+    "name": "Union Sportive Amal Tiznit"
+  },
+  "2070": {
+    "id": 2070,
+    "name": "CODM Meknès"
   },
   "445": {
     "id": 445,
