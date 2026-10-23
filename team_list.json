@@ -279,6 +279,14 @@
     "id": 1830,
     "name": "Eintracht Braunschweig"
   },
+  "341": {
+    "id": 341,
+    "name": "Lokomotiv Sofia"
+  },
+  "344": {
+    "id": 344,
+    "name": "Botev Plovdiv"
+  },
   "345": {
     "id": 345,
     "name": "CSKA Sofia"
@@ -386,6 +394,14 @@
   "150": {
     "id": 150,
     "name": "Cruzeiro"
+  },
+  "37": {
+    "id": 37,
+    "name": "Benfica"
+  },
+  "24": {
+    "id": 24,
+    "name": "Gil Vicente"
   },
   "2071": {
     "id": 2071,
@@ -506,6 +522,14 @@
   "1267": {
     "id": 1267,
     "name": "Sporting Gijón"
+  },
+  "31": {
+    "id": 31,
+    "name": "Sporting Braga"
+  },
+  "27": {
+    "id": 27,
+    "name": "Famalicão"
   },
   "3438": {
     "id": 3438,
@@ -1699,14 +1723,6 @@
     "id": 1471,
     "name": "CD Extremadura"
   },
-  "4972": {
-    "id": 4972,
-    "name": "CE Manresa"
-  },
-  "1470": {
-    "id": 1470,
-    "name": "UE Sant Andreu"
-  },
   "435": {
     "id": 435,
     "name": "Piast Gliwice"
@@ -1806,6 +1822,14 @@
   "1264": {
     "id": 1264,
     "name": "Almería"
+  },
+  "4972": {
+    "id": 4972,
+    "name": "CE Manresa"
+  },
+  "1470": {
+    "id": 1470,
+    "name": "UE Sant Andreu"
   },
   "3387": {
     "id": 3387,
@@ -1934,22 +1958,6 @@
   "427": {
     "id": 427,
     "name": "GKS Katowice"
-  },
-  "31": {
-    "id": 31,
-    "name": "Sporting Braga"
-  },
-  "27": {
-    "id": 27,
-    "name": "Famalicão"
-  },
-  "37": {
-    "id": 37,
-    "name": "Benfica"
-  },
-  "24": {
-    "id": 24,
-    "name": "Gil Vicente"
   },
   "771": {
     "id": 771,
@@ -2095,6 +2103,14 @@
     "id": 312,
     "name": "Santos Laguna"
   },
+  "3419": {
+    "id": 3419,
+    "name": "Deportivo Pasto"
+  },
+  "316": {
+    "id": 316,
+    "name": "CF Pachuca"
+  },
   "309": {
     "id": 309,
     "name": "Querétaro FC"
@@ -2102,14 +2118,6 @@
   "314": {
     "id": 314,
     "name": "Cruz Azul"
-  },
-  "316": {
-    "id": 316,
-    "name": "CF Pachuca"
-  },
-  "3419": {
-    "id": 3419,
-    "name": "Deportivo Pasto"
   },
   "292": {
     "id": 292,
@@ -2131,14 +2139,6 @@
     "id": 734,
     "name": "Barracas Central"
   },
-  "305": {
-    "id": 305,
-    "name": "Atlas FC"
-  },
-  "304": {
-    "id": 304,
-    "name": "Club Puebla"
-  },
   "3936": {
     "id": 3936,
     "name": "San Diego Wave FC"
@@ -2146,6 +2146,14 @@
   "3928": {
     "id": 3928,
     "name": "Boston Legacy FC"
+  },
+  "305": {
+    "id": 305,
+    "name": "Atlas FC"
+  },
+  "304": {
+    "id": 304,
+    "name": "Club Puebla"
   },
   "755": {
     "id": 755,
@@ -2403,6 +2411,14 @@
     "id": 634,
     "name": "ASEC Mimosas"
   },
+  "583": {
+    "id": 583,
+    "name": "Al-Hilal Omdurman"
+  },
+  "2740": {
+    "id": 2740,
+    "name": "Sidama Bunna FC"
+  },
   "1404": {
     "id": 1404,
     "name": "LASK"
@@ -2530,14 +2546,6 @@
   "5198": {
     "id": 5198,
     "name": "Teungueth FC"
-  },
-  "583": {
-    "id": 583,
-    "name": "Al-Hilal Omdurman"
-  },
-  "2740": {
-    "id": 2740,
-    "name": "Sidama Bunna FC"
   },
   "572": {
     "id": 572,
@@ -2855,6 +2863,14 @@
     "id": 8718,
     "name": "Santa Clara Azores B"
   },
+  "8328": {
+    "id": 8328,
+    "name": "GD Lagoa"
+  },
+  "8326": {
+    "id": 8326,
+    "name": "JD Lajense"
+  },
   "2910": {
     "id": 2910,
     "name": "Lusitânia Lourosa"
@@ -3054,14 +3070,6 @@
   "172": {
     "id": 172,
     "name": "Excelsior"
-  },
-  "8328": {
-    "id": 8328,
-    "name": "GD Lagoa"
-  },
-  "8326": {
-    "id": 8326,
-    "name": "JD Lajense"
   },
   "8224": {
     "id": 8224,
@@ -3927,10 +3935,6 @@
     "id": 2084,
     "name": "Vålerenga IF"
   },
-  "341": {
-    "id": 341,
-    "name": "Lokomotiv Sofia"
-  },
   "347": {
     "id": 347,
     "name": "Botev Vratsa"
@@ -4562,10 +4566,6 @@
   "424": {
     "id": 424,
     "name": "Zagłębie Lubin"
-  },
-  "344": {
-    "id": 344,
-    "name": "Botev Plovdiv"
   },
   "365": {
     "id": 365,
