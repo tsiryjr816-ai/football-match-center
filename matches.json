@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T21:42:54.745122+00:00",
+  "updated_at": "2026-10-24T23:44:55.618892+00:00",
   "source": "BSD Football API",
   "date_from": "2026-10-24",
   "date_to": "2026-10-31",
@@ -62073,7 +62073,7 @@
       "away_team": "Real Madrid",
       "home_coach_id": 320,
       "away_coach_id": 17,
-      "referee_id": null,
+      "referee_id": 1783,
       "venue_id": 44,
       "event_date": "2026-10-25T20:00:00+00:00",
       "status": "notstarted",
@@ -64535,7 +64535,7 @@
       "away_team": "Levante UD",
       "home_coach_id": 229,
       "away_coach_id": 230,
-      "referee_id": null,
+      "referee_id": 1951,
       "venue_id": 48,
       "event_date": "2026-10-25T17:30:00+00:00",
       "status": "notstarted",
@@ -69987,7 +69987,7 @@
       "home_team": "Cádiz",
       "away_team_id": 1458,
       "away_team": "AD Ceuta",
-      "home_coach_id": 642,
+      "home_coach_id": 824,
       "away_coach_id": 908,
       "referee_id": null,
       "venue_id": 737,
@@ -70195,7 +70195,7 @@
       "away_team": "Real Betis",
       "home_coach_id": 396,
       "away_coach_id": 287,
-      "referee_id": null,
+      "referee_id": 1592,
       "venue_id": 49,
       "event_date": "2026-10-25T15:15:00+00:00",
       "status": "notstarted",
@@ -77680,7 +77680,7 @@
       "away_team": "Getafe",
       "home_coach_id": 1992,
       "away_coach_id": 371,
-      "referee_id": null,
+      "referee_id": 1610,
       "venue_id": 51,
       "event_date": "2026-10-25T13:00:00+00:00",
       "status": "notstarted",
@@ -82746,7 +82746,7 @@
       "away_team": "Bay FC",
       "home_coach_id": 2063,
       "away_coach_id": 2055,
-      "referee_id": null,
+      "referee_id": 2693,
       "venue_id": 280,
       "event_date": "2026-10-25T00:45:00+00:00",
       "status": "notstarted",
@@ -83861,7 +83861,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -83877,7 +83877,7 @@
       "referee_id": null,
       "venue_id": 1329,
       "event_date": "2026-10-24T23:30:00+00:00",
-      "status": "notstarted",
+      "status": "1st_half",
       "replaced_by": null,
       "round_number": 1,
       "round_name": "",
@@ -83885,12 +83885,12 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 1",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "1T",
+      "current_minute": 7,
+      "home_score": 0,
+      "away_score": 0,
+      "home_score_ht": 0,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -83958,7 +83958,7 @@
       "referee_id": 1976,
       "venue_id": 265,
       "event_date": "2026-10-24T23:30:00+00:00",
-      "status": "notstarted",
+      "status": "1st_half",
       "replaced_by": null,
       "round_number": null,
       "round_name": "",
@@ -83966,12 +83966,12 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "1T",
+      "current_minute": 2,
+      "home_score": 0,
+      "away_score": 0,
+      "home_score_ht": 0,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -84111,7 +84111,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -84127,7 +84127,7 @@
       "referee_id": 2052,
       "venue_id": 271,
       "event_date": "2026-10-24T23:30:00+00:00",
-      "status": "notstarted",
+      "status": "1st_half",
       "replaced_by": null,
       "round_number": null,
       "round_name": "",
@@ -84135,12 +84135,12 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "1T",
+      "current_minute": 3,
+      "home_score": 0,
+      "away_score": 0,
+      "home_score_ht": 0,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -84280,7 +84280,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -84296,7 +84296,7 @@
       "referee_id": 1964,
       "venue_id": 270,
       "event_date": "2026-10-24T23:30:00+00:00",
-      "status": "notstarted",
+      "status": "1st_half",
       "replaced_by": null,
       "round_number": null,
       "round_name": "",
@@ -84304,12 +84304,12 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "1T",
+      "current_minute": 3,
+      "home_score": 0,
+      "away_score": 0,
+      "home_score_ht": 0,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -84449,7 +84449,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -84465,7 +84465,7 @@
       "referee_id": 2067,
       "venue_id": 268,
       "event_date": "2026-10-24T23:30:00+00:00",
-      "status": "notstarted",
+      "status": "1st_half",
       "replaced_by": null,
       "round_number": null,
       "round_name": "",
@@ -84473,12 +84473,12 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "1T",
+      "current_minute": 3,
+      "home_score": 0,
+      "away_score": 0,
+      "home_score_ht": 0,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -84618,7 +84618,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -84634,7 +84634,7 @@
       "referee_id": 2987,
       "venue_id": 559,
       "event_date": "2026-10-24T23:05:00+00:00",
-      "status": "notstarted",
+      "status": "1st_half",
       "replaced_by": null,
       "round_number": 16,
       "round_name": "",
@@ -84642,12 +84642,12 @@
       "stage": "league-phase",
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 16",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "1T",
+      "current_minute": 37,
+      "home_score": 2,
+      "away_score": 0,
+      "home_score_ht": 2,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -84712,10 +84712,10 @@
       "away_team": "CD Toluca",
       "home_coach_id": 347,
       "away_coach_id": 328,
-      "referee_id": null,
+      "referee_id": 2298,
       "venue_id": 305,
       "event_date": "2026-10-24T23:00:00+00:00",
-      "status": "notstarted",
+      "status": "1st_half",
       "replaced_by": null,
       "round_number": 14,
       "round_name": "",
@@ -84723,12 +84723,12 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 14",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "1T",
+      "current_minute": 43,
+      "home_score": 1,
+      "away_score": 0,
+      "home_score_ht": 1,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -84868,7 +84868,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -84884,7 +84884,7 @@
       "referee_id": null,
       "venue_id": 1333,
       "event_date": "2026-10-24T23:00:00+00:00",
-      "status": "notstarted",
+      "status": "1st_half",
       "replaced_by": null,
       "round_number": 1,
       "round_name": "",
@@ -84892,12 +84892,12 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 1",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "1T",
+      "current_minute": 37,
+      "home_score": 0,
+      "away_score": 0,
+      "home_score_ht": 0,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -85053,7 +85053,7 @@
       "referee_id": null,
       "venue_id": 1323,
       "event_date": "2026-10-24T23:00:00+00:00",
-      "status": "notstarted",
+      "status": "1st_half",
       "replaced_by": null,
       "round_number": 1,
       "round_name": "",
@@ -85061,12 +85061,12 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 1",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "1T",
+      "current_minute": 37,
+      "home_score": 0,
+      "away_score": 0,
+      "home_score_ht": 0,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -85222,7 +85222,7 @@
       "referee_id": null,
       "venue_id": 1331,
       "event_date": "2026-10-24T23:00:00+00:00",
-      "status": "notstarted",
+      "status": "1st_half",
       "replaced_by": null,
       "round_number": 1,
       "round_name": "",
@@ -85230,12 +85230,12 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 1",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "1T",
+      "current_minute": 35,
+      "home_score": 0,
+      "away_score": 1,
+      "home_score_ht": 0,
+      "away_score_ht": 1,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -85336,7 +85336,7 @@
       "referee_id": 2688,
       "venue_id": 1611,
       "event_date": "2026-10-24T22:30:00+00:00",
-      "status": "notstarted",
+      "status": "2nd_half",
       "replaced_by": null,
       "round_number": 1,
       "round_name": "",
@@ -85344,12 +85344,12 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 1",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "2T",
+      "current_minute": 52,
+      "home_score": 2,
+      "away_score": 0,
+      "home_score_ht": 2,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -85406,7 +85406,7 @@
       "referee_id": 1604,
       "venue_id": 353,
       "event_date": "2026-10-24T22:30:00+00:00",
-      "status": "notstarted",
+      "status": "2nd_half",
       "replaced_by": null,
       "round_number": 32,
       "round_name": "",
@@ -85414,12 +85414,12 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 32",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "2T",
+      "current_minute": 51,
+      "home_score": 1,
+      "away_score": 1,
+      "home_score_ht": 1,
+      "away_score_ht": 1,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -85559,7 +85559,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -85575,7 +85575,7 @@
       "referee_id": 2717,
       "venue_id": 548,
       "event_date": "2026-10-24T22:15:00+00:00",
-      "status": "notstarted",
+      "status": "2nd_half",
       "replaced_by": null,
       "round_number": 14,
       "round_name": "",
@@ -85583,12 +85583,12 @@
       "stage": "group-stage",
       "stage_name": "Group stage",
       "round_label": "Clausura, Group A · Matchday 14",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "2T",
+      "current_minute": 68,
+      "home_score": 0,
+      "away_score": 0,
+      "home_score_ht": 0,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -85744,7 +85744,7 @@
       "referee_id": null,
       "venue_id": 1336,
       "event_date": "2026-10-24T22:00:00+00:00",
-      "status": "notstarted",
+      "status": "2nd_half",
       "replaced_by": null,
       "round_number": 1,
       "round_name": "",
@@ -85752,12 +85752,12 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 1",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "2T",
+      "current_minute": 78,
+      "home_score": 1,
+      "away_score": 0,
+      "home_score_ht": 0,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -85913,7 +85913,7 @@
       "referee_id": 2963,
       "venue_id": 636,
       "event_date": "2026-10-24T21:30:00+00:00",
-      "status": "1st_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 35,
       "round_name": "",
@@ -85921,24 +85921,24 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 35",
-      "period": "1T",
-      "current_minute": 10,
-      "home_score": 0,
-      "away_score": 0,
-      "home_score_ht": 0,
-      "away_score_ht": 0,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 2,
+      "away_score": 2,
+      "home_score_ht": 2,
+      "away_score_ht": 1,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
       "travel_distance_km": 2319,
       "weather": {
-        "code": 53,
-        "description": null,
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 13.4,
         "temperature_c": 25
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
@@ -86082,7 +86082,7 @@
       "referee_id": 2069,
       "venue_id": 624,
       "event_date": "2026-10-24T21:30:00+00:00",
-      "status": "1st_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 35,
       "round_name": "",
@@ -86090,11 +86090,11 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 35",
-      "period": "1T",
-      "current_minute": 11,
-      "home_score": 0,
-      "away_score": 0,
-      "home_score_ht": 0,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 2,
+      "away_score": 1,
+      "home_score_ht": 2,
       "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
@@ -86251,7 +86251,7 @@
       "referee_id": 1932,
       "venue_id": 161,
       "event_date": "2026-10-24T21:30:00+00:00",
-      "status": "1st_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 32,
       "round_name": "",
@@ -86259,11 +86259,11 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 32",
-      "period": "1T",
-      "current_minute": 11,
-      "home_score": 0,
-      "away_score": 0,
-      "home_score_ht": 0,
+      "period": "FT",
+      "current_minute": 97,
+      "home_score": 3,
+      "away_score": 2,
+      "home_score_ht": 1,
       "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
@@ -86271,12 +86271,12 @@
       "is_neutral_ground": false,
       "travel_distance_km": 349,
       "weather": {
-        "code": 82,
-        "description": null,
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 10.6,
         "temperature_c": 23
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
@@ -86404,7 +86404,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -86418,9 +86418,9 @@
       "home_coach_id": 162,
       "away_coach_id": 164,
       "referee_id": 1836,
-      "venue_id": 159,
+      "venue_id": 1158,
       "event_date": "2026-10-24T21:30:00+00:00",
-      "status": "1st_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 32,
       "round_name": "",
@@ -86428,11 +86428,11 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 32",
-      "period": "1T",
-      "current_minute": 11,
-      "home_score": 0,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 2,
       "away_score": 0,
-      "home_score_ht": 0,
+      "home_score_ht": 1,
       "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
@@ -86440,12 +86440,12 @@
       "is_neutral_ground": false,
       "travel_distance_km": 64,
       "weather": {
-        "code": 53,
-        "description": null,
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 12.2,
         "temperature_c": 22
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
@@ -86573,7 +86573,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -86589,7 +86589,7 @@
       "referee_id": 1834,
       "venue_id": 269,
       "event_date": "2026-10-24T21:30:00+00:00",
-      "status": "1st_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": null,
       "round_name": "",
@@ -86597,11 +86597,11 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season",
-      "period": "1T",
-      "current_minute": 1,
-      "home_score": 0,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 2,
       "away_score": 0,
-      "home_score_ht": 0,
+      "home_score_ht": 1,
       "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
@@ -86758,7 +86758,7 @@
       "referee_id": null,
       "venue_id": 1321,
       "event_date": "2026-10-24T21:00:00+00:00",
-      "status": "1st_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 1,
       "round_name": "",
@@ -86766,28 +86766,36 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 1",
-      "period": "1T",
-      "current_minute": 34,
-      "home_score": 1,
-      "away_score": 2,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 4,
+      "away_score": 3,
       "home_score_ht": 1,
-      "away_score_ht": 2,
+      "away_score_ht": 3,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
       "travel_distance_km": null,
       "weather": {
-        "code": 3,
-        "description": "rain",
+        "code": 1,
+        "description": "clear",
         "wind_speed": 3.0,
         "temperature_c": 20
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Loudoun United 4 - 3 Brooklyn FC — Full Highlights",
+          "url": "https://youtu.be/h8_1iO--qvU",
+          "thumbnail": "https://i.ytimg.com/vi/h8_1iO--qvU/hqdefault.jpg",
+          "published_at": "2026-10-24T23:20:22+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 2,
         "home_wins": 1,
@@ -86839,7 +86847,7 @@
       "referee_id": null,
       "venue_id": null,
       "event_date": "2026-10-24T20:00:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 5,
       "round_name": "",
@@ -86847,8 +86855,8 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 5",
-      "period": "2T",
-      "current_minute": 81,
+      "period": "FT",
+      "current_minute": 90,
       "home_score": 0,
       "away_score": 3,
       "home_score_ht": 0,
@@ -86859,16 +86867,24 @@
       "is_neutral_ground": false,
       "travel_distance_km": null,
       "weather": {
-        "code": null,
-        "description": null,
+        "code": 1,
+        "description": "clear",
         "wind_speed": null,
         "temperature_c": null
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": false,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Moghreb Tetouan 0 - 3 WS Temara — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=x0gEzSUWdNM",
+          "thumbnail": "https://i.ytimg.com/vi/x0gEzSUWdNM/hqdefault.jpg",
+          "published_at": "2026-10-24T22:42:55+00:00"
+        }
+      ],
       "head_to_head": null,
       "has_xg": false,
       "previous_leg_event_id": null
@@ -86886,7 +86902,7 @@
       "referee_id": 2809,
       "venue_id": 1760,
       "event_date": "2026-10-24T20:00:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 14,
       "round_name": "",
@@ -86894,10 +86910,10 @@
       "stage": "group-stage",
       "stage_name": "Group stage",
       "round_label": "Clausura, Group A · Matchday 14",
-      "period": "2T",
-      "current_minute": 83,
+      "period": "FT",
+      "current_minute": 90,
       "home_score": 1,
-      "away_score": 1,
+      "away_score": 2,
       "home_score_ht": 1,
       "away_score_ht": 0,
       "penalty_shootout": null,
@@ -86906,16 +86922,24 @@
       "is_neutral_ground": false,
       "travel_distance_km": 676,
       "weather": {
-        "code": 51,
-        "description": null,
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 4.8,
         "temperature_c": 14
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Talleres 1 - 2 Def y Justicia — Full Highlights",
+          "url": "https://youtu.be/Xj7MwVCd3b4",
+          "thumbnail": "https://i.ytimg.com/vi/Xj7MwVCd3b4/hqdefault.jpg",
+          "published_at": "2026-10-24T23:05:41+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 9,
         "home_wins": 4,
@@ -87053,7 +87077,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 9",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 97,
       "home_score": 0,
       "away_score": 1,
       "home_score_ht": 0,
@@ -87073,7 +87097,22 @@
       "attendance": null,
       "live_websocket": false,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Gil Vicente 0 - 1 Porto — Full Highlights",
+          "url": "https://youtu.be/y4h9sZpl_A4",
+          "thumbnail": "https://i.ytimg.com/vi/y4h9sZpl_A4/hqdefault.jpg",
+          "published_at": "2026-10-24T22:08:24+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Gil Vicente - Porto — 84' Red Card Marvin Elimbi Gilbert",
+          "url": "https://youtu.be/okSTqD1eq8M",
+          "thumbnail": "https://i.ytimg.com/vi/okSTqD1eq8M/hqdefault.jpg",
+          "published_at": "2026-10-24T22:07:18+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 29,
         "home_wins": 5,
@@ -87242,7 +87281,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "São Bernardo 3 - 2 Vila Nova — Full Highlights",
+          "url": "https://youtu.be/gKwtS7azqMM",
+          "thumbnail": "https://i.ytimg.com/vi/gKwtS7azqMM/hqdefault.jpg",
+          "published_at": "2026-10-24T22:31:23+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 1,
         "home_wins": 0,
@@ -87312,7 +87359,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Atlético-GO 0 - 1 Novorizontino — Full Highlights",
+          "url": "https://youtu.be/3aes6ZWI9uc",
+          "thumbnail": "https://i.ytimg.com/vi/3aes6ZWI9uc/hqdefault.jpg",
+          "published_at": "2026-10-24T22:30:57+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 5,
         "home_wins": 1,
@@ -87406,7 +87461,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 32",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 97,
       "home_score": 1,
       "away_score": 1,
       "home_score_ht": 1,
@@ -87426,7 +87481,15 @@
       "attendance": null,
       "live_websocket": false,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Vitória 1 - 1 Athletico — Full Highlights",
+          "url": "https://youtu.be/JDhBWi--hco",
+          "thumbnail": "https://i.ytimg.com/vi/JDhBWi--hco/hqdefault.jpg",
+          "published_at": "2026-10-24T22:05:10+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 28,
         "home_wins": 13,
@@ -87550,7 +87613,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -87575,7 +87638,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 32",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 95,
       "home_score": 1,
       "away_score": 1,
       "home_score_ht": 1,
@@ -87595,7 +87658,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Mirassol 1 - 1 São Paulo — Full Highlights",
+          "url": "https://youtu.be/XBCe51UrpBg",
+          "thumbnail": "https://i.ytimg.com/vi/XBCe51UrpBg/hqdefault.jpg",
+          "published_at": "2026-10-24T22:23:40+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 3,
         "home_wins": 2,
@@ -87642,7 +87713,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -87667,7 +87738,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 32",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 95,
       "home_score": 3,
       "away_score": 0,
       "home_score_ht": 2,
@@ -87687,7 +87758,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Internacional 3 - 0 Botafogo — Full Highlights",
+          "url": "https://youtu.be/LqVl5sV4uyM",
+          "thumbnail": "https://i.ytimg.com/vi/LqVl5sV4uyM/hqdefault.jpg",
+          "published_at": "2026-10-24T22:07:30+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 40,
         "home_wins": 19,
@@ -87811,7 +87890,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -87856,7 +87935,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Columbus Crew 4-2 Toronto FC — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=8wvRWSld0Gs",
+          "thumbnail": "https://i.ytimg.com/vi/8wvRWSld0Gs/maxresdefault.jpg",
+          "published_at": "2026-10-24T22:00:08+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 46,
         "home_wins": 18,
@@ -88025,7 +88112,15 @@
       "attendance": null,
       "live_websocket": false,
       "websocket_plus": false,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "RS Berkane 1 - 0 Star Sport Academy — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=4QHaIt_fF9M",
+          "thumbnail": "https://i.ytimg.com/vi/4QHaIt_fF9M/hqdefault.jpg",
+          "published_at": "2026-10-24T21:52:25+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 1,
         "home_wins": 1,
@@ -88244,7 +88339,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 10",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 94,
       "home_score": 1,
       "away_score": 0,
       "home_score_ht": 0,
@@ -88396,7 +88491,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -88421,7 +88516,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 10",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 94,
       "home_score": 2,
       "away_score": 3,
       "home_score_ht": 0,
@@ -88565,7 +88660,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -88610,7 +88705,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Avaí 0 - 2 Botafogo-SP — Full Highlights",
+          "url": "https://youtu.be/qnOtlUN6whE",
+          "thumbnail": "https://i.ytimg.com/vi/qnOtlUN6whE/hqdefault.jpg",
+          "published_at": "2026-10-24T21:48:27+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 9,
         "home_wins": 4,
@@ -88748,7 +88851,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 10",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 95,
       "home_score": 1,
       "away_score": 0,
       "home_score_ht": 0,
@@ -89178,7 +89281,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 8",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 98,
       "home_score": 2,
       "away_score": 1,
       "home_score_ht": 0,
@@ -89322,7 +89425,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -89347,7 +89450,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 8",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 97,
       "home_score": 2,
       "away_score": 1,
       "home_score_ht": 0,
@@ -89367,7 +89470,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Lazio 2-1 Parma — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=qioR510FnBU",
+          "thumbnail": "https://i.ytimg.com/vi/qioR510FnBU/maxresdefault.jpg",
+          "published_at": "2026-10-24T21:35:40+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 60,
         "home_wins": 29,
@@ -89491,7 +89602,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -90862,7 +90973,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 8",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 93,
       "home_score": 0,
       "away_score": 3,
       "home_score_ht": 0,
@@ -90882,9 +90993,17 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Arezzo 0 - 3 Benevento — Full Highlights",
+          "url": "https://youtu.be/OPISdEY3qNM",
+          "thumbnail": "https://i.ytimg.com/vi/OPISdEY3qNM/hqdefault.jpg",
+          "published_at": "2026-10-24T21:50:12+00:00"
+        }
+      ],
       "head_to_head": null,
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -90929,7 +91048,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Rapid 5 - 1 A. Lustenau — Full Highlights",
+          "url": "https://youtu.be/0XudaG5Y0YE",
+          "thumbnail": "https://i.ytimg.com/vi/0XudaG5Y0YE/hqdefault.jpg",
+          "published_at": "2026-10-24T22:42:19+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 4,
         "home_wins": 1,
@@ -91761,7 +91888,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 9",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 93,
       "home_score": 0,
       "away_score": 1,
       "home_score_ht": 0,
@@ -91850,7 +91977,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 10",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 92,
       "home_score": 1,
       "away_score": 6,
       "home_score_ht": 0,
@@ -91994,7 +92121,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -92401,7 +92528,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 7",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 93,
       "home_score": 1,
       "away_score": 0,
       "home_score_ht": 0,
@@ -92553,7 +92680,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -92578,7 +92705,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 10",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 97,
       "home_score": 1,
       "away_score": 2,
       "home_score_ht": 1,
@@ -92755,7 +92882,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 8",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 97,
       "home_score": 0,
       "away_score": 2,
       "home_score_ht": 0,
@@ -93340,7 +93467,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 9",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 97,
       "home_score": 1,
       "away_score": 2,
       "home_score_ht": 1,
@@ -93370,7 +93497,7 @@
         }
       ],
       "head_to_head": null,
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -93667,7 +93794,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 8",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 95,
       "home_score": 3,
       "away_score": 3,
       "home_score_ht": 1,
@@ -93819,7 +93946,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -93864,7 +93991,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "HamKam 0-3 Rosenborg BK — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=j4jTfljN3E0",
+          "thumbnail": "https://i.ytimg.com/vi/j4jTfljN3E0/maxresdefault.jpg",
+          "published_at": "2026-10-24T21:53:20+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 11,
         "home_wins": 3,
@@ -94855,7 +94990,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 8",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 92,
       "home_score": 1,
       "away_score": 6,
       "home_score_ht": 1,
@@ -95007,7 +95142,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -96191,7 +96326,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 9",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 96,
       "home_score": 0,
       "away_score": 2,
       "home_score_ht": 0,
@@ -96332,7 +96467,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -96357,7 +96492,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 10",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 94,
       "home_score": 1,
       "away_score": 1,
       "home_score_ht": 0,
@@ -96703,7 +96838,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 10",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 96,
       "home_score": 2,
       "away_score": 1,
       "home_score_ht": 0,
@@ -97423,7 +97558,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": false,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Yeovil 1 - 2 Altrincham — Full Highlights",
+          "url": "https://youtu.be/YxjvdKfwVYs",
+          "thumbnail": "https://i.ytimg.com/vi/YxjvdKfwVYs/hqdefault.jpg",
+          "published_at": "2026-10-24T22:54:12+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 10,
         "home_wins": 4,
@@ -97761,7 +97904,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": false,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Solihull Moors 1 - 2 Carlisle — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=6lyy_HspdYc",
+          "thumbnail": "https://i.ytimg.com/vi/6lyy_HspdYc/hqdefault.jpg",
+          "published_at": "2026-10-24T22:58:10+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 2,
         "home_wins": 0,
@@ -97842,7 +97993,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": false,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Scunthorpe 2 - 3 Woking — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=hGrEfSLprkI",
+          "thumbnail": "https://i.ytimg.com/vi/hGrEfSLprkI/hqdefault.jpg",
+          "published_at": "2026-10-24T22:54:39+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 4,
         "home_wins": 2,
@@ -99609,7 +99768,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Chesterfield 5 - 1 Crewe — Full Highlights",
+          "url": "https://youtu.be/Z0KLYsuTeGs",
+          "thumbnail": "https://i.ytimg.com/vi/Z0KLYsuTeGs/hqdefault.jpg",
+          "published_at": "2026-10-24T22:07:04+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 14,
         "home_wins": 6,
@@ -99778,7 +99945,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Barnet 1 - 1 Oldham — Full Highlights",
+          "url": "https://youtu.be/maFSxabylF0",
+          "thumbnail": "https://i.ytimg.com/vi/maFSxabylF0/hqdefault.jpg",
+          "published_at": "2026-10-24T23:16:19+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 8,
         "home_wins": 3,
@@ -100584,7 +100759,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Doncaster 2 - 0 Sheffield Wed — Full Highlights",
+          "url": "https://youtu.be/t1OQjXKRnT4",
+          "thumbnail": "https://i.ytimg.com/vi/t1OQjXKRnT4/hqdefault.jpg",
+          "published_at": "2026-10-24T22:09:29+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 8,
         "home_wins": 5,
@@ -102320,7 +102503,15 @@
       "attendance": null,
       "live_websocket": false,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Queens Park Rangers 5-0 Swansea City — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=O7NB2Nh_Rzc",
+          "thumbnail": "https://i.ytimg.com/vi/O7NB2Nh_Rzc/maxresdefault.jpg",
+          "published_at": "2026-10-24T23:01:20+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 29,
         "home_wins": 9,
@@ -102489,7 +102680,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Preston North End 1-1 West Bromwich Albion — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=Jj75_vnEdwY",
+          "thumbnail": "https://i.ytimg.com/vi/Jj75_vnEdwY/maxresdefault.jpg",
+          "published_at": "2026-10-24T23:02:29+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 18,
         "home_wins": 3,
@@ -103182,7 +103381,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "St Mirren 2 - 1 Dundee — Full Highlights",
+          "url": "https://youtu.be/zK6AOG8c0yQ",
+          "thumbnail": "https://i.ytimg.com/vi/zK6AOG8c0yQ/hqdefault.jpg",
+          "published_at": "2026-10-24T23:08:31+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 26,
         "home_wins": 12,
@@ -103351,7 +103558,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Rangers 4 - 0 St. Johnstone — Full Highlights",
+          "url": "https://youtu.be/ntwZ3BKc55E",
+          "thumbnail": "https://i.ytimg.com/vi/ntwZ3BKc55E/hqdefault.jpg",
+          "published_at": "2026-10-24T23:15:12+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 38,
         "home_wins": 29,
@@ -103520,7 +103735,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Falkirk 3 - 0 Kilmarnock — Full Highlights",
+          "url": "https://youtu.be/FnzjgoNOdNw",
+          "thumbnail": "https://i.ytimg.com/vi/FnzjgoNOdNw/hqdefault.jpg",
+          "published_at": "2026-10-24T23:06:42+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 13,
         "home_wins": 6,
@@ -103689,7 +103912,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Dundee Utd 3 - 2 Aberdeen — Full Highlights",
+          "url": "https://youtu.be/tHCvYQRkCmg",
+          "thumbnail": "https://i.ytimg.com/vi/tHCvYQRkCmg/hqdefault.jpg",
+          "published_at": "2026-10-24T23:14:02+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 44,
         "home_wins": 14,
@@ -103838,7 +104069,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 8",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 95,
       "home_score": 0,
       "away_score": 1,
       "home_score_ht": 0,
@@ -103927,7 +104158,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 8",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 98,
       "home_score": 2,
       "away_score": 0,
       "home_score_ht": 1,
@@ -104281,7 +104512,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 7",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 94,
       "home_score": 1,
       "away_score": 0,
       "home_score_ht": 0,
@@ -104433,7 +104664,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -104458,7 +104689,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 7",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 95,
       "home_score": 4,
       "away_score": 0,
       "home_score_ht": 0,
@@ -104488,7 +104719,7 @@
         }
       ],
       "head_to_head": null,
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -104513,7 +104744,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 7",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 95,
       "home_score": 1,
       "away_score": 1,
       "home_score_ht": 0,
@@ -104665,7 +104896,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -104690,7 +104921,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 7",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 95,
       "home_score": 2,
       "away_score": 3,
       "home_score_ht": 1,
@@ -104849,7 +105080,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -104874,7 +105105,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 7",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 92,
       "home_score": 0,
       "away_score": 0,
       "home_score_ht": 0,
@@ -105026,7 +105257,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -105220,7 +105451,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 8",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 94,
       "home_score": 0,
       "away_score": 1,
       "home_score_ht": 0,
@@ -105284,7 +105515,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -105309,7 +105540,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 8",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 94,
       "home_score": 0,
       "away_score": 1,
       "home_score_ht": 0,
@@ -105395,7 +105626,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -105420,7 +105651,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 8",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 95,
       "home_score": 1,
       "away_score": 1,
       "home_score_ht": 0,
@@ -105539,7 +105770,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -105564,7 +105795,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 8",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 92,
       "home_score": 3,
       "away_score": 0,
       "home_score_ht": 3,
@@ -105716,7 +105947,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -105741,7 +105972,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 8",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 94,
       "home_score": 0,
       "away_score": 1,
       "home_score_ht": 0,
@@ -105849,7 +106080,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -106302,7 +106533,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 9",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 94,
       "home_score": 1,
       "away_score": 3,
       "home_score_ht": 0,
@@ -106366,7 +106597,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -106391,7 +106622,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 8",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 94,
       "home_score": 2,
       "away_score": 0,
       "home_score_ht": 0,
@@ -106466,7 +106697,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -106491,7 +106722,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 8",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 93,
       "home_score": 0,
       "away_score": 2,
       "home_score_ht": 0,
@@ -106643,7 +106874,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -107657,8 +107888,8 @@
       "referee_id": null,
       "venue_id": 766,
       "event_date": "2026-10-24T12:00:00+00:00",
-      "status": "cancelled",
-      "replaced_by": null,
+      "status": "postponed",
+      "replaced_by": 642995,
       "round_number": 10,
       "round_name": "",
       "group_name": null,
@@ -107747,7 +107978,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 10",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 93,
       "home_score": 1,
       "away_score": 2,
       "home_score_ht": 1,
@@ -108027,7 +108258,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 10",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 94,
       "home_score": 0,
       "away_score": 3,
       "home_score_ht": 0,
@@ -108179,7 +108410,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -108224,7 +108455,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": false,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Harrogate 3 - 1 Sutton — Full Highlights",
+          "url": "https://youtu.be/kDRsmcNMeIw",
+          "thumbnail": "https://i.ytimg.com/vi/kDRsmcNMeIw/hqdefault.jpg",
+          "published_at": "2026-10-24T22:55:10+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 10,
         "home_wins": 2,
@@ -109774,7 +110013,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 8",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 94,
       "home_score": 2,
       "away_score": 1,
       "home_score_ht": 1,
@@ -109926,7 +110165,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -110712,7 +110951,7 @@
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 9",
       "period": "FT",
-      "current_minute": 90,
+      "current_minute": 93,
       "home_score": 0,
       "away_score": 1,
       "home_score_ht": 0,
@@ -110798,7 +111037,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
