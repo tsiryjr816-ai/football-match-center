@@ -359,6 +359,14 @@
     "id": 1259,
     "name": "Málaga CF"
   },
+  "345": {
+    "id": 345,
+    "name": "CSKA Sofia"
+  },
+  "346": {
+    "id": 346,
+    "name": "Slavia Sofia"
+  },
   "9": {
     "id": 9,
     "name": "Tottenham Hotspur"
@@ -558,14 +566,6 @@
   "34": {
     "id": 34,
     "name": "CF Estrela Amadora"
-  },
-  "3841": {
-    "id": 3841,
-    "name": "FK Dunav Ruse"
-  },
-  "348": {
-    "id": 348,
-    "name": "Levski Sofia"
   },
   "138": {
     "id": 138,
@@ -1079,6 +1079,14 @@
     "id": 84,
     "name": "VfB Stuttgart"
   },
+  "3841": {
+    "id": 3841,
+    "name": "FK Dunav Ruse"
+  },
+  "348": {
+    "id": 348,
+    "name": "Levski Sofia"
+  },
   "4403": {
     "id": 4403,
     "name": "Norrby IF"
@@ -1343,14 +1351,6 @@
     "id": 54,
     "name": "Atlético Madrid"
   },
-  "350": {
-    "id": 350,
-    "name": "Lokomotiv Plovdiv"
-  },
-  "136": {
-    "id": 136,
-    "name": "Ludogorets"
-  },
   "1893": {
     "id": 1893,
     "name": "Forest Green Rovers"
@@ -1470,6 +1470,14 @@
   "1832": {
     "id": 1832,
     "name": "Hertha BSC"
+  },
+  "350": {
+    "id": 350,
+    "name": "Lokomotiv Plovdiv"
+  },
+  "136": {
+    "id": 136,
+    "name": "Ludogorets"
   },
   "425": {
     "id": 425,
@@ -1639,14 +1647,6 @@
     "id": 4993,
     "name": "Aldosivi"
   },
-  "4780": {
-    "id": 4780,
-    "name": "Deportivo Pereira"
-  },
-  "4785": {
-    "id": 4785,
-    "name": "Jaguares de Córdoba"
-  },
   "167": {
     "id": 167,
     "name": "Corinthians"
@@ -1686,6 +1686,14 @@
   "4996": {
     "id": 4996,
     "name": "Instituto De Córdoba"
+  },
+  "4780": {
+    "id": 4780,
+    "name": "Deportivo Pereira"
+  },
+  "4785": {
+    "id": 4785,
+    "name": "Jaguares de Córdoba"
   },
   "106": {
     "id": 106,
@@ -1926,14 +1934,6 @@
   "344": {
     "id": 344,
     "name": "Botev Plovdiv"
-  },
-  "345": {
-    "id": 345,
-    "name": "CSKA Sofia"
-  },
-  "346": {
-    "id": 346,
-    "name": "Slavia Sofia"
   },
   "192": {
     "id": 192,
