@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T21:49:53.003994+00:00",
+  "updated_at": "2026-10-25T23:42:32.540808+00:00",
   "source": "BSD Football API",
   "date_from": "2026-10-25",
   "date_to": "2026-11-01",
@@ -30674,7 +30674,7 @@
       "away_team_id": 6517,
       "away_team": "AZ Picerno",
       "home_coach_id": 2879,
-      "away_coach_id": 4349,
+      "away_coach_id": 4505,
       "referee_id": null,
       "venue_id": null,
       "event_date": "2026-10-31T16:30:00+00:00",
@@ -56417,7 +56417,7 @@
       "away_team_id": 27,
       "away_team": "Famalicão",
       "home_coach_id": 44,
-      "away_coach_id": 2073,
+      "away_coach_id": 4526,
       "referee_id": null,
       "venue_id": 31,
       "event_date": "2026-10-29T18:45:00+00:00",
@@ -58202,7 +58202,7 @@
       "away_team_id": 426,
       "away_team": "MKS Korona Kielce",
       "home_coach_id": 1158,
-      "away_coach_id": 481,
+      "away_coach_id": 4513,
       "referee_id": null,
       "venue_id": null,
       "event_date": "2026-10-29T16:30:00+00:00",
@@ -82415,7 +82415,7 @@
       "away_team": "Cruz Azul",
       "home_coach_id": 327,
       "away_coach_id": 1422,
-      "referee_id": null,
+      "referee_id": 2168,
       "venue_id": 297,
       "event_date": "2026-10-26T01:00:00+00:00",
       "status": "notstarted",
@@ -82951,7 +82951,7 @@
       "referee_id": 2728,
       "venue_id": 568,
       "event_date": "2026-10-25T23:10:00+00:00",
-      "status": "notstarted",
+      "status": "1st_half",
       "replaced_by": null,
       "round_number": 16,
       "round_name": "",
@@ -82959,12 +82959,12 @@
       "stage": "league-phase",
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 16",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "1T",
+      "current_minute": 29,
+      "home_score": 0,
+      "away_score": 1,
+      "home_score_ht": 0,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -83104,7 +83104,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -83117,10 +83117,10 @@
       "away_team": "Boston Legacy FC",
       "home_coach_id": 2059,
       "away_coach_id": 2051,
-      "referee_id": null,
+      "referee_id": 2708,
       "venue_id": 284,
       "event_date": "2026-10-25T23:00:00+00:00",
-      "status": "notstarted",
+      "status": "1st_half",
       "replaced_by": null,
       "round_number": 1,
       "round_name": "",
@@ -83128,12 +83128,12 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 1",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "1T",
+      "current_minute": 32,
+      "home_score": 0,
+      "away_score": 0,
+      "home_score_ht": 0,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -83190,7 +83190,7 @@
       "referee_id": 2343,
       "venue_id": 293,
       "event_date": "2026-10-25T23:00:00+00:00",
-      "status": "notstarted",
+      "status": "1st_half",
       "replaced_by": null,
       "round_number": 14,
       "round_name": "",
@@ -83198,12 +83198,12 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 14",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "1T",
+      "current_minute": 41,
+      "home_score": 1,
+      "away_score": 1,
+      "home_score_ht": 1,
+      "away_score_ht": 1,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -83343,7 +83343,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -83359,7 +83359,7 @@
       "referee_id": 2105,
       "venue_id": 445,
       "event_date": "2026-10-25T22:15:00+00:00",
-      "status": "notstarted",
+      "status": "2nd_half",
       "replaced_by": null,
       "round_number": 14,
       "round_name": "",
@@ -83367,12 +83367,12 @@
       "stage": "group-stage",
       "stage_name": "Group stage",
       "round_label": "Clausura, Group B · Matchday 14",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "2T",
+      "current_minute": 61,
+      "home_score": 1,
+      "away_score": 0,
+      "home_score_ht": 1,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -83528,7 +83528,7 @@
       "referee_id": 2722,
       "venue_id": 1662,
       "event_date": "2026-10-25T21:05:00+00:00",
-      "status": "1st_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 16,
       "round_name": "",
@@ -83536,8 +83536,8 @@
       "stage": "league-phase",
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 16",
-      "period": "1T",
-      "current_minute": 43,
+      "period": "FT",
+      "current_minute": 90,
       "home_score": 1,
       "away_score": 0,
       "home_score_ht": 1,
@@ -83548,16 +83548,24 @@
       "is_neutral_ground": false,
       "travel_distance_km": null,
       "weather": {
-        "code": 3,
-        "description": "rain",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 7.4,
         "temperature_c": 31
       },
-      "pitch_condition": null,
+      "pitch_condition": 2,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": false,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "goals",
+          "title": "Alianza Valledupar 1 - 0 Inter de Bogotá — 31' Misael Martínez",
+          "url": "https://youtu.be/PLhgO1-LeZw",
+          "thumbnail": "https://i.ytimg.com/vi/PLhgO1-LeZw/hqdefault.jpg",
+          "published_at": "2026-10-25T21:53:44+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 1,
         "home_wins": 0,
@@ -83598,7 +83606,7 @@
       "referee_id": 2084,
       "venue_id": 1607,
       "event_date": "2026-10-25T21:00:00+00:00",
-      "status": "1st_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 1,
       "round_name": "",
@@ -83606,8 +83614,8 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 1",
-      "period": "1T",
-      "current_minute": 40,
+      "period": "FT",
+      "current_minute": 90,
       "home_score": 2,
       "away_score": 1,
       "home_score_ht": 2,
@@ -83618,12 +83626,12 @@
       "is_neutral_ground": false,
       "travel_distance_km": 1540,
       "weather": {
-        "code": 3,
-        "description": "rain",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 9.8,
         "temperature_c": 24
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
@@ -83767,7 +83775,7 @@
       "referee_id": 2170,
       "venue_id": 22,
       "event_date": "2026-10-25T20:30:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 9,
       "round_name": "",
@@ -83775,10 +83783,10 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 9",
-      "period": "2T",
-      "current_minute": 49,
-      "home_score": 0,
-      "away_score": 1,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 1,
+      "away_score": 2,
       "home_score_ht": 0,
       "away_score_ht": 1,
       "penalty_shootout": null,
@@ -83792,11 +83800,26 @@
         "wind_speed": 12.4,
         "temperature_c": 17
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "goals",
+          "title": "Sporting 1 - 2 Académico Viseu — 74' João Guilherme",
+          "url": "https://youtu.be/YXlJFznqwcs",
+          "thumbnail": "https://i.ytimg.com/vi/YXlJFznqwcs/hqdefault.jpg",
+          "published_at": "2026-10-25T22:39:53+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Sporting 1 - 1 Académico Viseu — 62' Luis Javier Suárez",
+          "url": "https://youtu.be/EO2Ma5D8gqc",
+          "thumbnail": "https://i.ytimg.com/vi/EO2Ma5D8gqc/hqdefault.jpg",
+          "published_at": "2026-10-25T22:39:31+00:00"
+        }
+      ],
       "head_to_head": null,
       "has_xg": false,
       "previous_leg_event_id": null
@@ -83814,7 +83837,7 @@
       "referee_id": 2337,
       "venue_id": 1771,
       "event_date": "2026-10-25T20:00:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 14,
       "round_name": "",
@@ -83822,7 +83845,7 @@
       "stage": "group-stage",
       "stage_name": "Group stage",
       "round_label": "Clausura, Group A · Matchday 14",
-      "period": "2T",
+      "period": "FT",
       "current_minute": 90,
       "home_score": 0,
       "away_score": 1,
@@ -83834,16 +83857,24 @@
       "is_neutral_ground": false,
       "travel_distance_km": 4,
       "weather": {
-        "code": 3,
-        "description": "rain",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 24.8,
         "temperature_c": 17
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Independiente 0 - 1 Boca Juniors — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=fTroSo_4K18",
+          "thumbnail": "https://i.ytimg.com/vi/fTroSo_4K18/hqdefault.jpg",
+          "published_at": "2026-10-25T23:25:14+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 24,
         "home_wins": 6,
@@ -83983,7 +84014,7 @@
       "referee_id": null,
       "venue_id": null,
       "event_date": "2026-10-25T20:00:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 7,
       "round_name": "",
@@ -83991,8 +84022,8 @@
       "stage": "group-stage",
       "stage_name": "Group stage",
       "round_label": "Group B · Matchday 7",
-      "period": "2T",
-      "current_minute": 87,
+      "period": "FT",
+      "current_minute": 90,
       "home_score": 2,
       "away_score": 1,
       "home_score_ht": 2,
@@ -84003,12 +84034,12 @@
       "is_neutral_ground": false,
       "travel_distance_km": 77,
       "weather": {
-        "code": null,
-        "description": null,
+        "code": 1,
+        "description": "clear",
         "wind_speed": null,
         "temperature_c": null
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": false,
@@ -84030,7 +84061,7 @@
       "referee_id": 1783,
       "venue_id": 44,
       "event_date": "2026-10-25T20:00:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 10,
       "round_name": "",
@@ -84038,10 +84069,10 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 10",
-      "period": "2T",
-      "current_minute": 85,
+      "period": "FT",
+      "current_minute": 90,
       "home_score": 1,
-      "away_score": 1,
+      "away_score": 2,
       "home_score_ht": 0,
       "away_score_ht": 1,
       "penalty_shootout": null,
@@ -84050,16 +84081,24 @@
       "is_neutral_ground": false,
       "travel_distance_km": 500,
       "weather": {
-        "code": 3,
-        "description": "rain",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 5.8,
         "temperature_c": 15
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "FC Barcelona 1-2 Real Madrid — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=VzRr1zWFl8U",
+          "thumbnail": "https://i.ytimg.com/vi/VzRr1zWFl8U/maxresdefault.jpg",
+          "published_at": "2026-10-25T22:14:44+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 131,
         "home_wins": 58,
@@ -84228,7 +84267,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Udinese 0-2 AC Milan — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=TovUeAQkaFc",
+          "thumbnail": "https://i.ytimg.com/vi/TovUeAQkaFc/hqdefault.jpg",
+          "published_at": "2026-10-25T22:22:28+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 82,
         "home_wins": 20,
@@ -84570,7 +84617,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Orlando 1 - 2 Gotham — Full Highlights",
+          "url": "https://youtu.be/tz2zKxPZnfY",
+          "thumbnail": "https://i.ytimg.com/vi/tz2zKxPZnfY/hqdefault.jpg",
+          "published_at": "2026-10-25T21:54:39+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 24,
         "home_wins": 9,
@@ -84739,7 +84794,15 @@
       "attendance": null,
       "live_websocket": false,
       "websocket_plus": false,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "AZ 0 - 2 Twente — Full Highlights",
+          "url": "https://youtu.be/sgJ-KY6Xs2U",
+          "thumbnail": "https://i.ytimg.com/vi/sgJ-KY6Xs2U/hqdefault.jpg",
+          "published_at": "2026-10-25T23:12:03+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 57,
         "home_wins": 23,
@@ -89987,7 +90050,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "LASK 1 - 3 RB Salzburg — Full Highlights",
+          "url": "https://youtu.be/BProRmmmNGw",
+          "thumbnail": "https://i.ytimg.com/vi/BProRmmmNGw/hqdefault.jpg",
+          "published_at": "2026-10-25T23:17:24+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 44,
         "home_wins": 8,
@@ -91257,7 +91328,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Sparta 1 - 2 Ajax — Full Highlights",
+          "url": "https://youtu.be/5Gcf2gzBF5E",
+          "thumbnail": "https://i.ytimg.com/vi/5Gcf2gzBF5E/hqdefault.jpg",
+          "published_at": "2026-10-25T23:15:27+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 56,
         "home_wins": 7,
@@ -98791,7 +98870,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "PSV 1 - 1 Feyenoord — Full Highlights",
+          "url": "https://youtu.be/kRNWE27zRfo",
+          "thumbnail": "https://i.ytimg.com/vi/kRNWE27zRfo/hqdefault.jpg",
+          "published_at": "2026-10-25T23:07:10+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 76,
         "home_wins": 30,
