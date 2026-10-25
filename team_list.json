@@ -3311,14 +3311,6 @@
     "id": 1305,
     "name": "Dijon"
   },
-  "1409": {
-    "id": 1409,
-    "name": "Grazer AK 1902"
-  },
-  "1406": {
-    "id": 1406,
-    "name": "TSV Hartberg"
-  },
   "357": {
     "id": 357,
     "name": "FC Rapid București"
@@ -3326,6 +3318,14 @@
   "367": {
     "id": 367,
     "name": "FK Csíkszereda Miercurea Ciuc"
+  },
+  "1409": {
+    "id": 1409,
+    "name": "Grazer AK 1902"
+  },
+  "1406": {
+    "id": 1406,
+    "name": "TSV Hartberg"
   },
   "3561": {
     "id": 3561,
