@@ -335,6 +335,14 @@
     "id": 288,
     "name": "Houston Dynamo"
   },
+  "2239": {
+    "id": 2239,
+    "name": "Sacramento Republic FC"
+  },
+  "2240": {
+    "id": 2240,
+    "name": "FC Tulsa"
+  },
   "292": {
     "id": 292,
     "name": "Los Angeles FC"
@@ -378,6 +386,14 @@
   "4783": {
     "id": 4783,
     "name": "Alianza Valledupar FC"
+  },
+  "2245": {
+    "id": 2245,
+    "name": "New Mexico United"
+  },
+  "2232": {
+    "id": 2232,
+    "name": "Phoenix Rising FC"
   },
   "312": {
     "id": 312,
@@ -562,6 +578,14 @@
   "62": {
     "id": 62,
     "name": "SSC Napoli"
+  },
+  "2221": {
+    "id": 2221,
+    "name": "Lexington SC"
+  },
+  "2234": {
+    "id": 2234,
+    "name": "Colorado Springs Switchbacks FC"
   },
   "594": {
     "id": 594,
@@ -1722,14 +1746,6 @@
   "4028": {
     "id": 4028,
     "name": "Académica Coimbra"
-  },
-  "21": {
-    "id": 21,
-    "name": "Casa Pia"
-  },
-  "22": {
-    "id": 22,
-    "name": "Sporting CP"
   },
   "3884": {
     "id": 3884,
@@ -3463,6 +3479,14 @@
     "id": 771,
     "name": "Atlético Bucaramanga"
   },
+  "2233": {
+    "id": 2233,
+    "name": "El Paso Locomotive FC"
+  },
+  "2231": {
+    "id": 2231,
+    "name": "San Antonio FC"
+  },
   "4999": {
     "id": 4999,
     "name": "Sarmiento"
@@ -3479,6 +3503,30 @@
     "id": 4993,
     "name": "Aldosivi"
   },
+  "2243": {
+    "id": 2243,
+    "name": "Detroit City FC"
+  },
+  "2228": {
+    "id": 2228,
+    "name": "Hartford Athletic"
+  },
+  "2230": {
+    "id": 2230,
+    "name": "FC Tampa Bay Rowdies"
+  },
+  "2244": {
+    "id": 2244,
+    "name": "Miami FC"
+  },
+  "2225": {
+    "id": 2225,
+    "name": "Charleston Battery"
+  },
+  "2223": {
+    "id": 2223,
+    "name": "Rhode Island Union"
+  },
   "167": {
     "id": 167,
     "name": "Corinthians"
@@ -3486,6 +3534,14 @@
   "151": {
     "id": 151,
     "name": "Mirassol"
+  },
+  "2222": {
+    "id": 2222,
+    "name": "Louisville City FC"
+  },
+  "2226": {
+    "id": 2226,
+    "name": "Pittsburgh Riverhounds"
   },
   "929": {
     "id": 929,
@@ -3523,6 +3579,14 @@
     "id": 4780,
     "name": "Deportivo Pereira"
   },
+  "21": {
+    "id": 21,
+    "name": "Casa Pia"
+  },
+  "22": {
+    "id": 22,
+    "name": "Sporting CP"
+  },
   "106": {
     "id": 106,
     "name": "Lille"
@@ -3530,6 +3594,14 @@
   "99": {
     "id": 99,
     "name": "RC Lens"
+  },
+  "2069": {
+    "id": 2069,
+    "name": "Difaâ Hassani El-Jadidi"
+  },
+  "2062": {
+    "id": 2062,
+    "name": "Union Touarga Sport"
   },
   "4827": {
     "id": 4827,
@@ -3610,14 +3682,6 @@
   "403": {
     "id": 403,
     "name": "Legia Warszawa"
-  },
-  "2069": {
-    "id": 2069,
-    "name": "Difaâ Hassani El-Jadidi"
-  },
-  "2062": {
-    "id": 2062,
-    "name": "Union Touarga Sport"
   },
   "4662": {
     "id": 4662,
