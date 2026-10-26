@@ -2379,6 +2379,14 @@
     "id": 97,
     "name": "Stade Rennais"
   },
+  "4771": {
+    "id": 4771,
+    "name": "Union Sportive Amal Tiznit"
+  },
+  "2065": {
+    "id": 2065,
+    "name": "Kawkab Athletic Club Marrakech"
+  },
   "6142": {
     "id": 6142,
     "name": "Falkenbergs FF"
@@ -2442,14 +2450,6 @@
   "49": {
     "id": 49,
     "name": "Celta Vigo"
-  },
-  "4771": {
-    "id": 4771,
-    "name": "Union Sportive Amal Tiznit"
-  },
-  "2065": {
-    "id": 2065,
-    "name": "Kawkab Athletic Club Marrakech"
   },
   "5648": {
     "id": 5648,
@@ -3611,14 +3611,6 @@
     "id": 99,
     "name": "RC Lens"
   },
-  "2069": {
-    "id": 2069,
-    "name": "Difaâ Hassani El-Jadidi"
-  },
-  "2062": {
-    "id": 2062,
-    "name": "Union Touarga Sport"
-  },
   "4827": {
     "id": 4827,
     "name": "AD Fafe"
@@ -3698,6 +3690,14 @@
   "403": {
     "id": 403,
     "name": "Legia Warszawa"
+  },
+  "2069": {
+    "id": 2069,
+    "name": "Difaâ Hassani El-Jadidi"
+  },
+  "2062": {
+    "id": 2062,
+    "name": "Union Touarga Sport"
   },
   "4662": {
     "id": 4662,
