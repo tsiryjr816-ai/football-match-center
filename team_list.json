@@ -1087,6 +1087,14 @@
     "id": 101,
     "name": "AS Monaco"
   },
+  "8617": {
+    "id": 8617,
+    "name": "Wydad Sportive Témara"
+  },
+  "2071": {
+    "id": 2071,
+    "name": "Maghreb Fes"
+  },
   "1410": {
     "id": 1410,
     "name": "FK Austria Wien"
@@ -1222,14 +1230,6 @@
   "57": {
     "id": 57,
     "name": "Real Madrid"
-  },
-  "8617": {
-    "id": 8617,
-    "name": "Wydad Sportive Témara"
-  },
-  "2071": {
-    "id": 2071,
-    "name": "Maghreb Fes"
   },
   "8255": {
     "id": 8255,
