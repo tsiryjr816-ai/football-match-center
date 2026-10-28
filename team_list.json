@@ -183,6 +183,14 @@
     "id": 3680,
     "name": "Bohemians Praha 1905"
   },
+  "571": {
+    "id": 571,
+    "name": "Enugu Rangers International"
+  },
+  "570": {
+    "id": 570,
+    "name": "Bendel Insurance FC"
+  },
   "3294": {
     "id": 3294,
     "name": "Primeiro de Agosto"
@@ -1087,18 +1095,6 @@
     "id": 2086,
     "name": "Tromsø IL"
   },
-  "2059": {
-    "id": 2059,
-    "name": "Ittihad Tanger"
-  },
-  "2072": {
-    "id": 2072,
-    "name": "Renaissance Zemamra"
-  },
-  "2070": {
-    "id": 2070,
-    "name": "CODM Meknès"
-  },
   "780": {
     "id": 780,
     "name": "Boca Juniors"
@@ -1158,6 +1154,18 @@
   "245": {
     "id": 245,
     "name": "KAA Gent"
+  },
+  "2059": {
+    "id": 2059,
+    "name": "Ittihad Tanger"
+  },
+  "2072": {
+    "id": 2072,
+    "name": "Renaissance Zemamra"
+  },
+  "2070": {
+    "id": 2070,
+    "name": "CODM Meknès"
   },
   "1340": {
     "id": 1340,
@@ -1267,14 +1275,6 @@
     "id": 107,
     "name": "Angers"
   },
-  "8617": {
-    "id": 8617,
-    "name": "Wydad Sportive Témara"
-  },
-  "2071": {
-    "id": 2071,
-    "name": "Maghreb Fes"
-  },
   "1410": {
     "id": 1410,
     "name": "FK Austria Wien"
@@ -1282,6 +1282,22 @@
   "1411": {
     "id": 1411,
     "name": "SK Rapid Wien"
+  },
+  "8718": {
+    "id": 8718,
+    "name": "Santa Clara Azores B"
+  },
+  "8392": {
+    "id": 8392,
+    "name": "SC Mineiro Aljustrelense"
+  },
+  "8434": {
+    "id": 8434,
+    "name": "UD Sousense"
+  },
+  "8374": {
+    "id": 8374,
+    "name": "Sport Comércio e Salgueiros"
   },
   "326": {
     "id": 326,
@@ -1407,6 +1423,14 @@
     "id": 1400,
     "name": "Real Racing Club"
   },
+  "8617": {
+    "id": 8617,
+    "name": "Wydad Sportive Témara"
+  },
+  "2071": {
+    "id": 2071,
+    "name": "Maghreb Fes"
+  },
   "8255": {
     "id": 8255,
     "name": "Inter Lagos FC"
@@ -1431,21 +1455,9 @@
     "id": 5649,
     "name": "Sporting Lagos FC"
   },
-  "581": {
-    "id": 581,
-    "name": "Niger Tornadoes"
-  },
-  "567": {
-    "id": 567,
-    "name": "Barau FC"
-  },
   "575": {
     "id": 575,
     "name": "Kwara United"
-  },
-  "570": {
-    "id": 570,
-    "name": "Bendel Insurance FC"
   },
   "568": {
     "id": 568,
@@ -1475,10 +1487,6 @@
     "id": 564,
     "name": "Rivers United"
   },
-  "571": {
-    "id": 571,
-    "name": "Enugu Rangers International"
-  },
   "3729": {
     "id": 3729,
     "name": "Jong KRC Genk U23"
@@ -1490,14 +1498,6 @@
   "8328": {
     "id": 8328,
     "name": "GD Lagoa"
-  },
-  "8718": {
-    "id": 8718,
-    "name": "Santa Clara Azores B"
-  },
-  "8392": {
-    "id": 8392,
-    "name": "SC Mineiro Aljustrelense"
   },
   "8390": {
     "id": 8390,
@@ -1578,14 +1578,6 @@
   "8299": {
     "id": 8299,
     "name": "Benfica Castelo Branco"
-  },
-  "8434": {
-    "id": 8434,
-    "name": "UD Sousense"
-  },
-  "8374": {
-    "id": 8374,
-    "name": "Sport Comércio e Salgueiros"
   },
   "8653": {
     "id": 8653,
@@ -3891,14 +3883,6 @@
     "id": 1305,
     "name": "Dijon"
   },
-  "357": {
-    "id": 357,
-    "name": "FC Rapid București"
-  },
-  "367": {
-    "id": 367,
-    "name": "FK Csíkszereda Miercurea Ciuc"
-  },
   "1409": {
     "id": 1409,
     "name": "Grazer AK 1902"
@@ -3906,6 +3890,14 @@
   "1406": {
     "id": 1406,
     "name": "TSV Hartberg"
+  },
+  "357": {
+    "id": 357,
+    "name": "FC Rapid București"
+  },
+  "367": {
+    "id": 367,
+    "name": "FK Csíkszereda Miercurea Ciuc"
   },
   "3561": {
     "id": 3561,
@@ -4002,6 +3994,14 @@
   "8755": {
     "id": 8755,
     "name": "Desportivo da Huíla"
+  },
+  "581": {
+    "id": 581,
+    "name": "Niger Tornadoes"
+  },
+  "567": {
+    "id": 567,
+    "name": "Barau FC"
   },
   "2415": {
     "id": 2415,
