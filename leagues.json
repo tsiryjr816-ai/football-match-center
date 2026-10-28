@@ -167,7 +167,7 @@
           {
             "stage": "regular-season",
             "stage_name": "Regular season",
-            "matches": 247,
+            "matches": 246,
             "rounds": 30,
             "start_date": "2026-08-21",
             "end_date": "2027-05-15"
@@ -1587,7 +1587,7 @@
           {
             "stage": "regular-season",
             "stage_name": "Regular season",
-            "matches": 309,
+            "matches": 310,
             "rounds": 34,
             "start_date": "2026-08-08",
             "end_date": "2027-05-22"
