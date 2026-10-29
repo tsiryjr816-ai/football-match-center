@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T00:11:29.697499+00:00",
+  "updated_at": "2026-10-29T05:45:16.148712+00:00",
   "source": "BSD Football API",
   "date_from": "2026-10-29",
   "date_to": "2026-11-05",
@@ -1200,7 +1200,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
       "has_xg": false,
@@ -6978,7 +6978,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
         "total_matches": 21,
@@ -9917,7 +9917,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
       "has_xg": false,
@@ -16371,7 +16371,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
       "has_xg": false,
@@ -27091,9 +27091,65 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 4,
+        "home_wins": 3,
+        "draws": 0,
+        "away_wins": 1,
+        "home_goals": 7,
+        "away_goals": 2,
+        "avg_total_goals": 2.25,
+        "home_win_rate": 0.75,
+        "away_win_rate": 0.25,
+        "recent_matches": [
+          {
+            "away": "Ümraniyespor",
+            "date": "2026-04-03T17:00:00+00:00",
+            "home": "Bodrum FK",
+            "score": "1-0",
+            "event_id": 643811,
+            "away_score": 0,
+            "home_score": 1,
+            "away_team_id": 4652,
+            "home_team_id": 1353
+          },
+          {
+            "away": "Bodrum FK",
+            "date": "2025-11-23T10:30:00+00:00",
+            "home": "Ümraniyespor",
+            "score": "1-0",
+            "event_id": 643625,
+            "away_score": 0,
+            "home_score": 1,
+            "away_team_id": 1353,
+            "home_team_id": 4652
+          },
+          {
+            "away": "Bodrum FK",
+            "date": "2024-02-03T10:30:00+00:00",
+            "home": "Ümraniyespor",
+            "score": "1-2",
+            "event_id": 644453,
+            "away_score": 2,
+            "home_score": 1,
+            "away_team_id": 1353,
+            "home_team_id": 4652
+          },
+          {
+            "away": "Ümraniyespor",
+            "date": "2023-09-03T14:00:00+00:00",
+            "home": "Bodrum FK",
+            "score": "4-0",
+            "event_id": 644292,
+            "away_score": 0,
+            "home_score": 4,
+            "away_team_id": 4652,
+            "home_team_id": 1353
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": null
     },
@@ -36160,7 +36216,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
       "has_xg": false,
@@ -36207,7 +36263,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
       "has_xg": false,
@@ -37069,15 +37125,15 @@
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
-        "total_matches": 8,
-        "home_wins": 6,
+        "total_matches": 10,
+        "home_wins": 7,
         "draws": 1,
-        "away_wins": 1,
-        "home_goals": 17,
-        "away_goals": 4,
-        "avg_total_goals": 2.625,
-        "home_win_rate": 0.75,
-        "away_win_rate": 0.125,
+        "away_wins": 2,
+        "home_goals": 19,
+        "away_goals": 7,
+        "avg_total_goals": 2.6,
+        "home_win_rate": 0.7,
+        "away_win_rate": 0.2,
         "recent_matches": [
           {
             "away": "Samsunspor",
@@ -37141,6 +37197,28 @@
             "score": "0-0",
             "event_id": 313716,
             "away_score": 0,
+            "home_score": 0,
+            "away_team_id": 194,
+            "home_team_id": 184
+          },
+          {
+            "away": "Samsunspor",
+            "date": "2014-01-11T12:00:00+00:00",
+            "home": "Başakşehir FK",
+            "score": "1-3",
+            "event_id": 647632,
+            "away_score": 3,
+            "home_score": 1,
+            "away_team_id": 184,
+            "home_team_id": 194
+          },
+          {
+            "away": "Başakşehir FK",
+            "date": "2013-08-17T17:00:00+00:00",
+            "home": "Samsunspor",
+            "score": "0-1",
+            "event_id": 647462,
+            "away_score": 1,
             "home_score": 0,
             "away_team_id": 194,
             "home_team_id": 184
@@ -39797,9 +39875,65 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 4,
+        "home_wins": 3,
+        "draws": 0,
+        "away_wins": 1,
+        "home_goals": 7,
+        "away_goals": 6,
+        "avg_total_goals": 3.25,
+        "home_win_rate": 0.75,
+        "away_win_rate": 0.25,
+        "recent_matches": [
+          {
+            "away": "Sivasspor",
+            "date": "2026-04-09T14:00:00+00:00",
+            "home": "Boluspor",
+            "score": "1-2",
+            "event_id": 643826,
+            "away_score": 2,
+            "home_score": 1,
+            "away_team_id": 3271,
+            "home_team_id": 3296
+          },
+          {
+            "away": "Boluspor",
+            "date": "2025-11-30T10:30:00+00:00",
+            "home": "Sivasspor",
+            "score": "1-0",
+            "event_id": 643636,
+            "away_score": 0,
+            "home_score": 1,
+            "away_team_id": 3296,
+            "home_team_id": 3271
+          },
+          {
+            "away": "Boluspor",
+            "date": "2017-01-22T13:00:00+00:00",
+            "home": "Sivasspor",
+            "score": "3-1",
+            "event_id": 646685,
+            "away_score": 1,
+            "home_score": 3,
+            "away_team_id": 3296,
+            "home_team_id": 3271
+          },
+          {
+            "away": "Sivasspor",
+            "date": "2016-08-21T16:30:00+00:00",
+            "home": "Boluspor",
+            "score": "4-1",
+            "event_id": 646529,
+            "away_score": 1,
+            "home_score": 4,
+            "away_team_id": 3271,
+            "home_team_id": 3296
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": null
     },
@@ -41899,7 +42033,7 @@
       "away_team": "Instituto De Córdoba",
       "home_coach_id": 517,
       "away_coach_id": 3189,
-      "referee_id": null,
+      "referee_id": 2802,
       "venue_id": 585,
       "event_date": "2026-11-01T00:30:00+00:00",
       "status": "notstarted",
@@ -42022,7 +42156,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
         "total_matches": 4,
@@ -42432,7 +42566,7 @@
       "away_team": "San Lorenzo",
       "home_coach_id": 3190,
       "away_coach_id": 492,
-      "referee_id": null,
+      "referee_id": 2401,
       "venue_id": 1766,
       "event_date": "2026-10-31T22:15:00+00:00",
       "status": "notstarted",
@@ -43593,7 +43727,7 @@
       "away_team": "CA Talleres",
       "home_coach_id": 510,
       "away_coach_id": 3839,
-      "referee_id": null,
+      "referee_id": 2112,
       "venue_id": 549,
       "event_date": "2026-10-31T20:00:00+00:00",
       "status": "notstarted",
@@ -44747,7 +44881,7 @@
       "away_team": "Le Mans",
       "home_coach_id": 1046,
       "away_coach_id": 1056,
-      "referee_id": null,
+      "referee_id": 2836,
       "venue_id": 768,
       "event_date": "2026-10-31T19:45:00+00:00",
       "status": "notstarted",
@@ -50356,7 +50490,7 @@
       "away_team": "Grosseto",
       "home_coach_id": 4161,
       "away_coach_id": 2943,
-      "referee_id": null,
+      "referee_id": 3184,
       "venue_id": null,
       "event_date": "2026-10-31T16:30:00+00:00",
       "status": "notstarted",
@@ -50403,7 +50537,7 @@
       "away_team": "Perugia",
       "home_coach_id": 4359,
       "away_coach_id": 4363,
-      "referee_id": null,
+      "referee_id": 3147,
       "venue_id": null,
       "event_date": "2026-10-31T16:30:00+00:00",
       "status": "notstarted",
@@ -50656,7 +50790,7 @@
       "away_team": "Alcione Milano",
       "home_coach_id": 4203,
       "away_coach_id": 2789,
-      "referee_id": null,
+      "referee_id": 3106,
       "venue_id": null,
       "event_date": "2026-10-31T16:30:00+00:00",
       "status": "notstarted",
@@ -51040,7 +51174,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
       "has_xg": false,
@@ -51148,7 +51282,7 @@
       "away_team": "SV Ried",
       "home_coach_id": 845,
       "away_coach_id": 2262,
-      "referee_id": null,
+      "referee_id": 2975,
       "venue_id": 859,
       "event_date": "2026-10-31T16:00:00+00:00",
       "status": "notstarted",
@@ -54207,7 +54341,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
         "total_matches": 16,
@@ -58643,16 +58777,27 @@
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
-        "total_matches": 20,
+        "total_matches": 21,
         "home_wins": 13,
-        "draws": 4,
+        "draws": 5,
         "away_wins": 3,
-        "home_goals": 48,
-        "away_goals": 18,
-        "avg_total_goals": 3.3,
-        "home_win_rate": 0.65,
-        "away_win_rate": 0.15,
+        "home_goals": 50,
+        "away_goals": 20,
+        "avg_total_goals": 3.3333333333333335,
+        "home_win_rate": 0.6190476190476191,
+        "away_win_rate": 0.14285714285714285,
         "recent_matches": [
+          {
+            "away": "Brighton & Hove Albion",
+            "date": "2026-10-28T19:30:00+00:00",
+            "home": "Manchester City",
+            "score": "2-2",
+            "event_id": 604454,
+            "away_score": 2,
+            "home_score": 2,
+            "away_team_id": 5,
+            "home_team_id": 12
+          },
           {
             "away": "Brighton & Hove Albion",
             "date": "2026-01-07T19:30:00+00:00",
@@ -58751,17 +58896,6 @@
             "home_score": 3,
             "away_team_id": 5,
             "home_team_id": 12
-          },
-          {
-            "away": "Manchester City",
-            "date": "2021-10-23T16:30:00+00:00",
-            "home": "Brighton & Hove Albion",
-            "score": "1-4",
-            "event_id": 320763,
-            "away_score": 4,
-            "home_score": 1,
-            "away_team_id": 12,
-            "home_team_id": 5
           }
         ]
       },
@@ -59285,7 +59419,7 @@
       "away_team": "Leeds United",
       "home_coach_id": 1820,
       "away_coach_id": 561,
-      "referee_id": null,
+      "referee_id": 2158,
       "venue_id": 2,
       "event_date": "2026-10-31T15:00:00+00:00",
       "status": "notstarted",
@@ -62189,7 +62323,7 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
       "has_xg": false,
@@ -62482,7 +62616,7 @@
       "away_team": "Torres",
       "home_coach_id": 1956,
       "away_coach_id": 4364,
-      "referee_id": null,
+      "referee_id": 3117,
       "venue_id": 745,
       "event_date": "2026-10-31T13:30:00+00:00",
       "status": "notstarted",
@@ -62985,7 +63119,7 @@
       "away_team": "Trento",
       "home_coach_id": 2797,
       "away_coach_id": 2770,
-      "referee_id": null,
+      "referee_id": 3157,
       "venue_id": null,
       "event_date": "2026-10-31T13:30:00+00:00",
       "status": "notstarted",
@@ -63266,19 +63400,41 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
-        "total_matches": 2,
+        "total_matches": 4,
         "home_wins": 1,
         "draws": 1,
-        "away_wins": 0,
+        "away_wins": 2,
         "home_goals": 3,
-        "away_goals": 1,
+        "away_goals": 5,
         "avg_total_goals": 2.0,
-        "home_win_rate": 0.5,
-        "away_win_rate": 0.0,
+        "home_win_rate": 0.25,
+        "away_win_rate": 0.5,
         "recent_matches": [
+          {
+            "away": "Fatih Karagümrük",
+            "date": "2025-05-04T13:00:00+00:00",
+            "home": "Pendikspor",
+            "score": "2-0",
+            "event_id": 644243,
+            "away_score": 0,
+            "home_score": 2,
+            "away_team_id": 193,
+            "home_team_id": 1351
+          },
+          {
+            "away": "Pendikspor",
+            "date": "2025-01-04T16:00:00+00:00",
+            "home": "Fatih Karagümrük",
+            "score": "0-2",
+            "event_id": 644049,
+            "away_score": 2,
+            "home_score": 0,
+            "away_team_id": 1351,
+            "home_team_id": 193
+          },
           {
             "away": "Pendikspor",
             "date": "2024-02-10T13:00:00+00:00",
@@ -63347,9 +63503,65 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 4,
+        "home_wins": 2,
+        "draws": 0,
+        "away_wins": 2,
+        "home_goals": 6,
+        "away_goals": 7,
+        "avg_total_goals": 3.25,
+        "home_win_rate": 0.5,
+        "away_win_rate": 0.5,
+        "recent_matches": [
+          {
+            "away": "Bursaspor",
+            "date": "2022-05-14T13:00:00+00:00",
+            "home": "Bandırmaspor",
+            "score": "4-2",
+            "event_id": 645247,
+            "away_score": 2,
+            "home_score": 4,
+            "away_team_id": 1345,
+            "home_team_id": 8128
+          },
+          {
+            "away": "Bandırmaspor",
+            "date": "2021-12-19T13:00:00+00:00",
+            "home": "Bursaspor",
+            "score": "0-1",
+            "event_id": 645061,
+            "away_score": 1,
+            "home_score": 0,
+            "away_team_id": 8128,
+            "home_team_id": 1345
+          },
+          {
+            "away": "Bandırmaspor",
+            "date": "2021-04-15T16:00:00+00:00",
+            "home": "Bursaspor",
+            "score": "2-1",
+            "event_id": 645549,
+            "away_score": 1,
+            "home_score": 2,
+            "away_team_id": 8128,
+            "home_team_id": 1345
+          },
+          {
+            "away": "Bursaspor",
+            "date": "2020-12-08T10:30:00+00:00",
+            "home": "Bandırmaspor",
+            "score": "1-2",
+            "event_id": 645386,
+            "away_score": 2,
+            "home_score": 1,
+            "away_team_id": 1345,
+            "home_team_id": 8128
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": null
     },
@@ -63647,15 +63859,15 @@
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
-        "total_matches": 14,
+        "total_matches": 16,
         "home_wins": 4,
-        "draws": 4,
-        "away_wins": 6,
-        "home_goals": 14,
-        "away_goals": 16,
-        "avg_total_goals": 2.142857142857143,
-        "home_win_rate": 0.2857142857142857,
-        "away_win_rate": 0.42857142857142855,
+        "draws": 5,
+        "away_wins": 7,
+        "home_goals": 16,
+        "away_goals": 20,
+        "avg_total_goals": 2.25,
+        "home_win_rate": 0.25,
+        "away_win_rate": 0.4375,
         "recent_matches": [
           {
             "away": "Kocaelispor",
@@ -63678,6 +63890,28 @@
             "home_score": 1,
             "away_team_id": 189,
             "home_team_id": 198
+          },
+          {
+            "away": "Çaykur Rizespor",
+            "date": "2010-05-09T12:00:00+00:00",
+            "home": "Kocaelispor",
+            "score": "1-3",
+            "event_id": 649017,
+            "away_score": 3,
+            "home_score": 1,
+            "away_team_id": 189,
+            "home_team_id": 198
+          },
+          {
+            "away": "Kocaelispor",
+            "date": "2009-12-20T11:30:00+00:00",
+            "home": "Çaykur Rizespor",
+            "score": "1-1",
+            "event_id": 648864,
+            "away_score": 1,
+            "home_score": 1,
+            "away_team_id": 198,
+            "home_team_id": 189
           },
           {
             "away": "Çaykur Rizespor",
@@ -63742,28 +63976,6 @@
             "event_id": 550823,
             "away_score": 1,
             "home_score": 1,
-            "away_team_id": 198,
-            "home_team_id": 189
-          },
-          {
-            "away": "Çaykur Rizespor",
-            "date": "1987-04-12T12:30:00+00:00",
-            "home": "Kocaelispor",
-            "score": "1-0",
-            "event_id": 553249,
-            "away_score": 0,
-            "home_score": 1,
-            "away_team_id": 189,
-            "home_team_id": 198
-          },
-          {
-            "away": "Kocaelispor",
-            "date": "1986-11-02T11:30:00+00:00",
-            "home": "Çaykur Rizespor",
-            "score": "2-0",
-            "event_id": 553073,
-            "away_score": 0,
-            "home_score": 2,
             "away_team_id": 198,
             "home_team_id": 189
           }
@@ -65447,7 +65659,7 @@
       "away_team": "Manchester United",
       "home_coach_id": 1786,
       "away_coach_id": 831,
-      "referee_id": null,
+      "referee_id": 1897,
       "venue_id": 13,
       "event_date": "2026-10-31T12:30:00+00:00",
       "status": "notstarted",
@@ -66950,9 +67162,43 @@
       "pitch_condition": null,
       "attendance": null,
       "live_websocket": false,
-      "websocket_plus": false,
+      "websocket_plus": true,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 2,
+        "home_wins": 0,
+        "draws": 1,
+        "away_wins": 1,
+        "home_goals": 1,
+        "away_goals": 2,
+        "avg_total_goals": 1.5,
+        "home_win_rate": 0.0,
+        "away_win_rate": 0.5,
+        "recent_matches": [
+          {
+            "away": "Sarıyer",
+            "date": "2026-03-22T10:00:00+00:00",
+            "home": "Vanspor FK",
+            "score": "0-0",
+            "event_id": 643804,
+            "away_score": 0,
+            "home_score": 0,
+            "away_team_id": 3460,
+            "home_team_id": 8141
+          },
+          {
+            "away": "Vanspor FK",
+            "date": "2025-11-07T11:30:00+00:00",
+            "home": "Sarıyer",
+            "score": "2-1",
+            "event_id": 643609,
+            "away_score": 1,
+            "home_score": 2,
+            "away_team_id": 8141,
+            "home_team_id": 3460
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": null
     },
@@ -66999,7 +67245,85 @@
       "live_websocket": false,
       "websocket_plus": true,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 6,
+        "home_wins": 3,
+        "draws": 2,
+        "away_wins": 1,
+        "home_goals": 7,
+        "away_goals": 7,
+        "avg_total_goals": 2.3333333333333335,
+        "home_win_rate": 0.5,
+        "away_win_rate": 0.16666666666666666,
+        "recent_matches": [
+          {
+            "away": "Erzurumspor FK",
+            "date": "2026-05-02T13:00:00+00:00",
+            "home": "Çorum FK",
+            "score": "1-1",
+            "event_id": 643867,
+            "away_score": 1,
+            "home_score": 1,
+            "away_team_id": 1346,
+            "home_team_id": 3295
+          },
+          {
+            "away": "Çorum FK",
+            "date": "2025-12-28T13:00:00+00:00",
+            "home": "Erzurumspor FK",
+            "score": "1-0",
+            "event_id": 643676,
+            "away_score": 0,
+            "home_score": 1,
+            "away_team_id": 3295,
+            "home_team_id": 1346
+          },
+          {
+            "away": "Çorum FK",
+            "date": "2025-04-09T11:00:00+00:00",
+            "home": "Erzurumspor FK",
+            "score": "1-1",
+            "event_id": 644198,
+            "away_score": 1,
+            "home_score": 1,
+            "away_team_id": 3295,
+            "home_team_id": 1346
+          },
+          {
+            "away": "Erzurumspor FK",
+            "date": "2024-11-30T16:00:00+00:00",
+            "home": "Çorum FK",
+            "score": "0-1",
+            "event_id": 644009,
+            "away_score": 1,
+            "home_score": 0,
+            "away_team_id": 1346,
+            "home_team_id": 3295
+          },
+          {
+            "away": "Çorum FK",
+            "date": "2024-04-28T13:00:00+00:00",
+            "home": "Erzurumspor FK",
+            "score": "2-1",
+            "event_id": 644553,
+            "away_score": 1,
+            "home_score": 2,
+            "away_team_id": 3295,
+            "home_team_id": 1346
+          },
+          {
+            "away": "Erzurumspor FK",
+            "date": "2023-12-10T10:30:00+00:00",
+            "home": "Çorum FK",
+            "score": "4-1",
+            "event_id": 644391,
+            "away_score": 1,
+            "home_score": 4,
+            "away_team_id": 1346,
+            "home_team_id": 3295
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": null
     },
@@ -69523,7 +69847,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 862,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -69532,7 +69856,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -69692,7 +70016,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 317,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -69701,7 +70025,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -69870,7 +70194,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -70008,7 +70332,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 427,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -70017,7 +70341,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -70100,7 +70424,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 549,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -70109,7 +70433,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -70248,7 +70572,7 @@
       "away_team": "Ponte Preta",
       "home_coach_id": 1799,
       "away_coach_id": 731,
-      "referee_id": null,
+      "referee_id": 1966,
       "venue_id": 709,
       "event_date": "2026-10-30T22:30:00+00:00",
       "status": "notstarted",
@@ -70269,7 +70593,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 684,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -70278,7 +70602,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -70438,7 +70762,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 25,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -70447,7 +70771,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -70616,7 +70940,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -70677,7 +71001,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 441,
       "weather": {
         "code": 55,
         "description": null,
@@ -70686,7 +71010,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -70833,9 +71157,9 @@
       "away_score_ht": null,
       "penalty_shootout": null,
       "extra_time_score": null,
-      "is_local_derby": false,
+      "is_local_derby": true,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 5,
       "weather": {
         "code": 51,
         "description": null,
@@ -70844,7 +71168,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -70991,9 +71315,9 @@
       "away_score_ht": null,
       "penalty_shootout": null,
       "extra_time_score": null,
-      "is_local_derby": false,
+      "is_local_derby": true,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 30,
       "weather": {
         "code": 53,
         "description": null,
@@ -71002,7 +71326,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -71171,7 +71495,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -71241,7 +71565,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -71346,7 +71670,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 242,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -71355,7 +71679,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -71524,7 +71848,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": null,
@@ -71562,7 +71886,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 214,
       "weather": {
         "code": null,
         "description": null,
@@ -71571,7 +71895,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -71707,9 +72031,9 @@
       "away_score_ht": null,
       "penalty_shootout": null,
       "extra_time_score": null,
-      "is_local_derby": false,
+      "is_local_derby": true,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 39,
       "weather": {
         "code": 53,
         "description": null,
@@ -71718,7 +72042,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -71857,7 +72181,7 @@
       "away_team": "Sambenedettese",
       "home_coach_id": 1955,
       "away_coach_id": 4202,
-      "referee_id": null,
+      "referee_id": 3167,
       "venue_id": null,
       "event_date": "2026-10-30T19:30:00+00:00",
       "status": "notstarted",
@@ -71878,7 +72202,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 328,
       "weather": {
         "code": null,
         "description": null,
@@ -71887,7 +72211,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -71971,7 +72295,7 @@
       "away_team": "Pergolettese",
       "home_coach_id": 3129,
       "away_coach_id": 4342,
-      "referee_id": null,
+      "referee_id": 3139,
       "venue_id": null,
       "event_date": "2026-10-30T19:30:00+00:00",
       "status": "notstarted",
@@ -72170,7 +72494,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -72242,7 +72566,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 246,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -72251,7 +72575,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -72536,7 +72860,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 141,
       "weather": {
         "code": null,
         "description": null,
@@ -72545,7 +72869,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
@@ -72592,7 +72916,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": null,
@@ -72630,7 +72954,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 341,
       "weather": {
         "code": 2,
         "description": "cloudy",
@@ -72639,7 +72963,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -72755,7 +73079,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 745,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -72764,7 +73088,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -72924,7 +73248,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 391,
       "weather": {
         "code": 1,
         "description": "clear",
@@ -72933,7 +73257,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -73093,7 +73417,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 817,
       "weather": {
         "code": 1,
         "description": "clear",
@@ -73102,7 +73426,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -73196,7 +73520,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 244,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -73205,7 +73529,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -73457,7 +73781,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 214,
       "weather": {
         "code": 2,
         "description": "cloudy",
@@ -73466,7 +73790,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -73547,7 +73871,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -73652,7 +73976,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 836,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -73661,7 +73985,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -73800,7 +74124,7 @@
       "away_team": "Randers FC",
       "home_coach_id": 2273,
       "away_coach_id": 2142,
-      "referee_id": null,
+      "referee_id": 2581,
       "venue_id": 825,
       "event_date": "2026-10-30T18:00:00+00:00",
       "status": "notstarted",
@@ -73821,7 +74145,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 173,
       "weather": {
         "code": 51,
         "description": null,
@@ -73830,7 +74154,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -73990,7 +74314,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 846,
       "weather": {
         "code": 2,
         "description": "cloudy",
@@ -73999,7 +74323,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -74328,7 +74652,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 1027,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -74337,7 +74661,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -74497,7 +74821,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 492,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -74506,7 +74830,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -74666,7 +74990,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 140,
       "weather": {
         "code": 51,
         "description": null,
@@ -74675,7 +74999,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -74835,7 +75159,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 137,
       "weather": {
         "code": 1,
         "description": "clear",
@@ -74844,7 +75168,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -75006,17 +75330,73 @@
       "is_neutral_ground": false,
       "travel_distance_km": null,
       "weather": {
-        "code": null,
+        "code": 61,
         "description": null,
-        "wind_speed": null,
-        "temperature_c": null
+        "wind_speed": 7.7,
+        "temperature_c": 13
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
-      "websocket_plus": false,
+      "live_websocket": true,
+      "websocket_plus": true,
       "highlights": [],
-      "head_to_head": null,
+      "head_to_head": {
+        "total_matches": 4,
+        "home_wins": 1,
+        "draws": 3,
+        "away_wins": 0,
+        "home_goals": 6,
+        "away_goals": 5,
+        "avg_total_goals": 2.75,
+        "home_win_rate": 0.25,
+        "away_win_rate": 0.0,
+        "recent_matches": [
+          {
+            "away": "Keçiörengücü",
+            "date": "2026-04-19T13:00:00+00:00",
+            "home": "Esenler Erokspor",
+            "score": "1-0",
+            "event_id": 643843,
+            "away_score": 0,
+            "home_score": 1,
+            "away_team_id": 3654,
+            "home_team_id": 2769
+          },
+          {
+            "away": "Esenler Erokspor",
+            "date": "2025-12-14T10:30:00+00:00",
+            "home": "Keçiörengücü",
+            "score": "1-1",
+            "event_id": 643655,
+            "away_score": 1,
+            "home_score": 1,
+            "away_team_id": 2769,
+            "home_team_id": 3654
+          },
+          {
+            "away": "Esenler Erokspor",
+            "date": "2025-03-05T10:30:00+00:00",
+            "home": "Keçiörengücü",
+            "score": "2-2",
+            "event_id": 644147,
+            "away_score": 2,
+            "home_score": 2,
+            "away_team_id": 2769,
+            "home_team_id": 3654
+          },
+          {
+            "away": "Keçiörengücü",
+            "date": "2024-10-21T17:00:00+00:00",
+            "home": "Esenler Erokspor",
+            "score": "2-2",
+            "event_id": 643964,
+            "away_score": 2,
+            "home_score": 2,
+            "away_team_id": 3654,
+            "home_team_id": 2769
+          }
+        ]
+      },
       "has_xg": false,
       "previous_leg_event_id": null
     },
@@ -75051,7 +75431,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 469,
       "weather": {
         "code": 3,
         "description": "rain",
@@ -75060,7 +75440,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -75229,7 +75609,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -75323,7 +75703,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 378,
       "weather": {
         "code": 0,
         "description": "unknown",
@@ -75332,7 +75712,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": false,
       "highlights": [],
       "head_to_head": {
@@ -75468,7 +75848,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
@@ -75634,7 +76014,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 526,
       "weather": {
         "code": 2,
         "description": "cloudy",
@@ -75643,7 +76023,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -75812,7 +76192,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": null,
@@ -75850,7 +76230,7 @@
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
-      "travel_distance_km": null,
+      "travel_distance_km": 246,
       "weather": {
         "code": 81,
         "description": null,
@@ -75859,7 +76239,7 @@
       },
       "pitch_condition": null,
       "attendance": null,
-      "live_websocket": false,
+      "live_websocket": true,
       "websocket_plus": true,
       "highlights": [],
       "head_to_head": {
@@ -76788,7 +77168,7 @@
       "away_team": "Gil Vicente",
       "home_coach_id": 553,
       "away_coach_id": 1987,
-      "referee_id": null,
+      "referee_id": 2433,
       "venue_id": 37,
       "event_date": "2026-10-29T20:45:00+00:00",
       "status": "notstarted",
@@ -77408,7 +77788,7 @@
       "away_team": "Atalanta",
       "home_coach_id": 278,
       "away_coach_id": 313,
-      "referee_id": null,
+      "referee_id": 2136,
       "venue_id": 68,
       "event_date": "2026-10-29T19:45:00+00:00",
       "status": "notstarted",
@@ -78139,7 +78519,7 @@
       "away_team": "Famalicão",
       "home_coach_id": 44,
       "away_coach_id": 4526,
-      "referee_id": null,
+      "referee_id": 2186,
       "venue_id": 31,
       "event_date": "2026-10-29T18:45:00+00:00",
       "status": "notstarted",
@@ -81140,10 +81520,10 @@
       "away_team": "Club Tijuana",
       "home_coach_id": 423,
       "away_coach_id": 211,
-      "referee_id": null,
+      "referee_id": 2298,
       "venue_id": 295,
       "event_date": "2026-10-29T03:00:00+00:00",
-      "status": "notstarted",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 7,
       "round_name": "",
@@ -81151,28 +81531,43 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 7",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 1,
+      "away_score": 1,
+      "home_score_ht": 1,
+      "away_score_ht": 1,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
       "travel_distance_km": 2309,
       "weather": {
-        "code": 3,
-        "description": "rain",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 9.1,
         "temperature_c": 20
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "goals",
+          "title": "América 1 - 1 Tijuana — 19' Miguel Borja",
+          "url": "https://www.youtube.com/watch?v=L-pME6M1fdg",
+          "thumbnail": "https://i.ytimg.com/vi/L-pME6M1fdg/hqdefault.jpg",
+          "published_at": "2026-10-29T03:36:15+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "América 0 - 1 Tijuana — 12' Elias Manoel",
+          "url": "https://www.youtube.com/watch?v=hxqOjb4AVLo",
+          "thumbnail": "https://i.ytimg.com/vi/hxqOjb4AVLo/hqdefault.jpg",
+          "published_at": "2026-10-29T03:24:16+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 31,
         "home_wins": 16,
@@ -81312,7 +81707,7 @@
       "referee_id": 1775,
       "venue_id": 286,
       "event_date": "2026-10-29T02:30:00+00:00",
-      "status": "notstarted",
+      "status": "finished",
       "replaced_by": null,
       "round_number": null,
       "round_name": "",
@@ -81320,28 +81715,36 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 2,
+      "away_score": 2,
+      "home_score_ht": 1,
+      "away_score_ht": 1,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
       "travel_distance_km": 1507,
       "weather": {
-        "code": 0,
-        "description": "unknown",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 8.7,
         "temperature_c": 20
       },
-      "pitch_condition": null,
+      "pitch_condition": 2,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "San Jose Earthquakes 2-2 Colorado Rapids — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=nLcidOLB86k",
+          "thumbnail": "https://i.ytimg.com/vi/nLcidOLB86k/maxresdefault.jpg",
+          "published_at": "2026-10-29T04:55:12+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 42,
         "home_wins": 15,
@@ -81465,7 +81868,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -81481,7 +81884,7 @@
       "referee_id": 1772,
       "venue_id": 290,
       "event_date": "2026-10-29T02:30:00+00:00",
-      "status": "notstarted",
+      "status": "finished",
       "replaced_by": null,
       "round_number": null,
       "round_name": "",
@@ -81489,28 +81892,36 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 0,
+      "away_score": 1,
+      "home_score_ht": 0,
+      "away_score_ht": 1,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
       "travel_distance_km": 3048,
       "weather": {
-        "code": 3,
-        "description": "rain",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 1.1,
         "temperature_c": 9
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Seattle Sounders FC 0-1 Houston Dynamo — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=Gm5FefVsaAo",
+          "thumbnail": "https://i.ytimg.com/vi/Gm5FefVsaAo/maxresdefault.jpg",
+          "published_at": "2026-10-29T05:00:16+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 37,
         "home_wins": 20,
@@ -81634,7 +82045,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -81650,7 +82061,7 @@
       "referee_id": 1963,
       "venue_id": 266,
       "event_date": "2026-10-29T02:30:00+00:00",
-      "status": "notstarted",
+      "status": "finished",
       "replaced_by": null,
       "round_number": null,
       "round_name": "",
@@ -81658,28 +82069,36 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 4,
+      "away_score": 1,
+      "home_score_ht": 2,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
       "travel_distance_km": null,
       "weather": {
-        "code": 3,
-        "description": "rain",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 1.1,
         "temperature_c": 10
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Vancouver Whitecaps 4-1 San Diego FC — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=M8vACduRkcg",
+          "thumbnail": "https://i.ytimg.com/vi/M8vACduRkcg/maxresdefault.jpg",
+          "published_at": "2026-10-29T04:57:55+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 4,
         "home_wins": 2,
@@ -81737,7 +82156,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -81753,7 +82172,7 @@
       "referee_id": 2794,
       "venue_id": 1653,
       "event_date": "2026-10-29T01:05:00+00:00",
-      "status": "notstarted",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 5,
       "round_name": "",
@@ -81761,28 +82180,50 @@
       "stage": "league-phase",
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 5",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "FT",
+      "current_minute": 94,
+      "home_score": 3,
+      "away_score": 1,
+      "home_score_ht": 1,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
       "travel_distance_km": null,
       "weather": {
-        "code": 51,
-        "description": null,
+        "code": 1,
+        "description": "clear",
         "wind_speed": 6.3,
         "temperature_c": 13
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "goals",
+          "title": "Inter de Bogotá 1 - 1 Ind. Medellín — 67' Jeison Medina",
+          "url": "https://www.youtube.com/watch?v=Xa0COOHqPUc",
+          "thumbnail": "https://i.ytimg.com/vi/Xa0COOHqPUc/hqdefault.jpg",
+          "published_at": "2026-10-29T02:39:06+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Inter de Bogotá - Ind. Medellín — 49' Red Card Ronaldo Julio",
+          "url": "https://www.youtube.com/watch?v=dk4N0CrJ9lw",
+          "thumbnail": "https://i.ytimg.com/vi/dk4N0CrJ9lw/hqdefault.jpg",
+          "published_at": "2026-10-29T02:38:58+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Inter de Bogotá 1 - 0 Ind. Medellín — 24' Johan Caballero",
+          "url": "https://www.youtube.com/watch?v=KumCV-PKGFk",
+          "thumbnail": "https://i.ytimg.com/vi/KumCV-PKGFk/hqdefault.jpg",
+          "published_at": "2026-10-29T01:59:33+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 1,
         "home_wins": 1,
@@ -81807,7 +82248,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -81823,7 +82264,7 @@
       "referee_id": 1833,
       "venue_id": 352,
       "event_date": "2026-10-29T00:30:00+00:00",
-      "status": "notstarted",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 33,
       "round_name": "",
@@ -81831,28 +82272,36 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 33",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 2,
+      "away_score": 1,
+      "home_score_ht": 1,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
       "travel_distance_km": 2455,
       "weather": {
-        "code": 3,
-        "description": "rain",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 14.0,
         "temperature_c": 27
       },
-      "pitch_condition": null,
+      "pitch_condition": 2,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Remo 2 - 1 Botafogo — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=f-1J7XXKPl0",
+          "thumbnail": "https://i.ytimg.com/vi/f-1J7XXKPl0/hqdefault.jpg",
+          "published_at": "2026-10-29T03:33:15+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 3,
         "home_wins": 1,
@@ -81899,7 +82348,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -81915,7 +82364,7 @@
       "referee_id": 1604,
       "venue_id": 163,
       "event_date": "2026-10-29T00:30:00+00:00",
-      "status": "notstarted",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 33,
       "round_name": "",
@@ -81923,28 +82372,36 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 33",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 3,
+      "away_score": 2,
+      "home_score_ht": 2,
+      "away_score_ht": 2,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
       "travel_distance_km": 1476,
       "weather": {
-        "code": 0,
-        "description": "unknown",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 21.3,
         "temperature_c": 26
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Bahia 3 - 2 São Paulo — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=SLtOjKQ69sc",
+          "thumbnail": "https://i.ytimg.com/vi/SLtOjKQ69sc/hqdefault.jpg",
+          "published_at": "2026-10-29T03:33:28+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 32,
         "home_wins": 10,
@@ -82068,7 +82525,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -82084,7 +82541,7 @@
       "referee_id": 1832,
       "venue_id": 262,
       "event_date": "2026-10-29T00:30:00+00:00",
-      "status": "notstarted",
+      "status": "finished",
       "replaced_by": null,
       "round_number": null,
       "round_name": "",
@@ -82092,28 +82549,36 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 2,
+      "away_score": 3,
+      "home_score_ht": 0,
+      "away_score_ht": 2,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
       "travel_distance_km": null,
       "weather": {
-        "code": 3,
-        "description": "rain",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 8.7,
         "temperature_c": 15
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "St.Louis City 2-3 Portland Timbers — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=BazW2R-S0rA",
+          "thumbnail": "https://i.ytimg.com/vi/BazW2R-S0rA/maxresdefault.jpg",
+          "published_at": "2026-10-29T02:57:10+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 7,
         "home_wins": 2,
@@ -82204,7 +82669,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -82220,7 +82685,7 @@
       "referee_id": 2044,
       "venue_id": 278,
       "event_date": "2026-10-29T00:30:00+00:00",
-      "status": "notstarted",
+      "status": "finished",
       "replaced_by": null,
       "round_number": null,
       "round_name": "",
@@ -82228,28 +82693,36 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 1,
+      "away_score": 2,
+      "home_score_ht": 0,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
       "travel_distance_km": 1712,
       "weather": {
-        "code": 3,
-        "description": "rain",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 10.6,
         "temperature_c": 25
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Austin FC 1-2 Real Salt Lake — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=U2vp-IrTZ30",
+          "thumbnail": "https://i.ytimg.com/vi/U2vp-IrTZ30/maxresdefault.jpg",
+          "published_at": "2026-10-29T03:01:35+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 12,
         "home_wins": 3,
@@ -82373,7 +82846,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -82389,7 +82862,7 @@
       "referee_id": 2038,
       "venue_id": 279,
       "event_date": "2026-10-29T00:30:00+00:00",
-      "status": "notstarted",
+      "status": "finished",
       "replaced_by": null,
       "round_number": null,
       "round_name": "",
@@ -82397,28 +82870,36 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 3,
+      "away_score": 1,
+      "home_score_ht": 0,
+      "away_score_ht": 1,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
       "travel_distance_km": 685,
       "weather": {
-        "code": 3,
-        "description": "rain",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 12.8,
         "temperature_c": 6
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Minnesota United 3-1 Sporting Kansas City — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=V0Jykk-HBXk",
+          "thumbnail": "https://i.ytimg.com/vi/V0Jykk-HBXk/maxresdefault.jpg",
+          "published_at": "2026-10-29T02:59:02+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 26,
         "home_wins": 9,
@@ -82542,7 +83023,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -82558,7 +83039,7 @@
       "referee_id": 2041,
       "venue_id": 277,
       "event_date": "2026-10-29T00:30:00+00:00",
-      "status": "notstarted",
+      "status": "finished",
       "replaced_by": null,
       "round_number": null,
       "round_name": "",
@@ -82566,28 +83047,36 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 2,
+      "away_score": 2,
+      "home_score_ht": 0,
+      "away_score_ht": 2,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
       "travel_distance_km": 1588,
       "weather": {
-        "code": 3,
-        "description": "rain",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 24.2,
         "temperature_c": 10
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Chicago Fire 2-2 Orlando City SC — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=55DlfGLQpsI",
+          "thumbnail": "https://i.ytimg.com/vi/55DlfGLQpsI/maxresdefault.jpg",
+          "published_at": "2026-10-29T03:00:24+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 24,
         "home_wins": 8,
@@ -82711,7 +83200,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -82727,7 +83216,7 @@
       "referee_id": 1767,
       "venue_id": 274,
       "event_date": "2026-10-29T00:30:00+00:00",
-      "status": "notstarted",
+      "status": "finished",
       "replaced_by": null,
       "round_number": null,
       "round_name": "",
@@ -82735,20 +83224,20 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 0,
+      "away_score": 2,
+      "home_score_ht": 0,
+      "away_score_ht": 1,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
       "travel_distance_km": 1449,
       "weather": {
-        "code": 0,
-        "description": "unknown",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 12.6,
         "temperature_c": 21
       },
@@ -82756,7 +83245,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "FC Dallas 0-2 Columbus Crew — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=19Du2OdRysQ",
+          "thumbnail": "https://i.ytimg.com/vi/19Du2OdRysQ/maxresdefault.jpg",
+          "published_at": "2026-10-29T03:28:46+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 18,
         "home_wins": 3,
@@ -82880,7 +83377,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -82896,7 +83393,7 @@
       "referee_id": 1843,
       "venue_id": 272,
       "event_date": "2026-10-29T00:30:00+00:00",
-      "status": "notstarted",
+      "status": "finished",
       "replaced_by": null,
       "round_number": null,
       "round_name": "",
@@ -82904,12 +83401,12 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 0,
+      "away_score": 0,
+      "home_score_ht": 0,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -82921,11 +83418,19 @@
         "wind_speed": 7.8,
         "temperature_c": 20
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Nashville SC 0-0 Philadelphia Union — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=RuiZfs_6Gmc",
+          "thumbnail": "https://i.ytimg.com/vi/RuiZfs_6Gmc/maxresdefault.jpg",
+          "published_at": "2026-10-29T03:00:31+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 11,
         "home_wins": 3,
@@ -83049,7 +83554,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     }
   ]
