@@ -335,14 +335,6 @@
     "id": 266,
     "name": "Al-Taawoun"
   },
-  "4909": {
-    "id": 4909,
-    "name": "Al Faisaly"
-  },
-  "3256": {
-    "id": 3256,
-    "name": "Diriyah"
-  },
   "2415": {
     "id": 2415,
     "name": "Abha"
@@ -1058,6 +1050,38 @@
   "434": {
     "id": 434,
     "name": "Pogoń Szczecin"
+  },
+  "7891": {
+    "id": 7891,
+    "name": "Jong PSV Eindhoven"
+  },
+  "173": {
+    "id": 173,
+    "name": "NAC Breda"
+  },
+  "2370": {
+    "id": 2370,
+    "name": "Jong FC Utrecht"
+  },
+  "2730": {
+    "id": 2730,
+    "name": "FC Dordrecht"
+  },
+  "8001": {
+    "id": 8001,
+    "name": "Jong Ajax"
+  },
+  "1322": {
+    "id": 1322,
+    "name": "Vitesse"
+  },
+  "182": {
+    "id": 182,
+    "name": "Heracles Almelo"
+  },
+  "3083": {
+    "id": 3083,
+    "name": "TOP Oss"
   },
   "912": {
     "id": 912,
@@ -2183,6 +2207,14 @@
     "id": 78,
     "name": "Torino"
   },
+  "1320": {
+    "id": 1320,
+    "name": "FC Emmen"
+  },
+  "2052": {
+    "id": 2052,
+    "name": "FC Den Bosch"
+  },
   "3886": {
     "id": 3886,
     "name": "Ravenna"
@@ -3047,6 +3079,14 @@
     "id": 190,
     "name": "Göztepe"
   },
+  "4074": {
+    "id": 4074,
+    "name": "MVV Maastricht"
+  },
+  "1318": {
+    "id": 1318,
+    "name": "VVV-Venlo"
+  },
   "3334": {
     "id": 3334,
     "name": "Leixões SC"
@@ -3382,6 +3422,10 @@
   "2078": {
     "id": 2078,
     "name": "Rosenborg BK"
+  },
+  "4909": {
+    "id": 4909,
+    "name": "Al Faisaly"
   },
   "597": {
     "id": 597,
@@ -4075,6 +4119,38 @@
     "id": 403,
     "name": "Legia Warszawa"
   },
+  "2051": {
+    "id": 2051,
+    "name": "Roda JC Kerkrade"
+  },
+  "3820": {
+    "id": 3820,
+    "name": "Jong AZ Alkmaar"
+  },
+  "1323": {
+    "id": 1323,
+    "name": "RKC Waalwijk"
+  },
+  "1325": {
+    "id": 1325,
+    "name": "Almere City FC"
+  },
+  "3737": {
+    "id": 3737,
+    "name": "Helmond Sport"
+  },
+  "3204": {
+    "id": 3204,
+    "name": "FC Eindhoven"
+  },
+  "175": {
+    "id": 175,
+    "name": "FC Volendam"
+  },
+  "1321": {
+    "id": 1321,
+    "name": "De Graafschap"
+  },
   "4662": {
     "id": 4662,
     "name": "RFC Seraing"
@@ -4218,6 +4294,10 @@
   "352": {
     "id": 352,
     "name": "FK Spartak Varna"
+  },
+  "3256": {
+    "id": 3256,
+    "name": "Diriyah"
   },
   "259": {
     "id": 259,
