@@ -1103,10 +1103,6 @@
     "id": 3733,
     "name": "Deportivo Cali"
   },
-  "3419": {
-    "id": 3419,
-    "name": "Deportivo Pasto"
-  },
   "161": {
     "id": 161,
     "name": "Internacional"
@@ -1114,6 +1110,10 @@
   "370": {
     "id": 370,
     "name": "Coritiba"
+  },
+  "3419": {
+    "id": 3419,
+    "name": "Deportivo Pasto"
   },
   "797": {
     "id": 797,

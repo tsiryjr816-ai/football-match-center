@@ -1487,78 +1487,13 @@
       "is_women": false,
       "is_active": true,
       "current_season": {
-        "id": 1178,
-        "name": "Coupe de France 25/26",
-        "year": 2025,
-        "start_date": "2025-07-01",
-        "end_date": "2026-06-30",
+        "id": 2240,
+        "name": "Coupe de France 26/27",
+        "year": 2026,
+        "start_date": "2026-07-01",
+        "end_date": "2027-06-30",
         "is_current": true,
-        "stages": [
-          {
-            "stage": "round-7",
-            "stage_name": "Round 7",
-            "matches": 89,
-            "rounds": 1,
-            "start_date": "2025-11-14",
-            "end_date": "2025-11-16"
-          },
-          {
-            "stage": "round-8",
-            "stage_name": "Round 8",
-            "matches": 46,
-            "rounds": 1,
-            "start_date": "2025-11-28",
-            "end_date": "2025-11-30"
-          },
-          {
-            "stage": "round-of-64",
-            "stage_name": "Round of 64",
-            "matches": 32,
-            "rounds": 1,
-            "start_date": "2025-12-19",
-            "end_date": "2025-12-21"
-          },
-          {
-            "stage": "round-of-32",
-            "stage_name": "Round of 32",
-            "matches": 18,
-            "rounds": 1,
-            "start_date": "2026-01-10",
-            "end_date": "2026-01-13"
-          },
-          {
-            "stage": "round-of-16",
-            "stage_name": "Round of 16",
-            "matches": 8,
-            "rounds": 1,
-            "start_date": "2026-02-03",
-            "end_date": "2026-02-05"
-          },
-          {
-            "stage": "quarterfinals",
-            "stage_name": "Quarterfinals",
-            "matches": 4,
-            "rounds": 1,
-            "start_date": "2026-03-03",
-            "end_date": "2026-03-05"
-          },
-          {
-            "stage": "semifinals",
-            "stage_name": "Semifinals",
-            "matches": 2,
-            "rounds": 1,
-            "start_date": "2026-04-21",
-            "end_date": "2026-04-22"
-          },
-          {
-            "stage": "final",
-            "stage_name": "Final",
-            "matches": 1,
-            "rounds": 1,
-            "start_date": "2026-05-22",
-            "end_date": "2026-05-22"
-          }
-        ]
+        "stages": []
       }
     },
     {
