@@ -2503,13 +2503,17 @@
     "id": 163,
     "name": "Botafogo"
   },
-  "789": {
-    "id": 789,
-    "name": "Junior Barranquilla"
-  },
   "4635": {
     "id": 4635,
     "name": "Cúcuta Deportivo"
+  },
+  "797": {
+    "id": 797,
+    "name": "Independiente Santa Fe"
+  },
+  "789": {
+    "id": 789,
+    "name": "Junior Barranquilla"
   },
   "160": {
     "id": 160,
@@ -2702,10 +2706,6 @@
   "3419": {
     "id": 3419,
     "name": "Deportivo Pasto"
-  },
-  "797": {
-    "id": 797,
-    "name": "Independiente Santa Fe"
   },
   "373": {
     "id": 373,
