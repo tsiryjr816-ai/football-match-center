@@ -3135,6 +3135,14 @@
     "id": 2086,
     "name": "Tromsø IL"
   },
+  "2059": {
+    "id": 2059,
+    "name": "Ittihad Tanger"
+  },
+  "2072": {
+    "id": 2072,
+    "name": "Renaissance Zemamra"
+  },
   "780": {
     "id": 780,
     "name": "Boca Juniors"
@@ -3162,14 +3170,6 @@
   "55": {
     "id": 55,
     "name": "Elche"
-  },
-  "2059": {
-    "id": 2059,
-    "name": "Ittihad Tanger"
-  },
-  "2072": {
-    "id": 2072,
-    "name": "Renaissance Zemamra"
   },
   "1375": {
     "id": 1375,
@@ -3226,6 +3226,10 @@
   "4652": {
     "id": 4652,
     "name": "Ümraniyespor"
+  },
+  "8617": {
+    "id": 8617,
+    "name": "Wydad Sportive Témara"
   },
   "1410": {
     "id": 1410,
@@ -3294,10 +3298,6 @@
   "1267": {
     "id": 1267,
     "name": "Sporting Gijón"
-  },
-  "8617": {
-    "id": 8617,
-    "name": "Wydad Sportive Témara"
   },
   "8255": {
     "id": 8255,
