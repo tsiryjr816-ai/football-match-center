@@ -3199,6 +3199,38 @@
     "id": 435,
     "name": "Piast Gliwice"
   },
+  "1901": {
+    "id": 1901,
+    "name": "ES Métlaoui"
+  },
+  "1906": {
+    "id": 1906,
+    "name": "ES Zarzis"
+  },
+  "1908": {
+    "id": 1908,
+    "name": "Etoile Sportive Du Sahel"
+  },
+  "1905": {
+    "id": 1905,
+    "name": "CS Sfaxien"
+  },
+  "1912": {
+    "id": 1912,
+    "name": "PS Sakiet Eddaïer"
+  },
+  "1899": {
+    "id": 1899,
+    "name": "Club Africain"
+  },
+  "591": {
+    "id": 591,
+    "name": "Espérance Sportive De Tunis"
+  },
+  "602": {
+    "id": 602,
+    "name": "US Monastir"
+  },
   "4763": {
     "id": 4763,
     "name": "Ostiamare"
@@ -4215,10 +4247,6 @@
     "id": 1911,
     "name": "Stade Tunisien"
   },
-  "1899": {
-    "id": 1899,
-    "name": "Club Africain"
-  },
   "168": {
     "id": 168,
     "name": "Red Bull Bragantino"
@@ -4334,34 +4362,6 @@
   "3430": {
     "id": 3430,
     "name": "Vis Pesaro"
-  },
-  "1912": {
-    "id": 1912,
-    "name": "PS Sakiet Eddaïer"
-  },
-  "1908": {
-    "id": 1908,
-    "name": "Etoile Sportive Du Sahel"
-  },
-  "1905": {
-    "id": 1905,
-    "name": "CS Sfaxien"
-  },
-  "591": {
-    "id": 591,
-    "name": "Espérance Sportive De Tunis"
-  },
-  "602": {
-    "id": 602,
-    "name": "US Monastir"
-  },
-  "1901": {
-    "id": 1901,
-    "name": "ES Métlaoui"
-  },
-  "1906": {
-    "id": 1906,
-    "name": "ES Zarzis"
   },
   "361": {
     "id": 361,
