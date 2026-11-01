@@ -1,11 +1,11 @@
 {
-  "789": {
-    "id": 789,
-    "name": "Junior Barranquilla"
+  "781": {
+    "id": 781,
+    "name": "Deportes Tolima"
   },
-  "4635": {
-    "id": 4635,
-    "name": "Cúcuta Deportivo"
+  "736": {
+    "id": 736,
+    "name": "Millonarios"
   },
   "809": {
     "id": 809,
@@ -39,10 +39,6 @@
     "id": 786,
     "name": "Independiente Medellín"
   },
-  "736": {
-    "id": 736,
-    "name": "Millonarios"
-  },
   "4783": {
     "id": 4783,
     "name": "Alianza Valledupar FC"
@@ -75,13 +71,17 @@
     "id": 3419,
     "name": "Deportivo Pasto"
   },
+  "789": {
+    "id": 789,
+    "name": "Junior Barranquilla"
+  },
   "3733": {
     "id": 3733,
     "name": "Deportivo Cali"
   },
-  "781": {
-    "id": 781,
-    "name": "Deportes Tolima"
+  "4635": {
+    "id": 4635,
+    "name": "Cúcuta Deportivo"
   },
   "766": {
     "id": 766,
