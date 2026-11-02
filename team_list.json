@@ -1247,6 +1247,22 @@
     "id": 226,
     "name": "Falkirk FC"
   },
+  "8760": {
+    "id": 8760,
+    "name": "Recreativo da Caala"
+  },
+  "8761": {
+    "id": 8761,
+    "name": "Académica Petróleos do Lobito"
+  },
+  "8759": {
+    "id": 8759,
+    "name": "FC Luanda"
+  },
+  "8757": {
+    "id": 8757,
+    "name": "CD São Salvador"
+  },
   "94": {
     "id": 94,
     "name": "1. FC Köln"
@@ -1295,22 +1311,6 @@
     "id": 3294,
     "name": "Primeiro de Agosto"
   },
-  "8760": {
-    "id": 8760,
-    "name": "Recreativo da Caala"
-  },
-  "8761": {
-    "id": 8761,
-    "name": "Académica Petróleos do Lobito"
-  },
-  "8759": {
-    "id": 8759,
-    "name": "FC Luanda"
-  },
-  "8757": {
-    "id": 8757,
-    "name": "CD São Salvador"
-  },
   "8753": {
     "id": 8753,
     "name": "CD Lunda Sul"
@@ -1341,7 +1341,7 @@
   },
   "106": {
     "id": 106,
-    "name": "Lille"
+    "name": "LOSC Lille"
   },
   "1286": {
     "id": 1286,
@@ -2541,7 +2541,7 @@
   },
   "3380": {
     "id": 3380,
-    "name": "Amed Sportif Faaliyetler"
+    "name": "Amedspor"
   },
   "2052": {
     "id": 2052,
@@ -3711,14 +3711,6 @@
     "id": 159,
     "name": "Sport Recife"
   },
-  "927": {
-    "id": 927,
-    "name": "Botafogo-SP"
-  },
-  "821": {
-    "id": 821,
-    "name": "Londrina"
-  },
   "27": {
     "id": 27,
     "name": "Famalicão"
@@ -4150,6 +4142,14 @@
   "166": {
     "id": 166,
     "name": "Bahia"
+  },
+  "927": {
+    "id": 927,
+    "name": "Botafogo-SP"
+  },
+  "821": {
+    "id": 821,
+    "name": "Londrina"
   },
   "372": {
     "id": 372,
