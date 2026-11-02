@@ -207,6 +207,14 @@
     "id": 37,
     "name": "Benfica"
   },
+  "3926": {
+    "id": 3926,
+    "name": "Washington Spirit"
+  },
+  "3927": {
+    "id": 3927,
+    "name": "Portland Thorns FC"
+  },
   "164": {
     "id": 164,
     "name": "Vasco da Gama"
@@ -470,6 +478,14 @@
   "35": {
     "id": 35,
     "name": "FC Porto"
+  },
+  "3929": {
+    "id": 3929,
+    "name": "NJ/NY Gotham FC"
+  },
+  "3939": {
+    "id": 3939,
+    "name": "Seattle Reign FC"
   },
   "1267": {
     "id": 1267,
@@ -1325,7 +1341,7 @@
   },
   "106": {
     "id": 106,
-    "name": "LOSC Lille"
+    "name": "Lille"
   },
   "1286": {
     "id": 1286,
@@ -2334,6 +2350,14 @@
   "237": {
     "id": 237,
     "name": "KV Mechelen"
+  },
+  "3930": {
+    "id": 3930,
+    "name": "Kansas City Current"
+  },
+  "3940": {
+    "id": 3940,
+    "name": "Angel City FC"
   },
   "2071": {
     "id": 2071,
@@ -3631,6 +3655,14 @@
     "id": 1946,
     "name": "Tokyo Verdy"
   },
+  "3936": {
+    "id": 3936,
+    "name": "San Diego Wave FC"
+  },
+  "3931": {
+    "id": 3931,
+    "name": "Utah Royals FC"
+  },
   "3840": {
     "id": 3840,
     "name": "Atlante FC"
@@ -3694,6 +3726,14 @@
   "25": {
     "id": 25,
     "name": "FC Arouca"
+  },
+  "2062": {
+    "id": 2062,
+    "name": "Union Touarga Sport"
+  },
+  "4771": {
+    "id": 4771,
+    "name": "Union Sportive Amal Tiznit"
   },
   "4823": {
     "id": 4823,
@@ -3870,14 +3910,6 @@
   "173": {
     "id": 173,
     "name": "NAC Breda"
-  },
-  "2062": {
-    "id": 2062,
-    "name": "Union Touarga Sport"
-  },
-  "4771": {
-    "id": 4771,
-    "name": "Union Sportive Amal Tiznit"
   },
   "4123": {
     "id": 4123,
