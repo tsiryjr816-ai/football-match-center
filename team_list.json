@@ -1,4 +1,108 @@
 {
+  "2213": {
+    "id": 2213,
+    "name": "Torreense"
+  },
+  "3516": {
+    "id": 3516,
+    "name": "União de Leiria"
+  },
+  "915": {
+    "id": 915,
+    "name": "Real Club Deportivo de A Coruña"
+  },
+  "3885": {
+    "id": 3885,
+    "name": "Valencia"
+  },
+  "6517": {
+    "id": 6517,
+    "name": "AZ Picerno"
+  },
+  "1594": {
+    "id": 1594,
+    "name": "Bari"
+  },
+  "4104": {
+    "id": 4104,
+    "name": "Plymouth Parkway"
+  },
+  "2777": {
+    "id": 2777,
+    "name": "Berkhamsted Town"
+  },
+  "6204": {
+    "id": 6204,
+    "name": "Pineto"
+  },
+  "3430": {
+    "id": 3430,
+    "name": "Vis Pesaro"
+  },
+  "3943": {
+    "id": 3943,
+    "name": "Team Altamura"
+  },
+  "4809": {
+    "id": 4809,
+    "name": "Cavese"
+  },
+  "5545": {
+    "id": 5545,
+    "name": "Foggia"
+  },
+  "7280": {
+    "id": 7280,
+    "name": "Barletta"
+  },
+  "1467": {
+    "id": 1467,
+    "name": "CE Sabadell"
+  },
+  "1829": {
+    "id": 1829,
+    "name": "Real Sociedad B"
+  },
+  "920": {
+    "id": 920,
+    "name": "Club Atlético de Madrid"
+  },
+  "916": {
+    "id": 916,
+    "name": "FC Badalona Women"
+  },
+  "365": {
+    "id": 365,
+    "name": "FC Botoșani"
+  },
+  "361": {
+    "id": 361,
+    "name": "SC Oțelul Galați"
+  },
+  "318": {
+    "id": 318,
+    "name": "Club León"
+  },
+  "320": {
+    "id": 320,
+    "name": "CD Guadalajara"
+  },
+  "4783": {
+    "id": 4783,
+    "name": "Alianza Valledupar FC"
+  },
+  "4781": {
+    "id": 4781,
+    "name": "Llaneros FC"
+  },
+  "309": {
+    "id": 309,
+    "name": "Querétaro FC"
+  },
+  "304": {
+    "id": 304,
+    "name": "Club Puebla"
+  },
   "781": {
     "id": 781,
     "name": "Deportes Tolima"
@@ -38,14 +142,6 @@
   "786": {
     "id": 786,
     "name": "Independiente Medellín"
-  },
-  "4783": {
-    "id": 4783,
-    "name": "Alianza Valledupar FC"
-  },
-  "4781": {
-    "id": 4781,
-    "name": "Llaneros FC"
   },
   "4784": {
     "id": 4784,
@@ -1229,7 +1325,7 @@
   },
   "106": {
     "id": 106,
-    "name": "Lille"
+    "name": "LOSC Lille"
   },
   "1286": {
     "id": 1286,
@@ -2151,6 +2247,14 @@
     "id": 21,
     "name": "Casa Pia"
   },
+  "232": {
+    "id": 232,
+    "name": "Aberdeen"
+  },
+  "229": {
+    "id": 229,
+    "name": "Hibernian"
+  },
   "1319": {
     "id": 1319,
     "name": "ADO Den Haag"
@@ -2377,7 +2481,7 @@
   },
   "109": {
     "id": 109,
-    "name": "Auxerre"
+    "name": "AJ Auxerre"
   },
   "108": {
     "id": 108,
@@ -2886,14 +2990,6 @@
   "225": {
     "id": 225,
     "name": "Motherwell"
-  },
-  "232": {
-    "id": 232,
-    "name": "Aberdeen"
-  },
-  "229": {
-    "id": 229,
-    "name": "Hibernian"
   },
   "6": {
     "id": 6,
@@ -4051,10 +4147,6 @@
     "id": 395,
     "name": "FC Iberia 1999"
   },
-  "2213": {
-    "id": 2213,
-    "name": "Torreense"
-  },
   "3298": {
     "id": 3298,
     "name": "FC Ararat-Armenia"
@@ -4183,10 +4275,6 @@
     "id": 1516,
     "name": "Utebo FC"
   },
-  "1467": {
-    "id": 1467,
-    "name": "CE Sabadell"
-  },
   "5029": {
     "id": 5029,
     "name": "Deportiva Minera"
@@ -4255,10 +4343,6 @@
     "id": 165,
     "name": "Santos"
   },
-  "5545": {
-    "id": 5545,
-    "name": "Foggia"
-  },
   "2239": {
     "id": 2239,
     "name": "Sacramento Republic FC"
@@ -4266,113 +4350,5 @@
   "2240": {
     "id": 2240,
     "name": "FC Tulsa"
-  },
-  "318": {
-    "id": 318,
-    "name": "Club León"
-  },
-  "2245": {
-    "id": 2245,
-    "name": "New Mexico United"
-  },
-  "2232": {
-    "id": 2232,
-    "name": "Phoenix Rising FC"
-  },
-  "3926": {
-    "id": 3926,
-    "name": "Washington Spirit"
-  },
-  "3941": {
-    "id": 3941,
-    "name": "Chicago Stars FC"
-  },
-  "3939": {
-    "id": 3939,
-    "name": "Seattle Reign FC"
-  },
-  "3938": {
-    "id": 3938,
-    "name": "Orlando Pride"
-  },
-  "3935": {
-    "id": 3935,
-    "name": "Racing Louisville"
-  },
-  "3930": {
-    "id": 3930,
-    "name": "Kansas City Current"
-  },
-  "3934": {
-    "id": 3934,
-    "name": "North Carolina Courage"
-  },
-  "3933": {
-    "id": 3933,
-    "name": "Denver Summit FC"
-  },
-  "3929": {
-    "id": 3929,
-    "name": "NJ/NY Gotham FC"
-  },
-  "3931": {
-    "id": 3931,
-    "name": "Utah Royals FC"
-  },
-  "3937": {
-    "id": 3937,
-    "name": "Houston Dash"
-  },
-  "3927": {
-    "id": 3927,
-    "name": "Portland Thorns FC"
-  },
-  "3932": {
-    "id": 3932,
-    "name": "Bay FC"
-  },
-  "3936": {
-    "id": 3936,
-    "name": "San Diego Wave FC"
-  },
-  "3940": {
-    "id": 3940,
-    "name": "Angel City FC"
-  },
-  "3928": {
-    "id": 3928,
-    "name": "Boston Legacy FC"
-  },
-  "2221": {
-    "id": 2221,
-    "name": "Lexington SC"
-  },
-  "2234": {
-    "id": 2234,
-    "name": "Colorado Springs Switchbacks FC"
-  },
-  "365": {
-    "id": 365,
-    "name": "FC Botoșani"
-  },
-  "6204": {
-    "id": 6204,
-    "name": "Pineto"
-  },
-  "3430": {
-    "id": 3430,
-    "name": "Vis Pesaro"
-  },
-  "361": {
-    "id": 361,
-    "name": "SC Oțelul Galați"
-  },
-  "916": {
-    "id": 916,
-    "name": "FC Badalona Women"
-  },
-  "320": {
-    "id": 320,
-    "name": "CD Guadalajara"
   }
 }
