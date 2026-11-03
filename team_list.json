@@ -23,6 +23,14 @@
     "id": 1268,
     "name": "Leganés"
   },
+  "5948": {
+    "id": 5948,
+    "name": "CD Badajoz"
+  },
+  "1388": {
+    "id": 1388,
+    "name": "CD Tenerife"
+  },
   "789": {
     "id": 789,
     "name": "Junior Barranquilla"
@@ -2155,10 +2163,6 @@
     "id": 1261,
     "name": "Granada"
   },
-  "1388": {
-    "id": 1388,
-    "name": "CD Tenerife"
-  },
   "57": {
     "id": 57,
     "name": "Real Madrid"
@@ -4039,6 +4043,14 @@
     "id": 368,
     "name": "FC Dinamo București"
   },
+  "2060": {
+    "id": 2060,
+    "name": "Hassania d'Agadir"
+  },
+  "594": {
+    "id": 594,
+    "name": "RS Berkane"
+  },
   "1374": {
     "id": 1374,
     "name": "Silkeborg IF"
@@ -4102,14 +4114,6 @@
   "1345": {
     "id": 1345,
     "name": "Bursaspor"
-  },
-  "2060": {
-    "id": 2060,
-    "name": "Hassania d'Agadir"
-  },
-  "594": {
-    "id": 594,
-    "name": "RS Berkane"
   },
   "572": {
     "id": 572,
@@ -4330,10 +4334,6 @@
   "371": {
     "id": 371,
     "name": "Athletico"
-  },
-  "5948": {
-    "id": 5948,
-    "name": "CD Badajoz"
   },
   "412": {
     "id": 412,
