@@ -935,14 +935,6 @@
     "id": 581,
     "name": "Niger Tornadoes"
   },
-  "572": {
-    "id": 572,
-    "name": "Kun Khalifat FC"
-  },
-  "566": {
-    "id": 566,
-    "name": "Kano Pillars"
-  },
   "582": {
     "id": 582,
     "name": "Nasarawa United"
@@ -1919,6 +1911,14 @@
     "id": 8463,
     "name": "Brisbane Roar"
   },
+  "2239": {
+    "id": 2239,
+    "name": "Sacramento Republic FC"
+  },
+  "2233": {
+    "id": 2233,
+    "name": "El Paso Locomotive FC"
+  },
   "313": {
     "id": 313,
     "name": "Pumas UNAM"
@@ -1926,6 +1926,14 @@
   "307": {
     "id": 307,
     "name": "Club América"
+  },
+  "2245": {
+    "id": 2245,
+    "name": "New Mexico United"
+  },
+  "2234": {
+    "id": 2234,
+    "name": "Colorado Springs Switchbacks FC"
   },
   "310": {
     "id": 310,
@@ -1935,6 +1943,14 @@
     "id": 317,
     "name": "CF Monterrey"
   },
+  "2225": {
+    "id": 2225,
+    "name": "Charleston Battery"
+  },
+  "2228": {
+    "id": 2228,
+    "name": "Hartford Athletic"
+  },
   "928": {
     "id": 928,
     "name": "Náutico"
@@ -1942,6 +1958,14 @@
   "831": {
     "id": 831,
     "name": "CRB"
+  },
+  "2222": {
+    "id": 2222,
+    "name": "Louisville City FC"
+  },
+  "2244": {
+    "id": 2244,
+    "name": "Miami FC"
   },
   "305": {
     "id": 305,
@@ -2543,14 +2567,6 @@
     "id": 1350,
     "name": "İstanbulspor"
   },
-  "2065": {
-    "id": 2065,
-    "name": "Kawkab Athletic Club Marrakech"
-  },
-  "2064": {
-    "id": 2064,
-    "name": "Wydad Casablanca"
-  },
   "2871": {
     "id": 2871,
     "name": "SC Austria Lustenau"
@@ -2638,6 +2654,14 @@
   "1875": {
     "id": 1875,
     "name": "Tamworth"
+  },
+  "2065": {
+    "id": 2065,
+    "name": "Kawkab Athletic Club Marrakech"
+  },
+  "2064": {
+    "id": 2064,
+    "name": "Wydad Casablanca"
   },
   "1438": {
     "id": 1438,
@@ -3743,14 +3767,6 @@
     "id": 4771,
     "name": "Union Sportive Amal Tiznit"
   },
-  "4823": {
-    "id": 4823,
-    "name": "UD Santarém"
-  },
-  "3512": {
-    "id": 3512,
-    "name": "CD Mafra"
-  },
   "216": {
     "id": 216,
     "name": "Derby County"
@@ -3983,6 +3999,14 @@
     "id": 1686,
     "name": "Red Star FC"
   },
+  "4823": {
+    "id": 4823,
+    "name": "UD Santarém"
+  },
+  "3512": {
+    "id": 3512,
+    "name": "CD Mafra"
+  },
   "2053": {
     "id": 2053,
     "name": "Willem II Tilburg"
@@ -4086,6 +4110,14 @@
   "594": {
     "id": 594,
     "name": "RS Berkane"
+  },
+  "572": {
+    "id": 572,
+    "name": "Kun Khalifat FC"
+  },
+  "566": {
+    "id": 566,
+    "name": "Kano Pillars"
   },
   "183": {
     "id": 183,
