@@ -1,4 +1,36 @@
 {
+  "8817": {
+    "id": 8817,
+    "name": "UE Tavernes"
+  },
+  "47": {
+    "id": 47,
+    "name": "Valencia"
+  },
+  "4976": {
+    "id": 4976,
+    "name": "Cp Mijas-Las Lagunas"
+  },
+  "1484": {
+    "id": 1484,
+    "name": "Real Jaén"
+  },
+  "6977": {
+    "id": 6977,
+    "name": "Trival Valderas Alcorcón"
+  },
+  "1268": {
+    "id": 1268,
+    "name": "Leganés"
+  },
+  "789": {
+    "id": 789,
+    "name": "Junior Barranquilla"
+  },
+  "4635": {
+    "id": 4635,
+    "name": "Cúcuta Deportivo"
+  },
   "2213": {
     "id": 2213,
     "name": "Torreense"
@@ -167,17 +199,9 @@
     "id": 3419,
     "name": "Deportivo Pasto"
   },
-  "789": {
-    "id": 789,
-    "name": "Junior Barranquilla"
-  },
   "3733": {
     "id": 3733,
     "name": "Deportivo Cali"
-  },
-  "4635": {
-    "id": 4635,
-    "name": "Cúcuta Deportivo"
   },
   "766": {
     "id": 766,
@@ -1999,6 +2023,14 @@
     "id": 929,
     "name": "Criciúma"
   },
+  "863": {
+    "id": 863,
+    "name": "Cuiabá"
+  },
+  "156": {
+    "id": 156,
+    "name": "Juventude"
+  },
   "155": {
     "id": 155,
     "name": "Atlético Mineiro"
@@ -2102,10 +2134,6 @@
   "1388": {
     "id": 1388,
     "name": "CD Tenerife"
-  },
-  "47": {
-    "id": 47,
-    "name": "Valencia"
   },
   "57": {
     "id": 57,
@@ -2302,10 +2330,6 @@
   "326": {
     "id": 326,
     "name": "GFS Panetolikos"
-  },
-  "1268": {
-    "id": 1268,
-    "name": "Leganés"
   },
   "1395": {
     "id": 1395,
@@ -2519,6 +2543,14 @@
     "id": 1350,
     "name": "İstanbulspor"
   },
+  "2065": {
+    "id": 2065,
+    "name": "Kawkab Athletic Club Marrakech"
+  },
+  "2064": {
+    "id": 2064,
+    "name": "Wydad Casablanca"
+  },
   "2871": {
     "id": 2871,
     "name": "SC Austria Lustenau"
@@ -2606,14 +2638,6 @@
   "1875": {
     "id": 1875,
     "name": "Tamworth"
-  },
-  "2065": {
-    "id": 2065,
-    "name": "Kawkab Athletic Club Marrakech"
-  },
-  "2064": {
-    "id": 2064,
-    "name": "Wydad Casablanca"
   },
   "1438": {
     "id": 1438,
@@ -3687,14 +3711,6 @@
     "id": 306,
     "name": "FC Juárez"
   },
-  "863": {
-    "id": 863,
-    "name": "Cuiabá"
-  },
-  "156": {
-    "id": 156,
-    "name": "Juventude"
-  },
   "157": {
     "id": 157,
     "name": "Vitória"
@@ -4366,21 +4382,5 @@
   "1911": {
     "id": 1911,
     "name": "Stade Tunisien"
-  },
-  "168": {
-    "id": 168,
-    "name": "Red Bull Bragantino"
-  },
-  "165": {
-    "id": 165,
-    "name": "Santos"
-  },
-  "2239": {
-    "id": 2239,
-    "name": "Sacramento Republic FC"
-  },
-  "2240": {
-    "id": 2240,
-    "name": "FC Tulsa"
   }
 }
