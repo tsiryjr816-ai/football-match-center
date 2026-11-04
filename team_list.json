@@ -247,6 +247,14 @@
     "id": 3927,
     "name": "Portland Thorns FC"
   },
+  "2067": {
+    "id": 2067,
+    "name": "Raja Club Athletic"
+  },
+  "2059": {
+    "id": 2059,
+    "name": "Ittihad Tanger"
+  },
   "164": {
     "id": 164,
     "name": "Vasco da Gama"
@@ -414,14 +422,6 @@
   "424": {
     "id": 424,
     "name": "Zagłębie Lubin"
-  },
-  "2067": {
-    "id": 2067,
-    "name": "Raja Club Athletic"
-  },
-  "2059": {
-    "id": 2059,
-    "name": "Ittihad Tanger"
   },
   "118": {
     "id": 118,
@@ -4386,33 +4386,5 @@
   "370": {
     "id": 370,
     "name": "Coritiba"
-  },
-  "373": {
-    "id": 373,
-    "name": "Chapecoense"
-  },
-  "151": {
-    "id": 151,
-    "name": "Mirassol"
-  },
-  "374": {
-    "id": 374,
-    "name": "ŠK Slovan Bratislava"
-  },
-  "8470": {
-    "id": 8470,
-    "name": "Pamplona"
-  },
-  "6158": {
-    "id": 6158,
-    "name": "CD Anaitasuna FT"
-  },
-  "402": {
-    "id": 402,
-    "name": "Shakhtar Donetsk"
-  },
-  "1911": {
-    "id": 1911,
-    "name": "Stade Tunisien"
   }
 }
