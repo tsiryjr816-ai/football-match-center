@@ -175,7 +175,7 @@
           {
             "stage": "regular-season",
             "stage_name": "Regular season",
-            "matches": 246,
+            "matches": 247,
             "rounds": 30,
             "start_date": "2026-08-21",
             "end_date": "2027-05-15"
@@ -211,7 +211,7 @@
             "matches": 61,
             "rounds": 16,
             "start_date": "2026-01-22",
-            "end_date": "2026-11-08"
+            "end_date": "2026-11-07"
           },
           {
             "stage": "round-of-16",
@@ -578,7 +578,7 @@
           {
             "stage": "regular-season",
             "stage_name": "Regular season",
-            "matches": 192,
+            "matches": 193,
             "rounds": 26,
             "start_date": "2026-07-17",
             "end_date": "2027-04-17"
@@ -705,6 +705,14 @@
             "rounds": 1,
             "start_date": "2026-10-15",
             "end_date": "2026-11-02"
+          },
+          {
+            "stage": "semifinals",
+            "stage_name": "Semifinals",
+            "matches": 2,
+            "rounds": 1,
+            "start_date": "2026-11-10",
+            "end_date": "2026-11-11"
           }
         ]
       }
@@ -1497,9 +1505,9 @@
           {
             "stage": "round-7",
             "stage_name": "Round 7",
-            "matches": 86,
+            "matches": 87,
             "rounds": 1,
-            "start_date": "2026-11-14",
+            "start_date": "2026-10-31",
             "end_date": "2026-11-15"
           }
         ]
@@ -1688,7 +1696,7 @@
           {
             "stage": "regular-season",
             "stage_name": "Regular season",
-            "matches": 183,
+            "matches": 184,
             "rounds": 26,
             "start_date": "2026-08-22",
             "end_date": "2027-03-20"
@@ -1713,7 +1721,7 @@
           {
             "stage": "league-phase",
             "stage_name": "League phase",
-            "matches": 367,
+            "matches": 387,
             "rounds": 0,
             "start_date": "2025-12-17",
             "end_date": "2026-12-13"
