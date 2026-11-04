@@ -2515,6 +2515,14 @@
     "id": 1350,
     "name": "İstanbulspor"
   },
+  "2065": {
+    "id": 2065,
+    "name": "Kawkab Athletic Club Marrakech"
+  },
+  "2064": {
+    "id": 2064,
+    "name": "Wydad Casablanca"
+  },
   "2871": {
     "id": 2871,
     "name": "SC Austria Lustenau"
@@ -2602,14 +2610,6 @@
   "1875": {
     "id": 1875,
     "name": "Tamworth"
-  },
-  "2065": {
-    "id": 2065,
-    "name": "Kawkab Athletic Club Marrakech"
-  },
-  "2064": {
-    "id": 2064,
-    "name": "Wydad Casablanca"
   },
   "1438": {
     "id": 1438,
@@ -3723,14 +3723,6 @@
     "id": 796,
     "name": "Club Atlético Platense"
   },
-  "4620": {
-    "id": 4620,
-    "name": "Club Atlético Unión de Santa Fe"
-  },
-  "2397": {
-    "id": 2397,
-    "name": "Vélez Sarsfield"
-  },
   "2390": {
     "id": 2390,
     "name": "CA Independiente"
@@ -3738,6 +3730,14 @@
   "743": {
     "id": 743,
     "name": "Deportivo Riestra"
+  },
+  "4620": {
+    "id": 4620,
+    "name": "Club Atlético Unión de Santa Fe"
+  },
+  "2397": {
+    "id": 2397,
+    "name": "Vélez Sarsfield"
   },
   "27": {
     "id": 27,
