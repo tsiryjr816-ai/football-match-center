@@ -55,6 +55,14 @@
     "id": 1388,
     "name": "CD Tenerife"
   },
+  "5649": {
+    "id": 5649,
+    "name": "Sporting Lagos FC"
+  },
+  "564": {
+    "id": 564,
+    "name": "Rivers United"
+  },
   "789": {
     "id": 789,
     "name": "Junior Barranquilla"
@@ -2859,14 +2867,6 @@
     "id": 1435,
     "name": "Stevenage"
   },
-  "5649": {
-    "id": 5649,
-    "name": "Sporting Lagos FC"
-  },
-  "564": {
-    "id": 564,
-    "name": "Rivers United"
-  },
   "3389": {
     "id": 3389,
     "name": "Royal Francs Borains"
@@ -4107,14 +4107,6 @@
     "id": 1345,
     "name": "Bursaspor"
   },
-  "572": {
-    "id": 572,
-    "name": "Kun Khalifat FC"
-  },
-  "566": {
-    "id": 566,
-    "name": "Kano Pillars"
-  },
   "183": {
     "id": 183,
     "name": "Gaziantep FK"
@@ -4138,6 +4130,14 @@
   "362": {
     "id": 362,
     "name": "FC Petrolul Ploiești"
+  },
+  "572": {
+    "id": 572,
+    "name": "Kun Khalifat FC"
+  },
+  "566": {
+    "id": 566,
+    "name": "Kano Pillars"
   },
   "343": {
     "id": 343,
