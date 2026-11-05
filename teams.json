@@ -1,5 +1,5 @@
 {
-  "count": 8888,
+  "count": 8906,
   "next": "https://sports.bzzoiro.com/api/v2/teams/?limit=50&offset=50",
   "previous": null,
   "results": [
@@ -356,6 +356,14 @@
       "venue_id": null
     },
     {
+      "id": 9276,
+      "name": "ACV Assen",
+      "short_name": "ASS",
+      "country": "",
+      "country_code": "",
+      "venue_id": null
+    },
+    {
       "id": 3739,
       "name": "AD Alcorcón B",
       "short_name": "ALC",
@@ -391,14 +399,6 @@
       "id": 8357,
       "name": "Adc Proenca A Nova",
       "short_name": "",
-      "country": "",
-      "country_code": "",
-      "venue_id": null
-    },
-    {
-      "id": 2660,
-      "name": "ADR Jicaral Sercoba",
-      "short_name": "JIC",
       "country": "",
       "country_code": "",
       "venue_id": null

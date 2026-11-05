@@ -1,4 +1,164 @@
 {
+  "2290": {
+    "id": 2290,
+    "name": "Antigua and Barbuda"
+  },
+  "666": {
+    "id": 666,
+    "name": "Trinidad and Tobago"
+  },
+  "4786": {
+    "id": 4786,
+    "name": "Rionegro Águilas Doradas"
+  },
+  "786": {
+    "id": 786,
+    "name": "Independiente Medellín"
+  },
+  "736": {
+    "id": 736,
+    "name": "Millonarios"
+  },
+  "4783": {
+    "id": 4783,
+    "name": "Alianza Valledupar FC"
+  },
+  "690": {
+    "id": 690,
+    "name": "Bonaire"
+  },
+  "683": {
+    "id": 683,
+    "name": "Cuba"
+  },
+  "700": {
+    "id": 700,
+    "name": "Montenegro"
+  },
+  "2262": {
+    "id": 2262,
+    "name": "Latvia"
+  },
+  "710": {
+    "id": 710,
+    "name": "San Marino"
+  },
+  "677": {
+    "id": 677,
+    "name": "Belarus"
+  },
+  "724": {
+    "id": 724,
+    "name": "Albania"
+  },
+  "721": {
+    "id": 721,
+    "name": "Finland"
+  },
+  "493": {
+    "id": 493,
+    "name": "England"
+  },
+  "494": {
+    "id": 494,
+    "name": "Croatia"
+  },
+  "930": {
+    "id": 930,
+    "name": "Czechia"
+  },
+  "475": {
+    "id": 475,
+    "name": "Spain"
+  },
+  "1326": {
+    "id": 1326,
+    "name": "Italy"
+  },
+  "485": {
+    "id": 485,
+    "name": "France"
+  },
+  "2058": {
+    "id": 2058,
+    "name": "Aruba"
+  },
+  "682": {
+    "id": 682,
+    "name": "Martinique"
+  },
+  "686": {
+    "id": 686,
+    "name": "Cayman Islands"
+  },
+  "705": {
+    "id": 705,
+    "name": "Guyana"
+  },
+  "681": {
+    "id": 681,
+    "name": "Barbados"
+  },
+  "2308": {
+    "id": 2308,
+    "name": "Guadeloupe"
+  },
+  "1459": {
+    "id": 1459,
+    "name": "CDA Navalcarnero"
+  },
+  "56": {
+    "id": 56,
+    "name": "Real Betis"
+  },
+  "2089": {
+    "id": 2089,
+    "name": "Malta"
+  },
+  "2268": {
+    "id": 2268,
+    "name": "Eswatini"
+  },
+  "717": {
+    "id": 717,
+    "name": "Armenia"
+  },
+  "676": {
+    "id": 676,
+    "name": "Cyprus"
+  },
+  "932": {
+    "id": 932,
+    "name": "Türkiye"
+  },
+  "477": {
+    "id": 477,
+    "name": "Belgium"
+  },
+  "674": {
+    "id": 674,
+    "name": "Lithuania"
+  },
+  "2291": {
+    "id": 2291,
+    "name": "Suriname"
+  },
+  "497": {
+    "id": 497,
+    "name": "Uzbekistan"
+  },
+  "697": {
+    "id": 697,
+    "name": "Russia"
+  },
+  "482": {
+    "id": 482,
+    "name": "New Zealand"
+  },
+  "2056": {
+    "id": 2056,
+    "name": "India"
+  },
   "671": {
     "id": 671,
     "name": "Vietnam"
@@ -167,10 +327,6 @@
     "id": 320,
     "name": "CD Guadalajara"
   },
-  "4783": {
-    "id": 4783,
-    "name": "Alianza Valledupar FC"
-  },
   "4781": {
     "id": 4781,
     "name": "Llaneros FC"
@@ -186,10 +342,6 @@
   "781": {
     "id": 781,
     "name": "Deportes Tolima"
-  },
-  "736": {
-    "id": 736,
-    "name": "Millonarios"
   },
   "4995": {
     "id": 4995,
@@ -222,14 +374,6 @@
   "771": {
     "id": 771,
     "name": "Atlético Bucaramanga"
-  },
-  "4786": {
-    "id": 4786,
-    "name": "Rionegro Águilas Doradas"
-  },
-  "786": {
-    "id": 786,
-    "name": "Independiente Medellín"
   },
   "4784": {
     "id": 4784,
@@ -279,6 +423,14 @@
     "id": 3927,
     "name": "Portland Thorns FC"
   },
+  "2067": {
+    "id": 2067,
+    "name": "Raja Club Athletic"
+  },
+  "2059": {
+    "id": 2059,
+    "name": "Ittihad Tanger"
+  },
   "164": {
     "id": 164,
     "name": "Vasco da Gama"
@@ -326,14 +478,6 @@
   "424": {
     "id": 424,
     "name": "Zagłębie Lubin"
-  },
-  "2067": {
-    "id": 2067,
-    "name": "Raja Club Athletic"
-  },
-  "2059": {
-    "id": 2059,
-    "name": "Ittihad Tanger"
   },
   "118": {
     "id": 118,
@@ -398,6 +542,14 @@
   "141": {
     "id": 141,
     "name": "SK Brann"
+  },
+  "586": {
+    "id": 586,
+    "name": "AS FAR Rabat"
+  },
+  "2069": {
+    "id": 2069,
+    "name": "Difaâ Hassani El-Jadidi"
   },
   "5023": {
     "id": 5023,
@@ -478,14 +630,6 @@
   "222": {
     "id": 222,
     "name": "Sheffield Wednesday"
-  },
-  "586": {
-    "id": 586,
-    "name": "AS FAR Rabat"
-  },
-  "2069": {
-    "id": 2069,
-    "name": "Difaâ Hassani El-Jadidi"
   },
   "144": {
     "id": 144,
@@ -1111,14 +1255,6 @@
     "id": 4124,
     "name": "Atletico CP"
   },
-  "4663": {
-    "id": 4663,
-    "name": "C.F. Os Belenenses"
-  },
-  "4824": {
-    "id": 4824,
-    "name": "Lusitano Ginásio Clube"
-  },
   "3648": {
     "id": 3648,
     "name": "Varzim SC"
@@ -1483,10 +1619,6 @@
     "id": 55,
     "name": "Elche"
   },
-  "56": {
-    "id": 56,
-    "name": "Real Betis"
-  },
   "439": {
     "id": 439,
     "name": "IFK Göteborg"
@@ -1823,14 +1955,6 @@
     "id": 8463,
     "name": "Brisbane Roar"
   },
-  "2239": {
-    "id": 2239,
-    "name": "Sacramento Republic FC"
-  },
-  "2233": {
-    "id": 2233,
-    "name": "El Paso Locomotive FC"
-  },
   "313": {
     "id": 313,
     "name": "Pumas UNAM"
@@ -1838,6 +1962,14 @@
   "307": {
     "id": 307,
     "name": "Club América"
+  },
+  "2239": {
+    "id": 2239,
+    "name": "Sacramento Republic FC"
+  },
+  "2233": {
+    "id": 2233,
+    "name": "El Paso Locomotive FC"
   },
   "2245": {
     "id": 2245,
@@ -1862,6 +1994,14 @@
   "317": {
     "id": 317,
     "name": "CF Monterrey"
+  },
+  "321": {
+    "id": 321,
+    "name": "Tigres UANL"
+  },
+  "314": {
+    "id": 314,
+    "name": "Cruz Azul"
   },
   "2225": {
     "id": 2225,
@@ -1942,14 +2082,6 @@
   "292": {
     "id": 292,
     "name": "Los Angeles FC"
-  },
-  "321": {
-    "id": 321,
-    "name": "Tigres UANL"
-  },
-  "314": {
-    "id": 314,
-    "name": "Cruz Azul"
   },
   "305": {
     "id": 305,
@@ -2079,6 +2211,14 @@
     "id": 29,
     "name": "Moreirense"
   },
+  "114": {
+    "id": 114,
+    "name": "Paris Saint-Germain"
+  },
+  "1303": {
+    "id": 1303,
+    "name": "Troyes"
+  },
   "1254": {
     "id": 1254,
     "name": "Peterborough United"
@@ -2134,14 +2274,6 @@
   "235": {
     "id": 235,
     "name": "Cercle Brugge"
-  },
-  "114": {
-    "id": 114,
-    "name": "Paris Saint-Germain"
-  },
-  "1303": {
-    "id": 1303,
-    "name": "Troyes"
   },
   "65": {
     "id": 65,
@@ -2270,6 +2402,14 @@
   "21": {
     "id": 21,
     "name": "Casa Pia"
+  },
+  "109": {
+    "id": 109,
+    "name": "AJ Auxerre"
+  },
+  "108": {
+    "id": 108,
+    "name": "Paris FC"
   },
   "232": {
     "id": 232,
@@ -2506,14 +2646,6 @@
   "924": {
     "id": 924,
     "name": "Real Sociedad"
-  },
-  "109": {
-    "id": 109,
-    "name": "AJ Auxerre"
-  },
-  "108": {
-    "id": 108,
-    "name": "Paris FC"
   },
   "1351": {
     "id": 1351,
@@ -3755,13 +3887,13 @@
     "id": 4771,
     "name": "Union Sportive Amal Tiznit"
   },
-  "4823": {
-    "id": 4823,
-    "name": "UD Santarém"
+  "4663": {
+    "id": 4663,
+    "name": "C.F. Os Belenenses"
   },
-  "3512": {
-    "id": 3512,
-    "name": "CD Mafra"
+  "4824": {
+    "id": 4824,
+    "name": "Lusitano Ginásio Clube"
   },
   "216": {
     "id": 216,
@@ -3994,6 +4126,14 @@
   "1686": {
     "id": 1686,
     "name": "Red Star FC"
+  },
+  "4823": {
+    "id": 4823,
+    "name": "UD Santarém"
+  },
+  "3512": {
+    "id": 3512,
+    "name": "CD Mafra"
   },
   "2053": {
     "id": 2053,
@@ -4334,65 +4474,5 @@
   "163": {
     "id": 163,
     "name": "Botafogo"
-  },
-  "160": {
-    "id": 160,
-    "name": "Flamengo"
-  },
-  "371": {
-    "id": 371,
-    "name": "Athletico"
-  },
-  "412": {
-    "id": 412,
-    "name": "Sabah FK"
-  },
-  "5939": {
-    "id": 5939,
-    "name": "Calvo Sotelo Puertollano"
-  },
-  "1464": {
-    "id": 1464,
-    "name": "Reus FC Reddis"
-  },
-  "4982": {
-    "id": 4982,
-    "name": "Barakaldo CF"
-  },
-  "1516": {
-    "id": 1516,
-    "name": "Utebo FC"
-  },
-  "5029": {
-    "id": 5029,
-    "name": "Deportiva Minera"
-  },
-  "1402": {
-    "id": 1402,
-    "name": "FC Cartagena"
-  },
-  "5039": {
-    "id": 5039,
-    "name": "SD Amorebieta"
-  },
-  "1491": {
-    "id": 1491,
-    "name": "UD Logroñés"
-  },
-  "1455": {
-    "id": 1455,
-    "name": "Club Portugalete"
-  },
-  "4759": {
-    "id": 4759,
-    "name": "Real Unión Club"
-  },
-  "161": {
-    "id": 161,
-    "name": "Internacional"
-  },
-  "370": {
-    "id": 370,
-    "name": "Coritiba"
   }
 }
