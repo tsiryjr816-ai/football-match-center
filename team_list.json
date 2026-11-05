@@ -2395,14 +2395,6 @@
     "id": 3549,
     "name": "FC Corvinul Hunedoara"
   },
-  "2071": {
-    "id": 2071,
-    "name": "Maghreb Fes"
-  },
-  "2066": {
-    "id": 2066,
-    "name": "Fath Union Sport"
-  },
   "3125": {
     "id": 3125,
     "name": "Gimnasia y Esgrima Mendoza"
@@ -2534,6 +2526,14 @@
   "3940": {
     "id": 3940,
     "name": "Angel City FC"
+  },
+  "2071": {
+    "id": 2071,
+    "name": "Maghreb Fes"
+  },
+  "2066": {
+    "id": 2066,
+    "name": "Fath Union Sport"
   },
   "2557": {
     "id": 2557,
@@ -2679,14 +2679,6 @@
     "id": 1350,
     "name": "İstanbulspor"
   },
-  "2065": {
-    "id": 2065,
-    "name": "Kawkab Athletic Club Marrakech"
-  },
-  "2064": {
-    "id": 2064,
-    "name": "Wydad Casablanca"
-  },
   "2871": {
     "id": 2871,
     "name": "SC Austria Lustenau"
@@ -2774,6 +2766,14 @@
   "1875": {
     "id": 1875,
     "name": "Tamworth"
+  },
+  "2065": {
+    "id": 2065,
+    "name": "Kawkab Athletic Club Marrakech"
+  },
+  "2064": {
+    "id": 2064,
+    "name": "Wydad Casablanca"
   },
   "1438": {
     "id": 1438,
@@ -4215,14 +4215,6 @@
     "id": 368,
     "name": "FC Dinamo București"
   },
-  "2060": {
-    "id": 2060,
-    "name": "Hassania d'Agadir"
-  },
-  "594": {
-    "id": 594,
-    "name": "RS Berkane"
-  },
   "734": {
     "id": 734,
     "name": "Barracas Central"
@@ -4294,6 +4286,14 @@
   "1345": {
     "id": 1345,
     "name": "Bursaspor"
+  },
+  "2060": {
+    "id": 2060,
+    "name": "Hassania d'Agadir"
+  },
+  "594": {
+    "id": 594,
+    "name": "RS Berkane"
   },
   "572": {
     "id": 572,
