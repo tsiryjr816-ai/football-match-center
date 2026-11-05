@@ -159,6 +159,14 @@
     "id": 2056,
     "name": "India"
   },
+  "3239": {
+    "id": 3239,
+    "name": "1º Dezembro"
+  },
+  "8722": {
+    "id": 8722,
+    "name": "GD Portel"
+  },
   "671": {
     "id": 671,
     "name": "Vietnam"
@@ -191,6 +199,14 @@
     "id": 47,
     "name": "Valencia"
   },
+  "5948": {
+    "id": 5948,
+    "name": "CD Badajoz"
+  },
+  "1388": {
+    "id": 1388,
+    "name": "CD Tenerife"
+  },
   "4976": {
     "id": 4976,
     "name": "Cp Mijas-Las Lagunas"
@@ -206,22 +222,6 @@
   "1268": {
     "id": 1268,
     "name": "Leganés"
-  },
-  "5948": {
-    "id": 5948,
-    "name": "CD Badajoz"
-  },
-  "1388": {
-    "id": 1388,
-    "name": "CD Tenerife"
-  },
-  "5649": {
-    "id": 5649,
-    "name": "Sporting Lagos FC"
-  },
-  "564": {
-    "id": 564,
-    "name": "Rivers United"
   },
   "789": {
     "id": 789,
@@ -423,14 +423,6 @@
     "id": 3927,
     "name": "Portland Thorns FC"
   },
-  "2067": {
-    "id": 2067,
-    "name": "Raja Club Athletic"
-  },
-  "2059": {
-    "id": 2059,
-    "name": "Ittihad Tanger"
-  },
   "164": {
     "id": 164,
     "name": "Vasco da Gama"
@@ -478,6 +470,14 @@
   "424": {
     "id": 424,
     "name": "Zagłębie Lubin"
+  },
+  "2067": {
+    "id": 2067,
+    "name": "Raja Club Athletic"
+  },
+  "2059": {
+    "id": 2059,
+    "name": "Ittihad Tanger"
   },
   "118": {
     "id": 118,
@@ -542,14 +542,6 @@
   "141": {
     "id": 141,
     "name": "SK Brann"
-  },
-  "586": {
-    "id": 586,
-    "name": "AS FAR Rabat"
-  },
-  "2069": {
-    "id": 2069,
-    "name": "Difaâ Hassani El-Jadidi"
   },
   "5023": {
     "id": 5023,
@@ -630,6 +622,22 @@
   "222": {
     "id": 222,
     "name": "Sheffield Wednesday"
+  },
+  "3637": {
+    "id": 3637,
+    "name": "KFC Komárno"
+  },
+  "2905": {
+    "id": 2905,
+    "name": "MFK Zemplín Michalovce"
+  },
+  "586": {
+    "id": 586,
+    "name": "AS FAR Rabat"
+  },
+  "2069": {
+    "id": 2069,
+    "name": "Difaâ Hassani El-Jadidi"
   },
   "144": {
     "id": 144,
@@ -1047,10 +1055,6 @@
     "id": 8307,
     "name": "FC Serpa"
   },
-  "8722": {
-    "id": 8722,
-    "name": "GD Portel"
-  },
   "4820": {
     "id": 4820,
     "name": "Amora FC"
@@ -1062,18 +1066,6 @@
   "3248": {
     "id": 3248,
     "name": "Real SC"
-  },
-  "8394": {
-    "id": 8394,
-    "name": "GD Alcochetense"
-  },
-  "8326": {
-    "id": 8326,
-    "name": "JD Lajense"
-  },
-  "3239": {
-    "id": 3239,
-    "name": "1º Dezembro"
   },
   "8390": {
     "id": 8390,
@@ -1311,6 +1303,14 @@
     "id": 226,
     "name": "Falkirk FC"
   },
+  "2732": {
+    "id": 2732,
+    "name": "FK Železiarne Podbrezová"
+  },
+  "4027": {
+    "id": 4027,
+    "name": "MFK Ružomberok"
+  },
   "8760": {
     "id": 8760,
     "name": "Recreativo da Caala"
@@ -1462,6 +1462,14 @@
   "427": {
     "id": 427,
     "name": "GKS Katowice"
+  },
+  "1901": {
+    "id": 1901,
+    "name": "ES Métlaoui"
+  },
+  "1906": {
+    "id": 1906,
+    "name": "ES Zarzis"
   },
   "8150": {
     "id": 8150,
@@ -1746,6 +1754,14 @@
   "8718": {
     "id": 8718,
     "name": "Santa Clara Azores B"
+  },
+  "8394": {
+    "id": 8394,
+    "name": "GD Alcochetense"
+  },
+  "8326": {
+    "id": 8326,
+    "name": "JD Lajense"
   },
   "4828": {
     "id": 4828,
@@ -2379,6 +2395,14 @@
     "id": 3549,
     "name": "FC Corvinul Hunedoara"
   },
+  "2071": {
+    "id": 2071,
+    "name": "Maghreb Fes"
+  },
+  "2066": {
+    "id": 2066,
+    "name": "Fath Union Sport"
+  },
   "3125": {
     "id": 3125,
     "name": "Gimnasia y Esgrima Mendoza"
@@ -2495,6 +2519,14 @@
     "id": 237,
     "name": "KV Mechelen"
   },
+  "3128": {
+    "id": 3128,
+    "name": "DAC 1904"
+  },
+  "3772": {
+    "id": 3772,
+    "name": "FC Košice"
+  },
   "3930": {
     "id": 3930,
     "name": "Kansas City Current"
@@ -2502,14 +2534,6 @@
   "3940": {
     "id": 3940,
     "name": "Angel City FC"
-  },
-  "2071": {
-    "id": 2071,
-    "name": "Maghreb Fes"
-  },
-  "2066": {
-    "id": 2066,
-    "name": "Fath Union Sport"
   },
   "2557": {
     "id": 2557,
@@ -2999,6 +3023,14 @@
     "id": 1435,
     "name": "Stevenage"
   },
+  "5649": {
+    "id": 5649,
+    "name": "Sporting Lagos FC"
+  },
+  "564": {
+    "id": 564,
+    "name": "Rivers United"
+  },
   "3389": {
     "id": 3389,
     "name": "Royal Francs Borains"
@@ -3166,6 +3198,30 @@
   "2084": {
     "id": 2084,
     "name": "Vålerenga IF"
+  },
+  "374": {
+    "id": 374,
+    "name": "ŠK Slovan Bratislava"
+  },
+  "2733": {
+    "id": 2733,
+    "name": "AS Trenčín"
+  },
+  "4307": {
+    "id": 4307,
+    "name": "MFK Skalica"
+  },
+  "3771": {
+    "id": 3771,
+    "name": "MŠK Žilina"
+  },
+  "4279": {
+    "id": 4279,
+    "name": "Dukla Banská Bystrica"
+  },
+  "418": {
+    "id": 418,
+    "name": "FC Spartak Trnava"
   },
   "260": {
     "id": 260,
@@ -3446,14 +3502,6 @@
   "435": {
     "id": 435,
     "name": "Piast Gliwice"
-  },
-  "1901": {
-    "id": 1901,
-    "name": "ES Métlaoui"
-  },
-  "1906": {
-    "id": 1906,
-    "name": "ES Zarzis"
   },
   "1908": {
     "id": 1908,
@@ -3855,14 +3903,6 @@
     "id": 796,
     "name": "Club Atlético Platense"
   },
-  "2390": {
-    "id": 2390,
-    "name": "CA Independiente"
-  },
-  "743": {
-    "id": 743,
-    "name": "Deportivo Riestra"
-  },
   "4620": {
     "id": 4620,
     "name": "Club Atlético Unión de Santa Fe"
@@ -3870,6 +3910,14 @@
   "2397": {
     "id": 2397,
     "name": "Vélez Sarsfield"
+  },
+  "2390": {
+    "id": 2390,
+    "name": "CA Independiente"
+  },
+  "743": {
+    "id": 743,
+    "name": "Deportivo Riestra"
   },
   "27": {
     "id": 27,
@@ -4247,6 +4295,14 @@
     "id": 1345,
     "name": "Bursaspor"
   },
+  "572": {
+    "id": 572,
+    "name": "Kun Khalifat FC"
+  },
+  "566": {
+    "id": 566,
+    "name": "Kano Pillars"
+  },
   "183": {
     "id": 183,
     "name": "Gaziantep FK"
@@ -4270,14 +4326,6 @@
   "362": {
     "id": 362,
     "name": "FC Petrolul Ploiești"
-  },
-  "572": {
-    "id": 572,
-    "name": "Kun Khalifat FC"
-  },
-  "566": {
-    "id": 566,
-    "name": "Kano Pillars"
   },
   "343": {
     "id": 343,

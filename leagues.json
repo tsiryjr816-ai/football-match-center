@@ -1,11 +1,11 @@
 {
-  "count": 98,
+  "count": 99,
   "next": "https://sports.bzzoiro.com/api/v2/leagues/?limit=50&offset=50",
   "previous": null,
   "results": [
     {
       "id": 30,
-      "name": "Africa Cup of Nations 2025",
+      "name": "Africa Cup of Nations 2023",
       "country": "Africa",
       "is_women": false,
       "is_active": true,
@@ -250,7 +250,7 @@
     },
     {
       "id": 68,
-      "name": "AFC Asian Cup 2027",
+      "name": "AFC Asian Cup 2023",
       "country": "Asia",
       "is_women": false,
       "is_active": true,
@@ -827,7 +827,7 @@
             "matches": 4,
             "rounds": 1,
             "start_date": "2026-12-15",
-            "end_date": "2026-12-15"
+            "end_date": "2026-12-16"
           }
         ]
       }
@@ -1674,7 +1674,7 @@
             "matches": 8,
             "rounds": 1,
             "start_date": "2026-12-01",
-            "end_date": "2026-12-01"
+            "end_date": "2026-12-02"
           }
         ]
       }
