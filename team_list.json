@@ -647,6 +647,14 @@
     "id": 3927,
     "name": "Portland Thorns FC"
   },
+  "2067": {
+    "id": 2067,
+    "name": "Raja Club Athletic"
+  },
+  "2059": {
+    "id": 2059,
+    "name": "Ittihad Tanger"
+  },
   "164": {
     "id": 164,
     "name": "Vasco da Gama"
@@ -694,14 +702,6 @@
   "424": {
     "id": 424,
     "name": "Zagłębie Lubin"
-  },
-  "2067": {
-    "id": 2067,
-    "name": "Raja Club Athletic"
-  },
-  "2059": {
-    "id": 2059,
-    "name": "Ittihad Tanger"
   },
   "118": {
     "id": 118,
@@ -766,6 +766,14 @@
   "141": {
     "id": 141,
     "name": "SK Brann"
+  },
+  "586": {
+    "id": 586,
+    "name": "AS FAR Rabat"
+  },
+  "2069": {
+    "id": 2069,
+    "name": "Difaâ Hassani El-Jadidi"
   },
   "5023": {
     "id": 5023,
@@ -850,14 +858,6 @@
   "2905": {
     "id": 2905,
     "name": "MFK Zemplín Michalovce"
-  },
-  "586": {
-    "id": 586,
-    "name": "AS FAR Rabat"
-  },
-  "2069": {
-    "id": 2069,
-    "name": "Difaâ Hassani El-Jadidi"
   },
   "144": {
     "id": 144,
@@ -1014,6 +1014,14 @@
   "4680": {
     "id": 4680,
     "name": "Batman Petrolspor"
+  },
+  "2072": {
+    "id": 2072,
+    "name": "Renaissance Zemamra"
+  },
+  "8617": {
+    "id": 8617,
+    "name": "Wydad Sportive Témara"
   },
   "128": {
     "id": 128,
@@ -1174,14 +1182,6 @@
   "40": {
     "id": 40,
     "name": "Rayo Vallecano"
-  },
-  "2072": {
-    "id": 2072,
-    "name": "Renaissance Zemamra"
-  },
-  "8617": {
-    "id": 8617,
-    "name": "Wydad Sportive Témara"
   },
   "3344": {
     "id": 3344,
@@ -2443,6 +2443,14 @@
     "id": 1303,
     "name": "Troyes"
   },
+  "5186": {
+    "id": 5186,
+    "name": "Moghreb Atlético Tetuán"
+  },
+  "2070": {
+    "id": 2070,
+    "name": "CODM Meknès"
+  },
   "1254": {
     "id": 1254,
     "name": "Peterborough United"
@@ -2539,14 +2547,6 @@
     "id": 152,
     "name": "Fortaleza"
   },
-  "5186": {
-    "id": 5186,
-    "name": "Moghreb Atlético Tetuán"
-  },
-  "2070": {
-    "id": 2070,
-    "name": "CODM Meknès"
-  },
   "4038": {
     "id": 4038,
     "name": "Royal Excelsior Virton"
@@ -2602,6 +2602,14 @@
   "3549": {
     "id": 3549,
     "name": "FC Corvinul Hunedoara"
+  },
+  "2071": {
+    "id": 2071,
+    "name": "Maghreb Fes"
+  },
+  "2066": {
+    "id": 2066,
+    "name": "Fath Union Sport"
   },
   "3125": {
     "id": 3125,
@@ -2734,14 +2742,6 @@
   "3940": {
     "id": 3940,
     "name": "Angel City FC"
-  },
-  "2071": {
-    "id": 2071,
-    "name": "Maghreb Fes"
-  },
-  "2066": {
-    "id": 2066,
-    "name": "Fath Union Sport"
   },
   "2557": {
     "id": 2557,
@@ -2887,6 +2887,14 @@
     "id": 1350,
     "name": "İstanbulspor"
   },
+  "2065": {
+    "id": 2065,
+    "name": "Kawkab Athletic Club Marrakech"
+  },
+  "2064": {
+    "id": 2064,
+    "name": "Wydad Casablanca"
+  },
   "2871": {
     "id": 2871,
     "name": "SC Austria Lustenau"
@@ -2974,14 +2982,6 @@
   "1875": {
     "id": 1875,
     "name": "Tamworth"
-  },
-  "2065": {
-    "id": 2065,
-    "name": "Kawkab Athletic Club Marrakech"
-  },
-  "2064": {
-    "id": 2064,
-    "name": "Wydad Casablanca"
   },
   "1438": {
     "id": 1438,
