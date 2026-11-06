@@ -827,7 +827,7 @@
             "matches": 4,
             "rounds": 1,
             "start_date": "2026-12-15",
-            "end_date": "2026-12-16"
+            "end_date": "2026-12-17"
           }
         ]
       }
@@ -1505,7 +1505,7 @@
           {
             "stage": "round-7",
             "stage_name": "Round 7",
-            "matches": 87,
+            "matches": 88,
             "rounds": 1,
             "start_date": "2026-10-31",
             "end_date": "2026-11-15"
@@ -1721,7 +1721,7 @@
           {
             "stage": "league-phase",
             "stage_name": "League phase",
-            "matches": 387,
+            "matches": 388,
             "rounds": 0,
             "start_date": "2025-12-17",
             "end_date": "2026-12-13"
