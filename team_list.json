@@ -2311,6 +2311,14 @@
     "id": 1311,
     "name": "CS Marítimo"
   },
+  "23": {
+    "id": 23,
+    "name": "CD Nacional"
+  },
+  "3402": {
+    "id": 3402,
+    "name": "Académico Viseu FC"
+  },
   "1053": {
     "id": 1053,
     "name": "Kalmar FF"
@@ -3938,14 +3946,6 @@
   "4829": {
     "id": 4829,
     "name": "Amarante FC"
-  },
-  "23": {
-    "id": 23,
-    "name": "CD Nacional"
-  },
-  "3402": {
-    "id": 3402,
-    "name": "Académico Viseu FC"
   },
   "366": {
     "id": 366,
