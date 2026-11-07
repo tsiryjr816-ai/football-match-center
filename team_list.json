@@ -1415,14 +1415,6 @@
     "id": 722,
     "name": "Honduras"
   },
-  "2246": {
-    "id": 2246,
-    "name": "Singapore"
-  },
-  "458": {
-    "id": 458,
-    "name": "Paraguay"
-  },
   "2280": {
     "id": 2280,
     "name": "Chinese Taipei"
@@ -1430,6 +1422,14 @@
   "667": {
     "id": 667,
     "name": "Kyrgyzstan"
+  },
+  "2246": {
+    "id": 2246,
+    "name": "Singapore"
+  },
+  "458": {
+    "id": 458,
+    "name": "Paraguay"
   },
   "468": {
     "id": 468,
@@ -2139,14 +2139,6 @@
     "id": 1271,
     "name": "Sampdoria"
   },
-  "597": {
-    "id": 597,
-    "name": "Atlético Petróleos de Luanda"
-  },
-  "8756": {
-    "id": 8756,
-    "name": "1º de Maio de Benguela"
-  },
   "105": {
     "id": 105,
     "name": "Stade Brestois"
@@ -2194,6 +2186,14 @@
   "8617": {
     "id": 8617,
     "name": "Wydad Sportive Témara"
+  },
+  "597": {
+    "id": 597,
+    "name": "Atlético Petróleos de Luanda"
+  },
+  "8756": {
+    "id": 8756,
+    "name": "1º de Maio de Benguela"
   },
   "128": {
     "id": 128,
@@ -3883,10 +3883,6 @@
     "id": 76,
     "name": "Hellas Verona"
   },
-  "924": {
-    "id": 924,
-    "name": "Real Sociedad"
-  },
   "1351": {
     "id": 1351,
     "name": "Pendikspor"
@@ -3926,6 +3922,10 @@
   "3380": {
     "id": 3380,
     "name": "Amedspor"
+  },
+  "924": {
+    "id": 924,
+    "name": "Real Sociedad"
   },
   "2370": {
     "id": 2370,
