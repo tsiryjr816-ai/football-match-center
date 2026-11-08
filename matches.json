@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T20:28:12.143263+00:00",
+  "updated_at": "2026-11-08T23:54:14.003107+00:00",
   "source": "BSD Football API",
   "date_from": "2026-11-08",
   "date_to": "2026-11-15",
@@ -30360,7 +30360,7 @@
       "away_team_id": 304,
       "away_team": "Club Puebla",
       "home_coach_id": 327,
-      "away_coach_id": 3165,
+      "away_coach_id": 2838,
       "referee_id": 2261,
       "venue_id": 297,
       "event_date": "2026-11-09T00:00:00+00:00",
@@ -30533,7 +30533,7 @@
       "referee_id": 2722,
       "venue_id": 580,
       "event_date": "2026-11-08T23:10:00+00:00",
-      "status": "notstarted",
+      "status": "1st_half",
       "replaced_by": null,
       "round_number": 18,
       "round_name": "",
@@ -30541,12 +30541,12 @@
       "stage": "league-phase",
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 18",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "1T",
+      "current_minute": 42,
+      "home_score": 2,
+      "away_score": 1,
+      "home_score_ht": 2,
+      "away_score_ht": 1,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -30686,7 +30686,7 @@
           }
         ]
       },
-      "has_xg": false,
+      "has_xg": true,
       "previous_leg_event_id": null
     },
     {
@@ -30697,12 +30697,12 @@
       "home_team": "Central Córdoba",
       "away_team_id": 785,
       "away_team": "CA Lanús",
-      "home_coach_id": 771,
+      "home_coach_id": 4793,
       "away_coach_id": 514,
       "referee_id": 2812,
       "venue_id": 1758,
       "event_date": "2026-11-08T22:30:00+00:00",
-      "status": "notstarted",
+      "status": "2nd_half",
       "replaced_by": null,
       "round_number": 16,
       "round_name": "",
@@ -30710,12 +30710,12 @@
       "stage": "group-stage",
       "stage_name": "Group stage",
       "round_label": "Clausura, Group A · Matchday 16",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "2T",
+      "current_minute": 64,
+      "home_score": 1,
+      "away_score": 1,
+      "home_score_ht": 1,
+      "away_score_ht": 1,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -30849,7 +30849,7 @@
       "referee_id": 1801,
       "venue_id": 603,
       "event_date": "2026-11-08T22:15:00+00:00",
-      "status": "notstarted",
+      "status": "2nd_half",
       "replaced_by": null,
       "round_number": 37,
       "round_name": "",
@@ -30857,12 +30857,12 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 37",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "2T",
+      "current_minute": 76,
+      "home_score": 0,
+      "away_score": 0,
+      "home_score_ht": 0,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -31018,7 +31018,7 @@
       "referee_id": 1589,
       "venue_id": 150,
       "event_date": "2026-11-08T22:15:00+00:00",
-      "status": "notstarted",
+      "status": "2nd_half",
       "replaced_by": null,
       "round_number": 37,
       "round_name": "",
@@ -31026,12 +31026,12 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 37",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "2T",
+      "current_minute": 75,
+      "home_score": 0,
+      "away_score": 1,
+      "home_score_ht": 0,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
@@ -31187,7 +31187,7 @@
       "referee_id": 1584,
       "venue_id": 1655,
       "event_date": "2026-11-08T21:05:00+00:00",
-      "status": "notstarted",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 18,
       "round_name": "",
@@ -31195,28 +31195,50 @@
       "stage": "league-phase",
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 18",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 0,
+      "away_score": 4,
+      "home_score_ht": 0,
+      "away_score_ht": 2,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
       "travel_distance_km": 354,
       "weather": {
-        "code": 55,
-        "description": null,
+        "code": 1,
+        "description": "clear",
         "wind_speed": 13.5,
         "temperature_c": 28
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "goals",
+          "title": "Jaguares 0 - 3 Bucaramanga — 76' Brandon Caicedo",
+          "url": "https://www.youtube.com/watch?v=uM9RUDiegiU",
+          "thumbnail": "https://i.ytimg.com/vi/uM9RUDiegiU/hqdefault.jpg",
+          "published_at": "2026-11-08T23:02:37+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Jaguares 0 - 2 Bucaramanga — 14' Rafael Bustamante, Own goal",
+          "url": "https://www.youtube.com/watch?v=uvNGSLFocuY",
+          "thumbnail": "https://i.ytimg.com/vi/uvNGSLFocuY/hqdefault.jpg",
+          "published_at": "2026-11-08T21:33:54+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Jaguares 0 - 1 Bucaramanga — 12' Brandon Caicedo, Penalty",
+          "url": "https://www.youtube.com/watch?v=TZWo8jtdzjI",
+          "thumbnail": "https://i.ytimg.com/vi/TZWo8jtdzjI/hqdefault.jpg",
+          "published_at": "2026-11-08T21:33:14+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 13,
         "home_wins": 2,
@@ -32716,7 +32738,7 @@
       "referee_id": 2171,
       "venue_id": 38,
       "event_date": "2026-11-08T20:30:00+00:00",
-      "status": "notstarted",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 11,
       "round_name": "",
@@ -32724,28 +32746,43 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 11",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 0,
+      "away_score": 1,
+      "home_score_ht": 0,
+      "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": true,
       "is_neutral_ground": false,
       "travel_distance_km": 34,
       "weather": {
-        "code": 3,
-        "description": "rain",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 6.6,
         "temperature_c": 16
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Rio Ave 0 - 1 Braga — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=yqYLmOmuhk4",
+          "thumbnail": "https://i.ytimg.com/vi/yqYLmOmuhk4/hqdefault.jpg",
+          "published_at": "2026-11-08T22:58:01+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Rio Ave 0 - 1 Braga — 67' Ricardo Horta, Penalty",
+          "url": "https://www.youtube.com/watch?v=YRFGTnLlxtk",
+          "thumbnail": "https://i.ytimg.com/vi/YRFGTnLlxtk/hqdefault.jpg",
+          "published_at": "2026-11-08T22:57:16+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 39,
         "home_wins": 9,
@@ -32885,7 +32922,7 @@
       "referee_id": 1634,
       "venue_id": 34,
       "event_date": "2026-11-08T20:30:00+00:00",
-      "status": "notstarted",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 11,
       "round_name": "",
@@ -32893,28 +32930,57 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 11",
-      "period": "",
-      "current_minute": null,
-      "home_score": null,
-      "away_score": null,
-      "home_score_ht": null,
-      "away_score_ht": null,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 2,
+      "away_score": 3,
+      "home_score_ht": 0,
+      "away_score_ht": 1,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
       "travel_distance_km": null,
       "weather": {
-        "code": 1,
-        "description": "clear",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 8.6,
         "temperature_c": 18
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "goals",
+          "title": "Estrela Amadora 2 - 2 Benfica — 76' Leandro Antonetti",
+          "url": "https://www.youtube.com/watch?v=p8ZVG0U-v6U&pp=0gcJCUEMAYcqIYzv",
+          "thumbnail": "https://i.ytimg.com/vi/p8ZVG0U-v6U/hqdefault.jpg",
+          "published_at": "2026-11-08T22:27:22+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Estrela Amadora 1 - 2 Benfica — 68' Bernardo Schappo, Own goal",
+          "url": "https://www.youtube.com/watch?v=In6auBiHa9U",
+          "thumbnail": "https://i.ytimg.com/vi/In6auBiHa9U/hqdefault.jpg",
+          "published_at": "2026-11-08T22:25:20+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Estrela Amadora 1 - 1 Benfica — 48' Lovro Zvonarek",
+          "url": "https://www.youtube.com/watch?v=7woPXL2C7Rw",
+          "thumbnail": "https://i.ytimg.com/vi/7woPXL2C7Rw/hqdefault.jpg",
+          "published_at": "2026-11-08T22:02:04+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Estrela Amadora 0 - 1 Benfica — 26' Gianluca Prestianni",
+          "url": "https://www.youtube.com/watch?v=qZor6Lkte7k&pp=0gcJCUEMAYcqIYzv",
+          "thumbnail": "https://i.ytimg.com/vi/qZor6Lkte7k/hqdefault.jpg",
+          "published_at": "2026-11-08T21:23:22+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 13,
         "home_wins": 0,
@@ -33054,7 +33120,7 @@
       "referee_id": 1768,
       "venue_id": null,
       "event_date": "2026-11-08T20:00:00+00:00",
-      "status": "1st_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 27,
       "round_name": "Quarterfinals",
@@ -33062,11 +33128,11 @@
       "stage": "quarterfinals",
       "stage_name": "Quarterfinals",
       "round_label": "Quarterfinals",
-      "period": "1T",
-      "current_minute": 21,
-      "home_score": 1,
-      "away_score": 0,
-      "home_score_ht": 1,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 4,
+      "away_score": 1,
+      "home_score_ht": 3,
       "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
@@ -33074,16 +33140,24 @@
       "is_neutral_ground": false,
       "travel_distance_km": 3790,
       "weather": {
-        "code": null,
-        "description": null,
+        "code": 1,
+        "description": "clear",
         "wind_speed": null,
         "temperature_c": null
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Washington 4 - 1 Portland Thorns — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=UcPd-5-Uu2M&pp=0gcJCUEMAYcqIYzv",
+          "thumbnail": "https://i.ytimg.com/vi/UcPd-5-Uu2M/hqdefault.jpg",
+          "published_at": "2026-11-08T22:28:54+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 30,
         "home_wins": 7,
@@ -33223,7 +33297,7 @@
       "referee_id": null,
       "venue_id": null,
       "event_date": "2026-11-08T20:00:00+00:00",
-      "status": "1st_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 7,
       "round_name": "",
@@ -33231,11 +33305,11 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 7",
-      "period": "1T",
-      "current_minute": 24,
-      "home_score": 1,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 2,
       "away_score": 0,
-      "home_score_ht": 1,
+      "home_score_ht": 2,
       "away_score_ht": 0,
       "penalty_shootout": null,
       "extra_time_score": null,
@@ -33252,7 +33326,15 @@
       "attendance": null,
       "live_websocket": false,
       "websocket_plus": false,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Raja CA 2 - 0 Ittihad Tanger — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=gjgtN1mmshw",
+          "thumbnail": "https://i.ytimg.com/vi/gjgtN1mmshw/hqdefault.jpg",
+          "published_at": "2026-11-08T23:07:13+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 12,
         "home_wins": 8,
@@ -33392,7 +33474,7 @@
       "referee_id": 1836,
       "venue_id": 161,
       "event_date": "2026-11-08T20:00:00+00:00",
-      "status": "1st_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 28,
       "round_name": "Semifinals",
@@ -33400,10 +33482,10 @@
       "stage": "semifinals",
       "stage_name": "Semifinals",
       "round_label": "Semifinals",
-      "period": "1T",
-      "current_minute": 26,
-      "home_score": 1,
-      "away_score": 0,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 2,
+      "away_score": 1,
       "home_score_ht": 1,
       "away_score_ht": 0,
       "penalty_shootout": null,
@@ -33412,16 +33494,24 @@
       "is_neutral_ground": false,
       "travel_distance_km": 360,
       "weather": {
-        "code": null,
-        "description": null,
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": null,
         "temperature_c": null
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Vasco 2 (4) - (5) 1 Palmeiras — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=QYAQeRwmp5k",
+          "thumbnail": "https://i.ytimg.com/vi/QYAQeRwmp5k/hqdefault.jpg",
+          "published_at": "2026-11-08T22:25:52+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 40,
         "home_wins": 8,
@@ -33561,7 +33651,7 @@
       "referee_id": null,
       "venue_id": 778,
       "event_date": "2026-11-08T20:00:00+00:00",
-      "status": "1st_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 9,
       "round_name": "",
@@ -33569,10 +33659,10 @@
       "stage": "group-stage",
       "stage_name": "Group stage",
       "round_label": "Group A · Matchday 9",
-      "period": "1T",
-      "current_minute": 27,
-      "home_score": 2,
-      "away_score": 0,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 4,
+      "away_score": 3,
       "home_score_ht": 2,
       "away_score_ht": 0,
       "penalty_shootout": null,
@@ -33581,12 +33671,12 @@
       "is_neutral_ground": false,
       "travel_distance_km": 95,
       "weather": {
-        "code": null,
-        "description": null,
+        "code": 3,
+        "description": "rain",
         "wind_speed": null,
         "temperature_c": null
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": false,
@@ -33653,7 +33743,7 @@
       "referee_id": 1951,
       "venue_id": 54,
       "event_date": "2026-11-08T20:00:00+00:00",
-      "status": "1st_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 12,
       "round_name": "",
@@ -33661,28 +33751,36 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 12",
-      "period": "1T",
-      "current_minute": 26,
+      "period": "FT",
+      "current_minute": 90,
       "home_score": 1,
-      "away_score": 0,
+      "away_score": 2,
       "home_score_ht": 1,
-      "away_score_ht": 0,
+      "away_score_ht": 1,
       "penalty_shootout": null,
       "extra_time_score": null,
       "is_local_derby": false,
       "is_neutral_ground": false,
       "travel_distance_km": 493,
       "weather": {
-        "code": 1,
-        "description": "clear",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 6.1,
         "temperature_c": 17
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Atlético Madrid 1 - 2 Barcelona — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=wdtYGRqHv-M",
+          "thumbnail": "https://i.ytimg.com/vi/wdtYGRqHv-M/maxresdefault.jpg",
+          "published_at": "2026-11-08T22:09:03+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 126,
         "home_wins": 34,
@@ -33822,7 +33920,7 @@
       "referee_id": 2135,
       "venue_id": 97,
       "event_date": "2026-11-08T19:45:00+00:00",
-      "status": "1st_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 10,
       "round_name": "",
@@ -33830,10 +33928,10 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 10",
-      "period": "1T",
-      "current_minute": 42,
+      "period": "FT",
+      "current_minute": 90,
       "home_score": 1,
-      "away_score": 1,
+      "away_score": 2,
       "home_score_ht": 1,
       "away_score_ht": 1,
       "penalty_shootout": null,
@@ -33842,16 +33940,24 @@
       "is_neutral_ground": false,
       "travel_distance_km": 822,
       "weather": {
-        "code": 51,
-        "description": null,
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 6.7,
         "temperature_c": 8
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "clip",
+          "title": "RC Lens - Olympique de Marseille — Watchalong stream",
+          "url": "https://www.youtube.com/watch?v=n6CAVbLTc0c",
+          "thumbnail": "https://i.ytimg.com/vi/n6CAVbLTc0c/hqdefault.jpg",
+          "published_at": "2026-11-08T18:50:21+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 71,
         "home_wins": 28,
@@ -33991,7 +34097,7 @@
       "referee_id": 2144,
       "venue_id": 68,
       "event_date": "2026-11-08T19:45:00+00:00",
-      "status": "1st_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 11,
       "round_name": "",
@@ -33999,10 +34105,10 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 11",
-      "period": "1T",
-      "current_minute": 38,
-      "home_score": 1,
-      "away_score": 1,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 2,
+      "away_score": 2,
       "home_score_ht": 1,
       "away_score_ht": 1,
       "penalty_shootout": null,
@@ -34011,16 +34117,24 @@
       "is_neutral_ground": false,
       "travel_distance_km": 325,
       "weather": {
-        "code": 51,
-        "description": null,
+        "code": 1,
+        "description": "clear",
         "wind_speed": 13.4,
         "temperature_c": 16
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Fiorentina 2 - 2 Juventus — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=M1SdXxdgC_Q",
+          "thumbnail": "https://i.ytimg.com/vi/M1SdXxdgC_Q/maxresdefault.jpg",
+          "published_at": "2026-11-08T22:30:22+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 120,
         "home_wins": 25,
@@ -34160,7 +34274,7 @@
       "referee_id": 1850,
       "venue_id": 355,
       "event_date": "2026-11-08T19:15:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 14,
       "round_name": "",
@@ -34168,10 +34282,10 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 14",
-      "period": "2T",
-      "current_minute": 46,
-      "home_score": 0,
-      "away_score": 1,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 2,
+      "away_score": 2,
       "home_score_ht": 0,
       "away_score_ht": 1,
       "penalty_shootout": null,
@@ -34180,16 +34294,24 @@
       "is_neutral_ground": false,
       "travel_distance_km": 67,
       "weather": {
-        "code": 51,
-        "description": null,
+        "code": 1,
+        "description": "clear",
         "wind_speed": 17.3,
         "temperature_c": 8
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Lech 2 - 2 Zagłębie — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=kNDm8-rlOb0&pp=0gcJCUEMAYcqIYzv",
+          "thumbnail": "https://i.ytimg.com/vi/kNDm8-rlOb0/hqdefault.jpg",
+          "published_at": "2026-11-08T21:51:08+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 37,
         "home_wins": 16,
@@ -34329,7 +34451,7 @@
       "referee_id": 2826,
       "venue_id": 542,
       "event_date": "2026-11-08T19:00:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 18,
       "round_name": "",
@@ -34337,9 +34459,9 @@
       "stage": "league-phase",
       "stage_name": "League phase",
       "round_label": "League phase · Matchday 18",
-      "period": "2T",
-      "current_minute": 67,
-      "home_score": 4,
+      "period": "FT",
+      "current_minute": 90,
+      "home_score": 5,
       "away_score": 0,
       "home_score_ht": 2,
       "away_score_ht": 0,
@@ -34349,16 +34471,52 @@
       "is_neutral_ground": false,
       "travel_distance_km": 524,
       "weather": {
-        "code": 51,
-        "description": null,
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 7.5,
         "temperature_c": 13
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "goals",
+          "title": "Santa Fe 5 - 0 Dep. Pasto — 71' Hugo Rodallega",
+          "url": "https://www.youtube.com/watch?v=jOXUSjORaes",
+          "thumbnail": "https://i.ytimg.com/vi/jOXUSjORaes/hqdefault.jpg",
+          "published_at": "2026-11-08T20:42:17+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Santa Fe 4 - 0 Dep. Pasto — 62' Hugo Rodallega",
+          "url": "https://www.youtube.com/watch?v=cW2ytoyizEA",
+          "thumbnail": "https://i.ytimg.com/vi/cW2ytoyizEA/hqdefault.jpg",
+          "published_at": "2026-11-08T20:39:06+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Santa Fe 3 - 0 Dep. Pasto — 60' Hugo Rodallega, Penalty",
+          "url": "https://www.youtube.com/watch?v=YT8eELN3b_A",
+          "thumbnail": "https://i.ytimg.com/vi/YT8eELN3b_A/hqdefault.jpg",
+          "published_at": "2026-11-08T20:33:10+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Santa Fe 2 - 0 Dep. Pasto — 34' Luis Caicedo, Own goal",
+          "url": "https://www.youtube.com/watch?v=ugodptS33rI",
+          "thumbnail": "https://i.ytimg.com/vi/ugodptS33rI/hqdefault.jpg",
+          "published_at": "2026-11-08T20:12:28+00:00"
+        },
+        {
+          "kind": "goals",
+          "title": "Santa Fe 1 - 0 Dep. Pasto — 11' Franco Fagúndez",
+          "url": "https://www.youtube.com/watch?v=c8sv6fe9Fmw",
+          "thumbnail": "https://i.ytimg.com/vi/c8sv6fe9Fmw/hqdefault.jpg",
+          "published_at": "2026-11-08T19:30:11+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 21,
         "home_wins": 11,
@@ -34498,7 +34656,7 @@
       "referee_id": 1781,
       "venue_id": 116,
       "event_date": "2026-11-08T19:00:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 10,
       "round_name": "",
@@ -34506,10 +34664,10 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 10",
-      "period": "2T",
-      "current_minute": 67,
+      "period": "FT",
+      "current_minute": 90,
       "home_score": 1,
-      "away_score": 0,
+      "away_score": 1,
       "home_score_ht": 0,
       "away_score_ht": 0,
       "penalty_shootout": null,
@@ -34518,12 +34676,12 @@
       "is_neutral_ground": false,
       "travel_distance_km": 303,
       "weather": {
-        "code": 3,
-        "description": "rain",
+        "code": 1,
+        "description": "clear",
         "wind_speed": 4.3,
         "temperature_c": 17
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
@@ -34667,7 +34825,7 @@
       "referee_id": 1656,
       "venue_id": 140,
       "event_date": "2026-11-08T19:00:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 12,
       "round_name": "",
@@ -34675,8 +34833,8 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 12",
-      "period": "2T",
-      "current_minute": 68,
+      "period": "FT",
+      "current_minute": 90,
       "home_score": 2,
       "away_score": 3,
       "home_score_ht": 0,
@@ -34687,12 +34845,12 @@
       "is_neutral_ground": false,
       "travel_distance_km": 55,
       "weather": {
-        "code": 0,
-        "description": "unknown",
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 9.5,
         "temperature_c": 3
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
@@ -34836,7 +34994,7 @@
       "referee_id": 1590,
       "venue_id": 635,
       "event_date": "2026-11-08T19:00:00+00:00",
-      "status": "2nd_half",
+      "status": "finished",
       "replaced_by": null,
       "round_number": 37,
       "round_name": "",
@@ -34844,10 +35002,10 @@
       "stage": "regular-season",
       "stage_name": "Regular season",
       "round_label": "Regular season · Matchday 37",
-      "period": "2T",
-      "current_minute": 69,
+      "period": "FT",
+      "current_minute": 90,
       "home_score": 2,
-      "away_score": 1,
+      "away_score": 3,
       "home_score_ht": 1,
       "away_score_ht": 0,
       "penalty_shootout": null,
@@ -34856,16 +35014,24 @@
       "is_neutral_ground": false,
       "travel_distance_km": null,
       "weather": {
-        "code": 55,
-        "description": null,
+        "code": 2,
+        "description": "cloudy",
         "wind_speed": 13.3,
         "temperature_c": 24
       },
-      "pitch_condition": null,
+      "pitch_condition": 1,
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Athletic 2 - 3 Atlético-GO — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=T0rPk5CW9cU",
+          "thumbnail": "https://i.ytimg.com/vi/T0rPk5CW9cU/hqdefault.jpg",
+          "published_at": "2026-11-08T21:47:17+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 3,
         "home_wins": 0,
@@ -34957,7 +35123,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Vicenza 1 - 4 Cremonese — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=b20Y6nppwcY",
+          "thumbnail": "https://i.ytimg.com/vi/b20Y6nppwcY/hqdefault.jpg",
+          "published_at": "2026-11-08T22:40:58+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 8,
         "home_wins": 3,
@@ -35104,7 +35278,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Hoffenheim 2 - 1 Schalke — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=EZqNl13QxIk",
+          "thumbnail": "https://i.ytimg.com/vi/EZqNl13QxIk/maxresdefault.jpg",
+          "published_at": "2026-11-08T21:14:20+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 30,
         "home_wins": 14,
@@ -35681,7 +35863,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": false,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "AS FAR 3 - 1 DHJ — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=totxeHoOaB8",
+          "thumbnail": "https://i.ytimg.com/vi/totxeHoOaB8/hqdefault.jpg",
+          "published_at": "2026-11-08T22:24:02+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 11,
         "home_wins": 7,
@@ -36329,7 +36519,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Gotham 1 - 0 Reign — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=BECc-25jFNs",
+          "thumbnail": "https://i.ytimg.com/vi/BECc-25jFNs/hqdefault.jpg",
+          "published_at": "2026-11-08T20:34:23+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 31,
         "home_wins": 10,
@@ -38081,7 +38279,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Sambenedettese 1 - 2 Guidonia Montecelio — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=Sc_ef2ok3IA",
+          "thumbnail": "https://i.ytimg.com/vi/Sc_ef2ok3IA/hqdefault.jpg",
+          "published_at": "2026-11-08T20:35:30+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 2,
         "home_wins": 1,
@@ -38162,7 +38368,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Pianese 3 - 2 Perugia — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=EVLByAt4M4Q",
+          "thumbnail": "https://i.ytimg.com/vi/EVLByAt4M4Q/hqdefault.jpg",
+          "published_at": "2026-11-08T20:35:12+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 4,
         "home_wins": 2,
@@ -38265,7 +38479,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Treviso 2 - 0 Novara — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=UdGnX3uWLQw",
+          "thumbnail": "https://i.ytimg.com/vi/UdGnX3uWLQw/hqdefault.jpg",
+          "published_at": "2026-11-08T20:39:29+00:00"
+        }
+      ],
       "head_to_head": null,
       "has_xg": false,
       "previous_leg_event_id": null
@@ -38312,7 +38534,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Folgore Caratese 0 - 0 Carpi — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=GpV_9IkF0nk",
+          "thumbnail": "https://i.ytimg.com/vi/GpV_9IkF0nk/hqdefault.jpg",
+          "published_at": "2026-11-08T20:35:47+00:00"
+        }
+      ],
       "head_to_head": null,
       "has_xg": false,
       "previous_leg_event_id": null
@@ -38359,7 +38589,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Desenzano 0 - 1 Ospitaletto — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=G3kPvl8f-rI",
+          "thumbnail": "https://i.ytimg.com/vi/G3kPvl8f-rI/hqdefault.jpg",
+          "published_at": "2026-11-08T20:35:39+00:00"
+        }
+      ],
       "head_to_head": null,
       "has_xg": false,
       "previous_leg_event_id": null
@@ -39113,7 +39351,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Carrarese 0 - 1 Sampdoria — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=gsDriRM3ars",
+          "thumbnail": "https://i.ytimg.com/vi/gsDriRM3ars/hqdefault.jpg",
+          "published_at": "2026-11-08T20:26:07+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 4,
         "home_wins": 2,
@@ -39963,7 +40209,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": false,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Renaissance Zemamra 1 - 1 WS Temara — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=5CVT4oJLaBE",
+          "thumbnail": "https://i.ytimg.com/vi/5CVT4oJLaBE/hqdefault.jpg",
+          "published_at": "2026-11-08T22:24:59+00:00"
+        }
+      ],
       "head_to_head": null,
       "has_xg": false,
       "previous_leg_event_id": null
@@ -40522,7 +40776,7 @@
           "kind": "full",
           "title": "Sandefjord 5 - 5 Molde — Full Highlights",
           "url": "https://www.youtube.com/watch?v=xNOR_mzKYNg",
-          "thumbnail": "https://i.ytimg.com/vi/xNOR_mzKYNg/hqdefault.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/xNOR_mzKYNg/maxresdefault.jpg",
           "published_at": "2026-11-08T20:15:04+00:00"
         }
       ],
@@ -51041,7 +51295,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Tromsø 0 - 2 Bodø/Glimt — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=8q5yXwLTS4U",
+          "thumbnail": "https://i.ytimg.com/vi/8q5yXwLTS4U/maxresdefault.jpg",
+          "published_at": "2026-11-08T20:14:19+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 23,
         "home_wins": 6,
@@ -55397,7 +55659,15 @@
       "attendance": null,
       "live_websocket": true,
       "websocket_plus": true,
-      "highlights": [],
+      "highlights": [
+        {
+          "kind": "full",
+          "title": "Bandırmaspor 0 - 4 Karagümrük — Full Highlights",
+          "url": "https://www.youtube.com/watch?v=lNZSdhVwpZI",
+          "thumbnail": "https://i.ytimg.com/vi/lNZSdhVwpZI/hqdefault.jpg",
+          "published_at": "2026-11-08T20:51:02+00:00"
+        }
+      ],
       "head_to_head": {
         "total_matches": 3,
         "home_wins": 2,
