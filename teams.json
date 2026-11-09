@@ -1,5 +1,5 @@
 {
-  "count": 8927,
+  "count": 9003,
   "next": "https://sports.bzzoiro.com/api/v2/teams/?limit=50&offset=50",
   "previous": null,
   "results": [
@@ -380,14 +380,6 @@
       "venue_id": null
     },
     {
-      "id": 8126,
-      "name": "Adana 01 FK",
-      "short_name": "ADA",
-      "country": "",
-      "country_code": "",
-      "venue_id": null
-    },
-    {
       "id": 2476,
       "name": "AD Cartaya",
       "short_name": "CAR",
@@ -399,6 +391,14 @@
       "id": 8357,
       "name": "Adc Proenca A Nova",
       "short_name": "",
+      "country": "",
+      "country_code": "",
+      "venue_id": null
+    },
+    {
+      "id": 2660,
+      "name": "ADR Jicaral Sercoba",
+      "short_name": "JIC",
       "country": "",
       "country_code": "",
       "venue_id": null
