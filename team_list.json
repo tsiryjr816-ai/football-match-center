@@ -599,6 +599,22 @@
     "id": 920,
     "name": "Club Atlético de Madrid"
   },
+  "96": {
+    "id": 96,
+    "name": "Hamburger SV"
+  },
+  "2343": {
+    "id": 2343,
+    "name": "HNK Hajduk Split"
+  },
+  "1331": {
+    "id": 1331,
+    "name": "Zenit St. Petersburg"
+  },
+  "197": {
+    "id": 197,
+    "name": "Trabzonspor"
+  },
   "8754": {
     "id": 8754,
     "name": "FC Cabinda"
@@ -2287,6 +2303,14 @@
     "id": 2246,
     "name": "Singapore"
   },
+  "1834": {
+    "id": 1834,
+    "name": "VfL Bochum 1848"
+  },
+  "3847": {
+    "id": 3847,
+    "name": "SC Verl"
+  },
   "1406": {
     "id": 1406,
     "name": "TSV Hartberg"
@@ -2447,6 +2471,54 @@
     "id": 83,
     "name": "1. FC Union Berlin"
   },
+  "95": {
+    "id": 95,
+    "name": "Borussia M'gladbach"
+  },
+  "239": {
+    "id": 239,
+    "name": "Standard Liège"
+  },
+  "246": {
+    "id": 246,
+    "name": "FC Zürich"
+  },
+  "2871": {
+    "id": 2871,
+    "name": "SC Austria Lustenau"
+  },
+  "248": {
+    "id": 248,
+    "name": "FC St. Gallen 1879"
+  },
+  "2617": {
+    "id": 2617,
+    "name": "FC Wil 1900"
+  },
+  "1296": {
+    "id": 1296,
+    "name": "Holstein Kiel"
+  },
+  "3120": {
+    "id": 3120,
+    "name": "Odense Boldklub"
+  },
+  "1411": {
+    "id": 1411,
+    "name": "SK Rapid Wien"
+  },
+  "8084": {
+    "id": 8084,
+    "name": "DAC Dunajská Streda U19"
+  },
+  "148": {
+    "id": 148,
+    "name": "BSC Young Boys"
+  },
+  "1368": {
+    "id": 1368,
+    "name": "FC Stade-Lausanne-Ouchy"
+  },
   "1292": {
     "id": 1292,
     "name": "SpVgg Greuther Fürth"
@@ -2454,6 +2526,14 @@
   "3340": {
     "id": 3340,
     "name": "FC Würzburger Kickers"
+  },
+  "1839": {
+    "id": 1839,
+    "name": "Arminia Bielefeld"
+  },
+  "4500": {
+    "id": 4500,
+    "name": "SV Meppen"
   },
   "2256": {
     "id": 2256,
@@ -2475,6 +2555,14 @@
     "id": 80,
     "name": "RB Leipzig"
   },
+  "429": {
+    "id": 429,
+    "name": "Górnik Zabrze"
+  },
+  "1753": {
+    "id": 1753,
+    "name": "Polonia Bytom"
+  },
   "821": {
     "id": 821,
     "name": "Londrina"
@@ -2482,6 +2570,14 @@
   "928": {
     "id": 928,
     "name": "Náutico"
+  },
+  "9395": {
+    "id": 9395,
+    "name": "SG Schorndorf"
+  },
+  "1842": {
+    "id": 1842,
+    "name": "SG Sonnenhof Großaspach"
   },
   "8722": {
     "id": 8722,
