@@ -671,10 +671,6 @@
     "id": 572,
     "name": "Kun Khalifat FC"
   },
-  "566": {
-    "id": 566,
-    "name": "Kano Pillars"
-  },
   "573": {
     "id": 573,
     "name": "Katsina United"
@@ -1811,6 +1807,10 @@
     "id": 1309,
     "name": "Clermont Foot"
   },
+  "566": {
+    "id": 566,
+    "name": "Kano Pillars"
+  },
   "567": {
     "id": 567,
     "name": "Barau FC"
@@ -2566,6 +2566,14 @@
   "83": {
     "id": 83,
     "name": "1. FC Union Berlin"
+  },
+  "2074": {
+    "id": 2074,
+    "name": "Sarpsborg 08"
+  },
+  "439": {
+    "id": 439,
+    "name": "IFK Göteborg"
   },
   "95": {
     "id": 95,
