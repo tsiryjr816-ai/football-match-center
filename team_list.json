@@ -691,14 +691,6 @@
     "id": 571,
     "name": "Enugu Rangers International"
   },
-  "577": {
-    "id": 577,
-    "name": "Shooting Stars"
-  },
-  "570": {
-    "id": 570,
-    "name": "Bendel Insurance FC"
-  },
   "568": {
     "id": 568,
     "name": "Enyimba"
@@ -2347,6 +2339,14 @@
     "id": 2249,
     "name": "Indonesia"
   },
+  "577": {
+    "id": 577,
+    "name": "Shooting Stars"
+  },
+  "570": {
+    "id": 570,
+    "name": "Bendel Insurance FC"
+  },
   "1410": {
     "id": 1410,
     "name": "FK Austria Wien"
@@ -2551,6 +2551,14 @@
     "id": 497,
     "name": "Uzbekistan"
   },
+  "148": {
+    "id": 148,
+    "name": "BSC Young Boys"
+  },
+  "1368": {
+    "id": 1368,
+    "name": "FC Stade-Lausanne-Ouchy"
+  },
   "82": {
     "id": 82,
     "name": "VfL Wolfsburg"
@@ -2598,14 +2606,6 @@
   "8084": {
     "id": 8084,
     "name": "DAC Dunajská Streda U19"
-  },
-  "148": {
-    "id": 148,
-    "name": "BSC Young Boys"
-  },
-  "1368": {
-    "id": 1368,
-    "name": "FC Stade-Lausanne-Ouchy"
   },
   "1292": {
     "id": 1292,
