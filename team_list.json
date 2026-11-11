@@ -1219,6 +1219,14 @@
     "id": 4780,
     "name": "Deportivo Pereira"
   },
+  "4786": {
+    "id": 4786,
+    "name": "Rionegro Águilas Doradas"
+  },
+  "786": {
+    "id": 786,
+    "name": "Independiente Medellín"
+  },
   "736": {
     "id": 736,
     "name": "Millonarios"
@@ -2255,6 +2263,10 @@
     "id": 2284,
     "name": "Yemen"
   },
+  "797": {
+    "id": 797,
+    "name": "Independiente Santa Fe"
+  },
   "713": {
     "id": 713,
     "name": "Peru"
@@ -2491,18 +2503,6 @@
     "id": 828,
     "name": "Operário-PR"
   },
-  "797": {
-    "id": 797,
-    "name": "Independiente Santa Fe"
-  },
-  "4786": {
-    "id": 4786,
-    "name": "Rionegro Águilas Doradas"
-  },
-  "786": {
-    "id": 786,
-    "name": "Independiente Medellín"
-  },
   "3289": {
     "id": 3289,
     "name": "CD Tarancón"
@@ -2666,6 +2666,10 @@
   "928": {
     "id": 928,
     "name": "Náutico"
+  },
+  "28": {
+    "id": 28,
+    "name": "Santa Clara"
   },
   "9395": {
     "id": 9395,
