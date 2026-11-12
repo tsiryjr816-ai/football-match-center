@@ -351,6 +351,14 @@
     "id": 722,
     "name": "Honduras"
   },
+  "664": {
+    "id": 664,
+    "name": "China"
+  },
+  "2207": {
+    "id": 2207,
+    "name": "Bahrain"
+  },
   "455": {
     "id": 455,
     "name": "Canada"
@@ -2157,7 +2165,7 @@
   },
   "5314": {
     "id": 5314,
-    "name": "C A Boulay"
+    "name": "CA Boulay"
   },
   "1618": {
     "id": 1618,
@@ -2291,10 +2299,6 @@
     "id": 4218,
     "name": "SV Tasmania Berlin"
   },
-  "664": {
-    "id": 664,
-    "name": "China"
-  },
   "2279": {
     "id": 2279,
     "name": "Malaysia"
@@ -2342,10 +2346,6 @@
   "463": {
     "id": 463,
     "name": "Brazil"
-  },
-  "2207": {
-    "id": 2207,
-    "name": "Bahrain"
   },
   "2284": {
     "id": 2284,
@@ -2567,14 +2567,6 @@
     "id": 4784,
     "name": "Boyacá Chicó FC"
   },
-  "841": {
-    "id": 841,
-    "name": "São Bernardo"
-  },
-  "843": {
-    "id": 843,
-    "name": "Athletic Club"
-  },
   "3419": {
     "id": 3419,
     "name": "Deportivo Pasto"
@@ -2582,6 +2574,14 @@
   "789": {
     "id": 789,
     "name": "Junior Barranquilla"
+  },
+  "841": {
+    "id": 841,
+    "name": "São Bernardo"
+  },
+  "843": {
+    "id": 843,
+    "name": "Athletic Club"
   },
   "844": {
     "id": 844,
