@@ -1,4 +1,44 @@
 {
+  "157": {
+    "id": 157,
+    "name": "Vitória"
+  },
+  "168": {
+    "id": 168,
+    "name": "Red Bull Bragantino"
+  },
+  "164": {
+    "id": 164,
+    "name": "Vasco da Gama"
+  },
+  "161": {
+    "id": 161,
+    "name": "Internacional"
+  },
+  "1307": {
+    "id": 1307,
+    "name": "Amiens SC"
+  },
+  "1298": {
+    "id": 1298,
+    "name": "Stade Malherbe Caen"
+  },
+  "154": {
+    "id": 154,
+    "name": "Grêmio"
+  },
+  "166": {
+    "id": 166,
+    "name": "Bahia"
+  },
+  "167": {
+    "id": 167,
+    "name": "Corinthians"
+  },
+  "163": {
+    "id": 163,
+    "name": "Botafogo"
+  },
   "160": {
     "id": 160,
     "name": "Flamengo"
@@ -1159,10 +1199,6 @@
     "id": 307,
     "name": "Club América"
   },
-  "164": {
-    "id": 164,
-    "name": "Vasco da Gama"
-  },
   "2225": {
     "id": 2225,
     "name": "Charleston Battery"
@@ -1310,10 +1346,6 @@
   "9261": {
     "id": 9261,
     "name": "Cambrai Amerique OM"
-  },
-  "1307": {
-    "id": 1307,
-    "name": "Amiens SC"
   },
   "1318": {
     "id": 1318,
@@ -1794,10 +1826,6 @@
   "5578": {
     "id": 5578,
     "name": "Choisy-Au-Bac"
-  },
-  "1298": {
-    "id": 1298,
-    "name": "Stade Malherbe Caen"
   },
   "1638": {
     "id": 1638,
@@ -2666,33 +2694,5 @@
   "5000": {
     "id": 5000,
     "name": "Estudiantes de Río Cuarto"
-  },
-  "821": {
-    "id": 821,
-    "name": "Londrina"
-  },
-  "928": {
-    "id": 928,
-    "name": "Náutico"
-  },
-  "28": {
-    "id": 28,
-    "name": "Santa Clara"
-  },
-  "9395": {
-    "id": 9395,
-    "name": "SG Schorndorf"
-  },
-  "1842": {
-    "id": 1842,
-    "name": "SG Sonnenhof Großaspach"
-  },
-  "8722": {
-    "id": 8722,
-    "name": "GD Portel"
-  },
-  "685": {
-    "id": 685,
-    "name": "Anguilla"
   }
 }
