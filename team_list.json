@@ -595,6 +595,14 @@
     "id": 914,
     "name": "Granada Club de Fútbol"
   },
+  "2291": {
+    "id": 2291,
+    "name": "Suriname"
+  },
+  "2268": {
+    "id": 2268,
+    "name": "Eswatini"
+  },
   "915": {
     "id": 915,
     "name": "Real Club Deportivo de A Coruña"
@@ -2299,6 +2307,14 @@
     "id": 9234,
     "name": "AS Horizon Patho"
   },
+  "423": {
+    "id": 423,
+    "name": "Widzew Łódź"
+  },
+  "3486": {
+    "id": 3486,
+    "name": "Unia Skierniewice"
+  },
   "919": {
     "id": 919,
     "name": "RCD Espanyol de Barcelona"
@@ -2306,6 +2322,22 @@
   "912": {
     "id": 912,
     "name": "Costa Adeje Tenerife"
+  },
+  "403": {
+    "id": 403,
+    "name": "Legia Warszawa"
+  },
+  "1797": {
+    "id": 1797,
+    "name": "Pogoń Grodzisk Mazowiecki"
+  },
+  "2108": {
+    "id": 2108,
+    "name": "PK-35"
+  },
+  "4613": {
+    "id": 4613,
+    "name": "Inter Turku/2"
   },
   "463": {
     "id": 463,
@@ -2318,6 +2350,14 @@
   "2284": {
     "id": 2284,
     "name": "Yemen"
+  },
+  "2302": {
+    "id": 2302,
+    "name": "Tahiti"
+  },
+  "2305": {
+    "id": 2305,
+    "name": "Cook Islands"
   },
   "797": {
     "id": 797,
@@ -2431,13 +2471,33 @@
     "id": 453,
     "name": "South Korea"
   },
+  "2281": {
+    "id": 2281,
+    "name": "United Arab Emirates"
+  },
+  "385": {
+    "id": 385,
+    "name": "HNK Rijeka"
+  },
+  "5020": {
+    "id": 5020,
+    "name": "HNK Orijent"
+  },
   "2214": {
     "id": 2214,
     "name": "Syria"
   },
-  "2281": {
-    "id": 2281,
-    "name": "United Arab Emirates"
+  "428": {
+    "id": 428,
+    "name": "Raków Częstochowa"
+  },
+  "430": {
+    "id": 430,
+    "name": "KS Lechia Gdańsk"
+  },
+  "1408": {
+    "id": 1408,
+    "name": "SV Ried"
   },
   "1865": {
     "id": 1865,
@@ -2559,14 +2619,6 @@
     "id": 5939,
     "name": "Calvo Sotelo Puertollano"
   },
-  "2268": {
-    "id": 2268,
-    "name": "Eswatini"
-  },
-  "2291": {
-    "id": 2291,
-    "name": "Suriname"
-  },
   "407": {
     "id": 407,
     "name": "BK Häcken"
@@ -2674,6 +2726,14 @@
   "2255": {
     "id": 2255,
     "name": "Bhutan"
+  },
+  "146": {
+    "id": 146,
+    "name": "KRC Genk"
+  },
+  "4853": {
+    "id": 4853,
+    "name": "KAS Eupen"
   },
   "1289": {
     "id": 1289,
