@@ -1,11 +1,11 @@
 {
-  "count": 100,
+  "count": 103,
   "next": "https://sports.bzzoiro.com/api/v2/leagues/?limit=50&offset=50",
   "previous": null,
   "results": [
     {
       "id": 30,
-      "name": "Africa Cup of Nations 2025",
+      "name": "Africa Cup of Nations 2023",
       "country": "Africa",
       "is_women": false,
       "is_active": true,
@@ -175,7 +175,7 @@
           {
             "stage": "regular-season",
             "stage_name": "Regular season",
-            "matches": 247,
+            "matches": 248,
             "rounds": 30,
             "start_date": "2026-08-21",
             "end_date": "2027-05-15"
@@ -216,10 +216,10 @@
           {
             "stage": "round-of-16",
             "stage_name": "Round of 16",
-            "matches": 16,
+            "matches": 17,
             "rounds": 1,
             "start_date": "2026-05-09",
-            "end_date": "2026-11-22"
+            "end_date": "2026-11-25"
           },
           {
             "stage": "quarterfinals",
@@ -250,7 +250,7 @@
     },
     {
       "id": 68,
-      "name": "AFC Asian Cup 2027",
+      "name": "AFC Asian Cup 2023",
       "country": "Asia",
       "is_women": false,
       "is_active": true,
@@ -298,7 +298,7 @@
           {
             "stage": "regular-season",
             "stage_name": "Regular season",
-            "matches": 154,
+            "matches": 157,
             "rounds": 28,
             "start_date": "2026-10-16",
             "end_date": "2027-05-09"
@@ -595,6 +595,14 @@
       }
     },
     {
+      "id": 111,
+      "name": "Liga de Primera",
+      "country": "Chile",
+      "is_women": false,
+      "is_active": true,
+      "current_season": null
+    },
+    {
       "id": 52,
       "name": "Chinese Super League",
       "country": "China",
@@ -774,6 +782,14 @@
           }
         ]
       }
+    },
+    {
+      "id": 112,
+      "name": "LigaPro Serie A",
+      "country": "Ecuador",
+      "is_women": false,
+      "is_active": true,
+      "current_season": null
     },
     {
       "id": 40,
@@ -1737,7 +1753,7 @@
           {
             "stage": "league-phase",
             "stage_name": "League phase",
-            "matches": 401,
+            "matches": 402,
             "rounds": 0,
             "start_date": "2025-12-17",
             "end_date": "2026-12-13"
@@ -1822,80 +1838,6 @@
             "rounds": 1,
             "start_date": "2026-07-19",
             "end_date": "2026-07-19"
-          }
-        ]
-      }
-    },
-    {
-      "id": 42,
-      "name": "Coppa Italia",
-      "country": "Italy",
-      "is_women": false,
-      "is_active": true,
-      "current_season": {
-        "id": 1155,
-        "name": "Coppa Italia 26/27",
-        "year": 2026,
-        "start_date": "2026-07-01",
-        "end_date": "2027-06-30",
-        "is_current": true,
-        "stages": [
-          {
-            "stage": "preliminary",
-            "stage_name": "Preliminary",
-            "matches": 4,
-            "rounds": 1,
-            "start_date": "2026-08-08",
-            "end_date": "2026-08-09"
-          },
-          {
-            "stage": "round-of-64",
-            "stage_name": "Round of 64",
-            "matches": 16,
-            "rounds": 1,
-            "start_date": "2026-08-14",
-            "end_date": "2026-08-17"
-          },
-          {
-            "stage": "round-of-32",
-            "stage_name": "Round of 32",
-            "matches": 9,
-            "rounds": 1,
-            "start_date": "2026-09-01",
-            "end_date": "2026-09-15"
-          },
-          {
-            "stage": "round-of-16",
-            "stage_name": "Round of 16",
-            "matches": 8,
-            "rounds": 1,
-            "start_date": "2026-12-01",
-            "end_date": "2027-01-26"
-          }
-        ]
-      }
-    },
-    {
-      "id": 4,
-      "name": "Serie A",
-      "country": "Italy",
-      "is_women": false,
-      "is_active": true,
-      "current_season": {
-        "id": 1375,
-        "name": "Serie A 26/27",
-        "year": 2026,
-        "start_date": "2026-07-01",
-        "end_date": "2027-06-30",
-        "is_current": true,
-        "stages": [
-          {
-            "stage": "regular-season",
-            "stage_name": "Regular season",
-            "matches": 380,
-            "rounds": 38,
-            "start_date": "2026-08-22",
-            "end_date": "2027-05-30"
           }
         ]
       }
