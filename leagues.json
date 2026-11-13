@@ -963,7 +963,7 @@
           {
             "stage": "regular-season",
             "stage_name": "Regular season",
-            "matches": 573,
+            "matches": 574,
             "rounds": 46,
             "start_date": "2026-08-15",
             "end_date": "2027-05-08"
@@ -1537,10 +1537,34 @@
           {
             "stage": "round-7",
             "stage_name": "Round 7",
-            "matches": 88,
+            "matches": 90,
             "rounds": 1,
             "start_date": "2026-10-31",
             "end_date": "2026-11-15"
+          },
+          {
+            "stage": "quarterfinals",
+            "stage_name": "Quarterfinals",
+            "matches": 4,
+            "rounds": 1,
+            "start_date": "2027-03-03",
+            "end_date": "2027-03-03"
+          },
+          {
+            "stage": "semifinals",
+            "stage_name": "Semifinals",
+            "matches": 2,
+            "rounds": 1,
+            "start_date": "2027-04-21",
+            "end_date": "2027-04-21"
+          },
+          {
+            "stage": "final",
+            "stage_name": "Final",
+            "matches": 1,
+            "rounds": 1,
+            "start_date": "2027-05-15",
+            "end_date": "2027-05-15"
           }
         ]
       }
