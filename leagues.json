@@ -219,7 +219,7 @@
             "matches": 17,
             "rounds": 1,
             "start_date": "2026-05-09",
-            "end_date": "2026-11-25"
+            "end_date": "2026-11-26"
           },
           {
             "stage": "quarterfinals",
@@ -661,9 +661,17 @@
           {
             "stage": "league-phase",
             "stage_name": "League phase",
-            "matches": 453,
+            "matches": 428,
             "rounds": 19,
             "start_date": "2026-01-16",
+            "end_date": "2026-11-22"
+          },
+          {
+            "stage": "group-stage",
+            "stage_name": "Group stage",
+            "matches": 29,
+            "rounds": 10,
+            "start_date": "2026-01-18",
             "end_date": "2026-11-14"
           },
           {
@@ -1577,6 +1585,14 @@
             "end_date": "2026-11-15"
           },
           {
+            "stage": "round-8",
+            "stage_name": "Round 8",
+            "matches": 46,
+            "rounds": 1,
+            "start_date": "2026-11-28",
+            "end_date": "2026-11-28"
+          },
+          {
             "stage": "quarterfinals",
             "stage_name": "Quarterfinals",
             "matches": 4,
@@ -1811,7 +1827,7 @@
           {
             "stage": "league-phase",
             "stage_name": "League phase",
-            "matches": 403,
+            "matches": 405,
             "rounds": 0,
             "start_date": "2025-12-17",
             "end_date": "2026-12-13"

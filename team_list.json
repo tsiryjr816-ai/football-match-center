@@ -15,6 +15,14 @@
     "id": 157,
     "name": "Vitória"
   },
+  "4998": {
+    "id": 4998,
+    "name": "Gimnasia y Esgrima"
+  },
+  "4997": {
+    "id": 4997,
+    "name": "Newell's Old Boys"
+  },
   "46": {
     "id": 46,
     "name": "Levante UD"
@@ -183,6 +191,14 @@
     "id": 327,
     "name": "Aris Thessaloniki"
   },
+  "4996": {
+    "id": 4996,
+    "name": "Instituto De Córdoba"
+  },
+  "2352": {
+    "id": 2352,
+    "name": "Huracán"
+  },
   "309": {
     "id": 309,
     "name": "Querétaro FC"
@@ -215,6 +231,22 @@
     "id": 314,
     "name": "Cruz Azul"
   },
+  "3733": {
+    "id": 3733,
+    "name": "Deportivo Cali"
+  },
+  "736": {
+    "id": 736,
+    "name": "Millonarios"
+  },
+  "3891": {
+    "id": 3891,
+    "name": "Once Caldas"
+  },
+  "766": {
+    "id": 766,
+    "name": "Atlético Nacional"
+  },
   "168": {
     "id": 168,
     "name": "Red Bull Bragantino"
@@ -222,22 +254,6 @@
   "164": {
     "id": 164,
     "name": "Vasco da Gama"
-  },
-  "4998": {
-    "id": 4998,
-    "name": "Gimnasia y Esgrima"
-  },
-  "4997": {
-    "id": 4997,
-    "name": "Newell's Old Boys"
-  },
-  "4996": {
-    "id": 4996,
-    "name": "Instituto De Córdoba"
-  },
-  "2352": {
-    "id": 2352,
-    "name": "Huracán"
   },
   "755": {
     "id": 755,
@@ -1359,6 +1375,14 @@
     "id": 7811,
     "name": "Macarthur FC"
   },
+  "3926": {
+    "id": 3926,
+    "name": "Washington Spirit"
+  },
+  "3930": {
+    "id": 3930,
+    "name": "Kansas City Current"
+  },
   "313": {
     "id": 313,
     "name": "Pumas UNAM"
@@ -1382,6 +1406,22 @@
   "5094": {
     "id": 5094,
     "name": "Ñublense"
+  },
+  "771": {
+    "id": 771,
+    "name": "Atlético Bucaramanga"
+  },
+  "753": {
+    "id": 753,
+    "name": "América de Cali"
+  },
+  "786": {
+    "id": 786,
+    "name": "Independiente Medellín"
+  },
+  "797": {
+    "id": 797,
+    "name": "Independiente Santa Fe"
   },
   "293": {
     "id": 293,
@@ -3107,14 +3147,6 @@
     "id": 2340,
     "name": "Melbourne Victory"
   },
-  "306": {
-    "id": 306,
-    "name": "FC Juárez"
-  },
-  "305": {
-    "id": 305,
-    "name": "Atlas FC"
-  },
   "308": {
     "id": 308,
     "name": "Club Tijuana"
@@ -3122,6 +3154,14 @@
   "3840": {
     "id": 3840,
     "name": "Atlante FC"
+  },
+  "306": {
+    "id": 306,
+    "name": "FC Juárez"
+  },
+  "305": {
+    "id": 305,
+    "name": "Atlas FC"
   },
   "304": {
     "id": 304,
@@ -3679,10 +3719,6 @@
     "id": 662,
     "name": "Jamaica"
   },
-  "753": {
-    "id": 753,
-    "name": "América de Cali"
-  },
   "3181": {
     "id": 3181,
     "name": "Internacional de Bogotá"
@@ -3718,14 +3754,6 @@
   "663": {
     "id": 663,
     "name": "Bolivia"
-  },
-  "766": {
-    "id": 766,
-    "name": "Atlético Nacional"
-  },
-  "3891": {
-    "id": 3891,
-    "name": "Once Caldas"
   },
   "480": {
     "id": 480,
@@ -3855,6 +3883,14 @@
     "id": 2057,
     "name": "Venezuela"
   },
+  "479": {
+    "id": 479,
+    "name": "Saudi Arabia"
+  },
+  "497": {
+    "id": 497,
+    "name": "Uzbekistan"
+  },
   "2281": {
     "id": 2281,
     "name": "United Arab Emirates"
@@ -3894,14 +3930,6 @@
   "2207": {
     "id": 2207,
     "name": "Bahrain"
-  },
-  "667": {
-    "id": 667,
-    "name": "Kyrgyzstan"
-  },
-  "671": {
-    "id": 671,
-    "name": "Vietnam"
   },
   "2246": {
     "id": 2246,
@@ -4078,5 +4106,9 @@
   "673": {
     "id": 673,
     "name": "Moldova"
+  },
+  "2336": {
+    "id": 2336,
+    "name": "AEL Limassol"
   }
 }
