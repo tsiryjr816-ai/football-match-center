@@ -470,12 +470,20 @@
         "is_current": true,
         "stages": [
           {
-            "stage": "regular-season",
-            "stage_name": "Regular season",
+            "stage": "league-phase",
+            "stage_name": "League phase",
             "matches": 384,
             "rounds": 38,
             "start_date": "2026-03-21",
             "end_date": "2026-11-14"
+          },
+          {
+            "stage": "final",
+            "stage_name": "Final",
+            "matches": 4,
+            "rounds": 1,
+            "start_date": "2026-11-22",
+            "end_date": "2026-11-28"
           }
         ]
       }
@@ -661,10 +669,10 @@
           {
             "stage": "league-phase",
             "stage_name": "League phase",
-            "matches": 424,
+            "matches": 428,
             "rounds": 19,
             "start_date": "2026-01-16",
-            "end_date": "2026-11-14"
+            "end_date": "2026-11-26"
           },
           {
             "stage": "group-stage",
@@ -1055,7 +1063,7 @@
           {
             "stage": "regular-season",
             "stage_name": "Regular season",
-            "matches": 556,
+            "matches": 557,
             "rounds": 46,
             "start_date": "2026-08-08",
             "end_date": "2027-04-24"

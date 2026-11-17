@@ -1,4 +1,12 @@
 {
+  "736": {
+    "id": 736,
+    "name": "Millonarios"
+  },
+  "771": {
+    "id": 771,
+    "name": "Atlético Bucaramanga"
+  },
   "373": {
     "id": 373,
     "name": "Chapecoense"
@@ -543,14 +551,6 @@
     "id": 327,
     "name": "Aris Thessaloniki"
   },
-  "4996": {
-    "id": 4996,
-    "name": "Instituto De Córdoba"
-  },
-  "2352": {
-    "id": 2352,
-    "name": "Huracán"
-  },
   "309": {
     "id": 309,
     "name": "Querétaro FC"
@@ -558,6 +558,14 @@
   "311": {
     "id": 311,
     "name": "Club Necaxa"
+  },
+  "4996": {
+    "id": 4996,
+    "name": "Instituto De Córdoba"
+  },
+  "2352": {
+    "id": 2352,
+    "name": "Huracán"
   },
   "9436": {
     "id": 9436,
@@ -586,10 +594,6 @@
   "3733": {
     "id": 3733,
     "name": "Deportivo Cali"
-  },
-  "736": {
-    "id": 736,
-    "name": "Millonarios"
   },
   "3891": {
     "id": 3891,
@@ -622,6 +626,14 @@
   "774": {
     "id": 774,
     "name": "Independiente Rivadavia"
+  },
+  "819": {
+    "id": 819,
+    "name": "Atlético Goianiense"
+  },
+  "826": {
+    "id": 826,
+    "name": "Vila Nova FC"
   },
   "778": {
     "id": 778,
@@ -726,6 +738,14 @@
   "4029": {
     "id": 4029,
     "name": "Leça FC"
+  },
+  "929": {
+    "id": 929,
+    "name": "Criciúma"
+  },
+  "152": {
+    "id": 152,
+    "name": "Fortaleza"
   },
   "792": {
     "id": 792,
@@ -847,14 +867,6 @@
     "id": 2312,
     "name": "FC Slovan Liberec"
   },
-  "619": {
-    "id": 619,
-    "name": "Wiliete SC"
-  },
-  "5189": {
-    "id": 5189,
-    "name": "Sagrada Esperança"
-  },
   "1332": {
     "id": 1332,
     "name": "FC Nordsjælland"
@@ -918,6 +930,14 @@
   "4807": {
     "id": 4807,
     "name": "AlbinoLeffe"
+  },
+  "619": {
+    "id": 619,
+    "name": "Wiliete SC"
+  },
+  "5189": {
+    "id": 5189,
+    "name": "Sagrada Esperança"
   },
   "88": {
     "id": 88,
@@ -1031,13 +1051,13 @@
     "id": 170,
     "name": "Fortuna Sittard"
   },
-  "1365": {
-    "id": 1365,
-    "name": "FC Vaduz"
-  },
   "252": {
     "id": 252,
     "name": "FC Lausanne-Sport"
+  },
+  "1365": {
+    "id": 1365,
+    "name": "FC Vaduz"
   },
   "137": {
     "id": 137,
@@ -1754,14 +1774,6 @@
   "5094": {
     "id": 5094,
     "name": "Ñublense"
-  },
-  "771": {
-    "id": 771,
-    "name": "Atlético Bucaramanga"
-  },
-  "753": {
-    "id": 753,
-    "name": "América de Cali"
   },
   "786": {
     "id": 786,
@@ -3215,6 +3227,10 @@
     "id": 319,
     "name": "Atlético San Luis"
   },
+  "753": {
+    "id": 753,
+    "name": "América de Cali"
+  },
   "744": {
     "id": 744,
     "name": "Palestino"
@@ -3710,6 +3726,14 @@
   "4759": {
     "id": 4759,
     "name": "Real Unión Club"
+  },
+  "5142": {
+    "id": 5142,
+    "name": "St. George Willawong FC"
+  },
+  "9497": {
+    "id": 9497,
+    "name": "Logan Roos FC"
   },
   "698": {
     "id": 698,
