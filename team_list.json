@@ -887,10 +887,6 @@
     "id": 314,
     "name": "Cruz Azul"
   },
-  "766": {
-    "id": 766,
-    "name": "Atlético Nacional"
-  },
   "168": {
     "id": 168,
     "name": "Red Bull Bragantino"
@@ -1378,14 +1374,6 @@
   "4580": {
     "id": 4580,
     "name": "Deportes Concepción"
-  },
-  "4816": {
-    "id": 4816,
-    "name": "AD Camacha"
-  },
-  "5002": {
-    "id": 5002,
-    "name": "CD Cinfães"
   },
   "8304": {
     "id": 8304,
@@ -1975,6 +1963,10 @@
     "id": 7811,
     "name": "Macarthur FC"
   },
+  "766": {
+    "id": 766,
+    "name": "Atlético Nacional"
+  },
   "3926": {
     "id": 3926,
     "name": "Washington Spirit"
@@ -2002,10 +1994,6 @@
   "5094": {
     "id": 5094,
     "name": "Ñublense"
-  },
-  "786": {
-    "id": 786,
-    "name": "Independiente Medellín"
   },
   "293": {
     "id": 293,
@@ -2303,6 +2291,14 @@
     "id": 238,
     "name": "RAAL La Louvière"
   },
+  "2239": {
+    "id": 2239,
+    "name": "Sacramento Republic FC"
+  },
+  "2222": {
+    "id": 2222,
+    "name": "Louisville City FC"
+  },
   "2905": {
     "id": 2905,
     "name": "MFK Zemplín Michalovce"
@@ -2518,6 +2514,14 @@
   "5016": {
     "id": 5016,
     "name": "Everton de Viña del Mar"
+  },
+  "4816": {
+    "id": 4816,
+    "name": "AD Camacha"
+  },
+  "5002": {
+    "id": 5002,
+    "name": "CD Cinfães"
   },
   "26": {
     "id": 26,
@@ -3227,6 +3231,14 @@
     "id": 3176,
     "name": "Perth Glory"
   },
+  "308": {
+    "id": 308,
+    "name": "Club Tijuana"
+  },
+  "3840": {
+    "id": 3840,
+    "name": "Atlante FC"
+  },
   "1953": {
     "id": 1953,
     "name": "Pohang Steelers"
@@ -3259,14 +3271,6 @@
     "id": 2340,
     "name": "Melbourne Victory"
   },
-  "308": {
-    "id": 308,
-    "name": "Club Tijuana"
-  },
-  "3840": {
-    "id": 3840,
-    "name": "Atlante FC"
-  },
   "306": {
     "id": 306,
     "name": "FC Juárez"
@@ -3298,6 +3302,10 @@
   "3299": {
     "id": 3299,
     "name": "Club Atlético Belgrano"
+  },
+  "786": {
+    "id": 786,
+    "name": "Independiente Medellín"
   },
   "760": {
     "id": 760,
