@@ -1615,13 +1615,13 @@
     "id": 170,
     "name": "Fortuna Sittard"
   },
-  "1365": {
-    "id": 1365,
-    "name": "FC Vaduz"
-  },
   "252": {
     "id": 252,
     "name": "FC Lausanne-Sport"
+  },
+  "1365": {
+    "id": 1365,
+    "name": "FC Vaduz"
   },
   "137": {
     "id": 137,
@@ -1726,6 +1726,14 @@
   "568": {
     "id": 568,
     "name": "Enyimba"
+  },
+  "564": {
+    "id": 564,
+    "name": "Rivers United"
+  },
+  "581": {
+    "id": 581,
+    "name": "Niger Tornadoes"
   },
   "577": {
     "id": 577,
@@ -2451,10 +2459,6 @@
     "id": 734,
     "name": "Barracas Central"
   },
-  "564": {
-    "id": 564,
-    "name": "Rivers United"
-  },
   "8334": {
     "id": 8334,
     "name": "União Desportiva da Serra"
@@ -2738,10 +2742,6 @@
   "32": {
     "id": 32,
     "name": "Tondela"
-  },
-  "581": {
-    "id": 581,
-    "name": "Niger Tornadoes"
   },
   "576": {
     "id": 576,
