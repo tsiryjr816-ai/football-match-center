@@ -1719,10 +1719,6 @@
     "id": 574,
     "name": "Warri Wolves FC"
   },
-  "575": {
-    "id": 575,
-    "name": "Kwara United"
-  },
   "565": {
     "id": 565,
     "name": "Abia Warriors"
@@ -2455,9 +2451,17 @@
     "id": 734,
     "name": "Barracas Central"
   },
+  "564": {
+    "id": 564,
+    "name": "Rivers United"
+  },
   "8334": {
     "id": 8334,
     "name": "União Desportiva da Serra"
+  },
+  "575": {
+    "id": 575,
+    "name": "Kwara United"
   },
   "925": {
     "id": 925,
@@ -2734,10 +2738,6 @@
   "32": {
     "id": 32,
     "name": "Tondela"
-  },
-  "564": {
-    "id": 564,
-    "name": "Rivers United"
   },
   "581": {
     "id": 581,
@@ -3383,14 +3383,6 @@
     "id": 3176,
     "name": "Perth Glory"
   },
-  "308": {
-    "id": 308,
-    "name": "Club Tijuana"
-  },
-  "3840": {
-    "id": 3840,
-    "name": "Atlante FC"
-  },
   "1953": {
     "id": 1953,
     "name": "Pohang Steelers"
@@ -3414,6 +3406,14 @@
   "1930": {
     "id": 1930,
     "name": "Kyoto Sanga FC"
+  },
+  "308": {
+    "id": 308,
+    "name": "Club Tijuana"
+  },
+  "3840": {
+    "id": 3840,
+    "name": "Atlante FC"
   },
   "2388": {
     "id": 2388,
