@@ -1615,13 +1615,13 @@
     "id": 170,
     "name": "Fortuna Sittard"
   },
-  "252": {
-    "id": 252,
-    "name": "FC Lausanne-Sport"
-  },
   "1365": {
     "id": 1365,
     "name": "FC Vaduz"
+  },
+  "252": {
+    "id": 252,
+    "name": "FC Lausanne-Sport"
   },
   "137": {
     "id": 137,
@@ -2987,6 +2987,14 @@
     "id": 83,
     "name": "1. FC Union Berlin"
   },
+  "9120": {
+    "id": 9120,
+    "name": "Lunds BK"
+  },
+  "4403": {
+    "id": 4403,
+    "name": "Norrby IF"
+  },
   "3512": {
     "id": 3512,
     "name": "CD Mafra"
@@ -3267,14 +3275,6 @@
     "id": 4411,
     "name": "Varbergs BoIS"
   },
-  "9120": {
-    "id": 9120,
-    "name": "Lunds BK"
-  },
-  "4403": {
-    "id": 4403,
-    "name": "Norrby IF"
-  },
   "4430": {
     "id": 4430,
     "name": "Enköpings SK"
@@ -3407,14 +3407,6 @@
     "id": 1930,
     "name": "Kyoto Sanga FC"
   },
-  "308": {
-    "id": 308,
-    "name": "Club Tijuana"
-  },
-  "3840": {
-    "id": 3840,
-    "name": "Atlante FC"
-  },
   "2388": {
     "id": 2388,
     "name": "Auckland FC"
@@ -3430,6 +3422,14 @@
   "305": {
     "id": 305,
     "name": "Atlas FC"
+  },
+  "308": {
+    "id": 308,
+    "name": "Club Tijuana"
+  },
+  "3840": {
+    "id": 3840,
+    "name": "Atlante FC"
   },
   "304": {
     "id": 304,
@@ -3786,5 +3786,9 @@
   "459": {
     "id": 459,
     "name": "Australia"
+  },
+  "444": {
+    "id": 444,
+    "name": "IFK Norrköping"
   }
 }
