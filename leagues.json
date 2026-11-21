@@ -1063,7 +1063,7 @@
           {
             "stage": "regular-season",
             "stage_name": "Regular season",
-            "matches": 558,
+            "matches": 559,
             "rounds": 46,
             "start_date": "2026-08-08",
             "end_date": "2027-04-24"
@@ -1394,6 +1394,30 @@
             "rounds": 6,
             "start_date": "2026-09-24",
             "end_date": "2026-11-17"
+          },
+          {
+            "stage": "playoff-round",
+            "stage_name": "Playoff round",
+            "matches": 16,
+            "rounds": 1,
+            "start_date": "2027-03-25",
+            "end_date": "2027-03-28"
+          },
+          {
+            "stage": "quarterfinals",
+            "stage_name": "Quarterfinals",
+            "matches": 8,
+            "rounds": 1,
+            "start_date": "2027-03-25",
+            "end_date": "2027-03-28"
+          },
+          {
+            "stage": "league-phase",
+            "stage_name": "League phase",
+            "matches": 1,
+            "rounds": 0,
+            "start_date": "2027-03-30",
+            "end_date": "2027-03-30"
           }
         ]
       }
