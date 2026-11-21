@@ -669,18 +669,18 @@
           {
             "stage": "league-phase",
             "stage_name": "League phase",
-            "matches": 432,
+            "matches": 424,
             "rounds": 19,
             "start_date": "2026-01-16",
-            "end_date": "2026-12-03"
+            "end_date": "2026-11-14"
           },
           {
             "stage": "group-stage",
             "stage_name": "Group stage",
-            "matches": 37,
-            "rounds": 10,
+            "matches": 45,
+            "rounds": 12,
             "start_date": "2026-01-18",
-            "end_date": "2026-11-26"
+            "end_date": "2026-12-03"
           },
           {
             "stage": "quarterfinals",
