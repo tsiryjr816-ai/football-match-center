@@ -1,4 +1,132 @@
 {
+  "21": {
+    "id": 21,
+    "name": "Casa Pia"
+  },
+  "31": {
+    "id": 31,
+    "name": "Sporting Braga"
+  },
+  "37": {
+    "id": 37,
+    "name": "Benfica"
+  },
+  "27": {
+    "id": 27,
+    "name": "Famalicão"
+  },
+  "53": {
+    "id": 53,
+    "name": "Espanyol"
+  },
+  "50": {
+    "id": 50,
+    "name": "Getafe"
+  },
+  "67": {
+    "id": 67,
+    "name": "Cagliari"
+  },
+  "63": {
+    "id": 63,
+    "name": "AC Milan"
+  },
+  "1604": {
+    "id": 1604,
+    "name": "Reggiana"
+  },
+  "4763": {
+    "id": 4763,
+    "name": "Ostiamare"
+  },
+  "6752": {
+    "id": 6752,
+    "name": "Latina"
+  },
+  "4836": {
+    "id": 4836,
+    "name": "Grosseto"
+  },
+  "1605": {
+    "id": 1605,
+    "name": "Catanzaro"
+  },
+  "1602": {
+    "id": 1602,
+    "name": "US Avellino 1912"
+  },
+  "42": {
+    "id": 42,
+    "name": "Real Oviedo"
+  },
+  "3883": {
+    "id": 3883,
+    "name": "Celta Fortuna"
+  },
+  "4028": {
+    "id": 4028,
+    "name": "Académica Coimbra"
+  },
+  "2213": {
+    "id": 2213,
+    "name": "Torreense"
+  },
+  "3120": {
+    "id": 3120,
+    "name": "Odense Boldklub"
+  },
+  "1332": {
+    "id": 1332,
+    "name": "FC Nordsjælland"
+  },
+  "196": {
+    "id": 196,
+    "name": "Beşiktaş JK"
+  },
+  "125": {
+    "id": 125,
+    "name": "Galatasaray"
+  },
+  "359": {
+    "id": 359,
+    "name": "Universitatea Craiova"
+  },
+  "368": {
+    "id": 368,
+    "name": "FC Dinamo București"
+  },
+  "426": {
+    "id": 426,
+    "name": "MKS Korona Kielce"
+  },
+  "422": {
+    "id": 422,
+    "name": "KS Cracovia"
+  },
+  "2081": {
+    "id": 2081,
+    "name": "Lillestrøm SK"
+  },
+  "2075": {
+    "id": 2075,
+    "name": "HamKam"
+  },
+  "60": {
+    "id": 60,
+    "name": "Lecce"
+  },
+  "71": {
+    "id": 71,
+    "name": "Atalanta"
+  },
+  "190": {
+    "id": 190,
+    "name": "Göztepe"
+  },
+  "197": {
+    "id": 197,
+    "name": "Trabzonspor"
+  },
   "786": {
     "id": 786,
     "name": "Independiente Medellín"
@@ -3771,10 +3899,6 @@
     "id": 372,
     "name": "Remo"
   },
-  "31": {
-    "id": 31,
-    "name": "Sporting Braga"
-  },
   "377": {
     "id": 377,
     "name": "Kuopion Palloseura"
@@ -3794,26 +3918,6 @@
   "2313": {
     "id": 2313,
     "name": "FK Borac Banja Luka"
-  },
-  "71": {
-    "id": 71,
-    "name": "Atalanta"
-  },
-  "1332": {
-    "id": 1332,
-    "name": "FC Nordsjælland"
-  },
-  "197": {
-    "id": 197,
-    "name": "Trabzonspor"
-  },
-  "2213": {
-    "id": 2213,
-    "name": "Torreense"
-  },
-  "2081": {
-    "id": 2081,
-    "name": "Lillestrøm SK"
   },
   "2346": {
     "id": 2346,
@@ -3859,33 +3963,13 @@
     "id": 395,
     "name": "FC Iberia 1999"
   },
-  "50": {
-    "id": 50,
-    "name": "Getafe"
-  },
-  "359": {
-    "id": 359,
-    "name": "Universitatea Craiova"
-  },
   "3298": {
     "id": 3298,
     "name": "FC Ararat-Armenia"
   },
-  "63": {
-    "id": 63,
-    "name": "AC Milan"
-  },
   "133": {
     "id": 133,
     "name": "GNK Dinamo Zagreb"
-  },
-  "37": {
-    "id": 37,
-    "name": "Benfica"
-  },
-  "196": {
-    "id": 196,
-    "name": "Beşiktaş JK"
   },
   "416": {
     "id": 416,
@@ -3931,10 +4015,6 @@
     "id": 402,
     "name": "Shakhtar Donetsk"
   },
-  "1602": {
-    "id": 1602,
-    "name": "US Avellino 1912"
-  },
   "412": {
     "id": 412,
     "name": "Sabah FK"
@@ -3963,14 +4043,6 @@
     "id": 373,
     "name": "Chapecoense"
   },
-  "1605": {
-    "id": 1605,
-    "name": "Catanzaro"
-  },
-  "125": {
-    "id": 125,
-    "name": "Galatasaray"
-  },
   "4998": {
     "id": 4998,
     "name": "Gimnasia y Esgrima"
@@ -3982,10 +4054,6 @@
   "1640": {
     "id": 1640,
     "name": "USL Dunkerque"
-  },
-  "4836": {
-    "id": 4836,
-    "name": "Grosseto"
   },
   "919": {
     "id": 919,
@@ -4010,145 +4078,5 @@
   "2352": {
     "id": 2352,
     "name": "Huracán"
-  },
-  "320": {
-    "id": 320,
-    "name": "CD Guadalajara"
-  },
-  "314": {
-    "id": 314,
-    "name": "Cruz Azul"
-  },
-  "755": {
-    "id": 755,
-    "name": "River Plate"
-  },
-  "785": {
-    "id": 785,
-    "name": "CA Lanús"
-  },
-  "790": {
-    "id": 790,
-    "name": "Club Sporting Cristal"
-  },
-  "750": {
-    "id": 750,
-    "name": "Cienciano"
-  },
-  "5270": {
-    "id": 5270,
-    "name": "Sport Huancayo"
-  },
-  "782": {
-    "id": 782,
-    "name": "Universitario de Deportes"
-  },
-  "792": {
-    "id": 792,
-    "name": "Rosario Central"
-  },
-  "3125": {
-    "id": 3125,
-    "name": "Gimnasia y Esgrima Mendoza"
-  },
-  "917": {
-    "id": 917,
-    "name": "Fútbol Club Barcelona"
-  },
-  "911": {
-    "id": 911,
-    "name": "Athletic Club"
-  },
-  "3883": {
-    "id": 3883,
-    "name": "Celta Fortuna"
-  },
-  "1604": {
-    "id": 1604,
-    "name": "Reggiana"
-  },
-  "912": {
-    "id": 912,
-    "name": "Costa Adeje Tenerife"
-  },
-  "923": {
-    "id": 923,
-    "name": "Madrid CFF"
-  },
-  "3120": {
-    "id": 3120,
-    "name": "Odense Boldklub"
-  },
-  "6916": {
-    "id": 6916,
-    "name": "SC Olhanense"
-  },
-  "1906": {
-    "id": 1906,
-    "name": "ES Zarzis"
-  },
-  "1909": {
-    "id": 1909,
-    "name": "US Ben Guerdane"
-  },
-  "42": {
-    "id": 42,
-    "name": "Real Oviedo"
-  },
-  "3741": {
-    "id": 3741,
-    "name": "Odds BK"
-  },
-  "4423": {
-    "id": 4423,
-    "name": "Bryne FK"
-  },
-  "4028": {
-    "id": 4028,
-    "name": "Académica Coimbra"
-  },
-  "924": {
-    "id": 924,
-    "name": "Real Sociedad"
-  },
-  "922": {
-    "id": 922,
-    "name": "Sevilla FC"
-  },
-  "914": {
-    "id": 914,
-    "name": "Granada Club de Fútbol"
-  },
-  "926": {
-    "id": 926,
-    "name": "Real Madrid"
-  },
-  "190": {
-    "id": 190,
-    "name": "Göztepe"
-  },
-  "321": {
-    "id": 321,
-    "name": "Tigres UANL"
-  },
-  "307": {
-    "id": 307,
-    "name": "Club América"
-  },
-  "3926": {
-    "id": 3926,
-    "name": "Washington Spirit"
-  },
-  "3930": {
-    "id": 3930,
-    "name": "Kansas City Current"
-  },
-  "313": {
-    "id": 313,
-    "name": "Pumas UNAM"
-  },
-  "317": {
-    "id": 317,
-    "name": "CF Monterrey"
   }
 }
