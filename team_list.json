@@ -143,6 +143,22 @@
     "id": 164,
     "name": "Vasco da Gama"
   },
+  "792": {
+    "id": 792,
+    "name": "Rosario Central"
+  },
+  "734": {
+    "id": 734,
+    "name": "Barracas Central"
+  },
+  "2397": {
+    "id": 2397,
+    "name": "Vélez Sarsfield"
+  },
+  "2390": {
+    "id": 2390,
+    "name": "CA Independiente"
+  },
   "151": {
     "id": 151,
     "name": "Mirassol"
@@ -671,14 +687,6 @@
     "id": 148,
     "name": "BSC Young Boys"
   },
-  "3517": {
-    "id": 3517,
-    "name": "Penafiel"
-  },
-  "2881": {
-    "id": 2881,
-    "name": "SL Benfica B"
-  },
   "332": {
     "id": 332,
     "name": "OFI Crete"
@@ -1087,6 +1095,14 @@
     "id": 434,
     "name": "Pogoń Szczecin"
   },
+  "4429": {
+    "id": 4429,
+    "name": "Stabæk Fotball"
+  },
+  "3741": {
+    "id": 3741,
+    "name": "Odds BK"
+  },
   "3886": {
     "id": 3886,
     "name": "Ravenna"
@@ -1367,13 +1383,13 @@
     "id": 142,
     "name": "FC Utrecht"
   },
-  "2910": {
-    "id": 2910,
-    "name": "Lusitânia Lourosa"
+  "3517": {
+    "id": 3517,
+    "name": "Penafiel"
   },
-  "1317": {
-    "id": 1317,
-    "name": "Vizela"
+  "2881": {
+    "id": 2881,
+    "name": "SL Benfica B"
   },
   "4833": {
     "id": 4833,
@@ -1686,6 +1702,14 @@
   "4829": {
     "id": 4829,
     "name": "Amarante FC"
+  },
+  "2910": {
+    "id": 2910,
+    "name": "Lusitânia Lourosa"
+  },
+  "1317": {
+    "id": 1317,
+    "name": "Vizela"
   },
   "324": {
     "id": 324,
@@ -4014,6 +4038,14 @@
   "402": {
     "id": 402,
     "name": "Shakhtar Donetsk"
+  },
+  "5740": {
+    "id": 5740,
+    "name": "CF Fuenlabrada"
+  },
+  "1510": {
+    "id": 1510,
+    "name": "Rayo Majadahonda"
   },
   "412": {
     "id": 412,
