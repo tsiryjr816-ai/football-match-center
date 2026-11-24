@@ -1,5 +1,5 @@
 {
-  "count": 9121,
+  "count": 9261,
   "next": "https://sports.bzzoiro.com/api/v2/teams/?limit=50&offset=50",
   "previous": null,
   "results": [
@@ -95,6 +95,14 @@
       "id": 8907,
       "name": "1. FC Union Berlin U19",
       "short_name": "FCU",
+      "country": "",
+      "country_code": "",
+      "venue_id": null
+    },
+    {
+      "id": 9552,
+      "name": "1. FSV Mainz 05",
+      "short_name": "",
       "country": "",
       "country_code": "",
       "venue_id": null
@@ -391,14 +399,6 @@
       "id": 2476,
       "name": "AD Cartaya",
       "short_name": "CAR",
-      "country": "",
-      "country_code": "",
-      "venue_id": null
-    },
-    {
-      "id": 8357,
-      "name": "Adc Proenca A Nova",
-      "short_name": "",
       "country": "",
       "country_code": "",
       "venue_id": null

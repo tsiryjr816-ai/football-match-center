@@ -1,5 +1,5 @@
 {
-  "count": 103,
+  "count": 110,
   "next": "https://sports.bzzoiro.com/api/v2/leagues/?limit=50&offset=50",
   "previous": null,
   "results": [
@@ -175,13 +175,21 @@
           {
             "stage": "regular-season",
             "stage_name": "Regular season",
-            "matches": 247,
+            "matches": 248,
             "rounds": 30,
             "start_date": "2026-08-21",
             "end_date": "2027-05-15"
           }
         ]
       }
+    },
+    {
+      "id": 114,
+      "name": "Copa Argentina",
+      "country": "Argentina",
+      "is_women": false,
+      "is_active": true,
+      "current_season": null
     },
     {
       "id": 85,
@@ -224,7 +232,7 @@
           {
             "stage": "quarterfinals",
             "stage_name": "Quarterfinals",
-            "matches": 6,
+            "matches": 7,
             "rounds": 1,
             "start_date": "2026-05-12",
             "end_date": "2026-11-29"
@@ -603,6 +611,14 @@
       }
     },
     {
+      "id": 119,
+      "name": "Northern Super League",
+      "country": "Canada",
+      "is_women": false,
+      "is_active": true,
+      "current_season": null
+    },
+    {
       "id": 111,
       "name": "Liga de Primera",
       "country": "Chile",
@@ -619,7 +635,7 @@
           {
             "stage": "regular-season",
             "stage_name": "Regular season",
-            "matches": 247,
+            "matches": 248,
             "rounds": 30,
             "start_date": "2026-01-30",
             "end_date": "2026-12-06"
@@ -833,7 +849,7 @@
           {
             "stage": "regular-season",
             "stage_name": "Regular season",
-            "matches": 321,
+            "matches": 322,
             "rounds": 30,
             "start_date": "2026-02-21",
             "end_date": "2026-12-13"
@@ -1095,6 +1111,14 @@
           }
         ]
       }
+    },
+    {
+      "id": 115,
+      "name": "Women's Super League",
+      "country": "England",
+      "is_women": false,
+      "is_active": true,
+      "current_season": null
     },
     {
       "id": 7,
@@ -1440,6 +1464,14 @@
       }
     },
     {
+      "id": 120,
+      "name": "UEFA Women's Champions League",
+      "country": "Europe",
+      "is_women": false,
+      "is_active": true,
+      "current_season": null
+    },
+    {
       "id": 58,
       "name": "World Cup Qualification UEFA",
       "country": "Europe",
@@ -1613,8 +1645,8 @@
             "stage_name": "Round 8",
             "matches": 46,
             "rounds": 1,
-            "start_date": "2026-11-28",
-            "end_date": "2026-11-28"
+            "start_date": "2026-11-27",
+            "end_date": "2026-11-29"
           },
           {
             "stage": "quarterfinals",
@@ -1719,6 +1751,14 @@
       }
     },
     {
+      "id": 117,
+      "name": "Premiere Ligue",
+      "country": "France",
+      "is_women": false,
+      "is_active": true,
+      "current_season": null
+    },
+    {
       "id": 94,
       "name": "2. Bundesliga",
       "country": "Germany",
@@ -1739,203 +1779,6 @@
             "rounds": 34,
             "start_date": "2026-08-07",
             "end_date": "2027-05-23"
-          }
-        ]
-      }
-    },
-    {
-      "id": 5,
-      "name": "Bundesliga",
-      "country": "Germany",
-      "is_women": false,
-      "is_active": true,
-      "current_season": {
-        "id": 1091,
-        "name": "Bundesliga 26/27",
-        "year": 2026,
-        "start_date": "2026-07-01",
-        "end_date": "2027-06-30",
-        "is_current": true,
-        "stages": [
-          {
-            "stage": "regular-season",
-            "stage_name": "Regular season",
-            "matches": 306,
-            "rounds": 34,
-            "start_date": "2026-08-28",
-            "end_date": "2027-05-22"
-          }
-        ]
-      }
-    },
-    {
-      "id": 43,
-      "name": "DFB Pokal",
-      "country": "Germany",
-      "is_women": false,
-      "is_active": true,
-      "current_season": {
-        "id": 1210,
-        "name": "DFB Pokal 26/27",
-        "year": 2026,
-        "start_date": "2026-07-01",
-        "end_date": "2027-06-30",
-        "is_current": true,
-        "stages": [
-          {
-            "stage": "round-1",
-            "stage_name": "Round 1",
-            "matches": 32,
-            "rounds": 1,
-            "start_date": "2026-08-21",
-            "end_date": "2026-09-02"
-          },
-          {
-            "stage": "round-2",
-            "stage_name": "Round 2",
-            "matches": 16,
-            "rounds": 1,
-            "start_date": "2026-10-27",
-            "end_date": "2026-10-28"
-          },
-          {
-            "stage": "round-of-16",
-            "stage_name": "Round of 16",
-            "matches": 8,
-            "rounds": 1,
-            "start_date": "2026-12-01",
-            "end_date": "2026-12-02"
-          }
-        ]
-      }
-    },
-    {
-      "id": 24,
-      "name": "Stoiximan Super League",
-      "country": "Greece",
-      "is_women": false,
-      "is_active": true,
-      "current_season": {
-        "id": 1569,
-        "name": "Super League 26/27",
-        "year": 2026,
-        "start_date": "2026-07-01",
-        "end_date": "2027-06-30",
-        "is_current": true,
-        "stages": [
-          {
-            "stage": "regular-season",
-            "stage_name": "Regular season",
-            "matches": 191,
-            "rounds": 26,
-            "start_date": "2026-08-22",
-            "end_date": "2027-03-20"
-          }
-        ]
-      }
-    },
-    {
-      "id": 31,
-      "name": "International Friendly Games",
-      "country": "International",
-      "is_women": false,
-      "is_active": true,
-      "current_season": {
-        "id": 133,
-        "name": "Int. Friendly Games 2026",
-        "year": 2026,
-        "start_date": "2026-01-01",
-        "end_date": "2026-12-31",
-        "is_current": true,
-        "stages": [
-          {
-            "stage": "league-phase",
-            "stage_name": "League phase",
-            "matches": 410,
-            "rounds": 0,
-            "start_date": "2025-12-17",
-            "end_date": "2026-12-13"
-          },
-          {
-            "stage": "semifinals",
-            "stage_name": "Semifinals",
-            "matches": 3,
-            "rounds": 1,
-            "start_date": "2026-05-26",
-            "end_date": "2026-06-06"
-          }
-        ]
-      }
-    },
-    {
-      "id": 27,
-      "name": "World Cup 2026",
-      "country": "International",
-      "is_women": false,
-      "is_active": true,
-      "current_season": {
-        "id": 188,
-        "name": "World Cup 2026",
-        "year": 2026,
-        "start_date": "2026-01-01",
-        "end_date": "2026-12-31",
-        "is_current": true,
-        "stages": [
-          {
-            "stage": "group-stage",
-            "stage_name": "Group stage",
-            "matches": 72,
-            "rounds": 3,
-            "start_date": "2026-06-11",
-            "end_date": "2026-06-28"
-          },
-          {
-            "stage": "round-of-32",
-            "stage_name": "Round of 32",
-            "matches": 16,
-            "rounds": 1,
-            "start_date": "2026-06-28",
-            "end_date": "2026-07-04"
-          },
-          {
-            "stage": "round-of-16",
-            "stage_name": "Round of 16",
-            "matches": 8,
-            "rounds": 1,
-            "start_date": "2026-07-04",
-            "end_date": "2026-07-07"
-          },
-          {
-            "stage": "quarterfinals",
-            "stage_name": "Quarterfinals",
-            "matches": 4,
-            "rounds": 1,
-            "start_date": "2026-07-09",
-            "end_date": "2026-07-12"
-          },
-          {
-            "stage": "semifinals",
-            "stage_name": "Semifinals",
-            "matches": 2,
-            "rounds": 1,
-            "start_date": "2026-07-14",
-            "end_date": "2026-07-15"
-          },
-          {
-            "stage": "match-for-3rd-place",
-            "stage_name": "Match for 3rd place",
-            "matches": 1,
-            "rounds": 1,
-            "start_date": "2026-07-18",
-            "end_date": "2026-07-18"
-          },
-          {
-            "stage": "final",
-            "stage_name": "Final",
-            "matches": 1,
-            "rounds": 1,
-            "start_date": "2026-07-19",
-            "end_date": "2026-07-19"
           }
         ]
       }
