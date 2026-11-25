@@ -5,7 +5,7 @@
   "results": [
     {
       "id": 30,
-      "name": "Africa Cup of Nations 2023",
+      "name": "Africa Cup of Nations 2025",
       "country": "Africa",
       "is_women": false,
       "is_active": true,
@@ -175,7 +175,7 @@
           {
             "stage": "regular-season",
             "stage_name": "Regular season",
-            "matches": 250,
+            "matches": 249,
             "rounds": 30,
             "start_date": "2026-08-21",
             "end_date": "2027-05-15"
@@ -189,7 +189,64 @@
       "country": "Argentina",
       "is_women": false,
       "is_active": true,
-      "current_season": null
+      "current_season": {
+        "id": 2338,
+        "name": "Copa Argentina 2026",
+        "year": 2026,
+        "start_date": "2026-01-01",
+        "end_date": "2026-12-31",
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "round-of-64",
+            "stage_name": "Round of 64",
+            "matches": 33,
+            "rounds": 1,
+            "start_date": "2026-01-18",
+            "end_date": "2026-04-15"
+          },
+          {
+            "stage": "round-of-32",
+            "stage_name": "Round of 32",
+            "matches": 19,
+            "rounds": 1,
+            "start_date": "2026-04-22",
+            "end_date": "2026-07-18"
+          },
+          {
+            "stage": "round-of-16",
+            "stage_name": "Round of 16",
+            "matches": 8,
+            "rounds": 1,
+            "start_date": "2026-08-12",
+            "end_date": "2026-09-03"
+          },
+          {
+            "stage": "quarterfinals",
+            "stage_name": "Quarterfinals",
+            "matches": 5,
+            "rounds": 1,
+            "start_date": "2026-09-09",
+            "end_date": "2026-10-02"
+          },
+          {
+            "stage": "semifinals",
+            "stage_name": "Semifinals",
+            "matches": 2,
+            "rounds": 1,
+            "start_date": "2026-10-29",
+            "end_date": "2026-11-14"
+          },
+          {
+            "stage": "final",
+            "stage_name": "Final",
+            "matches": 1,
+            "rounds": 1,
+            "start_date": "2026-12-02",
+            "end_date": "2026-12-02"
+          }
+        ]
+      }
     },
     {
       "id": 85,
@@ -258,7 +315,7 @@
     },
     {
       "id": 68,
-      "name": "AFC Asian Cup 2023",
+      "name": "AFC Asian Cup 2027",
       "country": "Asia",
       "is_women": false,
       "is_active": true,
@@ -616,7 +673,40 @@
       "country": "Canada",
       "is_women": false,
       "is_active": true,
-      "current_season": null
+      "current_season": {
+        "id": 2379,
+        "name": "2026",
+        "year": 2026,
+        "start_date": "2026-01-01",
+        "end_date": "2026-12-31",
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "league-phase",
+            "stage_name": "League phase",
+            "matches": 75,
+            "rounds": 0,
+            "start_date": "2026-04-25",
+            "end_date": "2026-10-26"
+          },
+          {
+            "stage": "semifinals",
+            "stage_name": "Semifinals",
+            "matches": 4,
+            "rounds": 1,
+            "start_date": "2026-10-31",
+            "end_date": "2026-11-08"
+          },
+          {
+            "stage": "final",
+            "stage_name": "Final",
+            "matches": 1,
+            "rounds": 1,
+            "start_date": "2026-11-14",
+            "end_date": "2026-11-14"
+          }
+        ]
+      }
     },
     {
       "id": 111,
@@ -635,7 +725,7 @@
           {
             "stage": "regular-season",
             "stage_name": "Regular season",
-            "matches": 248,
+            "matches": 247,
             "rounds": 30,
             "start_date": "2026-01-30",
             "end_date": "2026-12-06"
@@ -1118,7 +1208,24 @@
       "country": "England",
       "is_women": false,
       "is_active": true,
-      "current_season": null
+      "current_season": {
+        "id": 2414,
+        "name": "Super League Women 26/27",
+        "year": 2026,
+        "start_date": "2026-07-01",
+        "end_date": "2027-06-30",
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "regular-season",
+            "stage_name": "Regular season",
+            "matches": 182,
+            "rounds": 26,
+            "start_date": "2026-09-04",
+            "end_date": "2027-05-22"
+          }
+        ]
+      }
     },
     {
       "id": 7,
@@ -1469,7 +1576,40 @@
       "country": "Europe",
       "is_women": false,
       "is_active": true,
-      "current_season": null
+      "current_season": {
+        "id": 2396,
+        "name": "UEFA Champions League Women 26/27",
+        "year": 2026,
+        "start_date": "2026-07-01",
+        "end_date": "2027-06-30",
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "preliminary",
+            "stage_name": "Preliminary",
+            "matches": 65,
+            "rounds": 1,
+            "start_date": "2026-07-22",
+            "end_date": "2026-09-02"
+          },
+          {
+            "stage": "placement-match",
+            "stage_name": "Placement match",
+            "matches": 15,
+            "rounds": 1,
+            "start_date": "2026-07-25",
+            "end_date": "2026-08-08"
+          },
+          {
+            "stage": "league-phase",
+            "stage_name": "League phase",
+            "matches": 54,
+            "rounds": 6,
+            "start_date": "2026-09-22",
+            "end_date": "2026-12-16"
+          }
+        ]
+      }
     },
     {
       "id": 58,
@@ -1756,7 +1896,24 @@
       "country": "France",
       "is_women": false,
       "is_active": true,
-      "current_season": null
+      "current_season": {
+        "id": 2381,
+        "name": "Premiere Ligue, Women 26/27",
+        "year": 2026,
+        "start_date": "2026-07-01",
+        "end_date": "2027-06-30",
+        "is_current": true,
+        "stages": [
+          {
+            "stage": "regular-season",
+            "stage_name": "Regular season",
+            "matches": 133,
+            "rounds": 22,
+            "start_date": "2026-09-04",
+            "end_date": "2027-05-04"
+          }
+        ]
+      }
     },
     {
       "id": 94,
