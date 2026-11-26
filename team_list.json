@@ -3815,14 +3815,6 @@
     "id": 5816,
     "name": "Chateaubriant"
   },
-  "4411": {
-    "id": 4411,
-    "name": "Varbergs BoIS"
-  },
-  "5907": {
-    "id": 5907,
-    "name": "Östersunds FK"
-  },
   "585": {
     "id": 585,
     "name": "Young Africans SC"
@@ -3910,6 +3902,14 @@
   "4430": {
     "id": 4430,
     "name": "Enköpings SK"
+  },
+  "4411": {
+    "id": 4411,
+    "name": "Varbergs BoIS"
+  },
+  "5907": {
+    "id": 5907,
+    "name": "Östersunds FK"
   },
   "91": {
     "id": 91,
@@ -4314,6 +4314,14 @@
   "3882": {
     "id": 3882,
     "name": "Sepsi OSK Sfântu Gheorghe"
+  },
+  "2409": {
+    "id": 2409,
+    "name": "1. FC Tatran Prešov"
+  },
+  "8685": {
+    "id": 8685,
+    "name": "FC Lokomotíva Košice"
   },
   "417": {
     "id": 417,
