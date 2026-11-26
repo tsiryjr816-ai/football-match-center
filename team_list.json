@@ -295,6 +295,14 @@
     "id": 786,
     "name": "Independiente Medellín"
   },
+  "780": {
+    "id": 780,
+    "name": "Boca Juniors"
+  },
+  "796": {
+    "id": 796,
+    "name": "Club Atlético Platense"
+  },
   "44": {
     "id": 44,
     "name": "FC Barcelona"
@@ -734,14 +742,6 @@
   "1346": {
     "id": 1346,
     "name": "Erzurumspor FK"
-  },
-  "780": {
-    "id": 780,
-    "name": "Boca Juniors"
-  },
-  "796": {
-    "id": 796,
-    "name": "Club Atlético Platense"
   },
   "753": {
     "id": 753,
@@ -1350,6 +1350,10 @@
   "744": {
     "id": 744,
     "name": "Palestino"
+  },
+  "4998": {
+    "id": 4998,
+    "name": "Gimnasia y Esgrima"
   },
   "4996": {
     "id": 4996,
@@ -3623,6 +3627,14 @@
     "id": 7012,
     "name": "Siroco Les Abymes"
   },
+  "4403": {
+    "id": 4403,
+    "name": "Norrby IF"
+  },
+  "9120": {
+    "id": 9120,
+    "name": "Lunds BK"
+  },
   "1276": {
     "id": 1276,
     "name": "Empoli"
@@ -3898,14 +3910,6 @@
   "4430": {
     "id": 4430,
     "name": "Enköpings SK"
-  },
-  "4403": {
-    "id": 4403,
-    "name": "Norrby IF"
-  },
-  "9120": {
-    "id": 9120,
-    "name": "Lunds BK"
   },
   "91": {
     "id": 91,
