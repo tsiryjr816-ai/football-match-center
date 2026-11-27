@@ -1643,14 +1643,6 @@
     "id": 744,
     "name": "Palestino"
   },
-  "776": {
-    "id": 776,
-    "name": "Barcelona SC Guayaquil"
-  },
-  "2687": {
-    "id": 2687,
-    "name": "Aucas"
-  },
   "779": {
     "id": 779,
     "name": "Universidad Católica"
@@ -1967,13 +1959,13 @@
     "id": 334,
     "name": "APO Levadiakos"
   },
-  "6376": {
-    "id": 6376,
-    "name": "FC Nueillaubiers"
-  },
   "113": {
     "id": 113,
     "name": "Nantes"
+  },
+  "6376": {
+    "id": 6376,
+    "name": "FC Nueillaubiers"
   },
   "574": {
     "id": 574,
@@ -2722,6 +2714,14 @@
   "929": {
     "id": 929,
     "name": "Criciúma"
+  },
+  "776": {
+    "id": 776,
+    "name": "Barcelona SC Guayaquil"
+  },
+  "2687": {
+    "id": 2687,
+    "name": "Aucas"
   },
   "283": {
     "id": 283,
