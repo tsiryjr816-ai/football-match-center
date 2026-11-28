@@ -127,14 +127,6 @@
     "id": 60,
     "name": "Lecce"
   },
-  "1272": {
-    "id": 1272,
-    "name": "US Livorno 1915"
-  },
-  "3430": {
-    "id": 3430,
-    "name": "Vis Pesaro"
-  },
   "1289": {
     "id": 1289,
     "name": "Hannover 96"
@@ -1458,6 +1450,14 @@
   "1416": {
     "id": 1416,
     "name": "Bradford City"
+  },
+  "1272": {
+    "id": 1272,
+    "name": "US Livorno 1915"
+  },
+  "3430": {
+    "id": 3430,
+    "name": "Vis Pesaro"
   },
   "1595": {
     "id": 1595,
@@ -3151,6 +3151,14 @@
     "id": 5796,
     "name": "Stade Bordelais"
   },
+  "9265": {
+    "id": 9265,
+    "name": "AS Talange"
+  },
+  "6778": {
+    "id": 6778,
+    "name": "US Oberlauterbach Eberbach"
+  },
   "1830": {
     "id": 1830,
     "name": "Eintracht Braunschweig"
@@ -4122,14 +4130,6 @@
   "8141": {
     "id": 8141,
     "name": "Vanspor FK"
-  },
-  "9265": {
-    "id": 9265,
-    "name": "AS Talange"
-  },
-  "6778": {
-    "id": 6778,
-    "name": "US Oberlauterbach Eberbach"
   },
   "1736": {
     "id": 1736,
